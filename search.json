@@ -1619,95 +1619,205 @@
     "href": "portfolio/week-04.html",
     "title": "Five-Language Translation Portfolio",
     "section": "",
-    "text": "Mengadaptasi repertoire dan language tanpa mengubah core meaning.",
+    "text": "Nama Lengkap: Grasella\nNIM: 18225079\nProgram Studi: Sistem dan Teknologi Informasi\nTanggal Pengisian: 27 September 2026",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
     ]
   },
   {
-    "objectID": "portfolio/week-04.html#kompetensi-target",
-    "href": "portfolio/week-04.html#kompetensi-target",
+    "objectID": "portfolio/week-04.html#identitas-mahasiswa",
+    "href": "portfolio/week-04.html#identitas-mahasiswa",
     "title": "Five-Language Translation Portfolio",
     "section": "",
-    "text": "Mengadaptasi repertoire dan language tanpa mengubah core meaning.",
+    "text": "Nama Lengkap: Grasella\nNIM: 18225079\nProgram Studi: Sistem dan Teknologi Informasi\nTanggal Pengisian: 27 September 2026",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
     ]
   },
   {
-    "objectID": "portfolio/week-04.html#evidence-wajib",
-    "href": "portfolio/week-04.html#evidence-wajib",
+    "objectID": "portfolio/week-04.html#konsep-teknis-yang-dipilih",
+    "href": "portfolio/week-04.html#konsep-teknis-yang-dipilih",
     "title": "Five-Language Translation Portfolio",
-    "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nLima versi untuk friend, technical peer, manager, customer, dan public.\nAlasan perubahan language dan repertoire.\nFeedback understanding dari sedikitnya satu target.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 4 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "section": "1. Konsep Teknis yang Dipilih",
+    "text": "1. Konsep Teknis yang Dipilih\nKonsep teknis yang saya pilih adalah Database Replication (Replikasi Basis Data).\nSaya memilih konsep ini karena database merupakan salah satu komponen penting dalam sistem informasi. Sistem yang digunakan oleh organisasi maupun masyarakat bergantung pada ketersediaan data untuk menjalankan berbagai layanan.\nDatabase replication berkaitan dengan pembuatan dan pemeliharaan salinan data pada lebih dari satu tempat. Dengan adanya salinan tersebut, sistem tidak sepenuhnya bergantung pada satu tempat penyimpanan ketika terjadi gangguan.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
     ]
   },
   {
-    "objectID": "portfolio/week-04.html#konteks-performance",
-    "href": "portfolio/week-04.html#konteks-performance",
+    "objectID": "portfolio/week-04.html#definisi-teknis-awal",
+    "href": "portfolio/week-04.html#definisi-teknis-awal",
     "title": "Five-Language Translation Portfolio",
-    "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "section": "2. Definisi Teknis Awal",
+    "text": "2. Definisi Teknis Awal\nDatabase replication adalah proses membuat dan memelihara salinan data dari suatu basis data pada satu atau lebih basis data lain sehingga perubahan data dapat diteruskan atau disinkronkan sesuai dengan mekanisme replikasi yang digunakan.\nPenerapan database replication dapat digunakan untuk mendukung availability, distribusi beban akses, dan keberlangsungan layanan ketika terjadi kegagalan pada salah satu server.\nDalam implementasinya, terdapat berbagai mekanisme replikasi, termasuk synchronous replication dan asynchronous replication. Pada synchronous replication, perubahan data dapat bergantung pada keberhasilan penerapan perubahan pada salinan yang dituju. Sementara itu, asynchronous replication memungkinkan database utama melanjutkan proses sebelum perubahan diterapkan pada seluruh salinan sehingga dapat terjadi keterlambatan sinkronisasi.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
     ]
   },
   {
-    "objectID": "portfolio/week-04.html#evidence",
-    "href": "portfolio/week-04.html#evidence",
+    "objectID": "portfolio/week-04.html#daftar-jargon-teknis-dan-artian-sederhananya",
+    "href": "portfolio/week-04.html#daftar-jargon-teknis-dan-artian-sederhananya",
     "title": "Five-Language Translation Portfolio",
-    "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "section": "3. Daftar Jargon Teknis dan Artian Sederhananya",
+    "text": "3. Daftar Jargon Teknis dan Artian Sederhananya\n\nJargon 1 — Database Replication\nDatabase replication → Arti sederhana:\nMembuat dan menjaga salinan data di lebih dari satu tempat agar data tidak hanya bergantung pada satu tempat penyimpanan.\n\n\nJargon 2 — Synchronous Replication\nSynchronous replication → Arti sederhana:\nPerubahan data menunggu sampai salinan yang dituju juga menerima perubahan sebelum proses dianggap selesai.\n\n\nJargon 3 — Asynchronous Replication\nAsynchronous replication → Arti sederhana:\nPerubahan data dapat dianggap selesai terlebih dahulu, kemudian perubahan tersebut diteruskan ke salinan lain sehingga dapat terjadi sedikit keterlambatan.\n\n\nJargon 4 — High Availability\nHigh availability → Arti sederhana:\nKemampuan suatu sistem untuk tetap dapat digunakan dengan gangguan seminimal mungkin.\n\n\nJargon 5 — Failover\nFailover → Arti sederhana:\nMemindahkan layanan ke sistem atau server lain ketika sistem utama mengalami gangguan.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
     ]
   },
   {
-    "objectID": "portfolio/week-04.html#analisis-komunikasi",
-    "href": "portfolio/week-04.html#analisis-komunikasi",
+    "objectID": "portfolio/week-04.html#kebenaran-inti-marrow-of-the-message",
+    "href": "portfolio/week-04.html#kebenaran-inti-marrow-of-the-message",
     "title": "Five-Language Translation Portfolio",
-    "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
+    "section": "4. Kebenaran Inti — Marrow of the Message",
+    "text": "4. Kebenaran Inti — Marrow of the Message\n\nDatabase replication menjaga agar data memiliki salinan di lebih dari satu tempat sehingga ketika satu tempat mengalami masalah, sistem masih memiliki salinan yang dapat digunakan.\n\nKalimat tersebut menjadi kebenaran inti yang harus tetap dipertahankan dalam kelima versi komunikasi.\nYang berubah adalah cara penyampaian, tingkat detail, pilihan kata, analogi, dan fokus sesuai dengan karakteristik audiens.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
     ]
   },
   {
-    "objectID": "portfolio/week-04.html#penggunaan-ai",
-    "href": "portfolio/week-04.html#penggunaan-ai",
+    "objectID": "portfolio/week-04.html#ragam-bahasa-anak-anak",
+    "href": "portfolio/week-04.html#ragam-bahasa-anak-anak",
     "title": "Five-Language Translation Portfolio",
-    "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
+    "section": "1. Ragam Bahasa: Anak-Anak",
+    "text": "1. Ragam Bahasa: Anak-Anak\n\nKarakteristik Audiens\nAudiens merupakan anak sekitar 10 tahun yang belum mengenal istilah seperti database, server, replication, atau failover.\n\n\nDraf Terjemahan\n\n“Bayangkan kamu punya buku gambar yang sangat kamu sayangi. Kamu takut kalau buku itu hilang atau terkena air.\nSupaya gambar-gambarmu tetap aman, kamu bisa membuat salinan gambar yang sama di buku lain dan menyimpannya di tempat berbeda.\nKalau buku pertama rusak, kamu masih punya buku kedua yang isinya sama. Jadi kamu tidak kehilangan semua gambar.\nDatabase replication kurang lebih seperti itu. Data yang ada dibuat memiliki salinan di tempat lain. Jadi, kalau tempat pertama mengalami masalah, masih ada salinan yang bisa digunakan.”\n\n\n\nAlasan Pemilihan Bahasa\nSaya menggunakan analogi buku gambar karena merupakan benda konkret yang dekat dengan kehidupan anak-anak.\nSaya menghindari istilah teknis seperti server, replication, dan failover karena anak-anak belum membutuhkan detail tersebut untuk memahami gagasan utama.\nWalaupun bahasanya disederhanakan, makna inti tetap sama, yaitu adanya salinan data di tempat lain untuk mengurangi ketergantungan terhadap satu tempat.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
     ]
   },
   {
-    "objectID": "portfolio/week-04.html#feedback-dan-tindak-lanjut",
-    "href": "portfolio/week-04.html#feedback-dan-tindak-lanjut",
+    "objectID": "portfolio/week-04.html#ragam-bahasa-sahabat-beda-bidang",
+    "href": "portfolio/week-04.html#ragam-bahasa-sahabat-beda-bidang",
     "title": "Five-Language Translation Portfolio",
-    "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "section": "2. Ragam Bahasa: Sahabat Beda Bidang",
+    "text": "2. Ragam Bahasa: Sahabat Beda Bidang\n\nKarakteristik Audiens\nAudiens merupakan teman sebaya yang tidak memiliki latar belakang keilmuan komputer.\n\n\nDraf Terjemahan\n\n“Jadi gini, database replication itu sebenarnya kayak punya salinan data di beberapa tempat.\nMisalnya sebuah aplikasi punya database utama. Data yang ada di situ juga dibuat tersedia di database lain. Jadi kalau server utama tiba-tiba bermasalah, sistem nggak sepenuhnya bergantung sama satu tempat itu aja.\nMemang cara kerjanya bisa berbeda-beda. Ada yang salinannya dibuat hampir bersamaan dan ada juga yang membutuhkan waktu sedikit lebih lama. Tapi gampangnya, idenya adalah supaya data punya salinan lain kalau tempat utama mengalami masalah.”\n\n\n\nAlasan Pemilihan Bahasa\nSaya menggunakan bahasa informal seperti “gini”, “nggak”, dan “aja” agar percakapan terasa lebih natural.\nIstilah “database” masih dipertahankan karena istilah tersebut cukup umum dalam kehidupan sehari-hari, tetapi jargon teknis yang lebih kompleks dikurangi.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
     ]
   },
   {
-    "objectID": "portfolio/week-04.html#self-assessment",
-    "href": "portfolio/week-04.html#self-assessment",
+    "objectID": "portfolio/week-04.html#ragam-bahasa-rekan-teknis",
+    "href": "portfolio/week-04.html#ragam-bahasa-rekan-teknis",
     "title": "Five-Language Translation Portfolio",
-    "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "section": "3. Ragam Bahasa: Rekan Teknis",
+    "text": "3. Ragam Bahasa: Rekan Teknis\n\nKarakteristik Audiens\nAudiens merupakan mahasiswa atau rekan yang memiliki latar belakang teknologi atau komputasi.\n\n\nDraf Terjemahan\n\n“Database replication merupakan mekanisme untuk membuat dan memelihara salinan state database pada satu atau lebih replica.\nPerubahan pada primary database diteruskan ke replica melalui mekanisme replication yang digunakan. Pada synchronous replication, operasi dapat bergantung pada keberhasilan penerapan perubahan pada replica yang ditentukan. Sementara itu, asynchronous replication memungkinkan primary melanjutkan proses tanpa harus menunggu seluruh replica menerapkan perubahan.\nPemilihan model replication berpengaruh terhadap availability, consistency, latency, dan potensi data loss ketika terjadi failure.\nDalam skenario failure, replica dapat digunakan sebagai bagian dari mekanisme failover sehingga layanan tidak sepenuhnya bergantung pada satu database instance.”\n\n\n\nAlasan Pemilihan Bahasa\nPada audiens teknis, jargon digunakan secara lebih banyak karena istilah tersebut dapat meningkatkan efisiensi dan presisi komunikasi.\nIstilah yang digunakan antara lain:\n\nprimary database;\nreplica;\nsynchronous replication;\nasynchronous replication;\navailability;\nconsistency;\nlatency;\ndata loss;\nfailure;\nfailover.\n\nPada audiens ini, mengganti semua jargon dengan analogi justru dapat membuat penjelasan menjadi lebih panjang dan kurang presisi.",
+    "crumbs": [
+      "Beranda",
+      "Five-Language Translation Portfolio"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-04.html#ragam-bahasa-manajer-atau-pengambil-keputusan",
+    "href": "portfolio/week-04.html#ragam-bahasa-manajer-atau-pengambil-keputusan",
+    "title": "Five-Language Translation Portfolio",
+    "section": "4. Ragam Bahasa: Manajer atau Pengambil Keputusan",
+    "text": "4. Ragam Bahasa: Manajer atau Pengambil Keputusan\n\nKarakteristik Audiens\nAudiens merupakan manajer atau pengambil keputusan yang lebih membutuhkan informasi mengenai dampak teknologi terhadap organisasi daripada detail implementasi teknis.\n\n\nDraf Terjemahan\n\n“Database replication dapat digunakan untuk mengurangi ketergantungan operasional terhadap satu server database.\nDengan memiliki salinan data pada sistem lain, organisasi memiliki alternatif ketika database utama mengalami gangguan. Hal ini dapat membantu menjaga keberlangsungan layanan dan mengurangi dampak downtime terhadap pengguna.\nNamun, penerapannya juga membutuhkan sumber daya tambahan seperti infrastruktur, konfigurasi, pemantauan, dan pemeliharaan. Desain replikasi juga perlu disesuaikan dengan kebutuhan organisasi karena mekanisme yang berbeda memiliki konsekuensi terhadap biaya, performa, dan konsistensi data.\nJadi, penerapan database replication bukan hanya persoalan teknis, tetapi juga merupakan keputusan untuk mengelola risiko terhadap ketersediaan layanan dan data.”\n\n\n\nAlasan Pemilihan Bahasa\nPada audiens manajer, saya tidak terlalu fokus menjelaskan cara kerja replication secara teknis.\nSaya lebih menekankan:\n\nrisiko downtime;\nkeberlangsungan layanan;\nkebutuhan sumber daya;\nbiaya;\nperforma;\nkonsistensi data;\npengelolaan risiko.\n\nDengan demikian, konsep teknis diterjemahkan menjadi informasi yang relevan untuk pengambilan keputusan.",
+    "crumbs": [
+      "Beranda",
+      "Five-Language Translation Portfolio"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-04.html#ragam-bahasa-publik-umum",
+    "href": "portfolio/week-04.html#ragam-bahasa-publik-umum",
+    "title": "Five-Language Translation Portfolio",
+    "section": "5. Ragam Bahasa: Publik Umum",
+    "text": "5. Ragam Bahasa: Publik Umum\n\nKarakteristik Audiens\nAudiens merupakan masyarakat umum yang tidak memiliki latar belakang teknologi.\n\n\nDraf Terjemahan\n\n“Pernah kepikiran bagaimana data di sebuah aplikasi tetap bisa tersedia ketika salah satu komputer penyimpannya mengalami masalah?\nSalah satu caranya adalah dengan memiliki salinan data di lebih dari satu tempat.\nMisalnya, sebuah aplikasi menyimpan informasi akun atau transaksi. Sistem dapat memiliki salinan data tersebut di tempat lain. Jika tempat utama mengalami gangguan, salinan tersebut dapat membantu sistem tetap menyediakan layanan.\nTeknologi ini membantu mengurangi risiko bahwa satu kerusakan langsung membuat data atau layanan tidak tersedia. Namun, membuat dan menjaga salinan data juga membutuhkan biaya serta pengelolaan yang baik agar salinan tersebut tetap sesuai dengan data sebenarnya.”\n\n\n\nAlasan Pemilihan Bahasa\nPada publik umum, saya menghindari jargon teknis dan menghubungkan konsep dengan hal yang dekat dengan kehidupan sehari-hari, seperti:\n\naplikasi;\nakun;\ntransaksi;\nlayanan digital;\ngangguan layanan.\n\nTujuannya agar pendengar dapat memahami manfaat konsep tanpa harus mengetahui bagaimana database bekerja secara teknis.",
+    "crumbs": [
+      "Beranda",
+      "Five-Language Translation Portfolio"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-04.html#evidence-1-versi-anak-anak",
+    "href": "portfolio/week-04.html#evidence-1-versi-anak-anak",
+    "title": "Five-Language Translation Portfolio",
+    "section": "Evidence 1 — Versi Anak-Anak",
+    "text": "Evidence 1 — Versi Anak-Anak\nSaya melakukan simulasi penyampaian konsep database replication kepada audiens anak-anak usia sekitar 10 tahun.\nSaya menggunakan analogi buku gambar untuk menjelaskan gagasan mengenai salinan data.\nPertanyaan pembuka yang digunakan:\n\n“Kalau kamu punya satu buku gambar yang sangat penting, apa yang bisa kamu lakukan supaya gambarnya tetap ada kalau bukunya hilang?”\n\nSetelah itu, konsep database replication dijelaskan dengan analogi membuat salinan buku gambar dan menyimpannya di tempat lain.\n\nHasil Pengamatan\nBahasa teknis seperti database, server, dan failover tidak digunakan dalam penjelasan utama.\nSaya mengamati bahwa konsep menjadi lebih mudah dibawa ke bentuk konkret ketika menggunakan benda yang familiar.\n\n\nKemampuan yang Ditunjukkan\nSaya mampu mengubah konsep abstrak menjadi analogi konkret tanpa mengubah kebenaran inti.",
+    "crumbs": [
+      "Beranda",
+      "Five-Language Translation Portfolio"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-04.html#evidence-2-versi-sahabat",
+    "href": "portfolio/week-04.html#evidence-2-versi-sahabat",
+    "title": "Five-Language Translation Portfolio",
+    "section": "Evidence 2 — Versi Sahabat",
+    "text": "Evidence 2 — Versi Sahabat\nSaya melakukan simulasi percakapan dengan teman sebaya yang berasal dari bidang studi berbeda.\nPenjelasan dibuat menggunakan bahasa informal:\n\n“Database replication itu sebenarnya kayak punya salinan data di beberapa tempat. Jadi kalau tempat utama tiba-tiba bermasalah, masih ada salinan lain yang bisa digunakan.”\n\nSetelah itu, saya menjelaskan secara singkat bahwa mekanisme pembuatan salinan dapat berbeda-beda.\n\nHasil Pengamatan\nSaya mengurangi penggunaan jargon dan menggunakan gaya percakapan agar penjelasan terasa lebih natural.\nIstilah “database” tetap digunakan karena masih cukup familiar, tetapi istilah teknis lain tidak digunakan jika tidak diperlukan.\n\n\nKemampuan yang Ditunjukkan\nSaya mampu mempertahankan inti konsep sambil menyesuaikan bahasa dengan percakapan informal.",
+    "crumbs": [
+      "Beranda",
+      "Five-Language Translation Portfolio"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-04.html#evidence-3-versi-rekan-teknis",
+    "href": "portfolio/week-04.html#evidence-3-versi-rekan-teknis",
+    "title": "Five-Language Translation Portfolio",
+    "section": "Evidence 3 — Versi Rekan Teknis",
+    "text": "Evidence 3 — Versi Rekan Teknis\nSaya melakukan simulasi penyampaian kepada mahasiswa yang memiliki latar belakang teknologi.\nPada versi ini saya menggunakan istilah:\n\nprimary database;\nreplica;\nsynchronous replication;\nasynchronous replication;\nconsistency;\nlatency;\nfailure;\nfailover.\n\nPenjelasan kemudian diarahkan pada hubungan antara primary database dan replica serta konsekuensi dari mekanisme sinkronisasi.\n\nHasil Pengamatan\nBerbeda dengan versi anak-anak dan sahabat, jargon teknis dipertahankan karena audiens memiliki pengetahuan dasar yang memungkinkan istilah tersebut dipahami.\n\n\nKemampuan yang Ditunjukkan\nSaya mampu menggunakan jargon ketika jargon tersebut membuat komunikasi lebih efisien dan presisi.",
+    "crumbs": [
+      "Beranda",
+      "Five-Language Translation Portfolio"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-04.html#evidence-4-versi-manajer",
+    "href": "portfolio/week-04.html#evidence-4-versi-manajer",
+    "title": "Five-Language Translation Portfolio",
+    "section": "Evidence 4 — Versi Manajer",
+    "text": "Evidence 4 — Versi Manajer\nSaya melakukan simulasi penyampaian konsep kepada pengambil keputusan.\nPenjelasan difokuskan pada:\n\nrisiko downtime;\nkeberlangsungan layanan;\nbiaya;\nkebutuhan infrastruktur;\npemeliharaan;\nperforma;\nkonsistensi data.\n\nContoh penyampaian:\n\n“Dengan memiliki salinan data di sistem lain, organisasi dapat mengurangi ketergantungan terhadap satu server. Jika server utama mengalami gangguan, sistem memiliki alternatif yang dapat membantu menjaga keberlangsungan layanan.”\n\n\nHasil Pengamatan\nSaya mengurangi detail implementasi teknis dan mengubah fokus menjadi konsekuensi terhadap organisasi.\n\n\nKemampuan yang Ditunjukkan\nSaya mampu menerjemahkan fitur teknis menjadi pembahasan mengenai risiko, sumber daya, dan dampak organisasi.",
+    "crumbs": [
+      "Beranda",
+      "Five-Language Translation Portfolio"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-04.html#evidence-5-versi-publik-umum",
+    "href": "portfolio/week-04.html#evidence-5-versi-publik-umum",
+    "title": "Five-Language Translation Portfolio",
+    "section": "Evidence 5 — Versi Publik Umum",
+    "text": "Evidence 5 — Versi Publik Umum\nSaya melakukan simulasi penjelasan kepada masyarakat umum.\nSaya menggunakan contoh aplikasi, akun pengguna, transaksi, dan gangguan layanan digital.\nContoh penjelasan:\n\n“Salah satu cara agar layanan digital tetap bisa digunakan ketika tempat penyimpanan data mengalami masalah adalah dengan memiliki salinan data di tempat lain.”\n\n\nHasil Pengamatan\nSebagian besar istilah teknis dihilangkan dan digantikan dengan istilah yang lebih dekat dengan pengalaman sehari-hari.\n\n\nKemampuan yang Ditunjukkan\nSaya mampu menjelaskan manfaat database replication tanpa mengharuskan pendengar memahami mekanisme teknis database.",
+    "crumbs": [
+      "Beranda",
+      "Five-Language Translation Portfolio"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-04.html#ragam-bahasa-mana-yang-paling-sulit-saya-buat-mengapa",
+    "href": "portfolio/week-04.html#ragam-bahasa-mana-yang-paling-sulit-saya-buat-mengapa",
+    "title": "Five-Language Translation Portfolio",
+    "section": "1. Ragam Bahasa Mana yang Paling Sulit Saya Buat? Mengapa?",
+    "text": "1. Ragam Bahasa Mana yang Paling Sulit Saya Buat? Mengapa?\nRagam bahasa yang paling sulit bagi saya adalah ragam bahasa anak-anak.\nKesulitannya bukan karena konsep database replication sulit, tetapi karena saya harus benar-benar menghilangkan istilah teknis yang sudah terasa biasa bagi saya.\nSebagai mahasiswa Sistem dan Teknologi Informasi, istilah seperti database, server, replication, dan failover cukup sering saya temui. Karena sudah terbiasa, saya dapat menganggap istilah tersebut mudah dipahami semua orang.\nPadahal, bagi orang yang belum memiliki latar belakang teknologi, istilah tersebut dapat menjadi penghalang komunikasi.\nSaya harus memahami konsep tersebut sampai ke intinya terlebih dahulu agar dapat mencari analogi sederhana tanpa mengubah makna.",
+    "crumbs": [
+      "Beranda",
+      "Five-Language Translation Portfolio"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-04.html#bagaimana-proses-dekonstruksi-jargon-mengubah-cara-saya-memandang-keilmuan",
+    "href": "portfolio/week-04.html#bagaimana-proses-dekonstruksi-jargon-mengubah-cara-saya-memandang-keilmuan",
+    "title": "Five-Language Translation Portfolio",
+    "section": "2. Bagaimana Proses Dekonstruksi Jargon Mengubah Cara Saya Memandang Keilmuan?",
+    "text": "2. Bagaimana Proses Dekonstruksi Jargon Mengubah Cara Saya Memandang Keilmuan?\nProses dekonstruksi jargon membuat saya menyadari bahwa memahami sebuah konsep secara teknis tidak selalu berarti mampu menjelaskannya dengan baik.\nSebelumnya, saya cenderung menganggap bahwa penggunaan istilah teknis menunjukkan penguasaan terhadap suatu bidang.\nSetelah melakukan latihan ini, saya menyadari bahwa kemampuan untuk menyesuaikan cara menjelaskan dengan audiens juga merupakan bagian dari penguasaan ilmu.\nSaya juga memahami bahwa jargon sebenarnya tidak selalu buruk.\nDalam komunikasi antara orang yang memiliki latar belakang yang sama, jargon dapat membuat komunikasi lebih cepat dan presisi. Namun, jargon dapat menjadi masalah ketika digunakan kepada orang yang belum memiliki pengetahuan dasar untuk memahaminya.\nKarena itu, saya perlu belajar menentukan kapan jargon perlu digunakan dan kapan konsep tersebut perlu diterjemahkan ke bahasa yang lebih sederhana.",
+    "crumbs": [
+      "Beranda",
+      "Five-Language Translation Portfolio"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-04.html#catatan-penggunaan-ai-kopilot",
+    "href": "portfolio/week-04.html#catatan-penggunaan-ai-kopilot",
+    "title": "Five-Language Translation Portfolio",
+    "section": "3. Catatan Penggunaan AI Kopilot",
+    "text": "3. Catatan Penggunaan AI Kopilot\nSaya menggunakan AI sebagai alat bantu untuk menguji kelenturan bahasa dan memeriksa apakah kelima versi memiliki perbedaan register yang sesuai dengan karakteristik audiens.\nPrompt yang digunakan:\n\n“Saya sedang menjelaskan konsep database replication kepada lima audiens: anak usia 10 tahun, teman dari jurusan berbeda, mahasiswa teknologi informasi, manajer, dan masyarakat umum. Periksa apakah setiap versi menggunakan tingkat bahasa yang sesuai dengan audiensnya. Jangan mengubah kebenaran teknis konsep dan jangan menambahkan fakta baru. Berikan kritik terhadap pilihan kata dan tingkat jargon.”\n\nUmpan balik yang saya gunakan adalah bahwa tingkat kesederhanaan bahasa harus mengikuti pengetahuan audiens, bukan hanya dengan mengganti beberapa istilah teknis menggunakan sinonim.\nSaya tetap menentukan konsep, kebenaran inti, pilihan audiens, dan refleksi berdasarkan pemahaman saya sendiri.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1718,194 +1828,183 @@
     "href": "portfolio/week-02.html",
     "title": "Intra-Self Communication Journal",
     "section": "",
-    "text": "Memisahkan event, fact, story, emotion, internal character, choice, dan action.",
+    "text": "Nama Mahasiswa: Grasella\nTanggal Pengerjaan: 22 September 2026\n\n\n\n\nLatihan ini digunakan untuk melatih kejernihan batin (intrapersonal communication) dengan memisahkan fakta objektif dari interpretasi, mengenali emosi, melihat suatu peristiwa melalui tiga narasi, dan memilih respons yang disengaja.\nAlur yang digunakan:\nPeristiwa (Fakta) → Interpretasi (Asumsi) → Narasi → Emosi → Pilihan → Tindakan",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
     ]
   },
   {
-    "objectID": "portfolio/week-02.html#kompetensi-target",
-    "href": "portfolio/week-02.html#kompetensi-target",
+    "objectID": "portfolio/week-02.html#tiga-narasi-atas-satu-peristiwa",
+    "href": "portfolio/week-02.html#tiga-narasi-atas-satu-peristiwa",
     "title": "Intra-Self Communication Journal",
     "section": "",
-    "text": "Memisahkan event, fact, story, emotion, internal character, choice, dan action.",
+    "text": "Nama Mahasiswa: Grasella\nTanggal Pengerjaan: 22 September 2026",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
     ]
   },
   {
-    "objectID": "portfolio/week-02.html#evidence-wajib",
-    "href": "portfolio/week-02.html#evidence-wajib",
+    "objectID": "portfolio/week-02.html#tujuan-pembelajaran",
+    "href": "portfolio/week-02.html#tujuan-pembelajaran",
     "title": "Intra-Self Communication Journal",
-    "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nSatu episode komunikasi dengan diri sendiri.\nInitial story dan sedikitnya dua alternative narratives.\nInternal agreement dan bukti tindakan berikutnya.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 2 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "section": "",
+    "text": "Latihan ini digunakan untuk melatih kejernihan batin (intrapersonal communication) dengan memisahkan fakta objektif dari interpretasi, mengenali emosi, melihat suatu peristiwa melalui tiga narasi, dan memilih respons yang disengaja.\nAlur yang digunakan:\nPeristiwa (Fakta) → Interpretasi (Asumsi) → Narasi → Emosi → Pilihan → Tindakan",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
     ]
   },
   {
-    "objectID": "portfolio/week-02.html#event",
-    "href": "portfolio/week-02.html#event",
+    "objectID": "portfolio/week-02.html#peristiwa-yang-dapat-diamati-fakta-objektif",
+    "href": "portfolio/week-02.html#peristiwa-yang-dapat-diamati-fakta-objektif",
     "title": "Intra-Self Communication Journal",
-    "section": "1. Event",
-    "text": "1. Event\nPeristiwa yang saya pilih adalah ketika salah satu bagian tugas kelompok belum tersedia sementara waktu pengerjaan sudah semakin dekat dengan batas yang telah disepakati.\nSituasi tersebut membuat saya harus mempertimbangkan apakah saya perlu menunggu anggota tersebut, menghubunginya untuk menanyakan kondisi pekerjaan, atau mengambil tindakan lain agar pekerjaan kelompok tetap dapat berjalan.",
+    "section": "1. Peristiwa yang Dapat Diamati (Fakta Objektif)",
+    "text": "1. Peristiwa yang Dapat Diamati (Fakta Objektif)\nPeristiwa yang saya gunakan berasal dari pengalaman mengerjakan tugas besar secara berkelompok. Pada saat itu, kelompok sedang menghadapi beberapa tuntutan akademik secara bersamaan, termasuk UTS dan deadline Milestone 2.\nDalam percakapan kelompok, saya mengingatkan anggota kelompok agar mulai mengerjakan lebih awal karena jadwal akan semakin padat. Beberapa waktu kemudian, kelompok membahas pembagian pekerjaan. Saya menanyakan apakah pembagian tersebut sudah aman, kemudian menyatakan bahwa saya mengambil bagian Bab 2.\nSaya juga mengingatkan anggota kelompok agar segera mengerjakan supaya masih tersedia waktu untuk asistensi dan revisi.\nDalam proses pengerjaan berikutnya, terdapat pekerjaan teknis yang perlu diselesaikan. Saya menawarkan diri untuk mengerjakan bagian coding KWN dan meminta anggota lain untuk menangani bagian video Odoo.\n\nFakta yang dapat diamati\n\nKelompok memiliki tugas besar dengan deadline Milestone 2.\nPada periode tersebut terdapat tuntutan akademik lain, termasuk UTS.\nSaya mengingatkan kelompok untuk mulai mengerjakan lebih awal.\nSaya ikut membahas pembagian pekerjaan dalam kelompok.\nSaya mengambil bagian Bab 2.\nSaya mengingatkan kelompok agar masih memiliki waktu untuk asistensi dan revisi.\nDalam pekerjaan teknis, saya menawarkan diri mengerjakan bagian coding KWN.\nSaya meminta anggota lain menangani bagian video Odoo.\n\nFakta-fakta tersebut menunjukkan adanya kebutuhan untuk melakukan koordinasi dan pembagian pekerjaan. Namun, fakta tersebut tidak membuktikan bahwa anggota lain malas, tidak bertanggung jawab, atau tidak akan mengerjakan bagiannya.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
     ]
   },
   {
-    "objectID": "portfolio/week-02.html#fact",
-    "href": "portfolio/week-02.html#fact",
+    "objectID": "portfolio/week-02.html#interpretasi-pertama-asumsi-otomatis",
+    "href": "portfolio/week-02.html#interpretasi-pertama-asumsi-otomatis",
     "title": "Intra-Self Communication Journal",
-    "section": "2. Fact",
-    "text": "2. Fact\nHal-hal yang benar-benar saya ketahui dari situasi tersebut adalah:\n\nSaya memiliki tanggung jawab terhadap bagian tugas saya sendiri.\nSalah satu bagian tugas anggota kelompok belum tersedia ketika waktu pengerjaan sudah mendekati batas yang disepakati.\nBagian tersebut berhubungan dengan pekerjaan anggota kelompok lainnya.\nSaya belum mengetahui alasan sebenarnya mengapa bagian tersebut belum tersedia.\nSaya belum memiliki bukti bahwa anggota tersebut sengaja mengabaikan tugasnya.\n\nDengan demikian, fakta yang saya ketahui adalah hasil pekerjaan belum tersedia, bukan bahwa anggota tersebut pasti tidak bertanggung jawab.",
+    "section": "2. Interpretasi Pertama (Asumsi Otomatis)",
+    "text": "2. Interpretasi Pertama (Asumsi Otomatis)\nKetika melihat deadline semakin dekat dan banyak pekerjaan yang harus diselesaikan, pemikiran pertama saya adalah bahwa saya harus memastikan pekerjaan kelompok tetap berjalan.\nSaya berpikir bahwa jika saya tidak ikut mengingatkan, membantu, atau mengambil bagian pekerjaan tertentu, ada kemungkinan tugas kelompok tidak selesai tepat waktu dan kelompok tidak memiliki cukup waktu untuk asistensi maupun revisi.\nSaya juga cenderung menganggap bahwa mengambil lebih banyak tanggung jawab merupakan cara paling aman untuk mengurangi risiko tugas terlambat.\nSetelah saya memisahkan fakta dari asumsi, saya menyadari bahwa pemikiran tersebut belum tentu benar. Saya tidak mengetahui secara pasti apa yang akan dilakukan anggota lain jika saya tidak mengambil tindakan tersebut.\nDengan demikian:\n\nFakta: deadline semakin dekat dan pekerjaan perlu dikoordinasikan.\nInterpretasi: saya merasa harus mengambil lebih banyak tanggung jawab agar tugas pasti selesai.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
     ]
   },
   {
-    "objectID": "portfolio/week-02.html#initial-story",
-    "href": "portfolio/week-02.html#initial-story",
+    "objectID": "portfolio/week-02.html#emosi-sensasi-tubuh",
+    "href": "portfolio/week-02.html#emosi-sensasi-tubuh",
     "title": "Intra-Self Communication Journal",
-    "section": "3. Initial Story",
-    "text": "3. Initial Story\nInterpretasi pertama yang muncul dalam pikiran saya adalah:\n\n“Dia kurang bertanggung jawab dan tidak memprioritaskan tugas kelompok.”\n\nSaya juga sempat berpikir bahwa jika saya tidak segera mengambil tindakan, tugas kelompok mungkin akan terlambat.\nDari interpretasi tersebut, saya merasa seolah-olah saya harus mengambil alih pekerjaan agar semuanya tetap selesai.\nNamun, setelah saya memisahkan fakta dan cerita yang muncul di pikiran saya, saya menyadari bahwa penilaian mengenai “tidak bertanggung jawab” belum dapat dibuktikan hanya dari fakta bahwa pekerjaan belum tersedia.",
+    "section": "3. Emosi & Sensasi Tubuh",
+    "text": "3. Emosi & Sensasi Tubuh\n\nEmosi yang Dirasakan\n\n\n\nEmosi\nIntensitas\n\n\n\n\nCemas\n7/10\n\n\nKhawatir\n6/10\n\n\nTertekan\n6/10\n\n\nKesal\n5/10\n\n\n\n\n\nSensasi Tubuh yang Muncul\nKetika memikirkan deadline dan banyaknya pekerjaan yang harus diselesaikan, saya merasa tubuh lebih tegang dan sulit merasa benar-benar tenang sebelum pekerjaan kelompok terlihat berjalan.\nSaya juga merasakan dorongan untuk segera melakukan sesuatu agar situasi terasa lebih terkendali, misalnya mengingatkan anggota kelompok, mengambil bagian tugas, atau menawarkan bantuan pada pekerjaan yang belum selesai.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
     ]
   },
   {
-    "objectID": "portfolio/week-02.html#emotion",
-    "href": "portfolio/week-02.html#emotion",
+    "objectID": "portfolio/week-02.html#versi-a-narasi-korban-victim-narrative",
+    "href": "portfolio/week-02.html#versi-a-narasi-korban-victim-narrative",
     "title": "Intra-Self Communication Journal",
-    "section": "4. Emotion",
-    "text": "4. Emotion\nEmosi yang muncul dalam situasi tersebut adalah:\n\n\n\n\n\n\n\n\nEmosi\nIntensitas 0–10\nPemicu\n\n\n\n\nCemas\n7/10\nKhawatir tugas kelompok tidak selesai sesuai waktu.\n\n\nKecewa\n6/10\nRencana pengerjaan kelompok tidak berjalan sesuai harapan.\n\n\nKesal\n5/10\nSaya merasa pekerjaan saya dapat ikut terhambat karena bagian tersebut belum tersedia.\n\n\n\nSecara fisik, saya merasa lebih tegang dan sulit merasa tenang karena terus memikirkan kemungkinan tugas terlambat.",
+    "section": "Versi A — Narasi Korban (Victim Narrative)",
+    "text": "Versi A — Narasi Korban (Victim Narrative)\n\nIsi Narasi Korban\nJika saya melihat situasi tersebut melalui narasi korban, saya dapat merasa bahwa keberhasilan tugas kelompok terlalu bergantung pada pekerjaan anggota lain.\nSaya dapat berpikir bahwa saya sudah berusaha menjalankan tanggung jawab saya, tetapi saya tetap tidak dapat memastikan tugas selesai karena saya bergantung pada tindakan orang lain.\nDari sudut pandang ini, saya merasa tidak mempunyai banyak pilihan selain terus mengingatkan anggota kelompok atau mengambil lebih banyak pekerjaan sendiri.\nSaya juga dapat merasa bahwa jika saya tidak turun tangan, kemungkinan tugas tidak selesai tepat waktu menjadi semakin besar.\n\n\nPilihan Tindakan Otomatis (Reaktif)\nJika mengikuti narasi tersebut, tindakan otomatis saya adalah:\n\nmengambil terlalu banyak bagian pekerjaan;\nterus mengingatkan anggota kelompok;\nmerasa kesal ketika pekerjaan belum terlihat selesai;\nsulit mempercayai bahwa pekerjaan akan selesai tanpa saya ikut campur;\nmengambil alih pekerjaan ketika merasa deadline semakin dekat.\n\nTindakan tersebut dapat membuat saya merasa lebih aman untuk sementara karena saya merasa memiliki kendali. Namun, tindakan tersebut juga berisiko membuat beban pekerjaan menjadi tidak seimbang dan membuat saya semakin tertekan.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
     ]
   },
   {
-    "objectID": "portfolio/week-02.html#internal-character",
-    "href": "portfolio/week-02.html#internal-character",
+    "objectID": "portfolio/week-02.html#apa-fakta-yang-benar-benar-telah-terbukti",
+    "href": "portfolio/week-02.html#apa-fakta-yang-benar-benar-telah-terbukti",
     "title": "Intra-Self Communication Journal",
-    "section": "5. Internal Character",
-    "text": "5. Internal Character\nDalam situasi tersebut, character internal saya yang muncul adalah “penanggung jawab yang ingin memastikan semuanya tetap berjalan”.\nKecenderungan ini sebenarnya membantu karena membuat saya peduli terhadap hasil pekerjaan kelompok. Namun, dalam kondisi tertekan, kecenderungan tersebut dapat membuat saya terlalu cepat mengambil alih masalah dan menyimpulkan bahwa saya harus menyelesaikan semuanya sendiri.\nSaya menyadari bahwa rasa tanggung jawab perlu tetap disertai kemampuan untuk berhenti, mencari informasi, dan memberikan kesempatan kepada orang lain untuk menjelaskan situasinya.",
+    "section": "1. Apa fakta yang benar-benar telah terbukti?",
+    "text": "1. Apa fakta yang benar-benar telah terbukti?\nFakta yang benar-benar saya ketahui adalah:\n\nKelompok memiliki tugas besar dengan deadline Milestone 2.\nPada periode tersebut terdapat beberapa tuntutan akademik lain, termasuk UTS.\nKelompok perlu membagi pekerjaan agar tugas dapat dikerjakan.\nSaya mengambil bagian Bab 2.\nSaya mengingatkan kelompok untuk mulai mengerjakan agar tersedia waktu untuk asistensi dan revisi.\nSaya menawarkan diri mengerjakan bagian coding KWN.\nSaya meminta anggota lain menangani bagian video Odoo.\n\nSementara itu, beberapa hal belum terbukti, misalnya bahwa anggota lain tidak akan bekerja apabila saya tidak mengingatkan, atau bahwa saya harus mengambil alih pekerjaan agar tugas dapat selesai.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
     ]
   },
   {
-    "objectID": "portfolio/week-02.html#narasi-1-korban",
-    "href": "portfolio/week-02.html#narasi-1-korban",
+    "objectID": "portfolio/week-02.html#apa-penjelasan-lain-yang-masuk-akal-namun-belum-saya-periksa",
+    "href": "portfolio/week-02.html#apa-penjelasan-lain-yang-masuk-akal-namun-belum-saya-periksa",
     "title": "Intra-Self Communication Journal",
-    "section": "Narasi 1 — Korban",
-    "text": "Narasi 1 — Korban\nDalam narasi korban, saya melihat diri saya sebagai pihak yang dirugikan oleh keterlambatan anggota kelompok.\nSaya sudah mengerjakan bagian saya, tetapi pekerjaan saya tetap terpengaruh karena bagian anggota lain belum tersedia. Saya merasa situasi tersebut sepenuhnya berada di luar kendali saya.\nPikiran yang muncul adalah:\n\n“Saya sudah melakukan bagian saya, tetapi sekarang saya yang harus menghadapi akibat dari keterlambatan orang lain.”\n\n\nReaction yang mungkin muncul\nJika saya mengikuti narasi korban, saya mungkin akan:\n\nmerasa semakin kesal;\nmenunggu sambil mengeluh dalam hati;\nlangsung mengambil alih bagian anggota tersebut;\natau menyalahkan anggota tersebut tanpa mengetahui penyebab sebenarnya.\n\nDalam kondisi ini, saya cenderung melihat bahwa saya tidak memiliki pilihan selain menanggung akibat dari tindakan orang lain.",
+    "section": "2. Apa penjelasan lain yang masuk akal namun belum saya periksa?",
+    "text": "2. Apa penjelasan lain yang masuk akal namun belum saya periksa?\n\nAlternatif pertama\nAnggota kelompok sebenarnya mampu menyelesaikan tanggung jawab masing-masing, tetapi membutuhkan pembagian pekerjaan dan koordinasi yang jelas agar pekerjaan dapat berjalan secara teratur.\n\n\nAlternatif kedua\nPekerjaan yang belum terlihat hasil akhirnya tidak selalu berarti pekerjaan tersebut tidak dikerjakan. Bisa saja anggota sedang mengerjakan bagian yang belum dapat ditunjukkan hasil akhirnya atau masih menyelesaikan detail pekerjaannya.\n\n\nAlternatif ketiga\nDorongan saya untuk mengambil lebih banyak pekerjaan dapat berasal dari kekhawatiran saya sendiri terhadap deadline, bukan karena anggota kelompok benar-benar tidak mampu menyelesaikan tanggung jawabnya.\nDengan mempertimbangkan alternatif tersebut, saya menyadari bahwa kekhawatiran saya tentang kemungkinan tugas terlambat tidak sama dengan fakta bahwa tugas tersebut pasti akan terlambat.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
     ]
   },
   {
-    "objectID": "portfolio/week-02.html#fakta-yang-sudah-terbukti",
-    "href": "portfolio/week-02.html#fakta-yang-sudah-terbukti",
+    "objectID": "portfolio/week-02.html#faktor-apa-dalam-situasi-ini-yang-berada-di-bawah-kendali-saya",
+    "href": "portfolio/week-02.html#faktor-apa-dalam-situasi-ini-yang-berada-di-bawah-kendali-saya",
     "title": "Intra-Self Communication Journal",
-    "section": "Fakta yang sudah terbukti",
-    "text": "Fakta yang sudah terbukti\nFakta yang terbukti adalah:\n\nbagian tugas belum tersedia;\ndeadline semakin dekat;\nbagian tersebut dibutuhkan untuk melanjutkan pekerjaan;\nsaya belum mengetahui alasan keterlambatan.\n\nSementara itu, pernyataan bahwa anggota tersebut malas, tidak peduli, atau tidak bertanggung jawab masih merupakan interpretasi, bukan fakta.",
+    "section": "3. Faktor Apa dalam Situasi Ini yang Berada di Bawah Kendali Saya?",
+    "text": "3. Faktor Apa dalam Situasi Ini yang Berada di Bawah Kendali Saya?\nHal-hal yang berada di bawah kendali saya adalah:\n\ncara saya menyampaikan kekhawatiran;\ncara saya mengatur emosi;\nbagian tugas yang saya pilih dan kerjakan;\ncara saya meminta update pekerjaan;\ncara saya menawarkan bantuan;\ncara saya mengatur waktu pribadi;\ncara saya berkoordinasi dengan anggota kelompok;\nkeputusan untuk membantu tanpa langsung mengambil alih pekerjaan orang lain;\nkeputusan untuk membedakan fakta dari asumsi sebelum bertindak.\n\nHal yang tidak berada dalam kendali saya adalah seberapa cepat anggota lain bekerja, bagaimana mereka mengatur waktunya, dan keputusan pribadi yang mereka ambil selama mengerjakan tugas.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
     ]
   },
   {
-    "objectID": "portfolio/week-02.html#alternatif-penjelasan-1",
-    "href": "portfolio/week-02.html#alternatif-penjelasan-1",
+    "objectID": "portfolio/week-02.html#isi-narasi-pertumbuhan",
+    "href": "portfolio/week-02.html#isi-narasi-pertumbuhan",
     "title": "Intra-Self Communication Journal",
-    "section": "Alternatif Penjelasan 1",
-    "text": "Alternatif Penjelasan 1\nAnggota tersebut mungkin mengalami kesulitan memahami bagian tugas yang menjadi tanggung jawabnya.\nJika hal tersebut benar, masalahnya bukan semata-mata kurangnya tanggung jawab, tetapi adanya kebutuhan untuk melakukan klarifikasi atau bantuan.",
+    "section": "Isi Narasi Pertumbuhan",
+    "text": "Isi Narasi Pertumbuhan\nSaya menyadari bahwa rasa cemas dan khawatir terhadap deadline muncul karena saya peduli terhadap hasil kerja kelompok dan ingin memastikan tanggung jawab saya dapat diselesaikan dengan baik.\nKepedulian terhadap tugas merupakan hal yang positif, tetapi saya belajar bahwa bertanggung jawab tidak berarti harus mengendalikan seluruh pekerjaan kelompok.\nKetika saya merasa khawatir, saya cenderung ingin segera melakukan sesuatu agar keadaan terasa lebih aman. Namun, tindakan yang paling cepat belum tentu merupakan tindakan yang paling tepat.\nSaya dapat tetap aktif dalam kelompok tanpa mengambil alih tanggung jawab anggota lain. Saya dapat mengingatkan deadline, memastikan pembagian pekerjaan jelas, menanyakan perkembangan, dan menawarkan bantuan ketika memang diperlukan.\nDengan cara tersebut, saya tetap berkontribusi terhadap keberhasilan kelompok sekaligus memberikan kepercayaan kepada anggota lain untuk menjalankan tanggung jawabnya.\n\nPelajaran yang Saya Ambil\nPelajaran utama yang saya dapatkan adalah:\n\nSaya dapat bertanggung jawab terhadap bagian saya tanpa harus merasa bertanggung jawab atas seluruh pekerjaan orang lain.\n\nSaya juga belajar bahwa reaksi pertama saya terhadap tekanan belum tentu menggambarkan keadaan yang sebenarnya.\nKetika menghadapi situasi serupa, saya ingin menggunakan pertanyaan:\n\n“Apakah masalah ini benar-benar sudah terjadi, atau saya sedang mengantisipasi kemungkinan masalah?”\n\nPertanyaan tersebut membantu saya membedakan fakta dari asumsi sebelum menentukan tindakan.\n\n\nNilai yang Ingin Saya Pertahankan\nNilai yang ingin saya pertahankan adalah:\n\ntanggung jawab;\nkerja sama;\nkomunikasi terbuka;\nkepercayaan terhadap anggota kelompok.\n\nSaya ingin tetap menjadi anggota kelompok yang aktif dan dapat diandalkan, tetapi tidak merasa harus mengendalikan seluruh proses kerja kelompok.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
     ]
   },
   {
-    "objectID": "portfolio/week-02.html#alternatif-penjelasan-2",
-    "href": "portfolio/week-02.html#alternatif-penjelasan-2",
+    "objectID": "portfolio/week-02.html#pilihan-respons-terbaik",
+    "href": "portfolio/week-02.html#pilihan-respons-terbaik",
     "title": "Intra-Self Communication Journal",
-    "section": "Alternatif Penjelasan 2",
-    "text": "Alternatif Penjelasan 2\nAnggota tersebut mungkin sedang mengalami kendala lain yang belum disampaikan kepada kelompok.\nSaya tidak dapat mengetahui kondisi tersebut sebelum bertanya secara langsung.",
+    "section": "1. Pilihan Respons Terbaik",
+    "text": "1. Pilihan Respons Terbaik\nBerdasarkan narasi pertumbuhan, saya memilih untuk tetap aktif dalam koordinasi kelompok tetapi tidak langsung mengambil alih pekerjaan anggota lain hanya karena saya merasa khawatir terhadap deadline.\n\nLangkah Nyata yang Saya Pilih\nKetika menghadapi tugas kelompok dengan deadline yang semakin dekat, saya akan:\n\nmemastikan pembagian tugas sudah jelas;\nmeminta setiap anggota memberikan update singkat mengenai progres;\nmenanyakan kendala terlebih dahulu jika ada bagian yang belum selesai;\nmenawarkan bantuan apabila anggota memang mengalami kesulitan;\nmengambil pekerjaan tambahan hanya jika memang diperlukan dan telah disepakati;\nmembuat batas waktu internal sebelum deadline resmi;\nmenyisakan waktu untuk asistensi dan revisi.\n\nDengan demikian, saya tetap melakukan tindakan konkret terhadap risiko deadline tanpa langsung berasumsi bahwa anggota lain tidak mampu menyelesaikan tanggung jawabnya.\n\n\nContoh Komunikasi Asertif\n\n“Ges, biar aman sebelum deadline kita update progres masing-masing ya. Kalau ada bagian yang masih stuck atau butuh dibantu, kabarin aja. Kita coba beresin sesuai bagian masing-masing supaya nanti masih ada waktu buat asistensi dan revisi.”\n\nRespons ini lebih terarah daripada langsung mengambil alih pekerjaan karena saya terlebih dahulu melakukan koordinasi berdasarkan kondisi yang sebenarnya.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
     ]
   },
   {
-    "objectID": "portfolio/week-02.html#alternatif-penjelasan-3",
-    "href": "portfolio/week-02.html#alternatif-penjelasan-3",
+    "objectID": "portfolio/week-02.html#dukungan-yang-diperlukan",
+    "href": "portfolio/week-02.html#dukungan-yang-diperlukan",
     "title": "Intra-Self Communication Journal",
-    "section": "Alternatif Penjelasan 3",
-    "text": "Alternatif Penjelasan 3\nAnggota tersebut mungkin sebenarnya sudah mengerjakan bagian tersebut, tetapi belum mengirimkannya karena masih merasa hasilnya belum selesai atau belum cukup baik.\nDalam kondisi ini, masalah komunikasi mungkin lebih besar daripada masalah kemauan untuk bekerja.",
+    "section": "2. Dukungan yang Diperlukan",
+    "text": "2. Dukungan yang Diperlukan\nNama rekan/pendamping: Suci\nSaya memilih Suci sebagai rekan yang dapat memberikan umpan balik karena ia dapat membantu saya melihat cara saya berkomunikasi ketika menghadapi tekanan dalam tugas kelompok.\nSaya dapat meminta feedback kepada Suci dengan pertanyaan:\n\n“Menurut kamu, waktu ngerjain tugas kelompok kemarin aku terlalu banyak mengambil alih atau pembagian tugasnya masih cukup seimbang?”\n\nFeedback dari Suci dapat membantu saya mengetahui apakah saya sudah mampu membedakan antara membantu kelompok dan mengambil alih tanggung jawab anggota lain.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
     ]
   },
   {
-    "objectID": "portfolio/week-02.html#faktor-yang-berada-di-bawah-kendali-saya",
-    "href": "portfolio/week-02.html#faktor-yang-berada-di-bawah-kendali-saya",
+    "objectID": "portfolio/week-02.html#bukti-1-kesadaran-terhadap-deadline",
+    "href": "portfolio/week-02.html#bukti-1-kesadaran-terhadap-deadline",
     "title": "Intra-Self Communication Journal",
-    "section": "Faktor yang Berada di Bawah Kendali Saya",
-    "text": "Faktor yang Berada di Bawah Kendali Saya\nSaya tidak dapat mengendalikan apakah anggota tersebut menyelesaikan tugas tepat waktu atau tidak.\nNamun, saya dapat mengendalikan:\n\ncara saya menyampaikan pertanyaan;\ncara saya mengelola emosi;\nkeputusan untuk tidak langsung memberikan label;\nkejelasan informasi yang saya minta;\ncara saya menawarkan bantuan;\ntindakan saya setelah mengetahui situasi sebenarnya.\n\nDengan demikian, saya tetap memiliki pilihan meskipun situasi awal bukan sepenuhnya berada dalam kendali saya.",
+    "section": "Bukti 1 — Kesadaran terhadap Deadline",
+    "text": "Bukti 1 — Kesadaran terhadap Deadline\nPada percakapan tanggal 1 April 2026, saya mengingatkan anggota kelompok bahwa periode tersebut akan semakin padat karena adanya UTS dan deadline Milestone 2. Saya mengajak kelompok untuk mulai mengerjakan lebih awal.\n\n\n\nBukti komunikasi mengenai deadline dan ajakan mulai bekerja\n\n\nAnalisis bukti:\nBukti ini menunjukkan bahwa saya secara aktif memperhatikan tekanan waktu dalam pengerjaan tugas kelompok dan mengambil tindakan komunikasi untuk mendorong kelompok mulai bekerja lebih awal.\nHal ini relevan dengan refleksi saya mengenai kecenderungan untuk merasa perlu memastikan pekerjaan kelompok berjalan ketika deadline semakin dekat.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
     ]
   },
   {
-    "objectID": "portfolio/week-02.html#reaction",
-    "href": "portfolio/week-02.html#reaction",
+    "objectID": "portfolio/week-02.html#bukti-2-pembagian-pekerjaan",
+    "href": "portfolio/week-02.html#bukti-2-pembagian-pekerjaan",
     "title": "Intra-Self Communication Journal",
-    "section": "Reaction",
-    "text": "Reaction\nReaction otomatis saya adalah:\n\n“Dia tidak bertanggung jawab. Kalau saya tidak turun tangan, tugas ini mungkin tidak selesai.”\n\nReaction tersebut membuat saya cenderung ingin langsung mengambil alih pekerjaan dan merasa kesal kepada anggota kelompok.\nMasalahnya, reaction tersebut muncul sebelum saya mengetahui keadaan sebenarnya.",
+    "section": "Bukti 2 — Pembagian Pekerjaan",
+    "text": "Bukti 2 — Pembagian Pekerjaan\nPada percakapan tanggal 17 April 2026, saya ikut mengoordinasikan pembagian pekerjaan dan menyatakan bahwa saya mengambil bagian Bab 2. Saya juga mengingatkan anggota kelompok agar segera mengerjakan supaya masih tersedia waktu untuk asistensi dan revisi.\n\n\n\nBukti pembagian pekerjaan kelompok\n\n\nAnalisis bukti:\nBukti ini menunjukkan tindakan konkret saya dalam koordinasi kelompok.\nSaya tidak hanya memikirkan deadline, tetapi juga mengambil bagian pekerjaan dan mengomunikasikan pentingnya menyelesaikan pekerjaan lebih awal.\nDari refleksi ini saya menyadari bahwa ketika menghadapi tekanan deadline, saya memiliki kecenderungan untuk segera mengambil tindakan agar pekerjaan terasa lebih terkendali.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
     ]
   },
   {
-    "objectID": "portfolio/week-02.html#response",
-    "href": "portfolio/week-02.html#response",
+    "objectID": "portfolio/week-02.html#bukti-3-koordinasi-pekerjaan-teknis",
+    "href": "portfolio/week-02.html#bukti-3-koordinasi-pekerjaan-teknis",
     "title": "Intra-Self Communication Journal",
-    "section": "Response",
-    "text": "Response\nSetelah memisahkan event, fact, story, dan emotion, saya memilih response yang lebih terencana.\nSaya akan terlebih dahulu menghubungi anggota tersebut untuk mengetahui kondisinya.\nContoh komunikasi yang saya pilih:\n\nSaya: “Hai, aku mau memastikan untuk bagian tugas yang kemarin kamu pegang. Sampai sekarang aku belum melihat hasilnya, sementara bagian tersebut dibutuhkan untuk melanjutkan bagian berikutnya. Apakah ada kendala?”\nAnggota: “Iya, aku masih agak bingung dengan bagian yang harus dikerjakan.”\nSaya: “Oke, bagian mana yang masih bikin bingung? Kalau perlu, kita bisa bahas sebentar supaya lebih jelas dan tetap bisa mengejar waktunya.”\nAnggota: “Aku masih bingung di bagian analisisnya.”\nSaya: “Oke, kita samakan dulu pemahamannya. Setelah itu kira-kira kamu bisa menyelesaikan bagian tersebut kapan? Biar kita bisa menyesuaikan bagian lainnya.”\n\nRespons ini berbeda dengan reaction karena saya:\n\ntidak langsung menyalahkan;\nmencari informasi;\nmengakui dampak keterlambatan;\nmenawarkan bantuan;\nmeminta kejelasan mengenai langkah berikutnya.",
+    "section": "Bukti 3 — Koordinasi Pekerjaan Teknis",
+    "text": "Bukti 3 — Koordinasi Pekerjaan Teknis\nDalam proses pengerjaan berikutnya, terdapat kebutuhan untuk mengatur pekerjaan teknis dan menyampaikan kondisi pekerjaan kepada anggota kelompok.\n\n\n\nBukti koordinasi pekerjaan teknis\n\n\nAnalisis bukti:\nBukti ini menunjukkan adanya komunikasi mengenai kondisi pekerjaan teknis dalam kelompok.\nHal tersebut menjadi bagian dari konteks yang saya gunakan untuk merefleksikan bagaimana saya merespons tekanan pekerjaan dan kebutuhan untuk menyelesaikan tugas kelompok.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
     ]
   },
   {
-    "objectID": "portfolio/week-02.html#action",
-    "href": "portfolio/week-02.html#action",
+    "objectID": "portfolio/week-02.html#bukti-4-pembagian-tanggung-jawab",
+    "href": "portfolio/week-02.html#bukti-4-pembagian-tanggung-jawab",
     "title": "Intra-Self Communication Journal",
-    "section": "Action",
-    "text": "Action\nTindakan yang saya pilih adalah menghubungi anggota kelompok secara langsung untuk:\n\nmenanyakan kondisi pekerjaannya;\nmencari tahu apakah terdapat kendala;\nmenjelaskan dampaknya terhadap pekerjaan kelompok;\nmenawarkan bantuan jika diperlukan;\nmeminta kejelasan mengenai langkah atau waktu penyelesaian.\n\nSaya tidak akan langsung mengambil alih pekerjaan sebelum mengetahui kondisi sebenarnya.",
-    "crumbs": [
-      "Beranda",
-      "Intra-Self Communication Journal"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-02.html#bukti",
-    "href": "portfolio/week-02.html#bukti",
-    "title": "Intra-Self Communication Journal",
-    "section": "Bukti",
-    "text": "Bukti\nBukti tindakan dapat berupa catatan percakapan atau screenshot komunikasi yang benar-benar dilakukan, dengan informasi pribadi yang tidak diperlukan disamarkan.\nJika belum ada bukti digital yang dapat dilampirkan, saya akan menggunakan catatan refleksi tindakan yang mencatat:\n\nkapan komunikasi dilakukan;\napa yang saya tanyakan;\nrespons yang saya terima;\ntindakan lanjutan yang saya ambil;\nperubahan yang terjadi setelah komunikasi.\n\n\nCatatan: Saya tidak membuat screenshot atau bukti percakapan yang sebenarnya belum terjadi. Bukti nyata akan ditambahkan setelah tindakan dilakukan.",
+    "section": "Bukti 4 — Pembagian Tanggung Jawab",
+    "text": "Bukti 4 — Pembagian Tanggung Jawab\nDalam percakapan berikutnya, saya meminta bantuan anggota lain untuk menangani bagian tertentu sementara saya mengerjakan bagian coding KWN.\n\n\n\nBukti lanjutan koordinasi pekerjaan\n\n\nAnalisis bukti:\nBukti ini menunjukkan bahwa saya mencoba menyelesaikan tekanan pekerjaan melalui pembagian dan koordinasi tugas.\nSaya menawarkan diri untuk menangani bagian coding KWN dan meminta anggota lain menangani bagian video Odoo. Tindakan tersebut menunjukkan bahwa saya mengambil tanggung jawab konkret sekaligus mencoba memastikan pekerjaan tetap terbagi.\nMelalui refleksi, saya menyadari bahwa pola tersebut perlu tetap disertai dengan kesadaran bahwa saya tidak harus mengambil seluruh tanggung jawab kelompok.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
@@ -1916,7 +2015,7 @@
     "href": "portfolio/index.html",
     "title": "Indeks Portfolio",
     "section": "",
-    "text": "Perbarui metadata di bagian atas setiap file week-XX.qmd. Nilai status yang disarankan: Belum dimulai, Draft, Siap dinilai, Perlu revisi, atau Tercapai.\n\n\n\n\n\n\nTipButuh contoh?\n\n\n\nLihat contoh portfolio lengkap untuk Minggu 1–15. Semua contoh menggunakan mahasiswa, person, percakapan, dan artefak fiktif. Gunakan sebagai acuan mutu dan struktur, bukan sebagai jawaban untuk disalin.\n\n\n\n\n\n\n\n\n   \n    \n    \n      Urut berdasar\n      Default\n      \n        Evidence\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nMinggu\n\n\n\nEvidence\n\n\n\nStatus\n\n\n\nSelf\n\n\n\nAssessor\n\n\n\n\n\n\n\n\n1\n\n\nCharacter Map\n\n\nSiap dinilai\n\n\n20/20\n\n\n—\n\n\n\n\n\n\n2\n\n\nIntra-Self Communication Journal\n\n\nSiap dinilai\n\n\n20/20\n\n\n—\n\n\n\n\n\n\n3\n\n\nRelationship Conversation\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n4\n\n\nFive-Language Translation Portfolio\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n5\n\n\nProfessional Discovery Interview\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n6\n\n\nTarget–Attention Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n7\n\n\nProblem–Solution Interest Pitch\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n8\n\n\nUTS Performance Evidence Package\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n9\n\n\nDesire-State Communication\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n10\n\n\nAction & Agreement Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n11\n\n\nMulti-Person Negotiation Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n12\n\n\nCommunity Communication Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n13\n\n\nPublic Contribution Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n14\n\n\nAI-Mediated Communication Design\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n15\n\n\nCapstone Performance Portfolio\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\nTidak ada yang cocok\n Kembali ke atas",
+    "text": "Perbarui metadata di bagian atas setiap file week-XX.qmd. Nilai status yang disarankan: Belum dimulai, Draft, Siap dinilai, Perlu revisi, atau Tercapai.\n\n\n\n\n\n\nTipButuh contoh?\n\n\n\nLihat contoh portfolio lengkap untuk Minggu 1–15. Semua contoh menggunakan mahasiswa, person, percakapan, dan artefak fiktif. Gunakan sebagai acuan mutu dan struktur, bukan sebagai jawaban untuk disalin.\n\n\n\n\n\n\n\n\n   \n    \n    \n      Urut berdasar\n      Default\n      \n        Evidence\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nMinggu\n\n\n\nEvidence\n\n\n\nStatus\n\n\n\nSelf\n\n\n\nAssessor\n\n\n\n\n\n\n\n\n1\n\n\nCharacter Map\n\n\nSiap dinilai\n\n\n20/20\n\n\n—\n\n\n\n\n\n\n2\n\n\nIntra-Self Communication Journal\n\n\nSiap dinilai\n\n\n20/20\n\n\n—\n\n\n\n\n\n\n3\n\n\nRelationship Conversation\n\n\nSiap dinilai\n\n\n93,75/100\n\n\n—\n\n\n\n\n\n\n4\n\n\nFive-Language Translation Portfolio\n\n\nSiap dinilai\n\n\n16/16\n\n\n—\n\n\n\n\n\n\n5\n\n\nProfessional Discovery Interview\n\n\nSiap dinilai\n\n\n97/100\n\n\n—\n\n\n\n\n\n\n6\n\n\nTarget–Attention Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n7\n\n\nProblem–Solution Interest Pitch\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n8\n\n\nUTS Performance Evidence Package\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n9\n\n\nDesire-State Communication\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n10\n\n\nAction & Agreement Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n11\n\n\nMulti-Person Negotiation Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n12\n\n\nCommunity Communication Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n13\n\n\nPublic Contribution Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n14\n\n\nAI-Mediated Communication Design\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n15\n\n\nCapstone Performance Portfolio\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\nTidak ada yang cocok\n Kembali ke atas",
     "crumbs": [
       "Beranda",
       "Indeks Portfolio"
@@ -4956,7 +5055,18 @@
     "href": "portfolio/week-03.html",
     "title": "Relationship Conversation",
     "section": "",
-    "text": "Melakukan personal conversation dengan listening, clarity, boundary, dan relationship awareness.",
+    "text": "Nama Praktikan: Grasella\nMitra Latihan: Winda\nTanggal Pelaksanaan: 27 September 2026",
+    "crumbs": [
+      "Beranda",
+      "Relationship Conversation"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-03.html#identitas",
+    "href": "portfolio/week-03.html#identitas",
+    "title": "Relationship Conversation",
+    "section": "",
+    "text": "Nama Praktikan: Grasella\nMitra Latihan: Winda\nTanggal Pelaksanaan: 27 September 2026",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
@@ -4966,85 +5076,184 @@
     "objectID": "portfolio/week-03.html#kompetensi-target",
     "href": "portfolio/week-03.html#kompetensi-target",
     "title": "Relationship Conversation",
-    "section": "",
-    "text": "Melakukan personal conversation dengan listening, clarity, boundary, dan relationship awareness.",
+    "section": "Kompetensi Target",
+    "text": "Kompetensi Target\nLatihan ini bertujuan untuk melatih kemampuan melakukan personal conversation dengan listening, clarity, boundary, dan relationship awareness.\nDalam percakapan ini, saya berlatih untuk mendengarkan cerita lawan bicara, memahami isi dan makna yang disampaikan, memperhatikan kemungkinan emosi dan kebutuhan di balik cerita, serta tidak langsung berasumsi mengenai bentuk bantuan yang dibutuhkan.\nSaya juga berlatih untuk memeriksa kebutuhan lawan bicara terlebih dahulu sebelum memberikan pendapat atau saran.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
     ]
   },
   {
-    "objectID": "portfolio/week-03.html#evidence-wajib",
-    "href": "portfolio/week-03.html#evidence-wajib",
+    "objectID": "portfolio/week-03.html#tingkat-1-kata-isi-literal-masalah",
+    "href": "portfolio/week-03.html#tingkat-1-kata-isi-literal-masalah",
     "title": "Relationship Conversation",
-    "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nTranscript atau catatan percakapan.\nEvidence listening dan response.\nAnalisis relationship state sebelum dan sesudah.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 3 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "section": "1. Tingkat 1 — Kata: Isi Literal Masalah",
+    "text": "1. Tingkat 1 — Kata: Isi Literal Masalah\nWinda menceritakan mengenai kondisi perkuliahannya yang sedang terasa berat. Ia merasa tugas dan materi kuliah semakin menumpuk, sementara waktu untuk memahami materi juga terbatas karena terdapat berbagai tugas, kuis, dan UTS yang semakin dekat.\nWinda menjelaskan bahwa salah satu hal yang paling membuatnya cemas adalah masih adanya materi yang belum sempat dipahami dengan baik. Di sisi lain, tugas-tugas yang diberikan tetap berjalan dan membutuhkan pemahaman terhadap materi tersebut.\nDari cerita Winda, saya menangkap beberapa fakta utama:\n\ntugas dan materi kuliah sedang terasa menumpuk;\nterdapat beberapa materi yang belum dipahami dengan baik;\ntugas dan tuntutan akademik tetap berjalan;\nterdapat kuis dan UTS yang semakin dekat;\nkondisi tersebut membuat Winda merasa kewalahan dan cemas.\n\nSaya berusaha membedakan isi cerita tersebut dari penilaian pribadi. Saya tidak menyimpulkan bahwa Winda malas atau tidak mampu hanya karena ia belum memahami materi. Saya berfokus terlebih dahulu pada apa yang memang disampaikan oleh Winda.\n\nEvidence 1\n\n\n\nBukti Winda menceritakan keresahan\n\n\nScreenshot ini menunjukkan Winda sebagai pembicara yang sedang menceritakan keresahannya mengenai tugas, materi kuliah, dan kecemasan yang sedang dialaminya.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
     ]
   },
   {
-    "objectID": "portfolio/week-03.html#konteks-performance",
-    "href": "portfolio/week-03.html#konteks-performance",
+    "objectID": "portfolio/week-03.html#tingkat-2-makna-parafrasa",
+    "href": "portfolio/week-03.html#tingkat-2-makna-parafrasa",
     "title": "Relationship Conversation",
-    "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "section": "2. Tingkat 2 — Makna: Parafrasa",
+    "text": "2. Tingkat 2 — Makna: Parafrasa\nSaya kemudian mencoba memperjelas bagian mana yang paling membuat Winda merasa kewalahan. Saya bertanya:\n\n“Tapi lu sekarang paling kerasa kewalahan di bagian mana win? Tugasnya yang numpuk, materi yang belum keburu paham, atau emang semuanya lagi berasa numpuk aja?”\n\nSaya mengajukan pertanyaan tersebut karena saya tidak ingin langsung menyimpulkan bahwa masalah utama Winda hanya berasal dari banyaknya tugas.\nDari respons Winda, saya memahami bahwa beberapa hal memang terasa menumpuk secara bersamaan, tetapi materi yang belum sempat dipahami menjadi salah satu bagian yang paling membuatnya cemas.\nDengan demikian, pemahaman saya terhadap cerita Winda adalah bahwa masalahnya bukan sekadar “tugasnya banyak”, tetapi terdapat hubungan antara banyaknya tuntutan akademik dengan perasaan belum memiliki pemahaman materi yang cukup.\nSaya menggunakan pemahaman tersebut sebagai dasar untuk melanjutkan percakapan, tetapi tetap menyadari bahwa interpretasi saya perlu dibedakan dari fakta yang secara langsung disampaikan Winda.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
     ]
   },
   {
-    "objectID": "portfolio/week-03.html#evidence",
-    "href": "portfolio/week-03.html#evidence",
+    "objectID": "portfolio/week-03.html#tingkat-3-pribadi-tebakan-emosi-kebutuhan",
+    "href": "portfolio/week-03.html#tingkat-3-pribadi-tebakan-emosi-kebutuhan",
     "title": "Relationship Conversation",
-    "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "section": "3. Tingkat 3 — Pribadi: Tebakan Emosi & Kebutuhan",
+    "text": "3. Tingkat 3 — Pribadi: Tebakan Emosi & Kebutuhan\n\nPerasaan Mitra\nBerdasarkan cara Winda menceritakan situasinya, saya menangkap kemungkinan adanya beberapa emosi:\n\nCemas, karena ada materi yang belum dipahami sementara tugas dan ujian semakin dekat.\nKewalahan, karena beberapa tuntutan akademik muncul dalam waktu yang berdekatan.\nFrustrasi, karena keinginan untuk memahami materi belum sejalan dengan kemampuan untuk mengejar seluruh materi yang tertinggal.\n\nSaya menggunakan kata “kemungkinan” karena saya menyadari bahwa saya tidak dapat mengetahui perasaan Winda hanya dari pengamatan saya. Perasaan tersebut tetap merupakan pengalaman Winda sendiri.\n\n\nKebutuhan/Nilai Mitra\nDari percakapan tersebut, saya menduga bahwa Winda mungkin membutuhkan:\n\nrasa lebih terarah dalam menghadapi tugas dan materi;\nkesempatan untuk memahami materi secara bertahap;\ndukungan dari orang terdekat;\ndan rasa bahwa situasinya masih dapat dihadapi tanpa harus menyelesaikan semuanya sekaligus.\n\nSaya menyadari bahwa kebutuhan tersebut merupakan interpretasi saya, bukan fakta yang dapat saya tentukan sendiri. Karena itu, saya perlu mengonfirmasi kebutuhan tersebut kepada Winda dan tidak menganggap dugaan saya sebagai kebenaran mutlak.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
     ]
   },
   {
-    "objectID": "portfolio/week-03.html#analisis-komunikasi",
-    "href": "portfolio/week-03.html#analisis-komunikasi",
+    "objectID": "portfolio/week-03.html#respons-pembicara-terhadap-pertanyaan-emas",
+    "href": "portfolio/week-03.html#respons-pembicara-terhadap-pertanyaan-emas",
     "title": "Relationship Conversation",
-    "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
+    "section": "4. Respons Pembicara terhadap Pertanyaan Emas",
+    "text": "4. Respons Pembicara terhadap Pertanyaan Emas\nSebelum memberikan pendapat, saya mencoba memastikan bentuk bantuan yang dibutuhkan Winda. Saya bertanya:\n\n“Win, sebelum gua kasih pendapat, gua mau ngerti dulu. Lu sekarang lebih butuh gua dengerin aja, bantu mikirin pilihan bareng, atau lu memang pengen gua kasih saran?”\n\nSaya mengajukan pertanyaan tersebut agar saya tidak langsung menganggap bahwa memberikan solusi merupakan bentuk bantuan yang paling tepat.\nJawaban langsung Winda terhadap pertanyaan tersebut tidak terdokumentasi dalam screenshot yang saya gunakan. Oleh karena itu, saya tidak menyimpulkan secara pasti pilihan yang diberikan Winda pada saat itu.\nNamun, pada percakapan berikutnya Winda mengatakan:\n\n“Btw makasih yaa saran lu di atas!”\n\nUcapan tersebut menunjukkan bahwa saran yang kemudian saya berikan diterima dan diapresiasi oleh Winda.\nDari pengalaman ini, saya belajar bahwa sebelum memberikan saran, saya perlu terlebih dahulu memeriksa kebutuhan lawan bicara. Dengan begitu, saya dapat memberikan bantuan yang lebih sesuai dengan kondisi dan keinginan orang tersebut.\n\nEvidence 2\n\n\n\nBukti Pertanyaan Emas\n\n\nScreenshot ini menunjukkan bahwa saya menanyakan bentuk bantuan yang dibutuhkan Winda sebelum memberikan pendapat.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
     ]
   },
   {
-    "objectID": "portfolio/week-03.html#penggunaan-ai",
-    "href": "portfolio/week-03.html#penggunaan-ai",
+    "objectID": "portfolio/week-03.html#momen-kehadiran-paling-berdampak",
+    "href": "portfolio/week-03.html#momen-kehadiran-paling-berdampak",
     "title": "Relationship Conversation",
-    "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
+    "section": "1. Momen Kehadiran Paling Berdampak",
+    "text": "1. Momen Kehadiran Paling Berdampak\nMenurut saya, salah satu momen ketika saya paling berusaha hadir dalam percakapan adalah ketika saya tidak langsung menentukan apa yang menjadi masalah utama Winda.\nSaya bertanya:\n\n“Tapi lu sekarang paling kerasa kewalahan di bagian mana win? Tugasnya yang numpuk, materi yang belum keburu paham, atau emang semuanya lagi berasa numpuk aja?”\n\nPertanyaan tersebut memberikan kesempatan kepada Winda untuk menjelaskan sendiri bagian yang paling membuatnya kewalahan.\nSaya juga berusaha menunjukkan perhatian terhadap kebutuhannya dengan bertanya sebelum memberikan pendapat:\n\n“Lu sekarang lebih butuh gua dengerin aja, bantu mikirin pilihan bareng, atau lu memang pengen gua kasih saran?”\n\nMenurut saya, kedua tindakan tersebut membantu saya berpindah dari sekadar mendengar isi cerita menjadi berusaha memahami pengalaman Winda dan bentuk dukungan yang mungkin ia butuhkan.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
     ]
   },
   {
-    "objectID": "portfolio/week-03.html#feedback-dan-tindak-lanjut",
-    "href": "portfolio/week-03.html#feedback-dan-tindak-lanjut",
+    "objectID": "portfolio/week-03.html#momen-asumsi-atau-buru-buru-memperbaiki",
+    "href": "portfolio/week-03.html#momen-asumsi-atau-buru-buru-memperbaiki",
     "title": "Relationship Conversation",
-    "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "section": "2. Momen Asumsi atau “Buru-buru Memperbaiki”",
+    "text": "2. Momen Asumsi atau “Buru-buru Memperbaiki”\nSaya menyadari bahwa saya masih memiliki kecenderungan untuk berpindah cukup cepat dari posisi pendengar menjadi pemberi solusi.\nSetelah Winda menjelaskan masalahnya, saya memberikan beberapa tanggapan dan saran mengenai cara menghadapi materi dan tugas yang sedang menumpuk.\nNiat saya adalah membantu, tetapi setelah melakukan refleksi, saya menyadari bahwa memberikan solusi tidak selalu merupakan bentuk bantuan yang paling dibutuhkan oleh seseorang.\nDalam situasi seperti ini, saya dapat saja merasa bahwa saya sedang membantu, padahal orang tersebut mungkin sebenarnya hanya ingin didengarkan atau ingin memproses masalahnya terlebih dahulu.\nKarena itu, saya mencoba memperbaiki kebiasaan tersebut dengan menanyakan bentuk bantuan yang diinginkan sebelum memberikan saran.\n\nEvidence 3\n\n\n\nBukti respons dan pemberian saran\n\n\nScreenshot ini menunjukkan bagian ketika saya memberikan tanggapan terhadap cerita Winda, mengajukan pertanyaan lanjutan, kemudian memberikan saran.\nEvidence ini juga menjadi bahan refleksi karena menunjukkan kecenderungan saya untuk masuk ke mode problem-solving setelah mendengarkan masalah orang lain.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
     ]
   },
   {
-    "objectID": "portfolio/week-03.html#self-assessment",
-    "href": "portfolio/week-03.html#self-assessment",
+    "objectID": "portfolio/week-03.html#refleksi-kebiasaan-otomatis",
+    "href": "portfolio/week-03.html#refleksi-kebiasaan-otomatis",
     "title": "Relationship Conversation",
-    "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "section": "1. Refleksi Kebiasaan Otomatis",
+    "text": "1. Refleksi Kebiasaan Otomatis\nDalam kehidupan sehari-hari, saya menyadari bahwa saya cukup sering menganggap bahwa membantu seseorang berarti memberikan solusi.\nKetika seseorang menceritakan masalahnya, saya cenderung langsung memikirkan apa yang dapat dilakukan untuk menyelesaikan masalah tersebut.\nPola tersebut juga muncul dalam percakapan dengan Winda. Setelah mendengar ceritanya mengenai tugas dan materi yang belum dipahami, saya mulai memberikan beberapa saran mengenai cara menghadapi situasi tersebut.\nMelalui latihan ini, saya menyadari bahwa mendengarkan dan memberikan solusi merupakan dua hal yang berbeda.\nSeseorang yang bercerita belum tentu sedang meminta solusi. Bisa jadi ia membutuhkan ruang untuk mengungkapkan apa yang sedang dirasakan atau membutuhkan seseorang yang benar-benar memahami situasinya.\nSaya juga menyadari bahwa menahan diri untuk tidak langsung memberikan solusi bukan berarti tidak membantu. Justru dengan mendengarkan terlebih dahulu, saya dapat memahami masalah dengan lebih utuh dan mengurangi kemungkinan memberikan respons yang tidak sesuai dengan kebutuhan lawan bicara.\nKarena itu, saya ingin membiasakan diri untuk memeriksa kebutuhan lawan bicara terlebih dahulu sebelum memberikan pendapat.",
+    "crumbs": [
+      "Beranda",
+      "Relationship Conversation"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-03.html#memahami-vs.-menyetujui",
+    "href": "portfolio/week-03.html#memahami-vs.-menyetujui",
+    "title": "Relationship Conversation",
+    "section": "2. Memahami vs. Menyetujui",
+    "text": "2. Memahami vs. Menyetujui\nSaya belajar bahwa memahami perasaan seseorang tidak berarti saya harus menyetujui seluruh tindakan atau cara berpikir orang tersebut.\nDalam percakapan dengan Winda, saya dapat memahami bahwa situasi tugas dan materi yang menumpuk dapat membuatnya merasa cemas dan kewalahan.\nMemahami perasaan tersebut tidak berarti saya harus mengatakan bahwa semua cara Winda menghadapi masalah sudah benar.\nSaya dapat mengakui bahwa perasaannya masuk akal berdasarkan situasi yang sedang ia hadapi, sambil tetap memberikan ruang kepada Winda untuk menentukan sendiri langkah yang ingin ia ambil.\nSaya juga menyadari bahwa ketika saya terlalu cepat memberikan solusi, saya dapat lebih fokus pada bagaimana masalah tersebut menurut saya seharusnya diselesaikan daripada memahami bagaimana masalah tersebut dialami oleh orang lain.\nKarena itu, bagi saya listening berarti berusaha memahami pengalaman lawan bicara tanpa buru-buru menggantikan sudut pandangnya dengan sudut pandang saya sendiri.",
+    "crumbs": [
+      "Beranda",
+      "Relationship Conversation"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-03.html#komitmen-langkah-pertumbuhan",
+    "href": "portfolio/week-03.html#komitmen-langkah-pertumbuhan",
+    "title": "Relationship Conversation",
+    "section": "3. Komitmen Langkah Pertumbuhan",
+    "text": "3. Komitmen Langkah Pertumbuhan\nDalam 14 hari ke depan, saya berkomitmen untuk melatih kebiasaan mendengarkan terlebih dahulu sebelum memberikan saran ketika keluarga atau sahabat menceritakan masalahnya.\nSaya akan menerapkan kebiasaan tersebut minimal 3 kali dalam 14 hari dengan langkah:\n\nTidak langsung memotong pembicaraan.\nMengajukan maksimal dua pertanyaan terbuka.\nMerangkum kembali apa yang saya pahami.\nMenyampaikan dugaan mengenai emosi atau kebutuhan secara tentatif.\nMenanyakan apakah lawan bicara ingin didengarkan, dibantu memikirkan pilihan, atau diberikan saran.\nMemberikan pendapat setelah mengetahui bentuk bantuan yang dibutuhkan.\n\nSaya akan mencatat secara singkat apakah saya berhasil menahan dorongan untuk langsung memberikan solusi.\nTarget ini saya pilih karena saya menyadari bahwa perubahan yang saya perlukan bukan berhenti memberikan saran, tetapi belajar memberikan saran pada waktu yang tepat dan setelah memastikan bahwa saran tersebut memang dibutuhkan.",
+    "crumbs": [
+      "Beranda",
+      "Relationship Conversation"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-03.html#sebelum-percakapan",
+    "href": "portfolio/week-03.html#sebelum-percakapan",
+    "title": "Relationship Conversation",
+    "section": "Sebelum Percakapan",
+    "text": "Sebelum Percakapan\nSebelum percakapan, saya dan Winda sudah memiliki hubungan pertemanan yang cukup terbuka sehingga Winda merasa nyaman menceritakan kesulitan perkuliahannya kepada saya.\nNamun, saya menyadari bahwa ketika teman menceritakan masalah, saya cenderung mengambil peran sebagai orang yang membantu dengan memberikan solusi.",
+    "crumbs": [
+      "Beranda",
+      "Relationship Conversation"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-03.html#selama-percakapan",
+    "href": "portfolio/week-03.html#selama-percakapan",
+    "title": "Relationship Conversation",
+    "section": "Selama Percakapan",
+    "text": "Selama Percakapan\nSelama percakapan, saya berusaha memahami terlebih dahulu bagian yang paling membuat Winda kewalahan.\nSaya mengajukan pertanyaan untuk memperjelas ceritanya dan kemudian menanyakan bentuk bantuan yang ia butuhkan sebelum memberikan pendapat.\nSetelah itu, saya tetap memberikan beberapa saran mengenai cara menghadapi materi dan tugas.\nDari proses tersebut, saya menyadari bahwa saya sudah mulai berusaha menghindari asumsi dengan memeriksa kebutuhan lawan bicara, tetapi saya masih perlu melatih kemampuan untuk lebih lama berada dalam posisi mendengarkan sebelum masuk ke mode problem-solving.",
+    "crumbs": [
+      "Beranda",
+      "Relationship Conversation"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-03.html#setelah-percakapan",
+    "href": "portfolio/week-03.html#setelah-percakapan",
+    "title": "Relationship Conversation",
+    "section": "Setelah Percakapan",
+    "text": "Setelah Percakapan\nSetelah percakapan, Winda mengatakan:\n\n“Btw makasih yaa saran lu di atas!”\n\nRespons tersebut menunjukkan bahwa saran yang saya berikan diterima dan diapresiasi oleh Winda.\nSelain itu, saya memperoleh pemahaman baru mengenai pola komunikasi saya sendiri. Saya menyadari bahwa keinginan untuk membantu dapat membuat saya terlalu cepat memberikan solusi.\nPerubahan yang saya rasakan bukan hanya pada cara saya merespons Winda, tetapi juga pada kesadaran bahwa relationship awareness berarti memahami kebutuhan orang lain sebelum menentukan bentuk bantuan yang akan diberikan.",
+    "crumbs": [
+      "Beranda",
+      "Relationship Conversation"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-03.html#evidence-1-winda-sebagai-pembicara",
+    "href": "portfolio/week-03.html#evidence-1-winda-sebagai-pembicara",
+    "title": "Relationship Conversation",
+    "section": "Evidence 1 — Winda sebagai Pembicara",
+    "text": "Evidence 1 — Winda sebagai Pembicara\n\n\n\nBukti Winda menceritakan keresahan\n\n\nScreenshot ini menunjukkan Winda sebagai pembicara yang sedang menceritakan keresahannya mengenai tugas, materi kuliah, dan kecemasan yang sedang dialaminya.\nEvidence ini menjadi dasar untuk memahami konteks percakapan serta menganalisis isi literal dan makna dari cerita yang disampaikan.",
+    "crumbs": [
+      "Beranda",
+      "Relationship Conversation"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-03.html#evidence-2-mengecek-kebutuhan-pembicara",
+    "href": "portfolio/week-03.html#evidence-2-mengecek-kebutuhan-pembicara",
+    "title": "Relationship Conversation",
+    "section": "Evidence 2 — Mengecek Kebutuhan Pembicara",
+    "text": "Evidence 2 — Mengecek Kebutuhan Pembicara\n\n\n\nBukti pertanyaan mengenai kebutuhan bantuan\n\n\nSebelum memberikan pendapat, saya menanyakan:\n\n“Win, sebelum gua kasih pendapat, gua mau ngerti dulu. Lu sekarang lebih butuh gua dengerin aja, bantu mikirin pilihan bareng, atau lu memang pengen gua kasih saran?”\n\nPertanyaan ini menunjukkan usaha saya untuk memastikan bentuk bantuan yang dibutuhkan sebelum memberikan solusi.\nSaya tidak mencantumkan jawaban Winda karena jawaban langsung terhadap pertanyaan tersebut tidak terlihat dalam evidence yang saya gunakan.",
+    "crumbs": [
+      "Beranda",
+      "Relationship Conversation"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-03.html#evidence-3-respons-pendalaman-dan-saran",
+    "href": "portfolio/week-03.html#evidence-3-respons-pendalaman-dan-saran",
+    "title": "Relationship Conversation",
+    "section": "Evidence 3 — Respons, Pendalaman, dan Saran",
+    "text": "Evidence 3 — Respons, Pendalaman, dan Saran\n\n\n\nBukti respons dan pemberian saran\n\n\nScreenshot ini menunjukkan saya memberikan tanggapan terhadap cerita Winda, mengajukan pertanyaan lanjutan, dan kemudian memberikan saran.\nEvidence ini menunjukkan kemampuan saya untuk merespons isi cerita, sekaligus memperlihatkan area yang masih perlu saya kembangkan, yaitu menahan dorongan untuk terlalu cepat masuk ke tahap penyelesaian masalah.",
+    "crumbs": [
+      "Beranda",
+      "Relationship Conversation"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-03.html#evidence-4-pertukaran-peran",
+    "href": "portfolio/week-03.html#evidence-4-pertukaran-peran",
+    "title": "Relationship Conversation",
+    "section": "Evidence 4 — Pertukaran Peran",
+    "text": "Evidence 4 — Pertukaran Peran\n\n\n\nBukti pertukaran peran\n\n\nSetelah Winda bercerita, peran dalam percakapan kemudian ditukar. Saya menjadi pembicara dan Winda memberikan tanggapan terhadap cerita saya.\nPada bagian percakapan tersebut, Winda memberikan respons:\n\n“Btw makasih yaa saran lu di atas!”\n\nEvidence ini menunjukkan bahwa latihan dilakukan secara timbal balik dan tidak hanya berlangsung satu arah.\nBagian ini juga menjadi pengingat bahwa komunikasi interpersonal melibatkan kemampuan untuk berganti posisi antara menjadi pembicara dan menjadi pendengar.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
@@ -5055,95 +5264,161 @@
     "href": "portfolio/week-05.html",
     "title": "Professional Discovery Interview",
     "section": "",
-    "text": "Mendengar sebelum proposing dan membangun shared problem statement dengan person.",
+    "text": "Nama Praktikan: Grasella\nTanggal Pelaksanaan: 27 September 2026\nDurasi Wawancara: ± 20 menit\nNarasumber: Narasumber A\nPeran Narasumber: Mahasiswa dan anggota/koordinator kelompok proyek\nDomain Relasi: Profesional/Akademik\nMedia: Percakapan langsung Perekaman: Tidak dilakukan",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
     ]
   },
   {
-    "objectID": "portfolio/week-05.html#kompetensi-target",
-    "href": "portfolio/week-05.html#kompetensi-target",
+    "objectID": "portfolio/week-05.html#identitas",
+    "href": "portfolio/week-05.html#identitas",
     "title": "Professional Discovery Interview",
     "section": "",
-    "text": "Mendengar sebelum proposing dan membangun shared problem statement dengan person.",
+    "text": "Nama Praktikan: Grasella\nTanggal Pelaksanaan: 27 September 2026\nDurasi Wawancara: ± 20 menit\nNarasumber: Narasumber A\nPeran Narasumber: Mahasiswa dan anggota/koordinator kelompok proyek\nDomain Relasi: Profesional/Akademik\nMedia: Percakapan langsung Perekaman: Tidak dilakukan",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
     ]
   },
   {
-    "objectID": "portfolio/week-05.html#evidence-wajib",
-    "href": "portfolio/week-05.html#evidence-wajib",
+    "objectID": "portfolio/week-05.html#pertanyaan-1-apa-yang-sebenarnya-sedang-terjadi",
+    "href": "portfolio/week-05.html#pertanyaan-1-apa-yang-sebenarnya-sedang-terjadi",
     "title": "Professional Discovery Interview",
-    "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nInitial assumption dan pertanyaan discovery.\nTranscript/paraphrase serta problem impact dan constraint.\nShared problem statement yang dikonfirmasi partner.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 5 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "section": "Pertanyaan 1 — Apa yang sebenarnya sedang terjadi?",
+    "text": "Pertanyaan 1 — Apa yang sebenarnya sedang terjadi?\nPertanyaan:\n\n“Kalau dari pengalaman lu, sebenarnya hal apa yang paling sering bikin koordinasi tugas kelompok jadi susah?”\n\n\nCatatan hasil wawancara\nNarasumber menjelaskan bahwa salah satu masalah yang sering terjadi adalah progress pekerjaan tidak selalu diketahui oleh anggota lain secara berkala.\nPembagian tugas sebenarnya sudah dilakukan, tetapi setelah pembagian tersebut masing-masing anggota mengerjakan bagiannya sendiri.\nMasalah mulai muncul ketika ada anggota yang ternyata belum dapat melanjutkan pekerjaannya atau mengalami kendala, tetapi informasi tersebut baru diketahui ketika waktu pengerjaan sudah cukup dekat dengan deadline.\nNarasumber memberikan gambaran bahwa masalahnya bukan selalu karena seseorang tidak mengerjakan tugas, tetapi karena status pekerjaan dan hambatan yang dialami tidak selalu dikomunikasikan sejak awal.\n\n\nPemahaman saya\nSaya mulai melihat bahwa asumsi awal saya mengenai “anggota kurang disiplin” terlalu sederhana.\nKeadaan yang terlihat dari luar sebagai keterlambatan belum tentu berarti seseorang tidak bertanggung jawab. Ada kemungkinan pekerjaan sedang dilakukan tetapi terdapat hambatan yang belum dikomunikasikan.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
     ]
   },
   {
-    "objectID": "portfolio/week-05.html#konteks-performance",
-    "href": "portfolio/week-05.html#konteks-performance",
+    "objectID": "portfolio/week-05.html#bagaimana-saya-menahan-ego-untuk-tidak-langsung-menawarkan-solusi",
+    "href": "portfolio/week-05.html#bagaimana-saya-menahan-ego-untuk-tidak-langsung-menawarkan-solusi",
     "title": "Professional Discovery Interview",
-    "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "section": "1. Bagaimana saya menahan ego untuk tidak langsung menawarkan solusi?",
+    "text": "1. Bagaimana saya menahan ego untuk tidak langsung menawarkan solusi?\nPada awalnya, saya cukup mudah berpikir tentang solusi karena masalah koordinasi kelompok dekat dengan pengalaman saya sebagai mahasiswa. Saya bahkan sempat berpikir bahwa masalah tersebut dapat diselesaikan dengan membuat sistem monitoring atau mekanisme update progress. Namun, selama wawancara saya sengaja kembali ke pertanyaan tentang keadaan, dampak, kebutuhan, dan kendala. Dengan cara tersebut, saya dapat menahan keinginan untuk langsung membuat solusi sebelum memahami masalah. Saya belajar bahwa kemampuan discovery bukan menunjukkan seberapa cepat saya menemukan jawaban, tetapi seberapa baik saya memahami pertanyaan yang sebenarnya perlu dijawab.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
     ]
   },
   {
-    "objectID": "portfolio/week-05.html#evidence",
-    "href": "portfolio/week-05.html#evidence",
+    "objectID": "portfolio/week-05.html#asumsi-apa-yang-berubah",
+    "href": "portfolio/week-05.html#asumsi-apa-yang-berubah",
     "title": "Professional Discovery Interview",
-    "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "section": "2. Asumsi apa yang berubah?",
+    "text": "2. Asumsi apa yang berubah?\nAsumsi terbesar saya adalah bahwa keterlambatan progress terutama disebabkan oleh anggota yang kurang disiplin. Setelah mendengar penjelasan narasumber, saya memahami bahwa keterlambatan informasi dapat terjadi karena jadwal yang berbeda, tugas lain, keterbatasan waktu koordinasi, atau karena seseorang belum menyadari bahwa kendalanya akan berdampak pada anggota lain. Saya jadi melihat bahwa masalah komunikasi tidak selalu berarti seseorang tidak peduli atau tidak bertanggung jawab. Ada konteks yang perlu dipahami sebelum memberikan penilaian.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
     ]
   },
   {
-    "objectID": "portfolio/week-05.html#analisis-komunikasi",
-    "href": "portfolio/week-05.html#analisis-komunikasi",
+    "objectID": "portfolio/week-05.html#janji-kecil-apa-yang-dapat-menjaga-kepercayaan",
+    "href": "portfolio/week-05.html#janji-kecil-apa-yang-dapat-menjaga-kepercayaan",
     "title": "Professional Discovery Interview",
-    "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
+    "section": "3. Janji kecil apa yang dapat menjaga kepercayaan?",
+    "text": "3. Janji kecil apa yang dapat menjaga kepercayaan?\nSaya ingin menjaga kepercayaan narasumber dengan tidak mengubah hasil wawancara menjadi solusi yang tidak pernah ia katakan. Jika saya mengembangkan ide dari problem statement ini, saya akan terlebih dahulu menunjukkan kembali hasilnya kepada narasumber dan memastikan bahwa interpretasi saya masih sesuai dengan pengalaman yang ia ceritakan. Dengan demikian, narasumber tetap memiliki ruang untuk mengoreksi saya. Bagi saya, tindakan kecil tersebut penting karena discovery bukan hanya tentang memperoleh informasi, tetapi juga tentang menghargai orang yang membagikan pengalamannya.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
     ]
   },
   {
-    "objectID": "portfolio/week-05.html#penggunaan-ai",
-    "href": "portfolio/week-05.html#penggunaan-ai",
+    "objectID": "portfolio/week-05.html#listening",
+    "href": "portfolio/week-05.html#listening",
     "title": "Professional Discovery Interview",
-    "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
+    "section": "1. Listening",
+    "text": "1. Listening\nSelama wawancara, saya berusaha menggunakan pertanyaan terbuka terlebih dahulu sebelum menyimpulkan masalah.\nSaya tidak langsung mengatakan:\n\n“Berarti masalahnya anggota kelompok lu malas update, ya?”\n\nSebaliknya, saya bertanya:\n\n“Kalau dari pengalaman lu, sebenarnya hal apa yang paling sering bikin koordinasi tugas kelompok jadi susah?”\n\nPerbedaan tersebut penting karena pertanyaan pertama sudah mengandung asumsi, sedangkan pertanyaan kedua memberikan ruang bagi narasumber untuk menjelaskan masalah menurut pengalamannya sendiri.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
     ]
   },
   {
-    "objectID": "portfolio/week-05.html#feedback-dan-tindak-lanjut",
-    "href": "portfolio/week-05.html#feedback-dan-tindak-lanjut",
+    "objectID": "portfolio/week-05.html#separating-facts-and-interpretation",
+    "href": "portfolio/week-05.html#separating-facts-and-interpretation",
     "title": "Professional Discovery Interview",
-    "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "section": "2. Separating Facts and Interpretation",
+    "text": "2. Separating Facts and Interpretation\nSaya juga berusaha membedakan antara fakta yang disampaikan narasumber dan interpretasi saya.\nContohnya:\nFakta: - progress tidak selalu diperbarui; - beberapa kendala baru diketahui mendekati deadline; - jadwal anggota berbeda; - anggota memiliki tugas lain.\nInterpretasi awal saya: - anggota mungkin kurang disiplin.\nSetelah melakukan discovery, saya menyadari bahwa interpretasi awal tersebut tidak cukup didukung oleh informasi yang saya miliki.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
     ]
   },
   {
-    "objectID": "portfolio/week-05.html#self-assessment",
-    "href": "portfolio/week-05.html#self-assessment",
+    "objectID": "portfolio/week-05.html#problem-before-solution",
+    "href": "portfolio/week-05.html#problem-before-solution",
     "title": "Professional Discovery Interview",
-    "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "section": "3. Problem Before Solution",
+    "text": "3. Problem Before Solution\nSalah satu pembelajaran utama dari latihan ini adalah membedakan:\n\n“Apa masalahnya?”\n\ndengan\n\n“Apa yang menurut saya bisa dibuat?”\n\nSaya sebagai mahasiswa yang belajar di bidang teknologi cukup mudah berpikir dalam bentuk sistem atau aplikasi.\nNamun, discovery mengajarkan saya bahwa teknologi seharusnya tidak menjadi titik awal ketika kebutuhan pengguna belum dipahami.\nSaya perlu mengetahui keadaan, dampak, kebutuhan, dan constraint terlebih dahulu.",
+    "crumbs": [
+      "Beranda",
+      "Professional Discovery Interview"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-05.html#evidence-1-initial-assumption",
+    "href": "portfolio/week-05.html#evidence-1-initial-assumption",
+    "title": "Professional Discovery Interview",
+    "section": "Evidence 1 — Initial Assumption",
+    "text": "Evidence 1 — Initial Assumption\nSebelum wawancara, saya mencatat asumsi:\n\n“Masalah koordinasi kelompok terutama terjadi karena anggota kurang disiplin atau kurang aktif memberikan progress.”\n\nCatatan ini digunakan sebagai pembanding untuk melihat apakah asumsi saya berubah setelah mendengarkan narasumber.",
+    "crumbs": [
+      "Beranda",
+      "Professional Discovery Interview"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-05.html#evidence-2-discovery-questions",
+    "href": "portfolio/week-05.html#evidence-2-discovery-questions",
+    "title": "Professional Discovery Interview",
+    "section": "Evidence 2 — Discovery Questions",
+    "text": "Evidence 2 — Discovery Questions\nSaya menggunakan lima pertanyaan utama:\n\nApa yang sebenarnya sedang terjadi?\nMengapa keadaan tersebut menjadi masalah?\nSiapa saja yang terdampak?\nKeadaan seperti apa yang lebih baik?\nApa saja kendalanya?\n\nSaya menambahkan dua pertanyaan pendalaman untuk memperjelas kebutuhan narasumber.",
+    "crumbs": [
+      "Beranda",
+      "Professional Discovery Interview"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-05.html#evidence-3-catatan-hasil-wawancara",
+    "href": "portfolio/week-05.html#evidence-3-catatan-hasil-wawancara",
+    "title": "Professional Discovery Interview",
+    "section": "Evidence 3 — Catatan Hasil Wawancara",
+    "text": "Evidence 3 — Catatan Hasil Wawancara\nHasil wawancara menunjukkan bahwa masalah yang muncul bukan sekadar keterlambatan tugas.\nHal yang lebih spesifik adalah:\n\nprogress tidak selalu diketahui;\nhambatan tidak selalu dikomunikasikan sejak awal;\nperbedaan jadwal membuat koordinasi tidak selalu mudah;\nwaktu untuk membantu menjadi terbatas ketika masalah diketahui terlambat;\npekerjaan satu anggota dapat memengaruhi pekerjaan anggota lainnya.",
+    "crumbs": [
+      "Beranda",
+      "Professional Discovery Interview"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-05.html#evidence-4-perubahan-problem-statement",
+    "href": "portfolio/week-05.html#evidence-4-perubahan-problem-statement",
+    "title": "Professional Discovery Interview",
+    "section": "Evidence 4 — Perubahan Problem Statement",
+    "text": "Evidence 4 — Perubahan Problem Statement\n\nDraft 1\n\n“Mahasiswa mengalami kesulitan mengetahui perkembangan pekerjaan anggota lain sehingga keterlambatan atau hambatan baru diketahui ketika waktu untuk membantu dan melakukan revisi sudah terbatas.”\n\n\n\nSetelah Konfirmasi\nNarasumber menambahkan bahwa masalah tidak hanya terletak pada progress, tetapi juga pada kapan hambatan dikomunikasikan.\n\n\nDraft 2\n\n“Anggota atau koordinator proyek kelompok mengalami keterlambatan mengetahui ketika suatu pekerjaan mulai terhambat, terutama ketika pembagian tugas sudah dilakukan tetapi perkembangan dan kendala tidak selalu dikomunikasikan sejak awal…”\n\nPerubahan tersebut menunjukkan bahwa problem statement tidak hanya berasal dari interpretasi saya, tetapi diperbaiki berdasarkan klarifikasi narasumber.",
+    "crumbs": [
+      "Beranda",
+      "Professional Discovery Interview"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-05.html#feedback-dari-narasumber",
+    "href": "portfolio/week-05.html#feedback-dari-narasumber",
+    "title": "Professional Discovery Interview",
+    "section": "Feedback dari Narasumber",
+    "text": "Feedback dari Narasumber\nFeedback utama yang saya terima adalah bahwa rumusan awal saya masih terlalu berfokus pada “progress pekerjaan”.\nNarasumber membantu memperjelas bahwa masalah yang dirasakan bukan hanya tidak mengetahui progress, tetapi juga terlambat mengetahui adanya hambatan.\nHal tersebut membuat saya memperbaiki Draft 1 menjadi Draft 2.",
+    "crumbs": [
+      "Beranda",
+      "Professional Discovery Interview"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-05.html#tindak-lanjut",
+    "href": "portfolio/week-05.html#tindak-lanjut",
+    "title": "Professional Discovery Interview",
+    "section": "Tindak Lanjut",
+    "text": "Tindak Lanjut\nJika saya ingin melanjutkan discovery ini, saya tidak akan langsung membuat sistem.\nLangkah berikutnya adalah melakukan discovery tambahan kepada beberapa anggota kelompok lain untuk melihat apakah problem statement tersebut juga muncul pada pengalaman mereka.\nDengan demikian, saya dapat mengetahui apakah masalah yang ditemukan merupakan pengalaman individual atau pola yang lebih luas.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
