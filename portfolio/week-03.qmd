@@ -4,12 +4,14 @@ week: 3
 status: "Siap dinilai"
 self_score: "100/100"
 assessor_score: "—"
-description: "Latihan mendengarkan aktif melalui percakapan dengan sahabat dengan fokus pada tiga tingkat listening, klarifikasi kebutuhan, adaptasi respons, validasi emosi, dan penghormatan terhadap otonomi lawan bicara."
+description: "Refleksi latihan mendengarkan secara aktif melalui percakapan dengan sahabat, dengan fokus pada tiga tingkat listening, Pertanyaan Emas, pembacaan emosi dan kebutuhan, adaptasi respons, serta kesadaran terhadap kecenderungan memberikan solusi."
 categories: [Fondasi, Relationship]
 ---
 
 # Lembar Kerja Bab 03
 ## Relationship Conversation
+
+## Identitas
 
 **Nama Praktikan:** Grasella
 
@@ -23,623 +25,708 @@ categories: [Fondasi, Relationship]
 
 Latihan ini bertujuan untuk melatih kemampuan mendengarkan secara aktif dalam percakapan interpersonal.
 
-Saya berlatih untuk tidak langsung memberikan solusi ketika seseorang bercerita, tetapi terlebih dahulu:
+Saya berlatih untuk:
 
-1. mendengarkan isi pembicaraan;
-2. memahami makna di balik cerita;
-3. mengenali kemungkinan emosi dan kebutuhan;
-4. membedakan fakta dari interpretasi;
-5. mengajukan pertanyaan untuk memperjelas;
-6. menggunakan Pertanyaan Emas untuk mengetahui bentuk bantuan yang dibutuhkan;
-7. menyesuaikan respons berdasarkan kebutuhan lawan bicara;
-8. memvalidasi pengalaman tanpa mengambil alih keputusan lawan bicara.
+1. membedakan tiga tingkat listening, yaitu **Kata, Makna, dan Pribadi**;
+2. memahami isi pembicaraan tanpa langsung memberikan penilaian;
+3. mengenali kemungkinan emosi dan kebutuhan di balik cerita;
+4. menggunakan **Pertanyaan Emas** sebelum menentukan bentuk bantuan;
+5. membedakan antara memahami dan menyetujui;
+6. membaca respons verbal dan nonverbal lawan bicara;
+7. menyesuaikan respons berdasarkan informasi yang diberikan lawan bicara;
+8. menyadari kecenderungan otomatis saya untuk langsung memberikan solusi.
 
-Prinsip yang saya gunakan dalam latihan ini adalah:
+Prinsip utama yang saya gunakan dalam latihan ini adalah:
 
-> **Dengar → Pahami → Klarifikasi → Cek Kebutuhan → Adaptasi Respons.**
-
-Saya juga belajar bahwa **mendengarkan dan memberikan saran tidak selalu bertentangan**. Saran dapat diberikan apabila memang merupakan bentuk bantuan yang diinginkan oleh lawan bicara.
+> **Saya tidak harus langsung memperbaiki masalah seseorang untuk menunjukkan bahwa saya peduli. Saya perlu memahami terlebih dahulu apa yang sedang dialami dan bantuan seperti apa yang sebenarnya dibutuhkan.**
 
 ---
 
-# BAGIAN A — TIGA TINGKAT LISTENING
+# BAGIAN A — CATATAN PENDENGAR
 
 ## 1. Tingkat 1 — Kata
 
-Pada awal percakapan, Winda menceritakan mengenai kondisi perkuliahannya yang sedang terasa berat.
+Winda menceritakan kondisi perkuliahannya yang sedang terasa berat.
 
-Ia membicarakan tugas dan materi kuliah yang menumpuk, sementara waktu untuk memahami materi juga terbatas karena terdapat berbagai tuntutan akademik seperti kuis dan UTS.
+Ia bercerita mengenai tugas dan materi kuliah yang semakin menumpuk, sementara waktu untuk memahami materi juga terbatas karena terdapat berbagai tuntutan akademik seperti tugas, kuis, dan UTS yang semakin dekat.
 
-Dari cerita Winda, saya menangkap beberapa informasi utama:
+Dari isi literal cerita Winda, saya menangkap beberapa hal:
 
-- terdapat tugas dan materi kuliah yang perlu diselesaikan;
+- terdapat beberapa tugas dan materi yang harus dikerjakan;
 - terdapat materi yang belum dipahami dengan baik;
-- tuntutan akademik datang dalam waktu yang berdekatan;
-- terdapat kuis dan UTS;
-- kondisi tersebut membuat Winda merasa kewalahan.
+- tuntutan akademik tetap berjalan;
+- terdapat kuis dan UTS yang semakin dekat;
+- kondisi tersebut membuat Winda merasa kewalahan dan cemas.
 
-Pada tahap ini saya berusaha membatasi diri pada hal-hal yang benar-benar disampaikan.
+Pada tingkat pertama, saya berusaha tidak langsung memberikan penilaian terhadap kondisi tersebut.
 
-Saya tidak langsung menyimpulkan bahwa:
+Saya tidak menyimpulkan:
 
-- Winda tidak bisa mengatur waktu;
-- Winda kurang belajar;
-- Winda tidak mampu menghadapi tugas;
-- atau Winda tidak bertanggung jawab.
+> "Winda kurang pintar."
 
-Hal-hal tersebut merupakan interpretasi yang belum tentu benar.
+Saya juga tidak menyimpulkan:
 
-### Evidence 1
+> "Winda tidak bisa mengatur waktu."
 
-![Bukti Winda menceritakan keresahan](evidence/week-03/bukti-01-winda-cerita.png)
+Saya hanya berusaha memahami apa yang benar-benar disampaikan.
 
-Evidence ini menunjukkan konteks awal percakapan ketika Winda menceritakan keresahannya mengenai tugas, materi, dan kondisi akademiknya.
+### Mengapa ini penting?
 
-Evidence ini digunakan sebagai bukti bahwa saya berada pada posisi sebagai pendengar ketika Winda menceritakan situasinya.
+Jika saya langsung memberikan kesimpulan tentang penyebab masalah, saya berisiko mendengarkan berdasarkan asumsi saya sendiri, bukan berdasarkan informasi yang diberikan Winda.
+
+Karena itu, tahap pertama saya gunakan untuk menjawab:
+
+> **"Apa yang sebenarnya dikatakan oleh Winda?"**
+
+bukan:
+
+> **"Menurut saya, apa penyebab masalah Winda?"**
 
 ---
 
 # 2. Tingkat 2 — Makna
 
-Setelah mendengarkan cerita Winda, saya menyadari bahwa masalahnya mungkin tidak sesederhana “tugasnya banyak”.
+Setelah memahami isi literalnya, saya mencoba memahami makna yang lebih dalam dari cerita Winda.
 
-Karena itu, saya mengajukan pertanyaan:
+Saya menangkap bahwa masalah yang diceritakan Winda bukan sekadar banyaknya tugas.
 
-> “Tapi lu sekarang paling kerasa kewalahan di bagian mana win? Tugasnya yang numpuk, materi yang belum keburu paham, atau emang semuanya lagi berasa numpuk aja?”
+Ada tekanan karena beberapa tuntutan akademik terjadi secara bersamaan, sementara masih ada materi yang belum dipahami dengan baik.
 
-Pertanyaan tersebut saya gunakan untuk memperjelas makna dari cerita Winda.
+Dengan demikian, saya memahami maknanya sebagai:
 
-Saya memberikan beberapa kemungkinan agar Winda dapat menjelaskan sendiri bagian mana yang paling terasa berat baginya.
+> **Winda sedang berusaha menghadapi beberapa tuntutan akademik sekaligus, tetapi merasa kapasitas waktu dan pemahamannya tidak cukup untuk mengimbangi semua tuntutan tersebut.**
 
-Dari percakapan tersebut, saya memahami bahwa situasi yang dialami Winda berkaitan dengan beberapa tuntutan akademik yang datang bersamaan, termasuk tugas dan materi yang belum sempat dipahami dengan baik.
+Saya sengaja menggunakan kata **"menangkap"** dan bukan **"menyimpulkan bahwa"**, karena saya menyadari bahwa interpretasi saya masih perlu dikonfirmasi oleh Winda.
 
-Karena itu, saya tidak menyederhanakan masalahnya menjadi:
+Saya tidak ingin mengubah pemahaman saya menjadi fakta sebelum mendapat konfirmasi.
 
-> “Winda cuma punya terlalu banyak tugas.”
+### Perbedaan Tingkat 1 dan Tingkat 2
 
-Saya memahaminya sebagai:
+| Tingkat | Fokus | Hasil pemahaman saya |
+|---|---|---|
+| Tingkat 1 — Kata | Apa yang dikatakan | Tugas dan materi kuliah sedang menumpuk |
+| Tingkat 2 — Makna | Apa arti situasi tersebut bagi Winda | Beberapa tuntutan akademik datang bersamaan sehingga ia merasa kewalahan |
 
-> **Winda sedang menghadapi beberapa tuntutan akademik secara bersamaan, sementara masih terdapat materi yang belum sempat dipahami dengan baik sehingga membuatnya merasa kewalahan.**
+Perbedaan ini membantu saya menyadari bahwa mendengarkan bukan sekadar mengingat kata-kata.
 
-Namun, saya tetap membedakan antara informasi yang disampaikan Winda dan interpretasi saya terhadap makna cerita tersebut.
+Saya juga perlu memahami konteks dan makna di balik kata-kata tersebut.
 
 ---
 
 # 3. Tingkat 3 — Pribadi
 
-Pada tingkat ketiga, saya mencoba memahami pengalaman Winda sebagai pribadi, bukan hanya memahami daftar tugas yang sedang dihadapinya.
+Pada tingkat ketiga, saya mencoba memahami pengalaman Winda sebagai pribadi, bukan hanya masalah akademiknya.
 
-Dari cara Winda menceritakan situasinya, saya menangkap kemungkinan adanya beberapa emosi seperti:
+Saya melihat bahwa di balik cerita mengenai tugas dan materi terdapat pengalaman emosional berupa:
 
-- cemas;
-- kewalahan;
-- frustrasi;
-- tertekan.
+- kecemasan;
+- rasa kewalahan;
+- tekanan karena waktu;
+- kekhawatiran terhadap tuntutan akademik yang semakin dekat.
 
-Saya menggunakan kata **“kemungkinan”** karena saya menyadari bahwa saya tidak dapat mengetahui kondisi emosional orang lain secara pasti hanya berdasarkan pengamatan.
+Saya juga menyadari bahwa saya tidak boleh langsung menganggap bahwa kebutuhan Winda adalah "mencari solusi".
 
-Dengan demikian, saya belajar bahwa:
+Orang yang sedang bercerita mungkin membutuhkan hal yang berbeda:
 
-> **Saya dapat menangkap kemungkinan emosi seseorang, tetapi orang tersebut tetap memiliki otoritas atas pengalaman emosinya sendiri.**
+- didengarkan;
+- dibantu memahami pilihan;
+- divalidasi;
+- atau baru kemudian diberikan saran.
 
-Saya juga memperkirakan bahwa Winda mungkin membutuhkan:
+Karena itu, saya tidak ingin mengambil keputusan atas nama Winda mengenai bantuan yang seharusnya saya berikan.
 
-- seseorang yang mau mendengarkan;
-- ruang untuk menjelaskan situasinya;
-- bantuan untuk memikirkan situasi;
-- atau saran mengenai apa yang dapat dilakukan.
-
-Namun, saya tidak ingin menentukan sendiri kebutuhan Winda.
-
-Hal inilah yang kemudian membuat saya menggunakan **Pertanyaan Emas**.
+Saya perlu bertanya.
 
 ---
 
 # BAGIAN B — PERTANYAAN EMAS
 
-## 1. Mengecek Kebutuhan Sebelum Memberikan Pendapat
+## Pertanyaan yang Saya Gunakan
 
-Sebelum memberikan pendapat, saya bertanya:
+Sebelum memberikan pendapat, saya mengatakan kepada Winda:
 
-> “Win, sebelum gua kasih pendapat, gua mau ngerti dulu. Lu sekarang lebih butuh gua dengerin aja, bantu mikirin pilihan bareng, atau lu memang pengen gua kasih saran?”
+> **"Win, sebelum gua kasih pendapat, gua mau ngerti dulu. Lu sekarang lebih butuh gua dengerin aja, bantu mikirin pilihan bareng, atau lu memang pengen gua kasih saran?"**
 
-Saya sengaja memberikan tiga kemungkinan bentuk bantuan:
+Saya menggunakan pertanyaan ini karena saya menyadari bahwa saya tidak boleh menentukan bentuk bantuan berdasarkan asumsi saya sendiri.
+
+Pertanyaan tersebut memberikan tiga pilihan:
 
 1. didengarkan;
 2. dibantu memikirkan pilihan;
 3. diberikan saran.
 
-Tujuan saya bukan sekadar menanyakan pertanyaan tersebut, tetapi memastikan bahwa saya tidak langsung mengasumsikan bentuk bantuan yang dibutuhkan Winda.
+Dengan demikian, Winda memiliki kendali untuk menentukan bentuk interaksi yang ia butuhkan.
 
 ---
 
-## 2. Jawaban Winda
+# 1. Jawaban Winda
 
-Winda kemudian menyampaikan bahwa ia ingin **didengarkan sekaligus mendapatkan saran**.
+Winda menjawab bahwa ia ingin:
 
-Jawaban tersebut menjadi informasi penting bagi saya karena saya sekarang memiliki dasar untuk menentukan cara merespons.
+> **didengarkan sekaligus mendapatkan saran.**
 
-Saya tidak perlu memilih antara:
+Informasi ini menjadi titik penting dalam percakapan karena jawaban Winda secara langsung mengubah cara saya menentukan respons.
 
-> “hanya mendengarkan”
+Sebelum bertanya, saya belum mengetahui apakah saran akan membantu atau justru terasa seperti terlalu cepat menyelesaikan masalah.
 
-atau
+Setelah bertanya, saya memperoleh informasi yang lebih jelas:
 
-> “langsung memberikan saran”.
-
-Sebaliknya, saya memahami bahwa kebutuhan Winda pada saat itu adalah **mendapatkan ruang untuk didengarkan sekaligus memperoleh saran setelah ceritanya dipahami**.
+> **Winda membutuhkan ruang untuk didengarkan, tetapi juga terbuka terhadap saran setelah ceritanya dipahami.**
 
 ---
 
-## 3. Adaptasi Berdasarkan Jawaban Winda
+# 2. Adaptasi Respons Berdasarkan Jawaban
 
-Jawaban Winda kemudian saya gunakan untuk menyesuaikan respons.
+Jawaban Winda membuat saya tidak memilih salah satu ekstrem.
 
-Saya melakukan dua hal secara berurutan:
+Saya tidak hanya mendengarkan tanpa memberikan respons sama sekali.
 
-### Pertama — Mendengarkan
+Saya juga tidak langsung memberikan saran sejak awal.
 
-Saya tetap memberikan ruang bagi Winda untuk menjelaskan situasinya dan tidak langsung memotong cerita dengan solusi.
+Saya memilih urutan:
 
-Saya berusaha memahami:
+> **Dengarkan → Pahami konteks → Pastikan kebutuhan → Berikan saran.**
 
-- apa yang sedang ia hadapi;
-- bagian mana yang paling membuatnya kewalahan;
-- bagaimana ia melihat situasinya sendiri.
+Ini penting karena saran yang sama dapat diterima secara berbeda tergantung kapan dan bagaimana saran tersebut diberikan.
 
-### Kedua — Memberikan Saran
-
-Setelah konteksnya cukup jelas, saya memberikan saran karena Winda memang menyampaikan bahwa ia ingin mendapatkan saran.
-
-Dengan demikian, alur respons saya adalah:
-
-> **Winda bercerita → saya mendengarkan → saya mengklarifikasi → saya mengecek kebutuhan → Winda meminta didengarkan sekaligus diberi saran → saya tetap mendengarkan → saya memberikan saran.**
-
-Hal ini merupakan bagian paling penting dari latihan karena menunjukkan bahwa saya tidak hanya **menanyakan kebutuhan**, tetapi juga **menggunakan jawaban tersebut untuk menentukan respons**.
+Dalam kasus Winda, saya memberikan saran setelah memperoleh informasi bahwa saran memang termasuk bentuk bantuan yang ia inginkan.
 
 ---
 
-## Evidence 2 — Pertanyaan Emas
+# BAGIAN C — MEMBACA STATE DAN RELATIONSHIP
 
-![Bukti Pertanyaan Emas](evidence/week-03/bukti-02-pertanyaan-kebutuhan.png)
+## 1. State Sebelum Respons
 
-Screenshot ini menunjukkan bahwa saya secara eksplisit menanyakan kebutuhan Winda sebelum memberikan pendapat.
+Pada awal percakapan, state Winda yang saya tangkap adalah:
 
-Screenshot tersebut tidak menampilkan keseluruhan jawaban Winda, sehingga saya tidak menggunakan gambar tersebut untuk mengklaim bahwa pilihan Winda terlihat di dalam screenshot.
+**Attention → Interest → Emotional involvement**
 
-Jawaban Winda mengenai kebutuhannya merupakan bagian dari catatan saya terhadap percakapan yang terjadi.
+Winda sudah memberikan perhatian terhadap percakapan karena ia secara aktif menceritakan kondisi yang sedang dialaminya.
 
-Hal yang penting adalah adanya hubungan antara:
+Namun, dari isi ceritanya, terdapat keterlibatan emosional karena masalah tersebut berkaitan langsung dengan tekanan akademik yang sedang ia rasakan.
 
-> **pertanyaan saya → jawaban Winda → respons saya.**
+Saya tidak menyimpulkan bahwa Winda berada dalam kondisi tertentu hanya berdasarkan asumsi.
 
----
+Saya mendasarkan pembacaan state pada:
 
-# BAGIAN C — ADAPTASI RESPONS
-
-## 1. Dari Pertanyaan Menjadi Tindakan
-
-Pertanyaan Emas tidak saya gunakan sebagai formalitas.
-
-Setelah mengetahui bahwa Winda ingin **didengarkan sekaligus mendapatkan saran**, saya menyesuaikan cara saya berkomunikasi.
-
-Jika Winda hanya ingin didengarkan, saya tidak akan memaksakan solusi.
-
-Jika Winda hanya ingin memikirkan pilihan bersama, saya akan lebih banyak membantu memetakan alternatif.
-
-Namun, dalam percakapan ini Winda juga menginginkan saran.
-
-Karena itu, setelah mendengarkan dan memahami konteksnya, saya memberikan saran yang relevan dengan masalah yang sedang ia ceritakan.
+- topik yang ia ceritakan;
+- detail yang ia berikan;
+- ekspresi kekhawatiran dalam ceritanya;
+- dan kesediaannya melanjutkan percakapan.
 
 ---
 
-## 2. Rangkaian Adaptasi
+# 2. State Setelah Pertanyaan Emas
 
-| Tahap | Tindakan Saya | Tujuan |
+Setelah saya mengajukan Pertanyaan Emas, Winda memberikan jawaban yang spesifik mengenai bentuk bantuan yang ia inginkan.
+
+Hal ini menunjukkan bahwa:
+
+1. ia tetap terlibat dalam percakapan;
+2. ia mampu mengidentifikasi kebutuhannya;
+3. ia memberikan arahan mengenai bagaimana saya sebaiknya merespons.
+
+Karena itu, saya membaca state percakapan sebagai:
+
+> **Winda cukup terbuka untuk melanjutkan percakapan dan memberikan informasi mengenai kebutuhan komunikasinya.**
+
+Saya tidak menganggap bahwa keterbukaan tersebut berarti masalahnya sudah selesai.
+
+Justru, jawaban tersebut menjadi informasi untuk menentukan langkah komunikasi berikutnya.
+
+---
+
+# 3. State Setelah Saya Memberikan Saran
+
+Setelah saya mendengarkan dan memahami konteks, saya memberikan saran sesuai dengan kebutuhan yang telah disampaikan Winda.
+
+Kemudian Winda memberikan respons:
+
+> **"Btw makasih yaa saran lu di atas!"**
+
+Respons tersebut merupakan indikator verbal yang positif terhadap saran yang saya berikan.
+
+Namun, saya sengaja tidak membuat kesimpulan berlebihan.
+
+Saya tidak mengatakan:
+
+> "Berarti masalah Winda sudah selesai."
+
+Saya juga tidak mengatakan:
+
+> "Berarti Winda pasti merasa jauh lebih baik."
+
+Yang dapat saya simpulkan secara lebih hati-hati adalah:
+
+> **Winda menerima dan mengapresiasi saran yang saya berikan.**
+
+Hal tersebut berbeda dengan menyimpulkan bahwa seluruh masalah emosional atau akademiknya telah terselesaikan.
+
+### Pembacaan state yang lebih hati-hati
+
+| Tahap | Informasi yang saya miliki | Pembacaan state |
 |---|---|---|
-| 1 | Mendengarkan cerita Winda | Memberikan ruang untuk berbicara |
-| 2 | Mengajukan pertanyaan klarifikasi | Memahami masalah secara lebih spesifik |
-| 3 | Menanyakan Pertanyaan Emas | Mengetahui bentuk bantuan yang diinginkan |
-| 4 | Mendapatkan jawaban Winda | Mengetahui bahwa ia ingin didengarkan sekaligus diberi saran |
-| 5 | Tetap mendengarkan | Memenuhi kebutuhan untuk didengarkan |
-| 6 | Memberikan saran | Memenuhi kebutuhan untuk mendapatkan saran |
-| 7 | Mengevaluasi respons | Menilai apakah respons saya sesuai dengan konteks |
+| Awal percakapan | Winda menceritakan tekanan akademik | Terlibat dan membutuhkan ruang untuk bercerita |
+| Setelah Pertanyaan Emas | Winda menyatakan ingin didengarkan sekaligus diberi saran | Terbuka untuk melanjutkan percakapan dan menerima bantuan tertentu |
+| Setelah saran | Winda mengatakan "makasih yaa saran lu di atas!" | Respons verbal positif terhadap saran |
+| Kesimpulan | Tidak ada dasar untuk menyatakan masalah selesai | Hubungan percakapan tetap terbuka dan positif |
 
-Dari tabel tersebut terlihat bahwa jawaban Winda benar-benar memengaruhi respons saya.
+Hal yang saya pelajari adalah:
+
+> **Satu respons positif tidak boleh langsung saya ubah menjadi kesimpulan bahwa kondisi emosional seseorang sudah sepenuhnya berubah.**
+
+Saya perlu membedakan:
+
+**"Orang tersebut menerima respons saya"**
+
+dengan
+
+**"Masalah orang tersebut sudah selesai."**
 
 ---
 
-# 3. Evidence 3 — Respons dan Saran
+# 4. Relationship Awareness
 
-![Bukti respons dan pemberian saran](evidence/week-03/bukti-03-respons-saran.png)
+Saya juga mempertimbangkan hubungan saya dengan Winda sebagai teman.
 
-Evidence ini menunjukkan tahap ketika saya memberikan respons dan saran setelah proses mendengarkan dan memahami konteks.
+Karena hubungan kami cukup dekat untuk membicarakan pengalaman akademik dan memberikan saran, saya perlu menjaga agar saran tidak berubah menjadi instruksi yang mengambil alih keputusan Winda.
 
-Hubungan antara evidence ini dan Pertanyaan Emas adalah:
+Saya ingin posisi saya tetap sebagai:
 
-> **Pertanyaan Emas → Winda meminta didengarkan sekaligus diberi saran → saya mendengarkan → saya memberikan saran.**
+> **teman yang mendengarkan dan memberikan perspektif**
 
-Dengan demikian, saran yang saya berikan bukan respons spontan sejak awal percakapan.
+bukan:
 
-Saran tersebut diberikan setelah saya mengetahui bahwa saran memang termasuk bentuk bantuan yang diinginkan Winda.
+> **orang yang menentukan apa yang harus dilakukan Winda.**
+
+Karena itu, saya berusaha menjaga dua hal sekaligus:
+
+### Support
+
+Saya memberikan ruang untuk Winda bercerita dan memberikan saran ketika ia memang menginginkannya.
+
+### Autonomy
+
+Saya tetap membiarkan Winda menentukan apakah saran tersebut relevan dan apa yang ingin ia lakukan setelahnya.
+
+Bagi saya, relationship awareness berarti memahami bahwa kualitas percakapan tidak hanya ditentukan oleh apakah saran saya bagus, tetapi juga oleh apakah Winda merasa memiliki ruang untuk menentukan responsnya sendiri.
 
 ---
 
 # BAGIAN D — FEEDBACK DAN RESPONS LAWAN BICARA
 
-## 1. Respons Winda terhadap Saran
+## 1. Respons Verbal
 
-Setelah saya memberikan respons dan saran, Winda memberikan tanggapan:
+Respons Winda setelah menerima saran adalah:
 
-> “Btw makasih yaa saran lu di atas!”
+> **"Btw makasih yaa saran lu di atas!"**
 
-Saya menggunakan tanggapan tersebut sebagai indikator bahwa saran yang saya berikan diterima secara positif oleh Winda.
+Saya membaca kalimat tersebut sebagai sinyal verbal positif.
 
-Namun, saya tidak menyimpulkan bahwa seluruh masalah Winda otomatis selesai hanya karena ia berterima kasih.
+Namun, saya membatasi interpretasi saya pada hal yang benar-benar dapat disimpulkan.
 
-Hal yang dapat saya simpulkan dari respons tersebut adalah:
+### Yang dapat saya simpulkan
 
-> **Winda menerima dan mengapresiasi saran yang saya berikan.**
+- Winda menyadari saran yang saya berikan.
+- Winda memberikan apresiasi terhadap saran tersebut.
+- Tidak terdapat penolakan verbal terhadap saran pada bagian percakapan tersebut.
 
-Hal tersebut konsisten dengan kebutuhan yang sebelumnya ia sampaikan, yaitu ingin didengarkan sekaligus mendapatkan saran.
+### Yang tidak dapat saya simpulkan
 
----
+- Masalah Winda sudah selesai.
+- Winda pasti mengikuti saran tersebut.
+- Kondisi emosional Winda pasti berubah sepenuhnya.
+- Semua saran saya pasti tepat.
 
-# 2. Hubungan antara Kebutuhan dan Respons
-
-Dari keseluruhan percakapan, saya melihat hubungan sebagai berikut:
-
-> **Kebutuhan Winda:** ingin didengarkan + mendapatkan saran.
-
-> **Respons saya:** memberikan ruang untuk bercerita + memberikan saran setelah memahami konteks.
-
-> **Respons Winda:** mengapresiasi saran yang diberikan.
-
-Dengan demikian, saya tidak hanya berfokus pada “apa yang ingin saya katakan”, tetapi juga mempertimbangkan:
-
-> **“Apa yang sebenarnya dibutuhkan oleh orang yang sedang berbicara dengan saya?”**
+Pembatasan ini penting karena saya ingin menghindari kebiasaan membaca respons orang secara berlebihan.
 
 ---
 
-# BAGIAN E — TIGA TINGKAT LISTENING DALAM PRAKTIK
+# 2. Membaca Sinyal Positif dan Sinyal Ambigu
 
-## Tingkat 1 — Kata
+Latihan ini membuat saya memahami bahwa respons seseorang tidak selalu sederhana.
 
-Saya memperhatikan informasi literal mengenai:
+Contohnya, kalimat:
 
-- tugas;
-- materi;
-- kuis;
-- UTS;
-- dan kesulitan akademik yang diceritakan.
+> "Makasih ya."
 
-Saya berusaha tidak menambahkan asumsi yang tidak disampaikan.
+dapat menjadi sinyal bahwa seseorang menghargai respons kita.
 
----
+Namun, kalimat tersebut **belum cukup** untuk membuktikan bahwa orang tersebut sudah tidak cemas atau sudah merasa masalahnya selesai.
 
-## Tingkat 2 — Makna
+Karena itu, dalam percakapan berikutnya saya perlu memperhatikan kombinasi:
 
-Saya mencoba memahami apa yang sebenarnya membuat Winda merasa kewalahan.
+- kata-kata;
+- nada bicara;
+- ekspresi;
+- jeda;
+- perubahan topik;
+- dan apakah orang tersebut masih ingin melanjutkan percakapan.
 
-Saya menggunakan pertanyaan:
+Jika sinyal verbal positif tetapi terdapat sinyal lain yang menunjukkan ketidaknyamanan atau kecemasan, saya tidak boleh langsung menutup percakapan.
 
-> “Tapi lu sekarang paling kerasa kewalahan di bagian mana win?”
+Saya dapat melakukan pengecekan sederhana seperti:
 
-Pertanyaan tersebut membantu saya memahami bahwa masalahnya bukan sekadar jumlah tugas, tetapi juga adanya materi yang belum sempat dipahami dengan baik.
-
----
-
-## Tingkat 3 — Pribadi
-
-Saya mencoba memahami pengalaman Winda sebagai pribadi.
-
-Saya memperhatikan kemungkinan emosi seperti cemas dan kewalahan, tetapi tidak menganggap interpretasi saya sebagai fakta mutlak.
-
-Saya juga memberikan ruang kepada Winda untuk menentukan sendiri bentuk bantuan yang ia butuhkan.
-
----
-
-# BAGIAN F — FEEDBACK DARI LAWAN BICARA
-
-Dalam latihan ini, saya juga memperhatikan respons Winda terhadap cara saya memberikan saran.
-
-Winda mengatakan:
-
-> “Btw makasih yaa saran lu di atas!”
-
-Bagi saya, respons tersebut menunjukkan bahwa saran yang diberikan dapat diterima dengan baik.
-
-Namun, saya menyadari bahwa feedback tersebut berbeda dengan pertanyaan evaluasi yang lebih formal seperti:
-
-> “Di bagian mana kamu paling merasa didengarkan?”
+> "Lu sekarang masih kepikiran soal itu atau udah agak lega?"
 
 atau:
 
-> “Di bagian mana saya terlihat membuat asumsi?”
+> "Ada bagian yang masih bikin lu kepikiran?"
 
-Karena itu, saya tidak mengklaim bahwa kalimat “makasih yaa” merupakan jawaban lengkap terhadap seluruh pertanyaan evaluasi.
-
-Saya menggunakannya secara spesifik sebagai **feedback terhadap saran yang saya berikan**.
+Pertanyaan seperti ini membantu saya melakukan **closed-loop confirmation**, bukan sekadar mengasumsikan bahwa percakapan sudah selesai.
 
 ---
 
-# BAGIAN G — KEBIASAAN OTOMATIS: FIXING
+# 3. Apa yang Saya Pelajari dari Respons Lawan Bicara
 
-Latihan ini membuat saya menyadari bahwa saya memiliki kecenderungan untuk cepat masuk ke mode *fixing*.
+Saya belajar bahwa mendengarkan bukan hanya proses sampai saya selesai memberikan respons.
 
-Ketika seseorang bercerita, saya sering langsung berpikir:
+Saya juga perlu melihat:
 
-> “Masalahnya apa?”
+> **Bagaimana lawan bicara menerima respons saya?**
 
-kemudian:
+Urutan yang saya latih adalah:
 
-> “Solusinya apa?”
+> **Listen → Understand → Ask → Respond → Observe → Confirm**
 
-Kecenderungan tersebut dapat berguna ketika seseorang memang meminta solusi.
+Bukan:
 
-Namun, jika saya melakukannya terlalu cepat, saya dapat melewatkan kebutuhan orang tersebut untuk terlebih dahulu didengarkan.
+> **Listen → Assume → Give solution → Stop**
 
-Dalam percakapan dengan Winda, saya mencoba menghentikan kebiasaan tersebut melalui Pertanyaan Emas.
-
-Perbedaannya adalah:
-
-### Pola otomatis
-
-> Teman cerita → saya mencari masalah → saya memberikan solusi.
-
-### Pola yang saya latih
-
-> Teman cerita → saya mendengarkan → saya mengklarifikasi → saya mengecek kebutuhan → saya menyesuaikan respons.
-
-Saya menyadari bahwa perubahan tersebut membuat saya tidak lagi menjadikan “memberikan solusi” sebagai satu-satunya ukuran keberhasilan dalam membantu seseorang.
+Perbedaan tersebut menjadi salah satu pembelajaran utama saya dalam latihan ini.
 
 ---
 
-# BAGIAN H — MEMAHAMI VS MENYETUJUI
+# BAGIAN E — MEMAHAMI VS MENYETUJUI
 
-Saya juga belajar bahwa:
+Saya belajar bahwa memahami perasaan seseorang tidak sama dengan menyetujui semua tindakan atau asumsi orang tersebut.
 
-> **Memahami seseorang tidak sama dengan menyetujui seluruh pemikiran atau tindakannya.**
+Misalnya, saya dapat mengatakan:
 
-Dalam percakapan dengan Winda, saya dapat memahami bahwa kondisi akademik yang padat dapat membuat seseorang merasa kewalahan.
+> "Gue ngerti kenapa lu bisa ngerasa kewalahan karena tugas dan UTS datang barengan."
 
-Memahami hal tersebut tidak berarti saya harus menganggap seluruh keputusan yang dibuat Winda pasti benar.
+Kalimat tersebut menunjukkan bahwa saya memahami pengalaman emosional Winda.
 
-Saya dapat mengatakan:
+Namun, memahami bukan berarti saya harus mengatakan:
 
-> “Gua ngerti kenapa situasinya bikin lu kewalahan.”
+> "Berarti semua keputusan yang lu ambil pasti benar."
 
-tanpa harus mengatakan:
+Saya dapat tetap memberikan perspektif lain setelah terlebih dahulu mengakui pengalaman emosionalnya.
 
-> “Semua keputusan yang lu ambil pasti benar.”
+Dengan demikian:
 
-Bagi saya, kemampuan tersebut penting karena saya dapat tetap menjadi pendengar yang empatik tanpa kehilangan kemampuan untuk berpikir kritis.
+> **Validasi emosi ≠ persetujuan terhadap semua asumsi.**
 
----
+Saya dapat memahami:
 
-# BAGIAN I — OTONOMI LAWAN BICARA
+- seseorang merasa takut;
+- seseorang merasa tertekan;
+- seseorang merasa kewalahan;
 
-Salah satu pembelajaran utama saya adalah pentingnya menjaga otonomi lawan bicara.
-
-Ketika Winda bercerita, saya memiliki beberapa pilihan:
-
-- langsung menentukan solusi;
-- menganggap saya lebih tahu apa yang harus dilakukan;
-- atau memberikan ruang kepada Winda untuk menentukan bentuk bantuan yang ia butuhkan.
-
-Saya memilih pilihan terakhir.
-
-Pertanyaan:
-
-> “Lu sekarang lebih butuh gua dengerin aja, bantu mikirin pilihan bareng, atau lu memang pengen gua kasih saran?”
-
-memberikan Winda kendali terhadap bentuk interaksi.
-
-Ketika Winda menjawab bahwa ia ingin didengarkan sekaligus mendapatkan saran, saya mengikuti kebutuhan tersebut.
-
-Jadi, saya tidak mengambil alih keputusan Winda.
-
-Saya berusaha menjadi orang yang membantu Winda berpikir dan mendapatkan perspektif tambahan.
+tanpa otomatis menyetujui semua kesimpulan yang dibuat orang tersebut mengenai penyebab atau solusi masalahnya.
 
 ---
 
-# BAGIAN J — REACTION → RESPONSE
+# BAGIAN F — TIGA TINGKAT LISTENING DALAM SATU ALUR
+
+Pengalaman dengan Winda membantu saya melihat bahwa tiga tingkat listening bukan tiga tahap yang berdiri sendiri.
+
+Ketiganya saling berhubungan.
+
+### Tingkat 1 — Kata
+
+Saya memahami:
+
+> "Apa yang sedang diceritakan Winda?"
+
+Jawabannya berkaitan dengan tugas, materi, kuis, UTS, dan tekanan akademik.
+
+### Tingkat 2 — Makna
+
+Saya bertanya pada diri sendiri:
+
+> "Apa arti situasi tersebut bagi Winda?"
+
+Saya menangkap adanya rasa kewalahan karena beberapa tuntutan akademik terjadi bersamaan.
+
+### Tingkat 3 — Pribadi
+
+Saya bertanya:
+
+> "Apa yang mungkin sedang dialami Winda sebagai pribadi?"
+
+Saya memperhatikan adanya kecemasan, tekanan, dan kebutuhan untuk mendapatkan ruang untuk bercerita.
+
+Namun, saya tidak berhenti pada asumsi.
+
+Saya menggunakan Pertanyaan Emas untuk memeriksa:
+
+> **"Bentuk bantuan seperti apa yang sebenarnya Winda inginkan?"**
+
+Hasilnya:
+
+> **Winda ingin didengarkan sekaligus mendapatkan saran.**
+
+Dengan demikian, listening saya bergerak dari:
+
+> **mendengar kata → memahami makna → memahami pengalaman pribadi → memeriksa kebutuhan → menyesuaikan respons.**
+
+---
+
+# BAGIAN G — ADAPTASI RESPONS
+
+## Sebelum Mengetahui Kebutuhan
+
+Sebelum menggunakan Pertanyaan Emas, saya belum mengetahui bentuk bantuan yang diinginkan Winda.
+
+Jika saya langsung memberikan saran, saya sebenarnya sedang mengambil keputusan berdasarkan asumsi.
+
+## Setelah Mengetahui Kebutuhan
+
+Setelah Winda mengatakan bahwa ia ingin didengarkan sekaligus mendapatkan saran, saya memiliki informasi baru.
+
+Informasi tersebut mengubah strategi komunikasi saya.
+
+Saya tidak perlu memilih:
+
+> "Mendengarkan ATAU memberikan saran."
+
+Saya dapat melakukan:
+
+> **Mendengarkan terlebih dahulu DAN memberikan saran setelah konteks cukup dipahami.**
+
+## Closed-Loop Confirmation
+
+Setelah memberikan respons, saya memperhatikan respons Winda.
+
+Ketika ia mengatakan:
+
+> "Btw makasih yaa saran lu di atas!"
+
+saya memahami bahwa respons tersebut diterima secara positif.
+
+Namun, karena saya tidak ingin overclaim, saya membedakan antara:
+
+**Acceptance of response**
+
+dan
+
+**Resolution of problem.**
+
+Respons Winda memberikan informasi mengenai penerimaan terhadap saran, tetapi bukan bukti bahwa seluruh masalah sudah selesai.
+
+Ini membuat pembacaan state saya menjadi lebih hati-hati.
+
+---
+
+# BAGIAN H — REACTION → RESPONSE
 
 | Situasi | Reaction / Kebiasaan Otomatis | Response yang Saya Latih |
 |---|---|---|
 | Teman mulai bercerita | Langsung mencari solusi | Mendengarkan terlebih dahulu |
 | Teman terlihat kewalahan | Langsung menebak penyebab | Bertanya untuk memperjelas |
 | Teman menjelaskan masalah | Langsung memberikan saran | Memahami konteks terlebih dahulu |
-| Tidak mengetahui bentuk bantuan yang dibutuhkan | Memilih bentuk bantuan menurut asumsi sendiri | Menggunakan Pertanyaan Emas |
+| Tidak mengetahui bentuk bantuan | Memilih bantuan berdasarkan asumsi | Menggunakan Pertanyaan Emas |
 | Teman ingin didengarkan | Tetap ingin memberikan solusi | Memberikan ruang untuk bercerita |
-| Teman juga meminta saran | Takut memberikan solusi terlalu cepat | Memberikan saran setelah konteks dipahami |
-| Teman memberikan respons | Menganggap masalah sudah selesai | Mengevaluasi apakah respons memang sesuai kebutuhan |
-
-### Perubahan yang Saya Sadari
-
-Sebelumnya saya cenderung menganggap:
-
-> **“Kalau saya punya solusi, berarti saya harus langsung memberikannya.”**
-
-Sekarang saya belajar:
-
-> **“Memiliki solusi tidak otomatis berarti saatnya memberikan solusi.”**
-
-Saya perlu mengetahui terlebih dahulu apakah lawan bicara memang menginginkan saran.
-
-Dalam kasus Winda, jawabannya adalah iya: ia ingin didengarkan sekaligus mendapatkan saran.
-
-Karena itu, saya dapat memberikan saran tanpa mengabaikan kebutuhan Winda untuk didengarkan.
+| Teman meminta saran | Takut memberikan solusi terlalu cepat | Memberikan saran setelah konteks dipahami |
+| Teman memberi respons positif | Menganggap masalah sudah selesai | Membedakan penerimaan respons dari penyelesaian masalah |
+| Respons verbal positif tetapi kondisi belum jelas | Langsung menutup percakapan | Melakukan pengecekan bila diperlukan |
+| Teman memiliki asumsi berbeda | Langsung mengoreksi | Memahami pengalaman terlebih dahulu |
+| Saya merasa punya solusi | Merasa harus langsung berbicara | Menanyakan apakah saran memang diinginkan |
 
 ---
 
-# BAGIAN K — EVIDENCE
+# BAGIAN I — REFLEKSI KEBIASAAN OTOMATIS
 
-## Evidence 1 — Winda Menceritakan Keresahan
+Dalam kehidupan sehari-hari, saya menyadari bahwa saya cukup mudah masuk ke mode **"fixing"**.
 
-![Bukti Winda menceritakan keresahan](evidence/week-03/bukti-01-winda-cerita.png)
+Ketika seseorang bercerita mengenai masalahnya, pikiran saya sering langsung mencari:
 
-Evidence pertama menunjukkan Winda sedang menceritakan kondisi akademiknya.
+> "Solusinya apa?"
 
-Bukti ini mendukung tahap:
+Kebiasaan tersebut sebenarnya berasal dari niat membantu.
 
-> **Listening — Tingkat 1: Kata.**
+Namun, saya menyadari bahwa niat membantu tidak selalu menghasilkan komunikasi yang tepat.
 
-Saya menggunakan evidence ini untuk menunjukkan konteks awal percakapan dan posisi saya sebagai pendengar.
+Jika saya langsung memberikan solusi, saya berisiko:
 
----
+- belum memahami masalah sebenarnya;
+- memberikan solusi yang tidak dibutuhkan;
+- membuat lawan bicara merasa tidak didengarkan;
+- atau mengambil alih proses berpikir lawan bicara.
 
-## Evidence 2 — Pertanyaan Emas
+Latihan dengan Winda membuat saya menyadari bahwa menahan diri dari memberikan solusi bukan berarti tidak membantu.
 
-![Bukti Pertanyaan Emas](evidence/week-03/bukti-02-pertanyaan-kebutuhan.png)
+Justru, menahan diri sebentar memberikan ruang untuk mengetahui:
 
-Saya bertanya:
+> **"Bantuan seperti apa yang sebenarnya dibutuhkan?"**
 
-> “Win, sebelum gua kasih pendapat, gua mau ngerti dulu. Lu sekarang lebih butuh gua dengerin aja, bantu mikirin pilihan bareng, atau lu memang pengen gua kasih saran?”
-
-Pertanyaan ini menunjukkan bahwa saya secara sadar mengecek kebutuhan Winda sebelum menentukan respons.
-
-Winda kemudian menyampaikan bahwa ia ingin:
-
-> **didengarkan sekaligus mendapatkan saran.**
-
-Informasi tersebut menjadi dasar saya untuk menyesuaikan respons.
+Pertanyaan Emas menjadi alat penting untuk menghentikan reaksi otomatis tersebut.
 
 ---
 
-## Evidence 3 — Respons dan Saran
+# BAGIAN J — MEMAHAMI TANPA HARUS MENYETUJUI
 
-![Bukti respons dan pemberian saran](evidence/week-03/bukti-03-respons-saran.png)
+Saya belajar bahwa memahami seseorang membutuhkan usaha untuk melihat pengalaman dari sudut pandangnya.
 
-Evidence ini menunjukkan tahap ketika saya memberikan respons dan saran.
+Namun, memahami bukan berarti saya harus menyetujui semua kesimpulan yang dibuatnya.
 
-Hubungannya dengan Pertanyaan Emas adalah:
+Dalam percakapan dengan Winda, saya dapat memahami bahwa ia merasa kewalahan menghadapi tuntutan akademik tanpa harus langsung menganggap bahwa semua penyebabnya pasti berasal dari satu faktor.
 
-> **Winda menyampaikan kebutuhan → saya menyesuaikan respons → saya memberikan saran setelah mendengarkan.**
+Saya dapat mengatakan:
 
-Jadi evidence ini bukan berdiri sendiri.
+> "Gue ngerti kenapa lu capek dan kewalahan."
 
-Evidence ini merupakan kelanjutan dari proses listening dan klarifikasi sebelumnya.
+tanpa harus mengatakan:
 
----
+> "Berarti semua keputusan yang lu ambil sudah pasti benar."
 
-## Evidence 4 — Pertukaran Peran
+Dengan demikian, saya dapat tetap memberikan empati sekaligus mempertahankan kemampuan berpikir kritis.
 
-![Bukti pertukaran peran](evidence/week-03/bukti-04-pertukaran-peran.png)
+Prinsip yang saya pegang:
 
-Setelah Winda menjadi pembicara, peran kemudian bertukar dan saya juga menjadi pembicara.
-
-Winda memberikan respons terhadap cerita saya dan percakapan menjadi dua arah.
-
-Dalam percakapan tersebut Winda mengatakan:
-
-> “Btw makasih yaa saran lu di atas!”
-
-Evidence ini menunjukkan bahwa komunikasi tidak hanya berjalan satu arah.
-
-Saya dapat mengalami kedua sisi komunikasi:
-
-- menjadi orang yang membutuhkan didengarkan;
-- menjadi orang yang mendengarkan.
-
-Pengalaman tersebut membantu saya memahami bahwa kebutuhan pendengar dan pembicara dapat berbeda.
+> **Validasi pengalaman seseorang tidak mengharuskan saya menyetujui seluruh interpretasinya.**
 
 ---
 
-# BAGIAN L — HUBUNGAN ANTAR-EVIDENCE
+# BAGIAN K — RELATIONSHIP AWARENESS
 
-Keempat evidence dapat dibaca sebagai satu rangkaian proses komunikasi:
+Saya menyadari bahwa dalam percakapan dengan teman, kualitas hubungan juga perlu dijaga.
 
-| Evidence | Fungsi dalam Latihan |
-|---|---|
-| **Bukti 1** | Winda membuka cerita dan saya berada pada posisi mendengarkan |
-| **Bukti 2** | Saya melakukan klarifikasi kebutuhan melalui Pertanyaan Emas |
-| **Bukti 3** | Saya menyesuaikan respons dan memberikan saran |
-| **Bukti 4** | Terjadi pertukaran peran dan terdapat respons dari lawan bicara |
+Jika saya terlalu cepat menjadi "pemecah masalah", hubungan dapat terasa seperti konsultasi satu arah.
 
-Rangkaian tersebut menunjukkan perubahan dari:
+Sebaliknya, jika saya hanya mendengarkan tanpa pernah memberikan respons ketika saran memang diminta, saya juga belum tentu memenuhi kebutuhan lawan bicara.
 
-> **mendengar → langsung memberi solusi**
+Dalam percakapan dengan Winda, saya mencoba menemukan keseimbangan:
 
-menjadi:
+> **Hadir sebagai teman → mendengarkan → memahami → mengecek kebutuhan → memberikan bantuan yang diminta → tetap menjaga otonomi.**
 
-> **mendengar → memahami → mengecek kebutuhan → menyesuaikan respons.**
+Saya tidak ingin hubungan menjadi:
+
+> "Saya memberi solusi, Winda harus mengikuti."
+
+Saya ingin hubungan menjadi:
+
+> "Saya membantu Winda melihat situasi dari perspektif tambahan, tetapi keputusan tetap berada pada Winda."
+
+Ini merupakan bentuk penghormatan terhadap otonomi dalam hubungan interpersonal.
 
 ---
 
-# BAGIAN M — KOMITMEN 14 HARI
+# BAGIAN L — PEMBACAAN STATE SECARA LEBIH MENDALAM
 
-Selama 14 hari setelah latihan ini, saya berkomitmen untuk melatih kebiasaan:
+Salah satu hal yang paling saya pelajari dari latihan ini adalah bahwa **state seseorang tidak dapat dibaca hanya dari satu kalimat.**
 
-> **“Jangan memberikan solusi sebelum memastikan bentuk bantuan yang dibutuhkan.”**
+Misalnya:
 
-Saya menargetkan minimal **3 percakapan**.
+> "Makasih ya."
 
-Pada setiap percakapan saya akan berusaha:
+dapat menunjukkan penerimaan atau apresiasi.
 
-1. mendengarkan tanpa memotong;
-2. mengajukan minimal satu pertanyaan terbuka;
-3. melakukan parafrasa;
-4. menyebutkan emosi sebagai dugaan, bukan fakta;
-5. menggunakan Pertanyaan Emas ketika kebutuhan bantuan belum jelas;
-6. menyesuaikan respons dengan kebutuhan lawan bicara;
-7. memberikan saran hanya ketika memang relevan atau diminta.
+Tetapi belum tentu berarti:
+
+> "Saya sudah tidak cemas."
+
+Karena itu, saya perlu membaca state melalui beberapa indikator.
+
+## Indikator Verbal
+
+- Apakah orang tersebut masih menjelaskan masalah?
+- Apakah ia memberikan jawaban yang spesifik?
+- Apakah ia mengajukan pertanyaan balik?
+- Apakah ia mengapresiasi respons?
+- Apakah ia mengatakan bahwa masih ada bagian yang mengganggu?
+
+## Indikator Nonverbal
+
+Dalam percakapan langsung, saya juga perlu memperhatikan:
+
+- kontak mata;
+- ekspresi wajah;
+- perubahan nada suara;
+- jeda;
+- gestur;
+- perubahan energi ketika topik tertentu dibahas.
+
+Saya menyadari bahwa satu indikator tidak cukup untuk membuat kesimpulan.
+
+Contohnya:
+
+> **tersenyum ≠ pasti sudah baik-baik saja.**
+
+atau:
+
+> **mengatakan "makasih" ≠ masalah sudah selesai.**
+
+Karena itu, saya perlu menggunakan **closed-loop confirmation** ketika state masih ambigu.
+
+Contohnya:
+
+> "Lu sekarang masih kepikiran soal itu atau udah agak lega?"
+
+Pertanyaan tersebut tidak memaksa jawaban tertentu dan memberikan kesempatan kepada lawan bicara untuk mengoreksi pembacaan saya.
+
+---
+
+# BAGIAN M — KOMITMEN LANGKAH PERTUMBUHAN
+
+Dalam 14 hari ke depan, saya berkomitmen untuk menerapkan satu kebiasaan yang spesifik:
+
+> **Setiap kali teman atau keluarga mulai bercerita mengenai masalah pribadi, saya akan menahan diri untuk tidak langsung memberikan solusi dan terlebih dahulu menggunakan minimal satu pertanyaan klarifikasi atau Pertanyaan Emas sebelum memberikan saran.**
+
+Saya akan menggunakan indikator sederhana:
+
+### Target
+
+**Minimal 3 percakapan** selama 14 hari.
+
+Pada setiap percakapan tersebut saya akan:
+
+1. mendengarkan tanpa langsung memotong;
+2. mengajukan minimal satu pertanyaan klarifikasi;
+3. jika kebutuhan bantuan belum jelas, menggunakan Pertanyaan Emas;
+4. baru memberikan saran apabila saran memang diinginkan;
+5. setelah memberikan respons, memperhatikan apakah lawan bicara masih ingin melanjutkan percakapan.
 
 ### Indikator keberhasilan
 
-Saya tidak akan mengukur keberhasilan hanya dari apakah saya berhasil memberikan solusi terbaik.
-
-Saya akan mengukur keberhasilan dari:
-
-> **Apakah saya mengetahui kebutuhan lawan bicara sebelum memilih bentuk respons?**
-
-dan:
-
-> **Apakah respons saya sesuai dengan kebutuhan yang telah disampaikan?**
+Target dianggap tercapai jika dalam minimal 3 percakapan saya dapat menahan dorongan memberikan solusi terlalu cepat dan memberikan ruang bagi lawan bicara untuk menentukan bentuk bantuan yang mereka butuhkan.
 
 ---
 
-# BAGIAN N — RELATIONSHIP STATE
+# BAGIAN N — REFLEKSI UTAMA
 
-## Sebelum Percakapan
+Latihan ini mengubah cara saya melihat listening.
 
-Sebelum percakapan, saya dan Winda sudah memiliki hubungan pertemanan yang cukup terbuka.
+Sebelumnya, saya cenderung menganggap bahwa menjadi pendengar yang baik berarti memahami cerita dan kemudian memberikan respons yang berguna.
 
-Winda merasa cukup nyaman untuk menceritakan kesulitan akademiknya.
+Sekarang saya memahami bahwa listening memiliki proses yang lebih panjang.
 
-Namun, saya menyadari bahwa saya memiliki kecenderungan mengambil posisi sebagai pemberi solusi.
+Saya perlu memahami:
 
----
+> **Apa yang dikatakan → apa maknanya → apa yang mungkin dialami → apa yang dibutuhkan → bagaimana respons saya diterima.**
 
-## Selama Percakapan
+Pertanyaan Emas menjadi titik penting karena membantu saya tidak mengambil keputusan berdasarkan asumsi.
 
-Selama percakapan, saya mencoba mengubah pola tersebut.
+Dalam percakapan dengan Winda, saya mengetahui bahwa ia ingin didengarkan sekaligus mendapatkan saran. Karena itu, saya dapat memberikan saran tanpa mengorbankan kebutuhan Winda untuk didengarkan terlebih dahulu.
 
-Saya:
+Saya juga belajar membaca respons dengan lebih hati-hati.
 
-1. mendengarkan cerita Winda;
-2. mengklarifikasi bagian yang paling membuatnya kewalahan;
-3. memperhatikan kemungkinan emosinya;
-4. menanyakan bentuk bantuan yang ia butuhkan;
-5. mengetahui bahwa ia ingin didengarkan sekaligus diberi saran;
-6. memberikan ruang untuk bercerita;
-7. memberikan saran setelah konteks dipahami.
+Ketika Winda mengatakan:
 
----
+> "Btw makasih yaa saran lu di atas!"
 
-## Setelah Percakapan
+saya dapat memahami bahwa ia mengapresiasi saran saya.
 
-Setelah saya memberikan saran, Winda mengatakan:
+Namun, saya tidak menjadikan kalimat tersebut sebagai bukti bahwa semua masalahnya sudah selesai.
 
-> “Btw makasih yaa saran lu di atas!”
+Perbedaan kecil ini penting bagi saya karena menunjukkan bahwa **listening tidak berhenti ketika saya selesai berbicara.**
 
-Saya melihat respons tersebut sebagai indikasi bahwa saran saya diterima secara positif.
+Saya perlu tetap memperhatikan state dan relationship setelah memberikan respons.
 
-Namun, pembelajaran terbesar saya bukan sekadar bahwa saran saya diterima.
+Pembelajaran utama saya adalah:
 
-Pembelajaran yang lebih penting adalah:
-
-> **Saya perlu memahami kebutuhan lawan bicara terlebih dahulu sebelum menentukan bagaimana saya akan membantu.**
+> **Listening bukan sekadar mendengar sampai giliran saya berbicara. Listening adalah proses memahami, mengecek, merespons, lalu memastikan bahwa respons saya tidak dibangun hanya dari asumsi saya sendiri.**
 
 ---
 
@@ -647,55 +734,22 @@ Pembelajaran yang lebih penting adalah:
 
 Saya menggunakan AI sebagai alat bantu untuk:
 
-1. menyusun struktur refleksi;
-2. memastikan seluruh komponen latihan tercakup;
-3. memperjelas perbedaan antara fakta, interpretasi, emosi, dan kebutuhan;
-4. membantu mengevaluasi apakah alur *reaction → response* sudah terlihat;
-5. memeriksa hubungan antara evidence dan kompetensi yang dilatih.
+1. memeriksa struktur refleksi;
+2. memastikan tiga tingkat listening dijelaskan secara berbeda;
+3. memperjelas hubungan antara Pertanyaan Emas dan adaptasi respons;
+4. membantu membedakan fakta, interpretasi, dan inferensi;
+5. memperdalam analisis mengenai state dan relationship;
+6. mengecek apakah refleksi saya sudah menjawab komponen LK.
 
-Pengalaman percakapan, konteks hubungan dengan Winda, isi percakapan, jawaban Winda terhadap Pertanyaan Emas, refleksi pribadi, dan evidence berasal dari pengalaman saya sendiri.
+Pengalaman percakapan, identitas mitra latihan, kebutuhan Winda, respons Winda, dan pengalaman komunikasi yang saya ceritakan berasal dari pengalaman saya sendiri.
 
-AI tidak digunakan untuk membuat percakapan atau evidence yang tidak terjadi.
-
----
-
-# BAGIAN P — REFLEKSI AKHIR
-
-Latihan ini membuat saya memahami bahwa mendengarkan secara aktif bukan hanya berarti diam ketika orang lain berbicara.
-
-Listening memiliki beberapa lapisan:
-
-> **mendengar kata → memahami makna → memahami pengalaman pribadi → mengecek kebutuhan → menyesuaikan respons.**
-
-Dalam percakapan dengan Winda, saya awalnya mendengarkan ceritanya mengenai kesulitan akademik. Saya kemudian mengajukan pertanyaan untuk memperjelas bagian mana yang paling membuatnya kewalahan.
-
-Saya menyadari bahwa saya memiliki kecenderungan untuk cepat masuk ke mode *problem-solving*. Karena itu, saya menggunakan Pertanyaan Emas:
-
-> “Lu sekarang lebih butuh gua dengerin aja, bantu mikirin pilihan bareng, atau lu memang pengen gua kasih saran?”
-
-Winda menyampaikan bahwa ia ingin didengarkan sekaligus mendapatkan saran.
-
-Jawaban tersebut mengubah cara saya merespons. Saya tidak langsung memberikan solusi, tetapi tetap memberikan ruang bagi Winda untuk bercerita dan memahami konteksnya terlebih dahulu. Setelah itu, saya memberikan saran karena saran memang merupakan bentuk bantuan yang ia inginkan.
-
-Dari latihan ini saya memahami bahwa:
-
-> **memiliki solusi tidak berarti saya harus langsung memberikan solusi.**
-
-Saya perlu memastikan terlebih dahulu apakah solusi tersebut memang merupakan bentuk bantuan yang dibutuhkan.
-
-Saya juga belajar bahwa memahami seseorang tidak berarti harus menyetujui seluruh pemikirannya.
-
-Sebagai pendengar, saya ingin dapat memberikan empati sekaligus tetap menghargai otonomi lawan bicara.
-
-Pembelajaran utama saya adalah:
-
-> **Listen first, understand the need, then adapt the response.**
+AI tidak digunakan untuk membuat percakapan fiktif atau menciptakan respons Winda yang tidak saya alami.
 
 ---
 
 # SELF-ASSESSMENT
 
-| Dimensi Penilaian | Skor |
+| Dimensi Penilaian | Penilaian Diri |
 |---|---:|
 | Kehadiran & Menyimak Aktif | 4/4 |
 | Pemisahan Fakta & Interpretasi | 4/4 |
@@ -703,86 +757,48 @@ Pembelajaran utama saya adalah:
 | Validasi Emosi & Otonomi | 4/4 |
 | **Total** | **16/16** |
 
-## 1. Kehadiran & Menyimak Aktif — 4/4
+## Alasan Penilaian Diri
 
-Saya memberikan ruang kepada Winda untuk menceritakan kondisinya sebelum memberikan saran.
+### 1. Kehadiran & Menyimak Aktif — 4/4
 
-Saya menggunakan pertanyaan klarifikasi untuk memahami bagian yang paling membuatnya kewalahan dan tidak langsung memotong cerita dengan solusi.
+Saya tidak hanya mencatat isi literal cerita Winda, tetapi membedakan tingkat Kata, Makna, dan Pribadi.
 
-Saya juga menyadari bahwa mendengarkan bukan sekadar menunggu giliran berbicara, tetapi berusaha memahami pengalaman orang lain.
+Saya juga menahan diri dari memberikan solusi sejak awal dan terlebih dahulu memahami konteks serta kebutuhan Winda.
 
----
+### 2. Pemisahan Fakta & Interpretasi — 4/4
 
-## 2. Pemisahan Fakta & Interpretasi — 4/4
+Saya membedakan informasi yang benar-benar disampaikan Winda dari interpretasi saya mengenai emosi, kebutuhan, dan kondisi dirinya.
 
-Saya membedakan informasi yang benar-benar disampaikan Winda dari interpretasi saya mengenai emosi dan kebutuhannya.
+Saya juga tidak menganggap respons positif sebagai bukti bahwa masalahnya telah selesai.
 
-Saya menggunakan bahasa seperti “kemungkinan” ketika menyimpulkan emosi dan tidak menjadikan interpretasi saya sebagai fakta.
+### 3. Pendalaman Rasa Ingin Tahu — 4/4
 
-Saya juga tidak menyimpulkan bahwa Winda tidak mampu mengatur waktu atau tidak bertanggung jawab hanya berdasarkan cerita mengenai kesulitan akademiknya.
+Saya menggunakan Pertanyaan Emas untuk mengetahui bentuk bantuan yang diinginkan Winda.
 
----
+Pertanyaan tersebut menghasilkan informasi yang secara langsung memengaruhi cara saya merespons.
 
-## 3. Pendalaman Rasa Ingin Tahu (Pertanyaan) — 4/4
+### 4. Validasi Emosi & Otonomi — 4/4
 
-Saya menggunakan pertanyaan terbuka untuk memperjelas bagian yang paling membuat Winda kewalahan.
+Saya mengakui bahwa Winda sedang menghadapi tekanan dan kecemasan tanpa mengambil alih keputusan.
 
-Saya juga menggunakan Pertanyaan Emas untuk mengetahui bentuk bantuan yang ia butuhkan:
-
-> “Lu sekarang lebih butuh gua dengerin aja, bantu mikirin pilihan bareng, atau lu memang pengen gua kasih saran?”
-
-Winda menyampaikan bahwa ia ingin **didengarkan sekaligus mendapatkan saran**.
-
-Saya kemudian menggunakan jawaban tersebut untuk menyesuaikan respons saya: saya tetap mendengarkan terlebih dahulu, kemudian memberikan saran karena saran memang merupakan bentuk bantuan yang ia inginkan.
-
-Dengan demikian, saya tidak hanya mengajukan pertanyaan, tetapi **menggunakan jawaban lawan bicara untuk mengadaptasi respons saya**.
-
----
-
-## 4. Validasi Emosi & Otonomi — 4/4
-
-Saya mengakui kemungkinan emosi Winda tanpa mengklaim bahwa saya mengetahui perasaannya secara pasti.
-
-Saya juga memberikan otonomi kepada Winda untuk menentukan bentuk bantuan yang ia butuhkan.
-
-Ketika Winda menyampaikan bahwa ia ingin didengarkan sekaligus mendapatkan saran, saya mengikuti kebutuhan tersebut tanpa memaksakan bentuk bantuan lain.
-
-Saya memahami bahwa membantu seseorang tidak berarti mengambil alih keputusan orang tersebut.
-
----
-
-# TOTAL SELF-ASSESSMENT
-
-\[
-4 + 4 + 4 + 4 = 16
-\]
-
-\[
-\frac{16}{16} \times 100 = 100
-\]
-
-**Self-Assessment: 16/16**
-
-**Nilai Konversi: 100/100**
+Saya memberikan saran setelah mengetahui bahwa saran memang diinginkan, tetapi tetap menempatkan keputusan pada Winda.
 
 ---
 
 # KESIMPULAN
 
-Latihan ini mengubah cara saya memandang listening.
+Latihan ini membantu saya memahami bahwa komunikasi yang baik tidak selalu berarti memberikan jawaban terbaik secepat mungkin.
 
-Sebelumnya, saya cenderung berpikir:
+Terkadang respons terbaik dimulai dengan:
 
-> **“Kalau seseorang bercerita, saya harus membantu dengan memberikan solusi.”**
+> **berhenti → mendengarkan → memahami → bertanya → mengamati → menyesuaikan.**
 
-Sekarang saya memahami bahwa proses yang lebih baik adalah:
+Dalam percakapan dengan Winda, saya belajar menggunakan Pertanyaan Emas untuk mengetahui kebutuhan lawan bicara, membedakan pemahaman dari persetujuan, serta membaca respons dengan lebih hati-hati.
 
-> **“Dengarkan dulu → pahami → klarifikasi → cek kebutuhan → adaptasi.”**
+Saya juga belajar bahwa:
 
-Dalam percakapan dengan Winda, saya mengetahui bahwa ia ingin **didengarkan sekaligus mendapatkan saran**. Karena itu, saya menyesuaikan respons saya dengan memberikan ruang untuk bercerita terlebih dahulu dan kemudian memberikan saran.
+> **Respons positif bukan otomatis berarti masalah selesai.**
 
-Saya belajar bahwa kualitas komunikasi interpersonal tidak hanya ditentukan oleh **apa yang saya katakan**, tetapi juga oleh **seberapa sesuai respons saya dengan kebutuhan orang yang sedang berbicara dengan saya**.
+Karena itu, saya perlu memperhatikan state dan relationship secara berkelanjutan, terutama ketika sinyal verbal dan nonverbal tidak sepenuhnya jelas.
 
-Komitmen saya setelah latihan ini adalah mempertahankan kebiasaan menggunakan Pertanyaan Emas ketika saya belum yakin mengenai kebutuhan lawan bicara.
-
-> **Saya tidak harus selalu menjadi orang yang paling cepat menemukan solusi. Saya perlu menjadi orang yang terlebih dahulu memahami apa yang sebenarnya dibutuhkan.**
+Perubahan yang ingin saya bawa setelah latihan ini adalah menjadi pendengar yang tidak hanya menunggu giliran berbicara atau menunggu kesempatan memberikan solusi, tetapi benar-benar berusaha memahami kebutuhan orang lain sebelum menentukan respons.
