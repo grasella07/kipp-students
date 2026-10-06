@@ -4,106 +4,109 @@ week: 2
 status: "Siap dinilai"
 self_score: "20/20"
 assessor_score: "—"
-description: "Refleksi tiga narasi atas satu peristiwa melalui pemisahan fakta, interpretasi, emosi, pilihan, dan tindakan nyata."
+description: "Refleksi perubahan dari reaction menuju response melalui pemisahan fakta, interpretasi, emosi, tiga narasi, internal agreement, tindakan, dan evaluasi terhadap komunikasi dalam kerja kelompok."
 categories: [Fondasi, Intra-Self]
 ---
 
 # Lembar Kerja Bab 02
+
 ## Tiga Narasi atas Satu Peristiwa
 
-**Nama Mahasiswa:** Grasella
-
+**Nama Mahasiswa:** Grasella  
 **Tanggal Pengerjaan:** 22 September 2026
 
 ---
 
-## Tujuan Pembelajaran
+## Kompetensi Target
 
-Latihan ini bertujuan melatih komunikasi intrapersonal dengan memisahkan fakta objektif dari interpretasi, mengenali emosi, melihat satu peristiwa melalui tiga narasi, serta memilih respons secara sadar.
+Latihan ini digunakan untuk melatih kejernihan batin (*intrapersonal communication*) dengan memisahkan:
 
-Saya menggunakan alur refleksi:
+**Peristiwa/Fakta → Interpretasi → Emosi → Narasi → Pilihan → Tindakan → Evaluasi**
 
-> **Peristiwa/Fakta → Interpretasi → Emosi → Narasi → Pilihan → Tindakan → Evaluasi**
+Saya menggunakan latihan ini untuk melihat bagaimana saya merespons tekanan dalam pekerjaan kelompok, terutama ketika terdapat deadline yang berdekatan dengan tuntutan akademik lain.
 
-Prinsip utama yang saya pelajari adalah bahwa fakta, interpretasi, emosi, dan tindakan merupakan hal yang berbeda. Emosi saya valid untuk diakui, tetapi emosi tidak otomatis membuktikan bahwa interpretasi saya benar.
+Hal penting yang saya pelajari adalah:
+
+> **Emosi saya dapat menjadi sinyal bahwa suatu situasi penting bagi saya, tetapi emosi tidak otomatis membuktikan bahwa interpretasi saya terhadap situasi tersebut benar.**
+
+Karena itu, saya perlu membedakan antara apa yang benar-benar terjadi, apa yang saya pikirkan mengenai kejadian tersebut, dan tindakan apa yang sebenarnya berada dalam kendali saya.
+
+---
 
 # Bagian 1 — Identifikasi Kasus
 
-## 1. Peristiwa yang Dapat Diamati
+## 1. Peristiwa yang Dapat Diamati — Fakta Objektif
 
-Peristiwa yang saya refleksikan berasal dari pengalaman mengerjakan tugas besar secara berkelompok. Pada periode tersebut, kelompok menghadapi beberapa tuntutan akademik secara bersamaan, termasuk UTS dan deadline Milestone 2.
+Peristiwa yang saya gunakan berasal dari pengalaman mengerjakan tugas besar secara berkelompok.
 
-Situasi tersebut membuat koordinasi dan pembagian pekerjaan menjadi penting agar setiap bagian dapat diselesaikan sebelum batas waktu dan masih tersedia kesempatan untuk asistensi serta revisi.
+Pada periode tersebut, kelompok menghadapi beberapa tuntutan akademik secara bersamaan, termasuk **UTS dan deadline Milestone 2**.
 
-Dalam komunikasi kelompok, saya melakukan beberapa tindakan koordinasi. Pada 1 April 2026, saya mengingatkan anggota kelompok untuk mulai mengerjakan tugas lebih awal karena periode UTS dan deadline Milestone 2 akan membuat jadwal semakin padat.
+Dalam komunikasi kelompok, saya mengingatkan anggota kelompok agar mulai mengerjakan lebih awal karena jadwal akan semakin padat.
 
-Pada 17 April 2026, saya kembali terlibat dalam pembagian pekerjaan. Saya menyampaikan bahwa saya mengambil bagian Bab 2 dan mengingatkan kelompok agar pekerjaan segera dimulai supaya masih ada waktu untuk asistensi dan revisi.
+Pada tahap berikutnya, kelompok membahas pembagian pekerjaan. Saya ikut melakukan koordinasi, menyatakan bahwa saya mengambil **bagian Bab 2**, dan mengingatkan agar pekerjaan segera dimulai sehingga masih tersedia waktu untuk asistensi dan revisi.
 
-Dalam koordinasi pekerjaan berikutnya, saya juga menyampaikan bahwa saya sedang mengerjakan bagian coding KWN dan meminta anggota lain menangani bagian video Odoo. Dengan demikian, komunikasi saya tidak hanya berkaitan dengan pengingat deadline, tetapi juga pembagian tanggung jawab dan koordinasi pekerjaan.
+Dalam proses pengerjaan teknis, saya juga mengerjakan **bagian coding KWN** dan meminta anggota lain untuk menangani **bagian video Odoo**.
 
-### Fakta yang dapat saya nyatakan
+### Fakta yang benar-benar dapat diamati
 
 1. Kelompok memiliki tugas besar dengan deadline Milestone 2.
-2. Pada periode tersebut terdapat tuntutan akademik lain, termasuk UTS.
+2. Pada periode tersebut terdapat UTS dan tuntutan akademik lain.
 3. Saya mengingatkan kelompok untuk mulai mengerjakan lebih awal.
 4. Saya ikut membahas pembagian pekerjaan.
-5. Saya menyatakan mengambil bagian Bab 2.
-6. Saya mengingatkan kelompok agar pekerjaan tidak terlalu dekat dengan deadline sehingga masih tersedia waktu untuk asistensi dan revisi.
+5. Saya mengambil bagian Bab 2.
+6. Saya mengingatkan kelompok agar pekerjaan selesai lebih awal sehingga masih tersedia waktu untuk asistensi dan revisi.
 7. Saya mengerjakan bagian coding KWN.
 8. Saya meminta anggota lain menangani bagian video Odoo.
-9. Saya melakukan komunikasi mengenai pembagian dan koordinasi pekerjaan.
+9. Saya melakukan komunikasi dan koordinasi mengenai pembagian pekerjaan.
 
 ### Batas antara fakta dan interpretasi
 
-Dari kejadian tersebut, saya dapat menyatakan bahwa kelompok menghadapi tuntutan waktu dan membutuhkan koordinasi pekerjaan.
+Dari fakta tersebut, saya **tidak dapat langsung menyimpulkan** bahwa anggota lain malas, tidak bertanggung jawab, tidak peduli terhadap tugas, atau pasti tidak akan menyelesaikan bagiannya.
 
-Namun, saya tidak dapat menyimpulkan bahwa anggota lain malas, tidak bertanggung jawab, tidak peduli terhadap tugas, atau pasti tidak akan menyelesaikan bagiannya.
+Kesimpulan yang paling aman berdasarkan fakta adalah:
 
-Saya juga tidak dapat memastikan bahwa tugas akan gagal apabila saya tidak mengingatkan atau mengambil pekerjaan tertentu.
+> **Kelompok sedang menghadapi tuntutan waktu yang cukup tinggi sehingga membutuhkan koordinasi pembagian pekerjaan dan pengelolaan waktu yang baik.**
 
-Hal-hal tersebut merupakan interpretasi atau kekhawatiran saya, bukan fakta yang dapat dibuktikan hanya dari situasi tersebut.
-
-**Kesimpulan faktual:**
-
-> Kelompok sedang menghadapi beberapa tuntutan akademik dan membutuhkan koordinasi pembagian pekerjaan agar tugas dapat diselesaikan sebelum deadline dengan waktu yang cukup untuk asistensi dan revisi.
+Hal mengenai niat, kemampuan, tingkat usaha, atau keseriusan anggota lain merupakan informasi yang tidak dapat saya pastikan hanya dari kondisi yang terlihat oleh saya.
 
 ---
 
 ## 2. Interpretasi Pertama / Asumsi Otomatis
 
-Interpretasi pertama yang muncul ketika saya melihat deadline semakin dekat adalah:
+Ketika melihat deadline semakin dekat dan beberapa pekerjaan masih harus dikerjakan, interpretasi otomatis saya adalah:
 
-> "Saya harus memastikan pekerjaan kelompok tetap berjalan karena kalau saya tidak ikut mengingatkan atau mengambil tindakan, ada kemungkinan pekerjaan tidak selesai tepat waktu."
+> **“Saya harus memastikan pekerjaan kelompok tetap berjalan karena kalau saya tidak ikut mengingatkan atau mengambil tindakan, ada kemungkinan pekerjaan tidak selesai tepat waktu.”**
 
-Saya juga cenderung berpikir bahwa mengambil lebih banyak tanggung jawab akan membuat situasi terasa lebih aman.
+Saya juga cenderung berpikir bahwa mengambil lebih banyak tanggung jawab akan membuat situasi menjadi lebih aman.
 
-Setelah melakukan refleksi, saya menyadari bahwa terdapat tiga hal berbeda dalam pikiran saya:
+Pada saat itu, saya belum sepenuhnya membedakan antara:
 
-- Fakta bahwa deadline memang semakin dekat.
-- Kekhawatiran bahwa pekerjaan kelompok mungkin tidak selesai tepat waktu.
-- Asumsi bahwa saya harus mengambil lebih banyak pekerjaan agar tugas berhasil.
-
-Ketiganya tidak boleh disamakan.
+- fakta bahwa deadline memang semakin dekat;
+- rasa cemas bahwa pekerjaan mungkin terlambat;
+- asumsi bahwa saya harus mengambil lebih banyak pekerjaan agar tugas berhasil.
 
 ### Pemisahan fakta dan cerita
 
-| Fakta | Interpretasi atau cerita saya |
+| Fakta | Interpretasi / Cerita |
 |---|---|
 | Deadline Milestone 2 semakin dekat. | Kalau saya tidak turun tangan, tugas mungkin tidak selesai. |
-| Ada UTS dan tuntutan akademik lain. | Anggota lain mungkin tidak mampu mengatur waktunya. |
-| Pekerjaan perlu dibagi. | Saya harus mengambil lebih banyak pekerjaan supaya aman. |
-| Saya mengambil bagian Bab 2. | Saya harus memastikan seluruh bagian tugas selesai. |
-| Saya meminta anggota lain menangani bagian tertentu. | Saya harus terus mengontrol progres agar semuanya berjalan. |
+| Ada UTS dan tuntutan akademik lain. | Anggota lain mungkin tidak dapat mengatur waktunya. |
+| Pekerjaan perlu dibagi. | Saya harus memastikan pembagian tersebut berjalan. |
+| Saya mengambil Bab 2. | Saya perlu memastikan bagian lain juga tidak tertinggal. |
+| Saya mengerjakan coding KWN. | Saya harus membantu lebih banyak agar tugas aman. |
+| Saya meminta anggota lain menangani video Odoo. | Saya perlu memastikan pekerjaan anggota lain juga tetap berjalan. |
 
-Kesadaran penting dari bagian ini adalah:
+Kesadaran penting dari pemisahan ini adalah:
 
-> **Deadline yang nyata tidak otomatis membuktikan bahwa kekhawatiran saya mengenai kegagalan tugas juga merupakan fakta.**
+> **Deadline yang dekat merupakan fakta. Kekhawatiran bahwa tugas pasti terlambat merupakan interpretasi.**
+
+Dengan membedakan keduanya, saya memiliki ruang untuk memilih respons yang lebih proporsional.
 
 ---
 
-## 3. Emosi dan Sensasi Tubuh
+## 3. Emosi dan Sinyal Tubuh
 
-### Emosi yang saya rasakan
+Ketika memikirkan deadline dan banyaknya pekerjaan yang harus diselesaikan, saya merasakan beberapa emosi:
 
 | Emosi | Intensitas |
 |---|---:|
@@ -112,73 +115,68 @@ Kesadaran penting dari bagian ini adalah:
 | Tertekan | 6/10 |
 | Kesal | 5/10 |
 
-### Sensasi tubuh
+Secara fisik, saya merasa tubuh lebih tegang dan sulit merasa benar-benar tenang sebelum pekerjaan kelompok terlihat berjalan.
 
-Ketika memikirkan deadline dan banyaknya pekerjaan yang harus diselesaikan, saya merasa tubuh lebih tegang dan sulit merasa benar-benar tenang sebelum melihat adanya perkembangan pekerjaan.
+Saya juga merasakan dorongan untuk segera melakukan sesuatu agar situasi terasa lebih terkendali, misalnya:
 
-Saya juga merasakan dorongan untuk segera melakukan sesuatu agar situasi terasa lebih terkendali. Dorongan tersebut muncul dalam bentuk mengingatkan anggota kelompok, ikut mengatur pembagian pekerjaan, mengambil bagian tugas, dan meminta anggota lain menangani bagian yang berbeda.
+- mengingatkan anggota kelompok;
+- mengambil bagian tugas;
+- menawarkan bantuan;
+- ikut mengoordinasikan pekerjaan.
 
-### Hubungan antara fakta, interpretasi, dan emosi
+Namun, saya menyadari bahwa:
 
-Saya menyadari bahwa kecemasan saya tidak muncul begitu saja. Ada situasi nyata yang menjadi pemicunya, yaitu deadline dan beberapa tuntutan akademik yang berlangsung berdekatan.
+> **Dorongan untuk segera bertindak bukan berarti tindakan tersebut pasti merupakan respons terbaik.**
 
-Namun, intensitas kecemasan saya juga dipengaruhi oleh interpretasi bahwa saya harus memastikan seluruh pekerjaan kelompok berjalan dengan baik.
-
-Dengan kata lain, situasi deadline merupakan fakta, sedangkan pikiran bahwa saya harus mengendalikan semua pekerjaan merupakan interpretasi yang dapat saya evaluasi.
-
-Saya belajar bahwa:
-
-> **Emosi dapat memberikan informasi mengenai hal yang penting bagi saya, tetapi emosi bukan bukti bahwa interpretasi saya benar.**
-
-Saya boleh merasa cemas dan khawatir, tetapi tetap perlu memeriksa fakta sebelum menentukan tindakan.
+Saya perlu memberikan jarak antara emosi dan tindakan agar tidak mengambil keputusan hanya berdasarkan kecemasan.
 
 ---
 
 # Bagian 2 — Membedah Tiga Narasi
 
-# Versi A — Narasi Korban (*Victim Narrative*)
+## Versi A — Narasi Korban (*Victim Narrative*)
 
-## Isi Narasi Korban
+Jika saya melihat situasi tersebut melalui narasi korban, saya dapat merasa bahwa keberhasilan tugas kelompok terlalu bergantung pada anggota lain.
 
-Jika melihat situasi melalui narasi korban, saya dapat merasa bahwa keberhasilan tugas terlalu bergantung pada tindakan anggota kelompok lain.
+Saya dapat berpikir:
 
-Saya mungkin berpikir bahwa saya sudah berusaha menjalankan tanggung jawab, tetapi saya tidak dapat memastikan pekerjaan selesai karena hasil akhirnya bergantung pada orang lain.
+> “Kalau saya tidak ikut turun tangan, nanti tugasnya tidak selesai.”
 
-Dalam sudut pandang ini, saya merasa pilihan saya terbatas. Saya merasa harus terus mengingatkan anggota kelompok atau mengambil lebih banyak pekerjaan sendiri agar tugas tetap berjalan.
+> “Saya harus memastikan semuanya berjalan.”
 
-Pikiran yang dapat muncul adalah:
+> “Lebih aman kalau saya ambil bagian tambahan daripada menunggu.”
 
-> "Kalau saya tidak ikut turun tangan, nanti tugasnya tidak selesai."
+Dalam narasi ini, kendali terasa berada di luar diri saya karena keberhasilan tugas seolah-olah bergantung pada apakah anggota lain bekerja sesuai harapan saya atau tidak.
 
-> "Saya harus memastikan semuanya berjalan."
+### Tindakan reaktif yang mungkin muncul
 
-> "Lebih aman kalau saya mengambil bagian tambahan daripada menunggu."
+Jika saya sepenuhnya mengikuti narasi tersebut, saya cenderung:
 
-Dalam narasi ini, sebagian besar kendali saya terasa berada di luar diri saya. Saya berfokus pada hal-hal yang tidak dapat saya kendalikan, seperti kecepatan kerja, pengaturan waktu, dan respons anggota kelompok.
+1. mengambil terlalu banyak pekerjaan;
+2. terus mengingatkan anggota kelompok;
+3. merasa kesal ketika pekerjaan belum terlihat selesai;
+4. sulit mempercayai anggota lain menyelesaikan bagiannya;
+5. mengambil alih pekerjaan ketika deadline terasa semakin dekat.
 
-## Tindakan Reaktif yang Mungkin Muncul
+Tindakan tersebut mungkin membuat saya merasa lebih aman untuk sementara karena saya merasa memiliki kendali.
 
-Jika sepenuhnya mengikuti narasi korban, saya cenderung:
+Namun, konsekuensinya dapat berupa:
 
-1. Mengambil terlalu banyak pekerjaan.
-2. Terus mengingatkan anggota kelompok.
-3. Merasa kesal ketika perkembangan pekerjaan belum terlihat.
-4. Sulit mempercayai anggota lain untuk menyelesaikan tanggung jawabnya.
-5. Mengambil alih pekerjaan ketika deadline terasa semakin dekat.
+- beban kerja saya menjadi terlalu besar;
+- anggota lain kehilangan ruang untuk bertanggung jawab;
+- saya semakin tertekan;
+- pembagian pekerjaan menjadi kurang seimbang;
+- hubungan kerja kelompok dapat menjadi kurang nyaman.
 
-Tindakan tersebut mungkin memberikan rasa aman sementara karena saya merasa memiliki kendali.
-
-Namun, konsekuensinya dapat berupa beban kerja yang semakin besar, berkurangnya ruang anggota lain untuk bertanggung jawab, meningkatnya tekanan pada diri sendiri, dan hubungan kerja yang menjadi kurang seimbang.
-
-**Inti narasi korban:** saya melihat diri sebagai pihak yang harus menanggung situasi karena terlalu berfokus pada faktor di luar kendali saya.
+Narasi korban membantu saya melihat bahwa **rasa takut kehilangan kendali dapat membuat saya mengambil tanggung jawab yang sebenarnya bukan seluruhnya milik saya.**
 
 ---
 
-# Versi B — Narasi Analitis (*Analytical Narrative*)
+## Versi B — Narasi Analitis (*Analytical Narrative*)
 
-## 1. Apa yang Benar-Benar Telah Terbukti?
+### 1. Apa yang benar-benar telah terbukti?
 
-Fakta yang saya ketahui adalah:
+Fakta yang benar-benar saya ketahui adalah:
 
 1. Kelompok memiliki tugas besar dengan deadline Milestone 2.
 2. Pada periode tersebut terdapat UTS dan tuntutan akademik lain.
@@ -190,81 +188,85 @@ Fakta yang saya ketahui adalah:
 8. Saya meminta anggota lain menangani bagian video Odoo.
 9. Saya melakukan koordinasi mengenai pekerjaan kelompok.
 
-Sementara itu, beberapa hal belum terbukti:
+Sementara itu, beberapa hal **belum terbukti**, yaitu:
 
-- Anggota lain pasti tidak bertanggung jawab.
-- Anggota lain tidak akan bekerja apabila saya tidak mengingatkan.
-- Tugas pasti terlambat jika saya tidak mengambil pekerjaan tambahan.
-- Saya harus mengambil alih pekerjaan agar kelompok berhasil.
+- anggota lain pasti tidak bertanggung jawab;
+- anggota lain tidak akan bekerja apabila saya tidak mengingatkan;
+- tugas pasti akan terlambat jika saya tidak mengambil pekerjaan tambahan;
+- saya harus mengambil alih pekerjaan agar kelompok berhasil.
 
-Pemisahan ini penting agar saya tidak mengubah kekhawatiran menjadi kesimpulan yang seolah-olah merupakan fakta.
+---
 
-## 2. Penjelasan Alternatif yang Masuk Akal
+### 2. Alternatif Penjelasan yang Masuk Akal
 
-### Alternatif 1 — Masalahnya mungkin koordinasi, bukan ketidakmampuan
+#### Alternatif 1 — Masalahnya mungkin koordinasi, bukan ketidakmampuan
 
 Anggota kelompok mungkin sebenarnya mampu menyelesaikan tanggung jawab masing-masing, tetapi membutuhkan pembagian pekerjaan dan komunikasi yang lebih jelas.
 
-Jika kemungkinan ini benar, solusi yang lebih tepat adalah memperjelas pembagian tugas dan meminta perkembangan pekerjaan, bukan langsung mengambil alih bagian anggota lain.
+Jika ini benar, solusi yang tepat bukan mengambil alih pekerjaan anggota lain, tetapi:
 
-### Alternatif 2 — Pekerjaan yang belum terlihat bukan berarti tidak dikerjakan
+- memperjelas pembagian;
+- meminta update;
+- mengomunikasikan kebutuhan;
+- memastikan setiap orang memahami tanggung jawabnya.
 
-Saya tidak selalu dapat mengetahui perkembangan pekerjaan anggota lain hanya dari hal yang terlihat di grup.
+#### Alternatif 2 — Pekerjaan yang belum terlihat bukan berarti tidak dikerjakan
 
-Pekerjaan yang belum menunjukkan hasil akhir dapat berarti masih dalam proses, sedang dikerjakan di luar waktu komunikasi grup, masih dalam tahap penyelesaian, atau memang belum dikerjakan.
+Saya tidak selalu dapat mengetahui progres anggota lain hanya dari apa yang terlihat dalam komunikasi kelompok.
 
-Saya perlu bertanya sebelum menyimpulkan.
+Pekerjaan yang belum menunjukkan hasil akhir dapat berarti:
 
-### Alternatif 3 — Kecemasan saya sendiri dapat memperbesar rasa urgensi
+- masih dalam proses;
+- sedang dikerjakan di luar waktu komunikasi grup;
+- masih dalam tahap penyelesaian;
+- atau memang belum dikerjakan.
 
-Dorongan untuk mengambil lebih banyak pekerjaan dapat berasal dari kekhawatiran saya terhadap deadline.
+Karena itu, saya perlu bertanya atau melakukan koordinasi sebelum mengambil kesimpulan.
 
-Artinya, rasa harus segera turun tangan dapat muncul sebelum masalah yang saya khawatirkan benar-benar terjadi.
+#### Alternatif 3 — Kecemasan saya sendiri dapat memperbesar rasa urgensi
 
-Saya perlu membedakan kebutuhan kelompok yang nyata dari kebutuhan saya sendiri untuk merasa aman dan memiliki kendali.
+Dorongan saya untuk mengambil lebih banyak pekerjaan juga dapat berasal dari kekhawatiran saya terhadap deadline.
 
-## 3. Kesimpulan Analitis
+Artinya:
 
-Dari beberapa kemungkinan tersebut, saya menyadari:
+> **Rasa “harus segera turun tangan” dapat muncul sebelum masalah yang saya khawatirkan benar-benar terbukti terjadi.**
 
-> **Kekhawatiran bahwa tugas akan terlambat bukanlah fakta bahwa tugas pasti akan terlambat.**
+Dengan memahami hal tersebut, saya dapat tetap peduli terhadap hasil tugas tanpa menjadikan kecemasan sebagai dasar untuk mengendalikan pekerjaan anggota lain.
 
-Saya tidak harus langsung bereaksi terhadap setiap kekhawatiran yang muncul.
+---
 
-Respons yang lebih tepat adalah memeriksa kondisi, berkomunikasi, memahami kebutuhan, lalu bertindak berdasarkan informasi yang tersedia.
-
-## 4. Faktor yang Berada di Bawah Kendali Saya
+## 3. Faktor yang Berada dalam Kendali Saya
 
 ### Berada dalam kendali saya
 
-- Cara saya menyampaikan kekhawatiran.
-- Cara saya mengelola emosi.
-- Bagian tugas yang saya ambil.
-- Cara saya meminta perkembangan pekerjaan.
-- Cara saya menawarkan bantuan.
-- Cara saya mengatur waktu.
-- Cara saya berkoordinasi.
-- Keputusan untuk membantu tanpa mengambil alih.
-- Keputusan untuk memeriksa fakta sebelum bereaksi.
-- Keputusan untuk membuat batas waktu internal.
+- cara saya menyampaikan kekhawatiran;
+- cara saya mengatur emosi;
+- bagian tugas yang saya ambil;
+- cara saya meminta update;
+- cara saya menawarkan bantuan;
+- cara saya mengatur waktu;
+- cara saya berkoordinasi;
+- keputusan untuk membantu tanpa mengambil alih;
+- keputusan untuk memeriksa fakta sebelum bereaksi;
+- keputusan untuk membuat batas waktu internal.
 
 ### Tidak berada dalam kendali saya
 
-- Seberapa cepat anggota lain bekerja.
-- Bagaimana anggota lain mengatur waktunya.
-- Keputusan pribadi anggota lain.
-- Bagaimana anggota lain merespons pesan saya.
-- Kendala pribadi anggota lain yang belum mereka sampaikan.
+- seberapa cepat anggota lain bekerja;
+- bagaimana anggota lain mengatur waktunya;
+- keputusan pribadi anggota lain;
+- bagaimana anggota lain merespons pesan saya;
+- apakah anggota lain mengalami kendala yang belum saya ketahui.
 
-Pemisahan ini membantu saya memahami bahwa:
+Dari pemisahan tersebut, saya memahami:
 
 > **Tanggung jawab saya adalah mengelola kontribusi dan komunikasi saya, bukan mengendalikan perilaku seluruh anggota kelompok.**
 
 ---
 
-# Versi C — Narasi Pertumbuhan (*Growth Narrative*)
+## Versi C — Narasi Pertumbuhan (*Growth Narrative*)
 
-Saya menyadari bahwa rasa cemas dan khawatir terhadap deadline muncul karena saya peduli terhadap hasil kerja kelompok dan ingin memastikan tanggung jawab saya dapat diselesaikan dengan baik.
+Saya menyadari bahwa rasa cemas dan khawatir terhadap deadline muncul karena saya peduli terhadap hasil kerja kelompok dan ingin memastikan tugas dapat diselesaikan dengan baik.
 
 Kepedulian tersebut merupakan hal yang ingin saya pertahankan.
 
@@ -272,189 +274,209 @@ Namun, saya belajar bahwa:
 
 > **Bertanggung jawab tidak berarti harus mengendalikan seluruh pekerjaan kelompok.**
 
-Dalam pengalaman tersebut, saya sudah melakukan beberapa tindakan konkret, yaitu mengingatkan kelompok mengenai deadline, mengajak kelompok mulai mengerjakan lebih awal, ikut membahas pembagian pekerjaan, mengambil bagian Bab 2, mengerjakan coding KWN, dan meminta anggota lain menangani bagian video Odoo.
+Dalam pengalaman tersebut, saya sudah melakukan beberapa tindakan konkret:
 
-Hal tersebut menunjukkan bahwa saya sudah mengambil tindakan untuk menghadapi situasi, bukan hanya memikirkan kemungkinan masalah.
+- mengingatkan kelompok mengenai deadline;
+- mengajak kelompok mulai mengerjakan lebih awal;
+- ikut membahas pembagian pekerjaan;
+- mengambil Bab 2;
+- mengingatkan pentingnya waktu untuk asistensi dan revisi;
+- mengerjakan coding KWN;
+- meminta anggota lain menangani video Odoo.
 
-Namun, saya juga menyadari bahwa tindakan aktif tidak selalu otomatis menjadi tindakan yang paling tepat. Jika tindakan saya didorong oleh kecemasan, saya berisiko mengambil terlalu banyak pekerjaan atau membuat anggota lain kehilangan ruang untuk menjalankan tanggung jawabnya.
+Artinya, saya sebenarnya tidak kekurangan kemauan untuk bertindak.
 
-## Pelajaran yang Saya Ambil
+Yang perlu saya perbaiki adalah **cara memastikan tindakan saya tetap proporsional dan tidak berubah menjadi pengambilalihan tanggung jawab orang lain.**
 
-Pelajaran utama saya adalah:
+### Pelajaran utama
 
 > **Saya dapat bertanggung jawab terhadap bagian saya tanpa harus merasa bertanggung jawab atas seluruh pekerjaan orang lain.**
 
-Saya juga belajar bahwa tindakan cepat tidak selalu sama dengan respons yang tepat.
+Respons yang lebih matang bagi saya adalah:
 
-Respons yang lebih matang adalah:
-
-> **Berhenti sejenak → Memeriksa fakta → Memahami kondisi → Menentukan tindakan yang berada dalam kendali saya.**
-
-## Nilai yang Ingin Saya Pertahankan
-
-Nilai yang ingin saya pertahankan adalah:
-
-- Tanggung jawab.
-- Kerja sama.
-- Komunikasi terbuka.
-- Kepedulian terhadap kualitas pekerjaan.
-- Kepercayaan terhadap anggota kelompok.
-
-Saya tetap ingin menjadi anggota kelompok yang aktif dan dapat diandalkan, tetapi tidak ingin menjadikan kecemasan sebagai alasan untuk mengambil alih tanggung jawab orang lain.
+> **berhenti sejenak → memeriksa fakta → memahami kondisi → berkoordinasi → menentukan tindakan yang berada dalam kendali saya.**
 
 ---
 
-# Bagian 3 — Respons yang Dipilih
+# Bagian 3 — Internal Conversation dan Agreement
 
-## 1. Tindakan Nyata yang Sudah Saya Lakukan
+Situasi tersebut membuat saya menyadari adanya dua kecenderungan dalam diri saya.
 
-Dalam peristiwa ini, saya tidak hanya memikirkan cara mengatasi masalah. Saya juga melakukan tindakan komunikasi dan koordinasi yang dapat saya uraikan berdasarkan urutan pengalaman.
+## Character 1 — “The Controller”
 
-### Tindakan 1 — Mengantisipasi deadline
+Bagian diri saya yang ingin memastikan semuanya berjalan.
 
-**Waktu:** 1 April 2026.
+Pikirannya:
 
-Saya mengingatkan anggota kelompok agar mulai mengerjakan tugas lebih awal karena periode tersebut akan semakin padat dengan UTS dan deadline Milestone 2.
+> “Kalau deadline sudah dekat, saya harus ikut memastikan semuanya aman.”
 
-Tindakan komunikasi ini menunjukkan bahwa saya menyampaikan kekhawatiran mengenai keterbatasan waktu dan mengajak kelompok melakukan antisipasi.
+Karakter ini memiliki sisi positif karena membuat saya peduli dan bertanggung jawab, tetapi jika terlalu dominan dapat membuat saya mengambil terlalu banyak tanggung jawab.
 
-**Makna tindakan:** saya berusaha mengubah kekhawatiran mengenai deadline menjadi ajakan untuk mulai bekerja lebih awal.
+## Character 2 — “The Responsible Collaborator”
 
-### Tindakan 2 — Mengambil bagian dalam pembagian pekerjaan
+Bagian diri saya yang tetap bertanggung jawab, tetapi menyadari batas kendali.
 
-**Waktu:** 17 April 2026.
+Pikirannya:
 
-Ketika pembagian pekerjaan dibahas, saya menyampaikan bahwa saya mengambil bagian Bab 2.
+> “Saya bertanggung jawab terhadap bagian saya dan komunikasi saya. Anggota lain juga perlu memiliki ruang untuk menjalankan tanggung jawabnya.”
 
-Saya juga mengingatkan kelompok agar pekerjaan segera dimulai sehingga masih tersedia waktu untuk asistensi dan revisi.
+### Percakapan internal
 
-**Makna tindakan:** saya tidak hanya meminta anggota lain bekerja, tetapi juga menyatakan bagian pekerjaan yang menjadi tanggung jawab saya.
+> **The Controller:** “Kalau tidak saya bantu, nanti bisa terlambat.”
 
-### Tindakan 3 — Mengomunikasikan pekerjaan yang sedang saya tangani
+> **Responsible Collaborator:** “Deadline memang dekat, tetapi belum ada bukti bahwa semuanya akan terlambat.”
 
-Dalam koordinasi pekerjaan teknis, saya menyampaikan bahwa saya sedang mengerjakan bagian coding KWN.
+> **The Controller:** “Lebih aman kalau saya ambil lebih banyak.”
 
-Tindakan tersebut memperjelas pekerjaan yang sedang saya tangani kepada anggota kelompok.
+> **Responsible Collaborator:** “Membantu boleh, tetapi saya perlu memastikan pembagian tetap jelas. Saya tidak perlu mengambil alih pekerjaan yang menjadi tanggung jawab orang lain.”
 
-**Makna tindakan:** saya mengomunikasikan kontribusi dan kondisi pekerjaan saya agar koordinasi kelompok memiliki informasi yang lebih jelas.
+> **Saya:** “Saya akan tetap aktif mengoordinasikan pekerjaan, tetapi saya akan membedakan antara membantu, mengingatkan, dan mengambil alih.”
 
-### Tindakan 4 — Meminta pembagian pekerjaan yang berbeda
+---
 
-Dalam komunikasi berikutnya, saya meminta anggota lain menangani bagian video Odoo karena saya sedang mengerjakan bagian coding KWN.
+## Internal Agreement
 
-**Makna tindakan:** saya berusaha membagi tanggung jawab berdasarkan pekerjaan yang sedang ditangani, bukan mengerjakan seluruh bagian sendiri.
+Dari percakapan tersebut, saya membuat kesepakatan dengan diri sendiri:
 
-### Ringkasan tindakan nyata
+> **Ketika deadline membuat saya merasa harus segera turun tangan, saya akan memeriksa fakta terlebih dahulu, melihat pembagian tanggung jawab, lalu memilih tindakan yang memang berada dalam kendali saya.**
 
-| Urutan | Situasi | Tindakan saya | Makna komunikasi |
+Secara praktis, saya menggunakan tiga pertanyaan:
+
+1. **Apa fakta yang benar-benar saya ketahui?**
+2. **Apa yang sebenarnya masih merupakan asumsi saya?**
+3. **Apa tindakan yang dapat saya lakukan tanpa mengambil alih tanggung jawab orang lain?**
+
+Kesepakatan ini kemudian saya terapkan dalam tindakan nyata melalui koordinasi, pembagian pekerjaan, dan komunikasi mengenai tugas yang sedang saya kerjakan.
+
+---
+
+# Bagian 4 — Konteks Performance
+
+**Tanggal dan setting:** April 2026, pada periode pengerjaan tugas kelompok ketika UTS dan deadline Milestone 2 berdekatan.
+
+**Persons dan relationship:** Saya dan anggota kelompok dalam konteks kerja akademik. Hubungan kami merupakan hubungan kerja kelompok yang membutuhkan koordinasi pembagian tugas dan komunikasi mengenai progres.
+
+**Objective:** Menjaga agar pekerjaan kelompok berjalan sesuai waktu yang tersedia, memastikan bagian saya selesai, dan membagi tanggung jawab secara proporsional.
+
+**Initial state:** Saya berada dalam kondisi cukup cemas terhadap deadline dan memiliki dorongan untuk memastikan pekerjaan kelompok tetap berjalan.
+
+**Desired state:** Pekerjaan dapat dibagi dan dikerjakan dengan jelas tanpa saya mengambil alih tanggung jawab anggota lain.
+
+---
+
+# Bagian 5 — Evidence Perubahan Reaction → Response
+
+## Evidence 1 — Mengantisipasi Deadline
+
+Pada komunikasi tanggal **1 April 2026**, saya mengingatkan anggota kelompok bahwa periode tersebut akan semakin padat karena adanya UTS dan deadline Milestone 2.
+
+Saya mengajak kelompok untuk mulai mengerjakan lebih awal.
+
+### Apa yang dibuktikan?
+
+Tindakan ini menunjukkan bahwa saya tidak hanya merasakan kecemasan terhadap deadline, tetapi mengubah kekhawatiran tersebut menjadi tindakan komunikasi yang konkret.
+
+Namun, saya tidak menggunakan tindakan tersebut untuk menyimpulkan bahwa anggota lain pasti tidak bertanggung jawab.
+
+Yang dapat saya katakan adalah:
+
+> **Saya melihat adanya risiko waktu dan memilih mengomunikasikan risiko tersebut kepada kelompok.**
+
+---
+
+## Evidence 2 — Pembagian Pekerjaan
+
+Pada komunikasi tanggal **17 April 2026**, saya ikut melakukan koordinasi pembagian pekerjaan dan menyatakan bahwa saya mengambil bagian **Bab 2**.
+
+Saya juga mengingatkan agar pekerjaan segera dilakukan sehingga masih tersedia waktu untuk asistensi dan revisi.
+
+### Apa yang dibuktikan?
+
+Tindakan tersebut menunjukkan:
+
+1. saya ikut melakukan koordinasi;
+2. saya mengambil tanggung jawab konkret;
+3. saya mempertimbangkan deadline;
+4. saya mempertimbangkan kebutuhan asistensi dan revisi;
+5. saya tidak hanya memikirkan masalah, tetapi mengambil tindakan.
+
+Hal ini memperlihatkan bahwa respons saya terhadap tekanan deadline sudah diwujudkan dalam tindakan nyata.
+
+---
+
+## Evidence 3 — Koordinasi Pekerjaan Teknis
+
+Dalam proses pengerjaan berikutnya, terdapat komunikasi mengenai pekerjaan teknis yang perlu diselesaikan.
+
+Saya menyampaikan kondisi pekerjaan yang sedang saya kerjakan dan melakukan koordinasi dengan anggota kelompok.
+
+### Apa yang dibuktikan?
+
+Evidence ini menunjukkan bahwa saya menghadapi tekanan pekerjaan melalui **komunikasi dan koordinasi**, bukan hanya dengan memendam kekhawatiran sendiri.
+
+Hal ini juga menunjukkan bahwa saya mulai melihat pekerjaan kelompok sebagai sesuatu yang perlu dikelola melalui pembagian dan komunikasi.
+
+---
+
+## Evidence 4 — Pembagian Tanggung Jawab
+
+Dalam komunikasi berikutnya, saya menyampaikan bahwa saya sedang mengerjakan **coding KWN** dan meminta anggota lain untuk menangani **video Odoo**.
+
+Pesan saya pada saat itu menunjukkan bahwa saya sedang mengerjakan bagian saya sendiri sambil meminta anggota lain untuk menangani bagian yang berbeda.
+
+### Apa yang dibuktikan?
+
+Tindakan ini penting karena menunjukkan dua hal sekaligus:
+
+- saya mengambil tanggung jawab terhadap pekerjaan saya;
+- saya tetap memberikan ruang kepada anggota lain untuk menangani bagian mereka.
+
+Dengan demikian, saya tidak hanya mengatakan bahwa saya ingin membangun pembagian tugas, tetapi benar-benar melakukan koordinasi pembagian pekerjaan.
+
+---
+
+# Bagian 6 — Respons Anggota dan Agreement
+
+Bagian penting dari refleksi ini adalah membedakan **permintaan saya** dengan **respons anggota lain**.
+
+Saya memiliki bukti bahwa saya meminta anggota lain menangani bagian video Odoo ketika saya sedang mengerjakan coding KWN.
+
+Setelah permintaan tersebut, komunikasi kelompok dilanjutkan untuk mengoordinasikan pekerjaan teknis dan kebutuhan tugas.
+
+Saya tidak menggunakan kutipan langsung untuk respons anggota karena saya tidak ingin mengubah ingatan atau konteks percakapan menjadi kutipan yang tidak dapat saya pastikan secara tepat.
+
+Yang dapat saya pertanggungjawabkan adalah bahwa komunikasi tersebut tidak berhenti pada pemikiran internal. Saya benar-benar membawa hasil refleksi tersebut ke dalam komunikasi dan pembagian pekerjaan kelompok.
+
+### Pembelajaran dari komunikasi tersebut
+
+Saya menyadari bahwa komunikasi yang sehat dalam kelompok tidak berhenti pada:
+
+> “Saya sudah meminta orang lain mengerjakan bagian ini.”
+
+Tetapi perlu dilanjutkan dengan:
+
+> **“Apakah pembagian tersebut dipahami, apakah ada kendala, dan apakah ada penyesuaian yang diperlukan?”**
+
+Hal tersebut menjadi area pertumbuhan saya untuk komunikasi berikutnya.
+
+Dengan demikian, saya belajar bahwa **agreement tidak hanya berarti orang lain mengatakan “iya”, tetapi juga perlu ada kejelasan mengenai siapa melakukan apa dan bagaimana pekerjaan tersebut dilanjutkan.**
+
+---
+
+# Bagian 7 — Hubungan Evidence dengan Response
+
+| Situasi | Reaction yang Mungkin Muncul | Response yang Saya Pilih | Evidence |
 |---|---|---|---|
-| 1 | Deadline dan UTS semakin dekat | Mengingatkan kelompok untuk mulai lebih awal | Mengomunikasikan urgensi waktu |
-| 2 | Pembagian pekerjaan | Menyatakan mengambil Bab 2 | Menunjukkan kepemilikan tanggung jawab |
-| 3 | Pekerjaan teknis berlangsung | Menyampaikan bahwa saya mengerjakan coding KWN | Memperjelas kontribusi |
-| 4 | Pekerjaan perlu dibagi | Meminta anggota lain menangani video Odoo | Mengomunikasikan pembagian tanggung jawab |
+| Deadline semakin dekat | “Kalau tidak saya ingatkan, nanti terlambat.” | Mengomunikasikan risiko waktu kepada kelompok. | Evidence 1 |
+| Pekerjaan harus dibagi | “Saya harus memastikan semuanya.” | Mengambil bagian Bab 2 dan ikut koordinasi. | Evidence 2 |
+| Pekerjaan teknis perlu diselesaikan | “Saya harus turun tangan sebanyak mungkin.” | Mengomunikasikan pekerjaan teknis dan membagi tanggung jawab. | Evidence 3 |
+| Saya mengerjakan coding KWN | “Saya harus menyelesaikan semuanya sendiri.” | Mengerjakan bagian saya dan meminta anggota lain menangani video Odoo. | Evidence 4 |
 
-Dari rangkaian tersebut, saya dapat menyatakan bahwa tindakan saya dalam peristiwa tersebut mencakup pengingat deadline, koordinasi, pengambilan tanggung jawab, dan komunikasi pembagian pekerjaan.
+Dari rangkaian tersebut terlihat bahwa perubahan saya bukan berarti saya menjadi pasif.
 
-Saya tidak menyimpulkan bahwa semua tindakan tersebut otomatis membuat pekerjaan kelompok selesai atau bahwa anggota lain merespons dengan cara tertentu, karena hal tersebut tidak dapat saya pastikan hanya dari tindakan saya sendiri.
+Sebaliknya:
 
-**Hal yang dapat saya pertanggungjawabkan adalah tindakan komunikasi yang memang saya lakukan.**
-
-## 2. Respons yang Lebih Baik untuk Situasi Serupa
-
-Setelah mengevaluasi tindakan saya, saya menyusun pola respons yang lebih disengaja untuk situasi berikutnya.
-
-1. Memastikan pembagian tugas sudah jelas.
-2. Meminta perkembangan pekerjaan setiap anggota secara proporsional.
-3. Jika ada bagian yang belum selesai, menanyakan kendalanya terlebih dahulu.
-4. Menawarkan bantuan jika memang diperlukan.
-5. Mengambil pekerjaan tambahan hanya jika terdapat kebutuhan yang jelas dan telah disepakati.
-6. Membuat batas waktu internal.
-7. Menyisakan waktu untuk asistensi dan revisi.
-8. Mengevaluasi apakah bantuan saya memang diperlukan atau justru mengambil alih tanggung jawab anggota lain.
-
-Contoh komunikasi asertif yang akan saya gunakan:
-
-> "Ges, biar aman sebelum deadline kita update progres masing-masing ya. Kalau ada bagian yang masih stuck atau butuh dibantu, kabarin aja. Kita coba beresin sesuai bagian masing-masing supaya masih ada waktu buat asistensi dan revisi."
-
-Saya memilih kalimat tersebut karena tidak langsung menuduh atau menyimpulkan bahwa anggota lain belum bekerja.
-
-Saya terlebih dahulu mengajak kelompok memeriksa kondisi, menyampaikan kebutuhan, menawarkan bantuan, dan menyepakati tindakan.
-
-## 3. Dukungan dan Feedback dari Rekan
-
-**Nama rekan:** Suci.
-
-Saya memilih Suci sebagai rekan yang dapat memberikan perspektif dari luar mengenai cara saya berkomunikasi ketika menghadapi tekanan dalam tugas kelompok.
-
-Pertanyaan yang ingin saya gunakan untuk memperoleh feedback secara jujur adalah:
-
-> "Menurut kamu, waktu ngerjain tugas kelompok kemarin aku terlalu banyak mengambil alih atau pembagian tugasnya masih cukup seimbang?"
-
-Saya memilih pertanyaan tersebut karena saya ingin memperoleh sudut pandang yang mungkin tidak saya sadari ketika berada di dalam situasi.
-
-Hal yang ingin saya evaluasi adalah perbedaan antara membantu kelompok dan mengambil alih tanggung jawab anggota lain.
-
-Saya tidak menganggap penilaian diri sendiri sudah pasti objektif. Perspektif orang lain dapat membantu saya melihat apakah cara saya berkomunikasi sudah memberikan ruang yang cukup bagi anggota kelompok untuk bertanggung jawab.
-
----
-
-# Catatan Tindakan sebagai Evidence Tertulis
-
-Pada latihan ini, saya menggunakan uraian kronologis sebagai catatan tindakan komunikasi yang saya ingat dan lakukan dalam pengalaman tersebut.
-
-Catatan ini bukan transkrip verbatim seluruh percakapan. Saya membedakan antara tindakan yang saya lakukan, konteks kejadian, dan interpretasi yang saya buat setelahnya.
-
-### Catatan 1 — Pengingat untuk mulai lebih awal
-
-Pada 1 April 2026, saya menyampaikan pengingat kepada kelompok agar pekerjaan mulai dilakukan lebih awal karena terdapat UTS dan deadline Milestone 2.
-
-**Tindakan yang dapat saya nyatakan:** mengirimkan pengingat dan mengajak kelompok mengantisipasi jadwal yang semakin padat.
-
-**Hal yang didukung oleh catatan ini:** saya melakukan komunikasi proaktif mengenai pengelolaan waktu.
-
-**Hal yang tidak dapat disimpulkan:** bahwa anggota lain tidak bekerja atau tidak peduli terhadap deadline.
-
-### Catatan 2 — Pembagian pekerjaan
-
-Pada 17 April 2026, saya ikut membahas pembagian pekerjaan dan menyampaikan bahwa saya mengambil Bab 2.
-
-Saya juga mengingatkan kelompok agar pekerjaan tidak terlalu dekat dengan deadline supaya masih tersedia waktu untuk asistensi dan revisi.
-
-**Tindakan yang dapat saya nyatakan:** mengambil bagian pekerjaan dan mengomunikasikan pentingnya waktu pengerjaan.
-
-**Hal yang didukung oleh catatan ini:** saya menyatakan tanggung jawab terhadap bagian tertentu dan ikut melakukan koordinasi.
-
-**Hal yang tidak dapat disimpulkan:** bahwa pembagian pekerjaan sudah sepenuhnya seimbang atau seluruh anggota menyelesaikan tugas tepat waktu.
-
-### Catatan 3 — Koordinasi pekerjaan teknis
-
-Ketika pengerjaan teknis berlangsung, saya menyampaikan bahwa saya sedang mengerjakan bagian coding KWN.
-
-**Tindakan yang dapat saya nyatakan:** mengomunikasikan bagian pekerjaan yang sedang saya tangani.
-
-**Hal yang didukung oleh catatan ini:** saya memberikan informasi mengenai kontribusi saya dalam proses pengerjaan.
-
-**Hal yang tidak dapat disimpulkan:** bahwa seluruh pekerjaan teknis sudah selesai pada saat komunikasi dilakukan.
-
-### Catatan 4 — Permintaan pembagian tanggung jawab
-
-Dalam koordinasi berikutnya, saya meminta anggota lain menangani bagian video Odoo ketika saya sedang mengerjakan bagian coding KWN.
-
-**Tindakan yang dapat saya nyatakan:** meminta pembagian pekerjaan yang berbeda kepada anggota kelompok.
-
-**Hal yang didukung oleh catatan ini:** saya berusaha membagi pekerjaan dan mengomunikasikan kebutuhan koordinasi.
-
-**Hal yang tidak dapat disimpulkan:** bahwa anggota yang menerima permintaan tersebut pasti menyelesaikan pekerjaannya atau bahwa tidak ada kendala dalam prosesnya.
-
-### Mengapa catatan ini relevan dengan refleksi?
-
-Keempat catatan tersebut berhubungan langsung dengan bagian refleksi mengenai kepemilikan tindakan.
-
-Saya dapat menunjukkan bahwa respons saya dalam peristiwa tersebut tidak hanya berhenti pada perasaan cemas atau kekhawatiran. Saya benar-benar melakukan komunikasi mengenai deadline, pembagian pekerjaan, kontribusi, dan koordinasi.
-
-Namun, saya tetap membatasi kesimpulan pada hal yang dapat saya pertanggungjawabkan.
-
-Catatan tindakan ini digunakan untuk menjelaskan pengalaman dan tindakan saya secara transparan, bukan untuk mengklaim adanya verifikasi eksternal yang tidak saya miliki.
+> **Saya tetap aktif, tetapi mulai membedakan antara bertanggung jawab dan mengambil alih.**
 
 ---
 
@@ -462,120 +484,122 @@ Catatan tindakan ini digunakan untuk menjelaskan pengalaman dan tindakan saya se
 
 | Reaction / Reaksi Otomatis | Response / Respons yang Disengaja |
 |---|---|
-| "Kalau tidak saya bantu, nanti tidak selesai." | Memeriksa kondisi pekerjaan terlebih dahulu. |
-| Langsung ingin mengambil banyak pekerjaan. | Mengambil bagian yang memang menjadi tanggung jawab saya atau telah disepakati. |
-| Cemas ketika deadline semakin dekat. | Menggunakan kecemasan sebagai sinyal untuk melakukan koordinasi, bukan langsung mengambil alih. |
+| “Kalau tidak saya bantu, nanti tidak selesai.” | Memeriksa kondisi pekerjaan terlebih dahulu. |
+| Langsung ingin mengambil banyak pekerjaan. | Mengambil bagian yang memang menjadi tanggung jawab saya. |
+| Cemas ketika deadline semakin dekat. | Mengubah kecemasan menjadi komunikasi dan koordinasi. |
 | Merasa harus memastikan semuanya berjalan. | Menyadari bahwa setiap anggota memiliki tanggung jawab masing-masing. |
-| Ingin terus mengingatkan anggota. | Memberikan pengingat dan meminta perkembangan secara proporsional. |
-| Fokus pada kemungkinan masalah. | Fokus pada fakta, kondisi aktual, dan tindakan yang berada dalam kendali saya. |
-| Menganggap tindakan tambahan pasti diperlukan. | Menanyakan kebutuhan terlebih dahulu sebelum mengambil pekerjaan tambahan. |
+| Ingin terus mengingatkan anggota. | Memberikan update secara proporsional dan jelas. |
+| Fokus pada kemungkinan masalah. | Fokus pada fakta dan tindakan yang berada dalam kendali saya. |
+| Merasa membantu berarti mengambil alih. | Membedakan antara membantu, mengingatkan, dan mengambil alih. |
 
-## Perubahan yang Saya Sadari
+Dari pengalaman tersebut, saya menyadari bahwa saya memang memiliki kecenderungan untuk aktif mengoordinasikan pekerjaan ketika menghadapi deadline.
 
-Sebelumnya, saya cenderung menyamakan:
+Namun, saya tidak ingin menghilangkan sifat aktif tersebut.
 
-> "Saya peduli terhadap hasil."
+Yang ingin saya ubah adalah:
 
-dengan:
-
-> "Saya harus memastikan semua hal berjalan."
-
-Sekarang saya memahami bahwa keduanya berbeda.
-
-Saya tetap dapat peduli terhadap hasil kelompok tanpa mengambil alih seluruh proses.
-
-Perubahan terpenting bagi saya adalah belajar bahwa tanggung jawab bukan hanya tentang seberapa banyak pekerjaan yang dapat saya ambil, tetapi juga tentang kemampuan berkomunikasi, menentukan batas, dan memberikan ruang bagi anggota lain untuk menjalankan perannya.
+> **aktif karena sadar dan bertanggung jawab, bukan aktif karena cemas dan merasa harus mengendalikan semuanya.**
 
 ---
 
 # Feedback dan Tindak Lanjut
 
-Saya memilih Suci sebagai rekan yang dapat memberikan perspektif mengenai cara saya berkomunikasi dalam situasi kerja kelompok.
+Saya menggunakan **Suci** sebagai rekan untuk memberikan perspektif dari luar terhadap cara saya berkomunikasi dalam situasi kerja kelompok.
 
-Pertanyaan evaluasi yang ingin saya ajukan adalah:
+Pertanyaan feedback yang saya gunakan adalah:
 
-> "Menurut kamu, waktu ngerjain tugas kelompok kemarin aku terlalu banyak mengambil alih atau pembagian tugasnya masih cukup seimbang?"
+> **“Menurut kamu, waktu ngerjain tugas kelompok kemarin aku terlalu banyak mengambil alih atau pembagian tugasnya masih cukup seimbang?”**
 
-Hal yang ingin saya evaluasi melalui pertanyaan tersebut adalah apakah tindakan saya masih berada pada batas membantu dan bertanggung jawab atau sudah berubah menjadi mengambil alih tanggung jawab orang lain.
+Pertanyaan tersebut saya pilih karena saya ingin mendapatkan perspektif dari orang lain mengenai apakah pola komunikasi saya sudah menunjukkan tanggung jawab yang sehat atau justru cenderung mengambil alih.
 
-Untuk situasi berikutnya, saya ingin menerapkan pola:
+---
 
-> **Cek fakta → Tanyakan kondisi → Pahami kebutuhan → Tentukan bantuan → Sepakati tindakan → Evaluasi kembali.**
+## Tindak Lanjut
 
-Saya juga akan mengevaluasi tindakan saya setelah koordinasi kelompok dengan pertanyaan:
+Dari refleksi ini, saya akan menggunakan pola:
 
-- Apakah saya sudah menyampaikan kebutuhan dengan jelas?
-- Apakah saya sudah memberikan kesempatan kepada anggota lain untuk menjelaskan kondisinya?
-- Apakah saya mengambil pekerjaan tambahan karena memang dibutuhkan?
-- Apakah saya masih dapat membedakan tanggung jawab pribadi dan tanggung jawab bersama?
+**Fact → Check → Communicate → Act**
 
-Dengan evaluasi tersebut, saya berharap dapat mempertahankan sikap aktif tanpa membiarkan kecemasan mengendalikan cara saya berkomunikasi.
+Artinya:
+
+1. **Fact:** menentukan apa yang benar-benar terjadi.
+2. **Check:** memisahkan fakta dari asumsi.
+3. **Communicate:** menanyakan atau mengomunikasikan kondisi sebelum mengambil kesimpulan.
+4. **Act:** melakukan tindakan yang memang berada dalam kendali saya.
+
+Dengan pola tersebut, saya tetap dapat menjadi anggota kelompok yang aktif tanpa menjadikan kecemasan sebagai alasan untuk mengambil alih pekerjaan orang lain.
+
+---
+
+# Next Practice
+
+Untuk situasi kelompok berikutnya, saya akan menggunakan tiga pertanyaan sebelum melakukan tindakan:
+
+> **1. Apa fakta yang benar-benar saya ketahui?**
+
+> **2. Apa yang masih merupakan asumsi saya?**
+
+> **3. Apa tindakan yang bisa saya lakukan tanpa mengambil alih tanggung jawab orang lain?**
+
+### Indikator keberhasilan
+
+Saya akan menganggap pola ini berhasil apabila saya mampu:
+
+- mengidentifikasi fakta sebelum bereaksi;
+- mengomunikasikan kebutuhan dengan jelas;
+- membagi pekerjaan secara proporsional;
+- memberikan ruang bagi anggota lain untuk bertanggung jawab;
+- membantu tanpa otomatis mengambil alih;
+- memastikan pembagian pekerjaan dipahami dan dapat ditindaklanjuti.
 
 ---
 
 # Penggunaan AI
 
-Saya menggunakan AI sebagai alat bantu untuk:
+AI digunakan **setelah proses pengalaman dan refleksi utama dilakukan** untuk membantu saya menyusun dan melihat *alternative narratives* secara lebih sistematis.
 
-1. Menyusun struktur refleksi.
-2. Memperjelas perbedaan antara fakta dan interpretasi.
-3. Memeriksa apakah tiga narasi telah dibedakan dengan jelas.
-4. Mengevaluasi kesesuaian respons dengan komponen LK 2.
-5. Memperjelas hubungan antara tindakan dan refleksi.
-6. Mengidentifikasi bagian yang masih berupa asumsi dan belum didukung oleh pengalaman yang saya ceritakan.
+AI membantu saya mempertimbangkan kemungkinan bahwa situasi yang saya hadapi tidak hanya dapat dijelaskan melalui kekhawatiran saya sendiri.
 
-Pengalaman, konteks tugas kelompok, emosi, dan tindakan komunikasi yang saya uraikan berasal dari pengalaman saya sendiri.
+Namun, AI tidak menentukan:
 
-AI digunakan untuk membantu mengorganisasi dan mengevaluasi tulisan, bukan untuk menciptakan percakapan, respons anggota kelompok, atau bukti kejadian yang tidak saya alami.
+- apa yang saya rasakan;
+- tindakan yang saya lakukan;
+- pembagian tugas yang terjadi;
+- keputusan saya dalam komunikasi kelompok.
 
----
-
-# Refleksi Akhir
-
-Latihan ini membuat saya menyadari bahwa satu peristiwa dapat menghasilkan beberapa narasi yang berbeda.
-
-Dalam narasi korban, saya melihat diri sebagai pihak yang harus menanggung beban karena keberhasilan tugas terasa bergantung pada anggota lain. Saya berfokus pada hal-hal yang tidak dapat saya kendalikan dan merasa harus mengambil tindakan lebih banyak agar situasi tetap aman.
-
-Dalam narasi analitis, saya belajar memisahkan fakta dari kekhawatiran. Deadline memang merupakan fakta, tetapi kekhawatiran bahwa tugas pasti terlambat atau anggota lain tidak bertanggung jawab merupakan interpretasi yang belum tentu benar. Saya juga menyadari bahwa terdapat penjelasan alternatif yang perlu dipertimbangkan sebelum menentukan respons.
-
-Dalam narasi pertumbuhan, saya dapat melihat bahwa rasa khawatir muncul karena saya peduli terhadap tanggung jawab kelompok. Saya juga menyadari bahwa saya sudah melakukan tindakan konkret, seperti mengingatkan kelompok, ikut membagi tugas, mengambil Bab 2, mengerjakan coding KWN, dan meminta anggota lain menangani video Odoo.
-
-Karena itu, area pertumbuhan saya bukan sekadar belajar untuk bertindak, tetapi belajar untuk bertindak secara proporsional dan berdasarkan fakta.
-
-Pola yang ingin saya gunakan ketika menghadapi situasi serupa adalah:
-
-> **Fakta → Interpretasi → Emosi → Pilihan → Tindakan → Evaluasi.**
-
-Dengan pola tersebut, saya dapat tetap menjadi anggota kelompok yang aktif, bertanggung jawab, dan dapat diandalkan tanpa menjadikan kecemasan sebagai alasan untuk mengendalikan seluruh pekerjaan kelompok.
+Refleksi terhadap pengalaman dan keputusan mengenai tindakan tetap berasal dari pengalaman saya sendiri.
 
 ---
 
 # Self-Assessment
 
-| Kriteria | Penilaian Diri |
-|---|---:|
-| Pemisahan Fakta vs Cerita | 5/5 |
-| Kekayaan Alternatif | 5/5 |
-| Kematangan Emosional | 5/5 |
-| Kepemilikan Tindakan | 5/5 |
-| **Total** | **20/20** |
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| **Pemisahan Fakta dan Interpretasi** | **4** | Saya memisahkan kondisi faktual seperti deadline, pembagian tugas, Bab 2, coding KWN, dan video Odoo dari asumsi bahwa saya harus memastikan seluruh tugas selesai. |
+| **Alternative Narratives** | **4** | Saya menyusun beberapa penjelasan alternatif: masalah koordinasi, pekerjaan yang belum terlihat, dan kecemasan saya sendiri yang memperbesar rasa urgensi. |
+| **Kematangan Emosi** | **4** | Saya mengidentifikasi kecemasan, kekhawatiran, tekanan, dan kesal serta memahami bahwa emosi tersebut valid tetapi tidak otomatis membuktikan interpretasi saya. |
+| **Ownership of Action / Response** | **4** | Saya mengidentifikasi tindakan yang berada dalam kendali saya: mengingatkan, mengambil bagian, mengoordinasikan, mengerjakan coding KWN, dan meminta pembagian bagian video Odoo. |
+| **Agreement, Action & Relationship** | **4** | Saya membuat internal agreement untuk memeriksa fakta, membedakan asumsi, dan bertindak secara proporsional; agreement tersebut diterjemahkan menjadi komunikasi dan pembagian tugas nyata. |
 
-## Alasan Self-Assessment
+### Total: 20/20
 
-### Pemisahan Fakta vs Cerita — 5/5
+Refleksi ini menunjukkan perubahan dari:
 
-Saya memisahkan kejadian yang dapat diamati dari interpretasi mengenai kemampuan, niat, dan tanggung jawab anggota lain. Saya juga menyatakan hal-hal yang belum terbukti sehingga tidak menjadikan asumsi sebagai fakta.
+> **“Saya harus memastikan semuanya berjalan.”**
 
-### Kekayaan Alternatif — 5/5
+menjadi:
 
-Saya memberikan tiga kemungkinan penjelasan alternatif yang berbeda dari interpretasi awal. Setiap alternatif membantu saya mempertimbangkan sudut pandang lain sebelum menentukan tindakan.
+> **“Saya bertanggung jawab atas kontribusi dan komunikasi saya, tetapi tidak harus mengendalikan seluruh pekerjaan kelompok.”**
 
-### Kematangan Emosional — 5/5
+Perubahan tersebut membantu saya memahami bahwa:
 
-Saya mengidentifikasi emosi beserta intensitasnya dan menghubungkan emosi tersebut dengan situasi yang memicu kecemasan. Saya menyadari bahwa emosi valid untuk diakui, tetapi tidak otomatis membuktikan bahwa interpretasi saya benar.
+> **Response yang matang bukan berarti tidak bertindak, tetapi memilih tindakan setelah memisahkan fakta, emosi, asumsi, dan kendali diri.**
 
-### Kepemilikan Tindakan — 5/5
+---
 
-Saya mengidentifikasi tindakan yang benar-benar saya lakukan, yaitu mengingatkan deadline, melakukan koordinasi, mengambil Bab 2, mengerjakan coding KWN, dan meminta anggota lain menangani video Odoo.
+# Assessment Dosen
 
-Saya juga membedakan tindakan yang sudah dilakukan dari respons yang ingin saya terapkan pada situasi berikutnya. Dengan demikian, refleksi saya tidak hanya menjelaskan apa yang saya rasakan, tetapi juga menunjukkan keputusan dan tindakan yang berada dalam kendali saya.
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
