@@ -4,857 +4,183 @@ week: 7
 status: "Siap dinilai"
 self_score: "16/16"
 assessor_score: "—"
-description: "Problem–solution fit dan signal Interest melalui detoks fitur, penerjemahan fitur menjadi manfaat dan nilai, pitch berlapis, pembacaan respons, identifikasi hidden concern, dan adaptasi."
+description: "Problem–solution fit, feature detox, dan adaptasi komunikasi berdasarkan respons target."
 categories: [TAIDA, Interest]
 ---
 
 # Problem–Solution Interest Pitch
 
-**Nama:** Grasella  
-**Minggu:** 7  
-**Tanggal:** 6 Oktober 2026  
-**Topik:** Sistem Pendukung Antrean Kantin pada Jam Makan Siang
+## 1. Konteks dan Tujuan
 
----
+Pada minggu ini, saya berlatih menyampaikan *Interest Pitch* dengan pendekatan *problem–solution fit*. Fokus saya bukan menawarkan sebanyak mungkin fitur, melainkan menghubungkan masalah target dengan solusi yang relevan, menjelaskan manfaatnya secara sederhana, serta mengevaluasi respons target untuk menentukan apakah penjelasan dan arah solusi perlu disesuaikan.
 
-## Kompetensi Target
+Topik yang saya gunakan adalah sistem pendukung antrean kantin pada jam makan siang. Gagasan ini berangkat dari permasalahan waktu tunggu, penumpukan pesanan, dan keterbatasan informasi yang dapat membantu mahasiswa memperkirakan waktu makan mereka.
 
-Kompetensi yang saya latih pada minggu ini adalah kemampuan menghubungkan **solution mechanism** dengan masalah yang benar-benar telah diakui oleh sasaran komunikasi.
+Tujuan latihan ini adalah:
+1. Mengidentifikasi masalah yang dialami target.
+2. Memilah fitur berdasarkan manfaat dan nilai yang diberikan.
+3. Menjelaskan solusi tanpa melakukan *feature dumping*.
+4. Menangkap pertimbangan target melalui respons yang diberikan.
+5. Menyesuaikan penjelasan berdasarkan respons tersebut, bukan sekadar mengikuti skrip awal.
 
-Saya tidak ingin menjelaskan solusi hanya berdasarkan banyaknya fitur. Saya ingin memastikan bahwa setiap fitur yang saya komunikasikan memiliki hubungan yang jelas dengan:
+## 2. Identifikasi Masalah Target
 
-1. masalah yang dialami sasaran;
-2. manfaat langsung yang diberikan;
-3. nilai yang relevan dengan peran sasaran;
-4. kendala yang mungkin membuat solusi sulit digunakan.
+### 2.1 Perspektif mahasiswa sebagai pengguna
 
-Prinsip utama yang saya gunakan adalah:
+Antrean yang panjang dapat mengurangi waktu istirahat mahasiswa. Situasi tersebut terasa lebih menyulitkan ketika mahasiswa harus mengikuti kelas atau kegiatan lain setelah makan.
 
-> **Masalah terlebih dahulu, kemudian solusi. Fitur tidak menjadi nilai jika tidak menyelesaikan masalah yang benar-benar dirasakan oleh sasaran.**
+Masalahnya tidak hanya berkaitan dengan panjang antrean, tetapi juga ketidakpastian mengenai waktu tunggu dan perkembangan pesanan. Ketika informasi tersebut tidak tersedia, mahasiswa memiliki keterbatasan dalam memperkirakan waktu makan dan merencanakan kegiatan berikutnya.
 
----
+### 2.2 Perspektif petugas kantin sebagai operator
 
-# 1. Konteks Masalah yang Telah Dikonfirmasi
+Dari perspektif operasional, lonjakan pengunjung pada waktu yang bersamaan dapat menyebabkan pesanan menumpuk. Waktu penyelesaian pesanan juga dapat berbeda-beda sehingga masalah antrean tidak selalu dapat dijelaskan hanya melalui jumlah pengunjung.
 
-## 1.1 Topik Masalah
+Karena itu, solusi perlu mempertimbangkan alur pemrosesan pesanan dan kemampuan petugas untuk memperbarui informasi tanpa menambah beban operasional secara berlebihan.
 
-Masalah yang saya pilih adalah **antrean kantin pada jam makan siang**, terutama ketika banyak mahasiswa datang hampir bersamaan.
+### 2.3 Perspektif pengambil keputusan
 
-Masalah ini saya lanjutkan dari latihan Week 6 karena pada Week 6 saya telah mencoba melihat masalah dari tiga perspektif:
+Dari perspektif pengambil keputusan, waktu tunggu merupakan salah satu aspek yang perlu dievaluasi, tetapi penyebabnya harus dipahami terlebih dahulu. Faktor seperti jumlah pengunjung, jumlah petugas, dan proses pelayanan dapat menghasilkan kebutuhan perbaikan yang berbeda.
 
-- mahasiswa sebagai **User**;
-- petugas kantin sebagai **Operator**;
-- pihak pengambil keputusan sebagai **Decision Maker**.
+Solusi teknologi tidak boleh langsung dianggap sebagai jawaban untuk seluruh masalah. Efektivitasnya perlu diperiksa melalui pengamatan dan uji coba.
 
-Tujuannya agar solusi yang saya tawarkan tidak hanya terlihat menarik dari perspektif mahasiswa, tetapi juga masuk akal dari sisi operasional dan pengambilan keputusan.
+### 2.4 Rumusan masalah
 
----
+Mahasiswa membutuhkan informasi yang jelas mengenai perkembangan pesanan dan perkiraan waktu tunggu pada jam makan siang agar dapat mengatur waktu mereka dengan lebih baik. Di sisi lain, petugas kantin perlu mengelola informasi pesanan tanpa menciptakan pekerjaan tambahan yang mengganggu proses pelayanan.
 
-## 1.2 Attention Evidence dari Week 6
+Dengan demikian, tantangan utama bukan sekadar menyediakan aplikasi, melainkan merancang informasi antrean yang berguna, dapat dipercaya, dan realistis untuk diterapkan dalam kondisi operasional kantin.
 
-### Perspektif User
+## 3. Feature Detox: Memilih Fitur yang Relevan
 
-Dalam simulasi Week 6, User menjelaskan bahwa antrean cukup terasa terutama ketika jam makan siang sekitar pukul 12. Antrean yang panjang membuat waktu makan berkurang karena sebagian waktu istirahat digunakan untuk menunggu.
+Saya menggunakan pendekatan *feature detox* untuk membedakan fitur teknis dari manfaat dan nilai yang benar-benar dirasakan target.
 
-User juga menyampaikan bahwa masalah menjadi lebih terasa ketika setelah makan masih terdapat kelas atau kegiatan lain yang waktunya berdekatan.
+| Fitur | Manfaat langsung | Nilai bagi target | Keputusan |
+|---|---|---|---|
+| Status pesanan | Mahasiswa dapat mengetahui perkembangan pesanan | Mengurangi ketidakpastian selama menunggu | Diprioritaskan |
+| Estimasi waktu tunggu | Mahasiswa memperoleh gambaran perkiraan waktu penyelesaian | Membantu merencanakan waktu makan dan kegiatan berikutnya | Informasi tambahan yang perlu divalidasi |
+| Informasi pesanan yang siap diambil | Mahasiswa mengetahui kapan pesanan dapat diambil | Membantu menghindari kebingungan saat menunggu | Diprioritaskan |
+| Fitur tambahan yang tidak berkaitan langsung dengan masalah inti | Menambah kompleksitas sistem | Belum tentu memberikan manfaat yang sebanding | Tidak diprioritaskan |
 
-Saya melakukan closed-loop confirmation:
+Keputusan tersebut bukan berarti setiap fitur yang diprioritaskan pasti harus dikembangkan. Saya perlu mempertimbangkan kebutuhan pengguna, kemudahan penggunaan, dan beban operasional. Khusus estimasi waktu tunggu, keandalannya perlu diuji agar informasi yang diberikan tidak menciptakan ekspektasi yang keliru.
 
-> "Berarti kalau aku tangkap, yang paling terasa bukan cuma antreannya panjang, tapi waktu istirahat yang kepakai buat nunggu sampai waktu makan dan persiapan ke kelas berikutnya jadi lebih sempit, ya? Biasanya paling sering kerasa di jam berapa?"
+## 4. Hubungan Feature, Benefit, dan Value
 
-Dari respons tersebut, saya memahami bahwa masalah User bukan sekadar melihat antrean panjang, tetapi **ketidakpastian dan waktu istirahat yang terpotong karena menunggu**.
+Saya membedakan tiga konsep berikut:
 
----
+- **Feature:** kemampuan teknis yang disediakan sistem, seperti menampilkan status pesanan.
+- **Benefit:** manfaat langsung yang muncul dari fitur, seperti mengetahui apakah pesanan masih diproses atau sudah siap.
+- **Value:** arti manfaat tersebut bagi pengguna, seperti berkurangnya ketidakpastian dan terbantunya perencanaan waktu.
 
-### Perspektif Operator
+Sebagai contoh, fitur status pesanan bukan tujuan akhir. Fitur tersebut bernilai apabila informasinya jelas, diperbarui dengan benar, dan membantu mahasiswa memahami kondisi pesanannya.
 
-Dari sisi Operator, masalah yang muncul bukan hanya jumlah mahasiswa.
+Saya juga mempertimbangkan nilai bagi operator. Sistem akan sulit diterapkan jika petugas harus melakukan banyak langkah tambahan ketika kantin sedang ramai. Karena itu, kesederhanaan alur dan kelayakan operasional merupakan bagian dari *problem–solution fit*.
 
-Operator menjelaskan bahwa pada jam makan siang banyak mahasiswa datang hampir bersamaan sehingga pesanan dapat menumpuk. Selain itu, terdapat beberapa pesanan yang membutuhkan waktu pemrosesan lebih lama.
+## 5. Interest Pitch
 
-Saya melakukan konfirmasi:
+### 5.1 Naskah pitch
 
-> "Berarti kalau aku tangkap, yang jadi kendala bukan sekadar jumlah mahasiswa yang datang, tetapi penumpukan pesanan dalam waktu yang bersamaan dan ada pesanan tertentu yang prosesnya lebih lama. Berarti alur proses pesanan di titik itu yang lebih penting untuk dilihat, ya?"
+“Dari yang kita bahas tadi, masalahnya bukan cuma antrean yang panjang, tetapi mahasiswa juga sering tidak tahu perkembangan pesanannya dan harus menunggu berapa lama. Di sisi kantin, pesanan yang datang bersamaan juga bisa menumpuk.
 
-Operator kemudian menjelaskan bahwa jika pesanan datang secara lebih bertahap, kondisi sebenarnya lebih mudah ditangani.
+Saya membayangkan sistem antrean sederhana yang menampilkan status pesanan secara jelas, misalnya masih diproses, sedang disiapkan, atau sudah siap diambil. Dengan begitu, mahasiswa bisa mengetahui perkembangan pesanannya tanpa harus terus-menerus bertanya kepada petugas.
 
-Hal ini membuat saya menyadari bahwa solusi tidak cukup hanya "mengurangi panjang antrean". Saya perlu memperhatikan **bagaimana pesanan masuk dan diproses**.
+Estimasi waktu tunggu juga bisa dipertimbangkan, tetapi harus disampaikan sebagai perkiraan dan tidak dijanjikan akurat sebelum diuji. Tujuannya adalah membantu mahasiswa mengatur waktu sekaligus menjaga agar solusi tetap realistis bagi petugas.
 
----
+Menurut kamu, informasi seperti ini cukup membantu untuk dicoba terlebih dahulu? Bagian mana yang menurut kamu paling penting atau justru masih menjadi kekhawatiran?”
 
-### Perspektif Decision Maker
+### 5.2 Analisis struktur komunikasi
 
-Dari sisi Decision Maker, waktu tunggu dianggap penting untuk dievaluasi, tetapi penyebabnya perlu diketahui terlebih dahulu.
+| Tahap | Penerapan |
+|---|---|
+| Menghubungkan kembali dengan masalah | Menjelaskan ketidakpastian waktu tunggu dan penumpukan pesanan |
+| Memperkenalkan solusi | Menawarkan sistem pendukung antrean sederhana |
+| Menjelaskan mekanisme | Memperlihatkan status pesanan dari pemrosesan hingga siap diambil |
+| Menjelaskan manfaat dan nilai | Mengurangi ketidakpastian serta membantu perencanaan waktu |
+| Mengundang respons | Menanyakan bagian yang paling bermanfaat dan kekhawatiran target |
 
-Decision Maker menyampaikan bahwa penyebab dapat berasal dari:
+Saya berusaha menyampaikan solusi sebagai kemungkinan yang perlu diuji, bukan sebagai produk yang pasti berhasil. Pertanyaan penutup juga berfungsi untuk membuka percakapan dua arah dan mengidentifikasi pertimbangan target.
 
-- jumlah pengunjung;
-- jumlah petugas;
-- proses pelayanan.
+## 6. Bukti Interaksi dan Adaptasi Spontan
 
-Saya melakukan closed-loop confirmation:
+### 6.1 Respons aktual target
 
-> "Berarti kalau aku pahami, waktu tunggu memang menjadi salah satu aspek yang perlu dievaluasi, tetapi sebelum menentukan perbaikan, kita perlu tahu dulu sumber masalahnya, apakah dari jumlah pengunjung, jumlah petugas, atau proses pelayanannya. Berarti yang penting bukan hanya mengukur panjang antrean, tetapi juga memahami penyebab waktu tunggunya, ya?"
+Setelah saya menyampaikan penjelasan mengenai sistem pendukung antrean kantin, saya mengajukan pertanyaan lanjutan untuk mengetahui apakah status pesanan saja sudah cukup membantu atau apakah estimasi waktu tunggu tetap diperlukan.
 
-Decision Maker kemudian menegaskan:
+Target menjawab bahwa status pesanan saja sudah cukup membantu untuk mengetahui perkembangan pesanan. Namun, estimasi waktu tunggu juga akan berguna agar mahasiswa bisa memperkirakan kapan makanan selesai dan menyesuaikannya dengan jadwal berikutnya.
 
-> "Iya, karena kalau penyebabnya berbeda, solusi yang dibutuhkan juga bisa berbeda."
+Respons tersebut menunjukkan bahwa target melihat manfaat dari kedua jenis informasi, tetapi dengan fungsi yang berbeda. Status pesanan membantu target mengetahui tahapan pemrosesan, sedangkan estimasi waktu membantu target merencanakan kegiatan. Dengan demikian, respons target tidak hanya mendukung satu fitur, tetapi memperjelas hubungan antara kedua fitur tersebut.
 
-Dari respons ini, saya menyimpulkan bahwa solusi yang saya tawarkan harus **membantu memperbaiki proses**, bukan sekadar membuat tampilan antrean terlihat lebih modern.
+### 6.2 Interpretasi terhadap respons target
 
----
+Saya menginterpretasikan bahwa target membutuhkan informasi yang jelas dan dapat diandalkan. Status pesanan dapat memberikan gambaran tentang proses yang sedang berlangsung, sedangkan estimasi waktu tunggu membantu memperkirakan kapan makanan selesai.
 
-# 2. Customer Problem Statement
+Namun, kedua informasi tersebut tidak memiliki tingkat kepastian yang sama. Status pesanan menjelaskan tahapan yang sedang berlangsung, sementara estimasi waktu merupakan perkiraan yang dapat berubah sesuai kondisi operasional. Apabila estimasi tidak akurat, mahasiswa justru dapat mengalami kesulitan ketika mengatur waktu makan dan jadwal berikutnya.
 
-Berdasarkan hasil penggalian masalah tersebut, saya merumuskan Customer Problem Statement sebagai berikut:
+Dari respons tersebut, saya menyadari bahwa menambahkan estimasi waktu saja tidak otomatis meningkatkan manfaat sistem. Saya perlu mempertimbangkan bagaimana informasi disampaikan, seberapa dapat diandalkan perkiraan tersebut, dan apakah pengguna memahami bahwa estimasi bukan jaminan waktu penyelesaian.
 
-> **Mahasiswa mengalami waktu tunggu yang tidak pasti ketika jam makan siang karena banyak pesanan masuk secara bersamaan dan sebagian pesanan membutuhkan waktu pemrosesan lebih lama, sehingga waktu istirahat untuk makan menjadi berkurang dan dapat berdekatan dengan jadwal kelas atau kegiatan berikutnya. Mahasiswa membutuhkan informasi status dan perkiraan proses pesanan yang lebih jelas, dengan mempertimbangkan kondisi jam sibuk dan keterbatasan operasional kantin.**
+### 6.3 Adaptasi yang saya lakukan
 
-Namun, masalah mahasiswa bukan satu-satunya masalah yang perlu diperhatikan.
+Berdasarkan jawaban target dan interpretasi tersebut, saya menyesuaikan penjelasan dengan menekankan bahwa sistem sebaiknya memprioritaskan pembaruan status pesanan yang jelas. Estimasi waktu tunggu tetap dapat disediakan sebagai informasi tambahan, tetapi tidak boleh disampaikan sebagai janji waktu yang pasti.
 
-Dari sisi Operator:
+Saya juga menjelaskan bahwa estimasi tersebut perlu dievaluasi melalui uji coba agar dapat diketahui seberapa akurat dan bermanfaat informasi itu bagi mahasiswa.
 
-> **Petugas kantin mengalami penumpukan pesanan pada jam makan siang ketika banyak pesanan masuk hampir bersamaan, sehingga proses pelayanan menjadi lebih sulit dikendalikan dan pelanggan membutuhkan informasi status secara berulang. Operator membutuhkan alur informasi pesanan yang lebih teratur, dengan mempertimbangkan kesederhanaan penggunaan dan kondisi jam sibuk.**
+Adaptasi ini mengubah penekanan penjelasan saya. Pada awalnya, status pesanan dan estimasi waktu sama-sama ditawarkan sebagai bagian dari solusi. Setelah mendengar respons target, saya memperjelas fungsi masing-masing: status pesanan menjadi dasar informasi utama, sedangkan estimasi waktu menjadi informasi pelengkap yang manfaat dan keandalannya perlu diuji.
 
-Dari sisi Decision Maker:
+Dengan begitu, saya tidak sekadar mengulang pitch awal atau menambahkan fitur baru. Saya menggunakan respons target untuk memperjelas prioritas solusi dan batas klaim yang dapat saya sampaikan.
 
-> **Pengelola perlu memahami penyebab waktu tunggu dan penumpukan pelayanan sebelum menentukan perbaikan, sehingga solusi perlu memberikan informasi proses yang dapat membantu evaluasi tanpa menambah kompleksitas operasional secara berlebihan.**
+### 6.4 Evaluasi hubungan respons dan adaptasi
 
----
+Rangkaian interaksi ini menunjukkan hubungan antara respons target, interpretasi, dan penyesuaian penjelasan. Target menyampaikan bahwa status pesanan sudah membantu, tetapi estimasi waktu juga berguna untuk perencanaan. Saya kemudian mengidentifikasi kebutuhan akan informasi yang jelas dan dapat diandalkan, lalu menyesuaikan penjelasan dengan memprioritaskan status pesanan dan menempatkan estimasi waktu sebagai informasi tambahan yang perlu divalidasi.
 
-# 3. Hidden Concern dari Masing-Masing Peran
+Adaptasi tersebut merupakan upaya menyesuaikan solusi dengan kebutuhan target tanpa menjanjikan kemampuan yang belum terbukti. Meskipun respons target menunjukkan manfaat yang dipersepsikan dari kedua fitur, respons tersebut belum cukup untuk membuktikan bahwa sistem benar-benar mengurangi waktu tunggu atau meningkatkan kepuasan pengguna. Hal tersebut tetap perlu diuji melalui penerapan dan evaluasi.
 
-Sebelum menjelaskan solusi, saya menyadari bahwa setiap peran memiliki kekhawatiran yang berbeda.
+Saya juga belajar bahwa respons target tidak harus berupa keberatan langsung untuk menjadi masukan yang berguna. Jawaban yang mendukung dua fitur sekaligus tetap perlu dianalisis agar saya dapat memahami fungsi masing-masing fitur dan menentukan prioritas secara lebih tepat.
 
-| Peran | Masalah yang Terlihat | Hidden Concern |
-|---|---|---|
-| User | Antrean panjang dan waktu tunggu | Takut waktu makan habis dan terlambat mengikuti kelas/kegiatan |
-| Operator | Pesanan menumpuk | Takut sistem baru justru menambah pekerjaan ketika kondisi sedang sibuk |
-| Decision Maker | Waktu tunggu perlu dievaluasi | Takut solusi terlihat bagus tetapi tidak menyelesaikan akar masalah atau membutuhkan biaya/kompleksitas yang tidak sebanding |
+## 7. Keterbatasan dan Validasi Solusi
 
-Kesadaran terhadap hidden concern ini penting karena **Interest tidak hanya berarti orang mengatakan solusi menarik**.
+Saya memahami bahwa sistem pendukung antrean belum tentu menghilangkan antrean fisik atau menyelesaikan seluruh penyebab keterlambatan. Sistem ini terutama berpotensi memperbaiki akses terhadap informasi pesanan.
 
-Menurut saya, Interest yang lebih bermakna terjadi ketika sasaran mulai berpikir:
+Sebelum mengklaim bahwa solusi berhasil, beberapa hal perlu diuji:
 
-> "Solusi ini mungkin memang bisa membantu masalah saya, dan saya bisa membayangkan bagaimana solusi tersebut digunakan dalam kondisi nyata."
+1. Apakah mahasiswa memahami informasi status pesanan dengan mudah?
+2. Apakah pembaruan status dapat dilakukan secara konsisten?
+3. Apakah estimasi waktu cukup dapat diandalkan untuk membantu perencanaan?
+4. Apakah penggunaan sistem menambah pekerjaan petugas?
+5. Apakah solusi tetap berguna ketika jumlah pesanan meningkat?
 
----
+Uji coba terbatas pada jam makan siang dapat membantu mengidentifikasi kekurangan sebelum solusi dikembangkan lebih jauh. Hasil uji coba perlu digunakan untuk menentukan fitur mana yang dipertahankan, disederhanakan, atau diubah.
 
-# 4. Feature Detox
+## 8. Refleksi Pembelajaran
 
-Saya sengaja membatasi fitur yang akan saya komunikasikan.
+Dari latihan ini, saya belajar bahwa komunikasi pada tahap *Interest* tidak cukup hanya dengan menjelaskan hubungan antara masalah dan solusi. Saya juga harus mendengarkan respons target, menguji asumsi, dan menyesuaikan penjelasan berdasarkan informasi yang diperoleh.
 
-Tujuannya agar saya tidak melakukan **Feature Dumping**, yaitu menjelaskan banyak kemampuan sistem tanpa menunjukkan hubungan dengan masalah.
+Saya menyadari bahwa fitur yang tampak berguna dari sudut pandang perancang belum tentu memiliki prioritas yang sama bagi target. Dalam interaksi ini, target memandang status pesanan sebagai informasi yang sudah membantu, sementara estimasi waktu juga berguna untuk merencanakan jadwal. Respons tersebut membantu saya membedakan fungsi kedua fitur dan menyusun prioritas yang lebih masuk akal.
 
-## Matriks Detoks Fitur
+Saya juga belajar bahwa kejujuran mengenai keterbatasan merupakan bagian dari komunikasi yang baik. Estimasi waktu perlu disampaikan sebagai perkiraan dan divalidasi melalui uji coba, bukan dipresentasikan sebagai kepastian.
 
-| No | Fitur Teknis | Manfaat Langsung | Nilai Relasional | Bukti yang Diperlukan | Keputusan |
-|:--:|:---|:---|:---|:---|:---|
-| 1 | Status pesanan digital: Diproses / Sedang Disiapkan / Siap Diambil | Mahasiswa dapat mengetahui posisi pesanan tanpa harus terus bertanya | **User:** memperoleh kepastian mengenai status pesanannya. **Operator:** mengurangi kebutuhan menjawab pertanyaan status secara berulang | Observasi alur pesanan dan uji coba beberapa transaksi | **PERTAHANKAN** |
-| 2 | Estimasi waktu tunggu sederhana | Mahasiswa memperoleh gambaran kapan pesanan kemungkinan selesai | **User:** dapat memperkirakan apakah waktu makan masih cukup sebelum kelas berikutnya | Uji beberapa transaksi pada jam ramai dan membandingkan estimasi dengan waktu aktual | **PERTAHANKAN** |
-| 3 | Pre-order sebelum jam makan | Pesanan dapat masuk lebih awal sehingga kedatangan pelanggan dapat lebih tersebar | **User:** dapat menghemat waktu menunggu. **Operator:** berpotensi membantu mengurangi penumpukan pesanan pada satu waktu | Uji coba terbatas pada periode tertentu dan evaluasi pola kedatangan | **PERTAHANKAN, tetapi bukan fokus awal** |
-| 4 | Login dengan banyak metode autentikasi | Memudahkan pengelolaan akun | Tidak berhubungan langsung dengan masalah waktu tunggu dan penumpukan pesanan | Belum ada bukti bahwa fitur ini menyelesaikan masalah utama | **PANGKAS dari pitch** |
-| 5 | Dashboard analitik yang sangat kompleks | Memberikan banyak data | Berpotensi berguna bagi pengelola, tetapi tidak diperlukan untuk menjelaskan solusi awal kepada User/Operator | Membutuhkan data penggunaan dan analisis lebih lanjut | **PANGKAS dari pitch awal** |
+Ke depannya, saya akan menerapkan pola berikut:
 
----
+**Respons target → interpretasi → pertanyaan klarifikasi → adaptasi penjelasan → evaluasi.**
 
-# 5. Mengubah Feature → Benefit → Value
+Saya akan berusaha mencatat respons target secara spesifik, memeriksa asumsi saya, dan memastikan bahwa penyesuaian yang dilakukan benar-benar berkaitan dengan kebutuhan yang disampaikan target.
 
-Saya menggunakan tiga lapisan agar tidak berhenti pada penjelasan teknis.
+## 9. Penggunaan AI
 
-## Fitur 1 — Status Pesanan
+Saya menggunakan AI sebagai alat bantu untuk menyusun struktur tulisan, memeriksa kejelasan hubungan antara masalah dan solusi, serta memperbaiki cara menjelaskan *feature*, *benefit*, dan *value*. AI juga membantu saya mengidentifikasi bagian refleksi yang perlu menjelaskan hubungan antara respons target dan adaptasi komunikasi.
 
-**Feature:**
+Namun, AI tidak menggantikan interaksi dengan target. Jawaban target dan tindakan adaptasi yang saya laporkan didasarkan pada informasi interaksi yang saya sampaikan. Saya bertanggung jawab memastikan bahwa laporan akhir tidak mengklaim percakapan atau hasil validasi yang tidak terjadi.
 
-Sistem menampilkan status pesanan seperti:
+## 10. Penilaian Diri
 
-> Diproses → Sedang Disiapkan → Siap Diambil
+| Kriteria | Evaluasi diri |
+|---|---|
+| Fit | Saya menghubungkan solusi dengan masalah antrean dan ketidakpastian informasi yang dialami target. |
+| Kejelasan mekanisme | Saya menjelaskan alur status pesanan dengan bahasa sederhana. |
+| Penerjemahan nilai | Saya membedakan fitur teknis dari manfaat langsung dan nilai bagi pengguna. |
+| Kejujuran dan keterbatasan | Saya tidak mengklaim bahwa estimasi waktu pasti akurat atau bahwa sistem menyelesaikan semua penyebab antrean. |
 
-**Benefit:**
+Saya menilai pekerjaan ini berdasarkan pemahaman konseptual, kesesuaian solusi dengan masalah, dan kemampuan menghubungkan respons target dengan adaptasi penjelasan. Penilaian akhir tetap perlu mengikuti rubrik dan bukti yang dipersyaratkan dalam tugas.
 
-Mahasiswa tidak perlu terus-menerus bertanya apakah pesanannya sudah diproses atau belum.
+## 11. Tindak Lanjut
 
-**Value bagi User:**
+Langkah selanjutnya adalah menguji solusi dalam skala terbatas dan mengevaluasi apakah status pesanan dan estimasi waktu benar-benar membantu mahasiswa. Saya juga perlu mengamati apakah proses pembaruan informasi dapat dilakukan tanpa menambah beban kerja petugas.
 
-Mahasiswa memperoleh kepastian yang lebih baik mengenai penggunaan waktu istirahatnya.
-
-**Value bagi Operator:**
-
-Operator dapat mengurangi interupsi pertanyaan status sehingga dapat lebih fokus pada proses pelayanan.
-
----
-
-## Fitur 2 — Estimasi Waktu Tunggu
-
-**Feature:**
-
-Sistem memberikan estimasi sederhana mengenai waktu tunggu.
-
-**Benefit:**
-
-Mahasiswa mendapatkan gambaran apakah pesanannya masih membutuhkan waktu beberapa menit atau sudah mendekati selesai.
-
-**Value bagi User:**
-
-Mahasiswa dapat membuat keputusan yang lebih baik mengenai waktu makan dan kegiatan setelahnya.
-
-**Value bagi Decision Maker:**
-
-Data waktu tunggu dapat menjadi salah satu informasi untuk mengevaluasi kondisi pelayanan pada jam sibuk.
-
----
-
-## Fitur 3 — Pre-order
-
-**Feature:**
-
-Mahasiswa dapat mengirim pesanan sebelum datang atau sebelum periode antrean paling padat.
-
-**Benefit:**
-
-Pesanan dapat mulai diproses lebih awal dan kedatangan pelanggan berpotensi menjadi lebih tersebar.
-
-**Value bagi User:**
-
-Waktu yang digunakan untuk menunggu dapat dikurangi.
-
-**Value bagi Operator:**
-
-Pola pesanan dapat menjadi lebih mudah diprediksi dibandingkan seluruh pesanan datang pada waktu yang hampir bersamaan.
-
-**Catatan:**
-
-Saya tidak mengklaim bahwa pre-order pasti menghilangkan antrean. Fitur ini perlu diuji karena justru dapat menimbulkan penumpukan pesanan di dapur apabila kapasitas pemrosesan tidak diperhitungkan.
-
----
-
-# 6. Solusi yang Saya Pilih
-
-Dari proses detoks fitur, saya tidak akan menjual sistem sebagai:
-
-> "Aplikasi kantin dengan banyak fitur."
-
-Saya akan menyederhanakannya menjadi:
-
-> **Sistem informasi antrean dan status pesanan yang membantu mahasiswa mengetahui perkembangan pesanannya dan membantu operator mengelola informasi pesanan pada jam sibuk.**
-
-Solusi awal yang paling saya prioritaskan adalah:
-
-1. status pesanan;
-2. estimasi waktu tunggu sederhana;
-3. informasi antrean.
-
-Pre-order saya tempatkan sebagai pengembangan lanjutan karena perlu pengujian lebih lanjut terhadap kapasitas operasional.
-
----
-
-# 7. Pitch Interest 60 Detik
-
-Berikut pitch yang saya susun menggunakan lima langkah komunikasi berlapis.
-
-> "Dari yang kita bahas tadi, masalahnya bukan cuma antrean yang panjang, tetapi mahasiswa sering nggak tahu harus menunggu berapa lama, sementara dari sisi kantin pesanan juga bisa menumpuk ketika banyak yang datang bersamaan. Jadi saya membayangkan sistem antrean sederhana yang menampilkan status pesanan secara langsung. Misalnya setelah pesan, mahasiswa bisa melihat apakah pesanannya masih diproses, sedang disiapkan, atau sudah siap diambil, ditambah perkiraan waktu tunggu sederhana. Jadi mahasiswa punya gambaran waktu makannya, sementara petugas nggak harus berulang kali menjawab pertanyaan status pesanan. Saya nggak menganggap ini langsung menyelesaikan semua masalah, karena penyebab antreannya tetap perlu dievaluasi. Menurut kamu, kalau mekanisme sesederhana ini diuji coba dulu pada jam makan siang, bagian mana yang paling layak dicoba?"
-
-Pitch tersebut sengaja tidak dimulai dari:
-
-> "Sistem saya punya dashboard, database, notifikasi, QR code, dan sebagainya."
-
-Saya justru memulai dari **masalah yang sebelumnya sudah diakui**, kemudian menjelaskan mekanisme yang paling relevan.
-
----
-
-# 8. Komunikasi Berlapis
-
-Saya menggunakan urutan komunikasi berikut:
-
-### Layer 1 — Problem
-
-> "Mahasiswa tidak hanya menghadapi antrean panjang, tetapi juga ketidakpastian waktu tunggu."
-
-### Layer 2 — Possibility
-
-> "Bagaimana kalau status pesanan bisa dilihat tanpa harus terus bertanya?"
-
-### Layer 3 — Mechanism
-
-> "Pesanan cukup memiliki status sederhana: diproses, sedang disiapkan, dan siap diambil."
-
-### Layer 4 — Benefit
-
-> "Mahasiswa mendapat gambaran waktu, sementara operator dapat mengurangi pertanyaan status yang berulang."
-
-### Layer 5 — Check Interest
-
-> "Kalau diuji coba dulu dalam skala kecil saat jam makan siang, bagian mana yang paling layak dicoba?"
-
-Dengan struktur tersebut, saya berusaha memastikan bahwa teknologi tidak menjadi pusat komunikasi. **Masalah dan nilai bagi manusia tetap menjadi pusatnya.**
-
----
-
-# 9. Demonstrasi Mekanisme
-
-Agar mekanisme tidak hanya berupa penjelasan abstrak, saya membuat contoh sederhana.
-
-Misalnya seorang mahasiswa memesan:
-
-> **Order #024 — Nasi Ayam**
-
-Status awal:
-
-> **Diproses**
-
-Ketika pesanan masuk ke tahap dapur:
-
-> **Sedang Disiapkan**
-
-Ketika makanan telah selesai:
-
-> **Siap Diambil**
-
-Jika tersedia estimasi:
-
-> **Perkiraan: ±10 menit**
-
-Mekanisme tersebut sengaja dibuat sederhana agar orang yang mendengarkan dapat langsung membayangkan bagaimana solusi bekerja tanpa perlu memahami detail teknis sistem.
-
----
-
-# 10. Response, State Assessment, dan Adaptation
-
-## 10.1 Respons yang Perlu Dicari
-
-Setelah menyampaikan pitch, saya tidak ingin langsung menganggap:
-
-> "Berarti mereka tertarik."
-
-Saya perlu mencari tanda Interest melalui respons verbal maupun nonverbal.
-
-Beberapa indikator yang saya perhatikan:
-
-| Signal | Kemungkinan Makna | Tindakan Saya |
-|---|---|---|
-| Bertanya "Cara kerjanya gimana?" | Mulai ingin memahami mekanisme | Menjelaskan mekanisme dengan contoh |
-| Bertanya "Kalau lagi ramai tetap bisa?" | Mulai memikirkan kondisi nyata | Menjelaskan batas dan skenario uji |
-| Bertanya "Berarti kasir harus input semua?" | Ada concern terhadap beban operator | Menjelaskan alur input sesederhana mungkin |
-| Mengatakan "Menarik, tapi..." | Ada Interest sekaligus concern | Tidak memotong; menggali bagian setelah "tapi" |
-| Diam tetapi terlihat ragu | Interest belum dapat dipastikan | Mengajukan pertanyaan terbuka |
-| Menolak | Belum ada fit atau terdapat constraint penting | Tidak memaksa; menggali alasan penolakan |
-
----
-
-# 11. State Assessment
-
-Saya menggunakan tiga kemungkinan state untuk membaca lawan bicara.
-
-### State A — Belum Tertarik
-
-Ciri:
-
-- hanya menjawab singkat;
-- tidak mengajukan pertanyaan;
-- tidak menghubungkan solusi dengan masalahnya;
-- terlihat ingin mengakhiri pembicaraan.
-
-**Adaptasi:**
-
-Saya tidak akan menambahkan lebih banyak fitur.
-
-Saya justru akan kembali ke masalah:
-
-> "Bagian dari masalah tadi yang menurut kamu paling mengganggu sebenarnya yang mana?"
-
----
-
-### State B — Tertarik tetapi Masih Ragu
-
-Ciri:
-
-- mulai bertanya mengenai cara kerja;
-- mengakui solusi mungkin membantu;
-- tetapi langsung menyebut kendala.
-
-Contoh:
-
-> "Menarik sih, tapi kalau jam ramai apakah petugas nggak malah tambah repot?"
-
-**Adaptasi:**
-
-Saya tidak akan defensif.
-
-Saya akan menjawab:
-
-> "Nah, itu justru penting. Kalau input statusnya malah menambah beban petugas, berarti mekanismenya belum cocok. Menurut kamu, bagian proses mana yang paling realistis untuk diubah tanpa menambah pekerjaan kasir?"
-
-Dengan begitu, keberatan tidak saya anggap sebagai penolakan pribadi, tetapi sebagai informasi tentang **fit solusi**.
-
----
-
-### State C — Mulai Interest
-
-Ciri:
-
-- meminta contoh;
-- bertanya mengenai penerapan;
-- mulai membayangkan penggunaan;
-- mengusulkan kondisi uji coba.
-
-Jika state ini muncul, saya dapat melanjutkan:
-
-> "Kalau begitu mungkin kita nggak perlu langsung membuat seluruh sistem. Kita bisa coba dulu satu alur sederhana untuk melihat apakah status pesanan benar-benar membantu."
-
----
-
-# 12. Hidden Concern dan Adaptasi
-
-Saya menyadari bahwa respons eksplisit tidak selalu menunjukkan kekhawatiran sebenarnya.
-
-Misalnya Operator mengatakan:
-
-> "Bisa sih."
-
-Saya tidak langsung menyimpulkan bahwa Operator setuju.
-
-Ada beberapa kemungkinan hidden concern:
-
-- takut pekerjaan bertambah;
-- takut sistem sulit digunakan;
-- takut sistem error ketika jam sibuk;
-- takut pelanggan justru semakin banyak bertanya;
-- takut biaya implementasi terlalu besar.
-
-Karena itu saya dapat menggali dengan pertanyaan:
-
-> "Kalau dari sisi operasional, bagian mana yang paling kamu khawatirkan kalau sistem seperti ini benar-benar dipakai?"
-
-Pertanyaan tersebut membantu saya membedakan:
-
-**"Tidak tertarik"**
-
-dengan
-
-**"Tertarik, tetapi ada constraint."**
-
-Ini penting karena dua state tersebut membutuhkan respons yang berbeda.
-
----
-
-# 13. Adaptasi terhadap Tiga Peran
-
-## 13.1 Adaptasi untuk User
-
-Jika User lebih peduli terhadap waktu:
-
-Saya menekankan:
-
-> **kepastian waktu makan.**
-
-Saya tidak perlu menjelaskan database atau dashboard.
-
-Fokus saya:
-
-> "Kamu bisa tahu apakah makananmu masih diproses atau sudah siap tanpa harus berdiri dekat tempat pengambilan."
-
----
-
-## 13.2 Adaptasi untuk Operator
-
-Jika Operator lebih khawatir tentang pekerjaan tambahan:
-
-Saya mengubah fokus:
-
-> **kesederhanaan proses input.**
-
-Saya tidak menjelaskan banyak fitur pelanggan.
-
-Saya justru menunjukkan bahwa sistem hanya membutuhkan perubahan status sederhana.
-
----
-
-## 13.3 Adaptasi untuk Decision Maker
-
-Jika Decision Maker lebih fokus pada penyebab masalah dan biaya:
-
-Saya tidak menjanjikan bahwa sistem pasti menyelesaikan antrean.
-
-Saya mengatakan:
-
-> "Solusi ini perlu diuji untuk melihat apakah informasi status benar-benar mengurangi interupsi dan membantu alur pelayanan. Kalau hasilnya tidak menunjukkan perbaikan, mekanismenya perlu dievaluasi kembali."
-
-Dengan demikian, solusi tetap terbuka terhadap validasi.
-
----
-
-# 14. Memahami Batas Solusi
-
-Saya sengaja tidak mengatakan:
-
-> "Sistem ini pasti menghilangkan antrean."
-
-Karena klaim tersebut belum memiliki bukti.
-
-Sistem informasi status pesanan mungkin dapat:
-
-- mengurangi ketidakpastian;
-- mengurangi pertanyaan status;
-- membantu mahasiswa mengetahui perkembangan pesanan;
-- membantu pengelola melihat alur pesanan.
-
-Namun sistem tersebut **belum tentu**:
-
-- mengurangi jumlah mahasiswa yang datang;
-- mempercepat proses memasak;
-- menambah jumlah petugas;
-- menghilangkan bottleneck di dapur.
-
-Oleh karena itu, saya membedakan:
-
-> **Masalah informasi** dengan **masalah kapasitas operasional**.
-
-Jika bottleneck sebenarnya adalah jumlah petugas atau waktu memasak, sistem informasi saja tidak cukup.
-
----
-
-# 15. Risiko dan Batasan Solusi
-
-| Risiko / Batasan | Dampak | Mitigasi |
-|---|---|---|
-| Sistem menambah pekerjaan operator | Operator semakin sibuk | Buat input status sesederhana mungkin dan uji pada skala kecil |
-| Estimasi waktu tidak akurat | Pengguna semakin kecewa | Tampilkan estimasi sebagai perkiraan, bukan janji pasti |
-| Jaringan tidak stabil | Status terlambat diperbarui | Buat mekanisme sederhana dan prioritaskan informasi penting |
-| Pesanan menumpuk di dapur | Sistem hanya memindahkan bottleneck | Evaluasi kapasitas proses dapur sebelum memperluas penggunaan |
-| Pengguna tidak memahami status | Fitur tidak memberikan manfaat | Gunakan label status yang sederhana dan familiar |
-| Sistem terlalu kompleks | Sulit diterapkan | Mulai dari fitur inti sebelum menambah fitur lain |
-
----
-
-# 16. Mengapa Saya Memangkas Beberapa Fitur?
-
-Pada awalnya sangat mudah untuk mengatakan:
-
-> "Solusinya punya QR code, aplikasi, dashboard, notifikasi, pre-order, pembayaran digital, estimasi AI, dan analitik."
-
-Namun daftar tersebut tidak otomatis membuat pitch menjadi lebih baik.
-
-Saya justru memilih untuk memangkas fitur yang tidak langsung membantu menjawab masalah utama.
-
-Prinsip saya:
-
-> **Jika saya tidak dapat menjelaskan hubungan sebuah fitur dengan masalah sasaran dalam satu atau dua kalimat, fitur tersebut belum layak menjadi fokus pitch.**
-
-Dengan demikian, detoks fitur bukan berarti sistem menjadi lebih buruk.
-
-Sebaliknya, detoks fitur membuat **nilai utama solusi lebih mudah terlihat**.
-
----
-
-# 17. Reaction → Response
-
-| Situasi | Reaction yang mungkin muncul | Response yang saya pilih |
-|---|---|---|
-| Lawan bicara mengatakan "Menarik" | Saya ingin langsung menjelaskan semua fitur | Saya menahan diri dan bertanya bagian mana yang menarik |
-| Lawan bicara bertanya tentang mekanisme | Saya ingin menjelaskan sisi teknis | Saya memberikan contoh sederhana terlebih dahulu |
-| Operator khawatir pekerjaan bertambah | Saya bisa defensif terhadap solusi | Saya mengakui concern dan menggali proses yang paling realistis |
-| Decision Maker mempertanyakan penyebab antrean | Saya ingin mempertahankan solusi | Saya mengakui bahwa sistem bukan solusi untuk semua penyebab |
-| Lawan bicara menolak | Saya ingin meyakinkan agar setuju | Saya menghargai keputusan dan menggali alasan penolakan |
-| Lawan bicara terlihat ragu | Saya ingin menambahkan lebih banyak fitur | Saya kembali ke masalah dan mencari hidden concern |
-
----
-
-# 18. Apa yang Berubah dari Cara Saya Berkomunikasi?
-
-Sebelumnya saya cenderung berpikir bahwa menjelaskan solusi berarti menjelaskan sebanyak mungkin hal yang bisa dilakukan sistem.
-
-Melalui latihan ini, saya menyadari bahwa pendekatan tersebut dapat menghasilkan **feature dumping**.
-
-Sekarang saya mencoba menggunakan pola:
-
-> **Problem → Possibility → Mechanism → Benefit → Value → Check Interest**
-
-Saya juga belajar bahwa keberhasilan pitch bukan hanya ketika orang mengatakan:
-
-> "Bagus."
-
-Saya perlu melihat apakah mereka:
-
-- memahami hubungan solusi dengan masalah;
-- mengajukan pertanyaan;
-- menyebutkan constraint;
-- membayangkan penggunaan;
-- memberikan keberatan yang spesifik;
-- atau bahkan menyatakan bahwa solusi tersebut tidak cocok.
-
-Bahkan penolakan dapat menjadi evidence yang berguna karena menunjukkan bahwa terdapat asumsi saya yang perlu diperbaiki.
-
----
-
-# 19. Evidence yang Akan Saya Gunakan
-
-## Evidence 1 — Attention terhadap Masalah
-
-Saya menggunakan hasil eksplorasi Week 6 sebagai dasar masalah.
-
-Tiga perspektif yang sudah dieksplorasi:
-
-- User: waktu istirahat berkurang karena menunggu;
-- Operator: pesanan dapat menumpuk ketika datang hampir bersamaan;
-- Decision Maker: penyebab waktu tunggu perlu diketahui sebelum memilih solusi.
-
-Evidence ini menunjukkan bahwa solusi Week 7 tidak dibuat secara acak, tetapi merupakan kelanjutan dari masalah yang telah dikonfirmasi sebelumnya.
-
----
-
-## Evidence 2 — Problem–Solution Link
-
-Saya menghubungkan:
-
-**Masalah:**
-
-> Mahasiswa tidak mengetahui perkembangan pesanan dan waktu tunggu.
-
-dengan:
-
-**Mekanisme solusi:**
-
-> Status pesanan dan estimasi waktu sederhana.
-
-Kemudian:
-
-**Benefit:**
-
-> Mahasiswa mendapatkan informasi mengenai perkembangan pesanan.
-
-dan:
-
-**Value:**
-
-> Mahasiswa dapat menggunakan waktu istirahat dengan lebih terprediksi.
-
----
-
-## Evidence 3 — Operator Problem–Solution Link
-
-**Masalah:**
-
-> Pesanan dapat menumpuk dan pelanggan dapat membutuhkan informasi status.
-
-**Mekanisme:**
-
-> Status pesanan ditampilkan secara terpusat.
-
-**Benefit:**
-
-> Informasi status tidak harus selalu disampaikan secara manual.
-
-**Value:**
-
-> Operator dapat lebih fokus pada proses pelayanan.
-
----
-
-## Evidence 4 — Decision Maker Problem–Solution Link
-
-**Masalah:**
-
-> Pengelola perlu memahami penyebab waktu tunggu sebelum menentukan perbaikan.
-
-**Mekanisme:**
-
-> Sistem mencatat dan menampilkan status/proses pesanan secara lebih terstruktur.
-
-**Benefit:**
-
-> Kondisi pelayanan dapat lebih mudah diamati.
-
-**Value:**
-
-> Pengelola memiliki dasar yang lebih baik untuk menentukan apakah masalah berada pada antrean, jumlah petugas, atau proses pelayanan.
-
----
-
-# 20. Rencana Validasi
-
-Saya tidak ingin berhenti pada pitch.
-
-Langkah berikutnya adalah melakukan uji kecil.
-
-### Tahap 1 — Uji User
-
-Saya akan menunjukkan simulasi status:
-
-> Diproses → Sedang Disiapkan → Siap Diambil
-
-Kemudian bertanya:
-
-> "Apakah informasi seperti ini benar-benar membantu kamu memperkirakan waktu makan?"
-
-### Tahap 2 — Uji Operator
-
-Saya akan menunjukkan alur perubahan status dan bertanya:
-
-> "Kalau digunakan saat jam ramai, bagian mana dari proses ini yang menurut kamu paling merepotkan?"
-
-### Tahap 3 — Uji Decision Maker
-
-Saya akan menunjukkan tujuan sistem dan bertanya:
-
-> "Data apa yang paling penting untuk menentukan apakah masalah antrean memang berkurang?"
-
-Dengan cara tersebut, saya tidak hanya mencari orang yang mengatakan solusi saya bagus.
-
-Saya mencari **bukti bahwa solusi benar-benar relevan**.
-
----
-
-# 21. Indikator Interest yang Saya Cari
-
-Saya menentukan beberapa indikator yang lebih konkret.
-
-### Interest dari User
-
-Minimal User:
-
-- bertanya tentang cara penggunaan;
-- mampu menjelaskan kembali manfaat sistem;
-- atau mengatakan bahwa informasi status akan membantu mereka.
-
-### Interest dari Operator
-
-Minimal Operator:
-
-- mampu melihat bagaimana sistem dapat mengurangi interupsi;
-- memberikan masukan terhadap alur;
-- atau menyebutkan kondisi tertentu yang perlu diperbaiki.
-
-### Interest dari Decision Maker
-
-Minimal Decision Maker:
-
-- meminta informasi mengenai uji coba;
-- bertanya mengenai data yang dibutuhkan;
-- atau memberikan constraint yang perlu dipertimbangkan.
-
-Saya tidak menyamakan:
-
-> **"terlihat mendengarkan"**
-
-dengan:
-
-> **"tertarik pada solusi."**
-
-Interest harus dibuktikan melalui respons atau tindakan yang lebih spesifik.
-
----
-
-# 22. Komitmen Perbaikan
-
-Untuk latihan berikutnya, saya akan menggunakan aturan:
-
-> **Jangan menambah fitur sebelum memahami keberatan.**
-
-Jika seseorang mengatakan:
-
-> "Menarik, tapi..."
-
-Saya tidak akan langsung menjawab dengan menambahkan fitur baru.
-
-Saya akan bertanya:
-
-> "Bagian mana yang menurut kamu masih jadi masalah?"
-
-Jika seseorang mengatakan:
-
-> "Saya nggak yakin ini membantu."
-
-Saya akan bertanya:
-
-> "Masalah mana yang menurut kamu belum terselesaikan?"
-
-Jika seseorang mengatakan:
-
-> "Ini malah bikin kerjaan tambah banyak."
-
-Saya akan bertanya:
-
-> "Bagian proses mana yang menurut kamu paling berpotensi menambah beban?"
-
-Dengan pola tersebut, saya ingin mengubah keberatan menjadi informasi untuk memperbaiki **problem–solution fit**.
-
----
-
-# 23. Penggunaan AI
-
-Saya menggunakan AI sebagai alat bantu untuk:
-
-- merapikan struktur Problem–Solution Interest Pitch;
-- membantu membedakan Feature, Benefit, dan Value;
-- mengecek apakah pitch terlalu banyak menggunakan jargon;
-- membantu mengidentifikasi kemungkinan hidden concern;
-- membantu menyusun pertanyaan validasi.
-
-AI **tidak digunakan untuk menciptakan respons orang lain atau memalsukan evidence interaksi**.
-
-Respons dan pengalaman komunikasi yang digunakan dalam portofolio harus berasal dari interaksi yang benar-benar terjadi.
-
----
-
-# 24. Feedback dan Tindak Lanjut
-
-Feedback yang ingin saya minta dari rekan adalah:
-
-> "Menurut kamu, ketika aku menjelaskan solusi ini, aku lebih banyak menjelaskan fitur atau benar-benar menjelaskan manfaat yang relevan dengan masalah orang yang aku ajak bicara?"
-
-Pertanyaan kedua:
-
-> "Kalau kamu berada di posisi mahasiswa atau petugas kantin, bagian mana dari pitch ini yang membuat kamu tertarik dan bagian mana yang masih membuat kamu ragu?"
-
-Feedback tersebut akan membantu saya mengevaluasi apakah saya sudah berhasil berpindah dari pola:
-
-> **"Ini fitur yang saya punya."**
-
-menjadi:
-
-> **"Ini masalah yang kamu alami, dan ini bagian dari solusi yang mungkin relevan untuk masalah tersebut."**
-
----
-
-# 25. Self-Assessment
-
-| Kriteria | Penilaian Diri | Alasan |
-|---|:---:|---|
-| **Kecocokan (Fit)** | **4** | Solusi dirancang berdasarkan masalah yang telah dikonfirmasi dari User, Operator, dan Decision Maker, bukan berdasarkan daftar fitur semata. |
-| **Kejelasan Mekanisme** | **4** | Mekanisme dijelaskan dengan status sederhana dan contoh alur pesanan sehingga dapat dibayangkan tanpa memahami detail teknis. |
-| **Penerjemahan Nilai** | **4** | Fitur diterjemahkan menjadi manfaat dan nilai yang berbeda untuk User, Operator, dan Decision Maker. |
-| **Kejujuran & Batas** | **4** | Saya tidak mengklaim bahwa solusi pasti menghilangkan antrean dan secara eksplisit menyebutkan risiko, keterbatasan, serta kebutuhan validasi. |
-
-**Total self-assessment: 16/16**
-
----
-
-# 26. Kesimpulan
-
-Latihan Week 7 membuat saya memahami bahwa **menumbuhkan Interest bukan berarti membuat solusi terdengar semakin canggih**.
-
-Interest justru lebih mungkin muncul ketika seseorang dapat melihat hubungan yang jelas antara:
-
-> **masalah → mekanisme solusi → manfaat → nilai bagi dirinya.**
-
-Pada kasus antrean kantin, saya tidak lagi memosisikan solusi sebagai "aplikasi kantin dengan banyak fitur".
-
-Saya memfokuskan solusi pada masalah yang sudah ditemukan:
-
-> **ketidakpastian status pesanan, waktu tunggu, dan penumpukan proses pada jam makan siang.**
-
-Karena itu, fitur utama yang saya prioritaskan adalah:
-
-1. **status pesanan;**
-2. **estimasi waktu tunggu;**
-3. **informasi antrean.**
-
-Fitur lain tidak otomatis saya masukkan hanya karena secara teknis memungkinkan.
-
-Saya juga belajar bahwa Interest tidak boleh diasumsikan hanya dari ekspresi seperti "bagus" atau "menarik". Saya perlu membaca **state**, menggali **hidden concern**, kemudian melakukan **adaptation** berdasarkan respons nyata.
-
-Bagi saya, prinsip terpenting dari latihan ini adalah:
-
-> **Jangan menjual fitur. Tunjukkan hubungan antara masalah yang benar-benar dialami seseorang dengan perubahan yang mungkin diberikan oleh solusi.**
-
----
+Hasil uji coba akan digunakan untuk menentukan apakah estimasi waktu perlu dipertahankan, diperbaiki, atau ditunda sampai datanya cukup dapat diandalkan. Dengan demikian, pengembangan solusi tetap berangkat dari kebutuhan target dan hasil evaluasi, bukan hanya dari asumsi perancang.
