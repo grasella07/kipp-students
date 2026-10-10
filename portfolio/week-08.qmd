@@ -1,6 +1,12 @@
 
 ---
 title: "Portfolio Minggu 8 — UTS KIPP"
+week: 8
+status: "Siap dinilai"
+self_score: "—"
+assessor_score: "—"
+description: "Makalah pra-UTS dan lima laporan kasus individual."
+categories: [Assessment, UTS]
 ---
 
 Makalah pra-UTS dan lima laporan kasus individual.
@@ -27,16 +33,16 @@ Halaman ini berfungsi sebagai indeks untuk mengakses makalah dan lima laporan UT
 
 | Tahap | Dokumen | Target/Keterangan | Status |
 |---|---|---|---|
-| Pra-UTS | [Makalah Pra-UTS](UTS/paper.html) | Kajian empat pertanyaan MBTI/PASK | Belum dimulai |
-| 1 | [Laporan 1](UTS/hasil_1_18225079.html) | Diri dan pembanding sesuai penugasan | Belum dimulai |
-| 2a | [Laporan 2a](UTS/hasil_2a_18225079.html) | Target pertama kasus 2 | Belum dimulai |
-| 2b | [Laporan 2b](UTS/hasil_2b_18225079.html) | Target kedua kasus 2, berbeda dari 2a | Belum dimulai |
-| 3a | [Laporan 3a](UTS/hasil_3a_18225079.html) | Target pertama kasus 3 | Belum dimulai |
-| 3b | [Laporan 3b — Elsa (K3-05)](UTS/hasil_3b_18225079.html) | Elsa (K3-05), pengelola usaha/customer | Dalam penyusunan |
+| Pra-UTS | [paper](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Siap dinilai |
+| 1 | [hasil_1_18225079](UTS/hasil_1_18225079.qmd) | Diri dan pembanding sesuai penugasan | Siap dinilai |
+| 2a | [hasil_2a_18225079](UTS/hasil_2a_18225079.qmd) | Target pertama kasus 2 | Siap dinilai |
+| 2b | [hasil_2b_18225079](UTS/hasil_2b_18225079.qmd) | Target kedua kasus 2, berbeda dari 2a | Siap dinilai |
+| 3a | [hasil_3a_18225079](UTS/hasil_3a_18225079.qmd) | Target pertama kasus 3 | Siap dinilai |
+| 3b | [hasil_3b_18225079)](UTS/hasil_3b_18225079.qmd) | Elsa (K3-05), pengelola usaha/customer | Siap dinilai |
 
 ## Refleksi Lintas Sesi
 
-Bagian ini diisi setelah seluruh sesi selesai. Refleksi mencakup perkembangan kemampuan komunikasi interpersonal, perubahan cara memahami kebutuhan lawan bicara, penggunaan pendekatan ASK/SWOT, serta pelajaran dari setiap kasus.
+Refleksi ini merangkum perkembangan kemampuan komunikasi interpersonal, perubahan cara memahami kebutuhan lawan bicara, penggunaan pendekatan ASK/SWOT, serta pembelajaran dari setiap kasus.
 
 ### Refleksi Akhir
 
@@ -46,7 +52,7 @@ Tuliskan pembelajaran yang paling bermakna dari lima sesi, keterampilan yang men
 
 - [ ] Identitas dan versi paket sudah sesuai dengan penugasan.
 - [ ] Makalah pra-UTS sudah dilengkapi.
-- [ ] Lima laporan sudah diisi sesuai target.
+- [ ] Lima laporan sudah diperiksa sesuai target.
 - [ ] Semua tautan laporan dapat dibuka.
 - [ ] Seluruh halaman Quarto berhasil di-render.
-- [ ] Status pengumpulan sudah sesuai kondisi sebenarnya.
+- [ ] Bukti pengumpulan sudah diperiksa dan statusnya diperbarui.
