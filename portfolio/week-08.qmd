@@ -1,25 +1,52 @@
+
 ---
-title: "UTS Performance Evidence Package"
-week: 8
-status: "Belum dimulai"
-self_score: "—"
-assessor_score: "—"
-description: "Integrated performance Target–Attention–Interest."
-categories: [Assessment, UTS]
+title: "Portfolio Minggu 8 — UTS KIPP"
 ---
 
-## Kompetensi target
+Makalah pra-UTS dan lima laporan kasus individual.
 
-Mengintegrasikan person recognition, state recognition, repertoire, language, response, dan adaptation.
+## Mulai Mengisi
 
-## Evidence wajib
+Baca [instruksi UTS](https://azral1962.github.io/kipp-students/lk/lk-UTS/) dan ikuti petunjuk pada paket penugasan yang sesuai dengan NIM kamu. Gunakan [contoh jawaban Minggu 8](https://azral1962.github.io/kipp-students/examples/week-08.html) sebagai acuan struktur dan analisis.
 
-- Performance card dan initial state.
-- Rekaman/transcript serta observer sheet.
-- Feedback, replay, evidence improvement, dan reflection.
+Halaman ini berfungsi sebagai indeks untuk mengakses makalah dan lima laporan UTS. Klik nama dokumen pada tabel untuk membuka halaman laporan masing-masing.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 8](../examples/week-08.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+## Identitas dan Status Paket
 
-{{< include ../includes/evidence-template.md >}}
+| Elemen | Isi |
+|---|---|
+| Nama | Grasella |
+| NIM | `18225079` |
+| Kelas | K1 |
+| Periode/tanggal pelaksanaan | Sesuai tanggal aktual pada setiap laporan |
+| Versi bank/paket aktif | Sesuai `PENUGASAN.md` pada ZIP |
+| Modalitas | Teks melalui ChatGPT |
+| Status pengumpulan | Perbarui sesuai kondisi sebenarnya |
+
+## Makalah dan Lima Laporan
+
+| Tahap | Dokumen | Target/Keterangan | Status |
+|---|---|---|---|
+| Pra-UTS | [Makalah Pra-UTS](UTS/paper.html) | Kajian empat pertanyaan MBTI/PASK | Belum dimulai |
+| 1 | [Laporan 1](UTS/hasil_1_18225079.html) | Diri dan pembanding sesuai penugasan | Belum dimulai |
+| 2a | [Laporan 2a](UTS/hasil_2a_18225079.html) | Target pertama kasus 2 | Belum dimulai |
+| 2b | [Laporan 2b](UTS/hasil_2b_18225079.html) | Target kedua kasus 2, berbeda dari 2a | Belum dimulai |
+| 3a | [Laporan 3a](UTS/hasil_3a_18225079.html) | Target pertama kasus 3 | Belum dimulai |
+| 3b | [Laporan 3b — Elsa (K3-05)](UTS/hasil_3b_18225079.html) | Elsa (K3-05), pengelola usaha/customer | Dalam penyusunan |
+
+## Refleksi Lintas Sesi
+
+Bagian ini diisi setelah seluruh sesi selesai. Refleksi mencakup perkembangan kemampuan komunikasi interpersonal, perubahan cara memahami kebutuhan lawan bicara, penggunaan pendekatan ASK/SWOT, serta pelajaran dari setiap kasus.
+
+### Refleksi Akhir
+
+Tuliskan pembelajaran yang paling bermakna dari lima sesi, keterampilan yang mengalami perkembangan, aspek yang masih perlu ditingkatkan, dan rencana penerapannya dalam komunikasi sehari-hari.
+
+## Pemeriksaan Sebelum Pengumpulan
+
+- [ ] Identitas dan versi paket sudah sesuai dengan penugasan.
+- [ ] Makalah pra-UTS sudah dilengkapi.
+- [ ] Lima laporan sudah diisi sesuai target.
+- [ ] Semua tautan laporan dapat dibuka.
+- [ ] Seluruh halaman Quarto berhasil di-render.
+- [ ] Status pengumpulan sudah sesuai kondisi sebenarnya.

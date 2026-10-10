@@ -1,0 +1,423 @@
+
+# Laporan UTS KIPP 2026 — Versi 2.0
+## Sesi 3b — Kasus 3: Menawarkan Solusi TI/AI kepada Elsa
+
+**Penulis**  
+Grasella — 18225079
+
+**Diterbitkan**  
+10 Oktober 2026
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Grasella |
+| NIM | 18225079 |
+| Kelas | K1 |
+| Tanggal | 10 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3b; Kasus 3 — Menawarkan Solusi TI dan AI |
+| Nama dan ID target | Elsa (K3-05), pengelola usaha/customer |
+| Modalitas | Teks melalui ChatGPT |
+| Kasus nyata/fiktif | Simulasi dengan tokoh fiktif |
+| Fokus komunikasi | Menggali kebutuhan customer dan menawarkan solusi TI/AI yang sesuai |
+| Status laporan | Dokumentasi respons komunikator, evaluasi, uji ulang, dan refleksi berdasarkan materi yang tersedia |
+
+Laporan ini mengikuti struktur empat bagian utama, yaitu Identitas, Kasus dan Tujuan, Skrip Percakapan, serta Hasil, Evaluasi, dan Refleksi. Analisis dalam laporan dibedakan antara bukti percakapan, interpretasi, dan usulan tindakan. Pernyataan yang belum didukung bukti langsung tidak diperlakukan sebagai fakta.
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+Kasus ini membahas situasi ketika Elsa, seorang pengelola usaha, merasa khawatir bahwa perubahan cara kerja justru dapat menyulitkan orang lain. Dalam konteks tersebut, komunikator perlu memahami kebutuhan, kendala operasional, dan kesiapan customer sebelum menawarkan solusi teknologi informasi (TI) atau kecerdasan buatan (AI).
+
+Tujuan utama komunikasi saya adalah memahami masalah dan kebutuhan Elsa terlebih dahulu, kemudian mempertimbangkan solusi TI/AI yang sesuai. Solusi diharapkan dapat mengurangi pekerjaan berulang, membantu pencatatan pesanan, dan mempermudah pelayanan tanpa menambah beban staf atau mengurangi interaksi personal dengan pelanggan.
+
+Tujuan tersebut memiliki beberapa indikator keberhasilan:
+
+1. Kekhawatiran dan kebutuhan Elsa dapat digali melalui pertanyaan terbuka.
+2. Pemahaman komunikator mengenai masalah Elsa dapat dikonfirmasi sebelum solusi ditawarkan.
+3. Solusi yang diusulkan sesuai dengan proses kerja dan kesiapan staf.
+4. Risiko penerapan, keterbatasan AI, serta kebutuhan bantuan manusia dijelaskan secara jujur.
+5. Langkah berikutnya, jika customer bersedia, dapat ditentukan secara konkret.
+
+Keberhasilan tidak hanya diukur dari apakah Elsa menerima tawaran teknologi. Pemahaman terhadap kebutuhan customer dan kesesuaian solusi juga merupakan bagian penting dari tujuan komunikasi.
+
+## Profil awal komunikator
+
+Tabel berikut merupakan evaluasi sementara berdasarkan tujuan, pendekatan, dan respons komunikator yang tersedia. Tabel ini bukan hasil pengukuran kepribadian atau pengujian kemampuan teknis secara formal.
+
+| Unsur | Laporan/dugaan berdasarkan materi | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Melihat peluang untuk membantu usaha melalui pencatatan digital dan otomatisasi pertanyaan berulang. Perlu memastikan solusi tidak menambah beban operasional. | Tujuan komunikasi dan respons pada Tahap C | Interpretasi berdasarkan pendekatan yang digunakan |
+| Attitude | Berusaha memahami kekhawatiran customer, menghindari pemaksaan, dan mempertimbangkan kesiapan staf. | Respons 1, 8, 10, dan 12 | Teramati pada teks; motif batin tidak dinilai |
+| Knowledge | Memahami fungsi umum pencatatan digital dan chatbot AI serta menyadari bahwa AI dapat memberikan jawaban yang keliru. | Respons 6–9 | Berdasarkan penjelasan tertulis; penguasaan teknis belum diuji |
+| Skill | Menggunakan pertanyaan terbuka, rangkuman pemahaman, penjelasan solusi, dan usulan uji coba terbatas. | Respons 1–12 | Teramati pada teks; efektivitas terhadap customer belum sepenuhnya diketahui |
+| Preferensi/MBTI | Tidak ditentukan berdasarkan materi percakapan yang tersedia. | — | Tidak disimpulkan |
+| Karakter, peran, kultur/ko-kultur | Berperan sebagai komunikator yang menawarkan solusi TI/AI kepada pengelola usaha. Pendekatan diarahkan pada penghargaan terhadap kebutuhan dan kesiapan customer. | Respons 1–12 | Terbatas pada perilaku komunikasi yang tertulis |
+
+## Dugaan awal profil target dan rencana
+
+Pernyataan pembuka Elsa yang tersedia adalah:
+
+> “Saya khawatir orang lain justru kesulitan kalau kita mengubah ini.”
+
+Pernyataan tersebut menunjukkan kekhawatiran terhadap dampak perubahan pada orang lain. Namun, penyebab kekhawatiran itu belum dapat dipastikan hanya dari satu pernyataan. Kekhawatiran dapat berkaitan dengan beban staf, kenyamanan pelanggan, perubahan prosedur, atau faktor lain yang perlu ditanyakan secara langsung.
+
+| Unsur | Dugaan awal | Hal yang perlu digali | Strategi komunikasi |
+|---|---|---|---|
+| Attitude | Elsa mengkhawatirkan dampak perubahan pada orang lain. | Hal apa yang paling dikhawatirkan dan bagaimana Elsa memandang perubahan. | Mengakui kekhawatiran dan menghindari asumsi bahwa Elsa menolak teknologi. |
+| Knowledge | Pemahaman mengenai solusi digital dan AI belum diketahui. | Pengetahuan mengenai manfaat, risiko, dan keterbatasan sistem. | Menjelaskan fungsi dengan contoh yang relevan setelah kebutuhan dipahami. |
+| Skill | Pengalaman Elsa dan staf dalam menggunakan sistem baru belum diketahui. | Kemampuan menggunakan aplikasi, waktu belajar, dan kebutuhan pendampingan. | Menawarkan demonstrasi, panduan, dan latihan yang sesuai kebutuhan. |
+| SWOT target | Perubahan berpotensi memberikan manfaat, tetapi juga berisiko menambah pekerjaan. | Kondisi operasional, sumber daya, dan hambatan penerapan. | Memetakan manfaat serta risiko berdasarkan informasi yang diperoleh. |
+| Hubungan interpersonal | Customer perlu merasa bahwa kekhawatirannya didengarkan. | Apakah customer merasa dipahami dan nyaman menyampaikan keberatan. | Mendengarkan, memeriksa pemahaman, dan menghormati keputusan. |
+
+Rencana komunikasi adalah memulai percakapan dengan pengakuan terhadap kekhawatiran Elsa, menggali alur kerja yang berjalan, merangkum kebutuhan, dan baru kemudian menawarkan solusi. Apabila solusi dianggap sesuai, langkah berikutnya dapat berupa uji coba terbatas dengan dukungan dan indikator evaluasi yang jelas.
+
+## Pemetaan TAIDA
+
+TAIDA digunakan sebagai kerangka untuk memetakan tujuan dan strategi komunikasi. Tabel ini menunjukkan pendekatan yang disusun, bukan bukti bahwa setiap tahap telah berhasil atau bahwa Elsa menyetujui semua langkah.
+
+| Tahap | Target | Aspek A/K/S yang relevan | Repertoar komunikasi | Bukti atau status |
+|---|---|---|---|---|
+| Target | Memahami masalah Elsa dan menentukan solusi yang sesuai | A: kesediaan mempertimbangkan perubahan; K: pemahaman masalah; S: kemampuan mengidentifikasi proses | Menetapkan tujuan komunikasi dan kebutuhan informasi | Tujuan tercantum pada bagian B |
+| Attention | Membuat Elsa merasa kekhawatirannya diperhatikan | A: rasa dihargai | Pengakuan kekhawatiran dan pertanyaan terbuka | Respons 1 |
+| Interest | Memahami masalah operasional yang perlu dibantu | K: alur kerja dan kebutuhan; S: menggali informasi | Pertanyaan tentang proses pesanan, pertanyaan berulang, dan kendala | Respons 2–5 |
+| Desire | Menilai apakah solusi dapat memberikan manfaat yang sesuai | A: kesiapan; K: manfaat dan risiko; S: evaluasi alternatif | Penjelasan pencatatan digital, chatbot AI, dan dukungan manusia | Respons 6–9 |
+| Action | Menentukan langkah konkret jika customer bersedia | S: perencanaan, pelatihan, dan evaluasi | Usulan uji coba terbatas, persiapan staf, dan penghormatan terhadap keputusan | Respons 10–12; belum ada bukti kesepakatan dari Elsa |
+
+# C) Skrip Percakapan
+
+Bagian ini memuat pernyataan Elsa yang tersedia dan respons komunikator yang disusun untuk menangani kasus. Respons komunikator ditampilkan sesuai urutan materi yang diberikan. Tidak ada balasan tambahan yang diatribusikan kepada Elsa tanpa bukti percakapan.
+
+## Tahap A — Identifikasi
+
+Identitas sesi:
+
+- Nama: Grasella
+- NIM: 18225079
+- Kelas: K1
+- Tanggal: 10 Oktober 2026
+- Modalitas: Teks melalui ChatGPT
+- Target: Elsa (K3-05)
+
+## Tahap B — Kasus dan tujuan
+
+**Grasella — Tujuan komunikasi**
+
+Tujuan saya adalah memahami kebutuhan dan kendala Elsa sebelum menawarkan solusi TI/AI. Saya ingin mengetahui bagaimana proses kerja berlangsung, masalah yang paling sering terjadi, serta kesiapan staf untuk menggunakan teknologi baru.
+
+Saya ingin menawarkan solusi yang dapat mengurangi pekerjaan berulang dan membantu pencatatan pesanan tanpa mengganggu pelayanan. Jika solusi yang sesuai telah ditemukan dan Elsa bersedia, saya ingin menyepakati langkah berikutnya yang realistis, misalnya demonstrasi atau uji coba terbatas.
+
+## Tahap C — Skrip komunikasi
+
+### Respons 1 — Mengakui kekhawatiran
+
+**Elsa**
+
+> “Saya khawatir orang lain justru kesulitan kalau kita mengubah ini.”
+
+**Grasella**
+
+> “Aku paham kekhawatiranmu, Elsa. Kita tentu nggak mau perubahan yang tujuannya membantu justru bikin staf atau pelanggan kesulitan. Aku juga nggak ingin langsung mengubah cara kerja yang selama ini sudah berjalan. Boleh cerita, bagian mana yang paling kamu khawatirkan kalau ada perubahan?”
+
+Respons ini bertujuan mengakui kekhawatiran Elsa dan membuka ruang untuk menjelaskan masalahnya. Saya tidak langsung menganggap bahwa Elsa menolak teknologi.
+
+### Respons 2 — Menggali alur kerja
+
+**Grasella**
+
+> “Selama ini, bagaimana kamu dan staf menangani pertanyaan pelanggan dan mencatat pesanan yang masuk? Biasanya prosesnya seperti apa dari pelanggan menghubungi sampai pesanan selesai?”
+
+Pertanyaan ini bertujuan memahami alur kerja yang berjalan saat ini, mulai dari pelanggan menghubungi usaha hingga pesanan selesai diproses.
+
+### Respons 3 — Mengidentifikasi kendala
+
+**Grasella**
+
+> “Kalau pelanggan banyak menghubungi dalam waktu bersamaan, biasanya kendala apa yang paling sering muncul? Apakah staf jadi harus menjawab pertanyaan yang sama berkali-kali, kesulitan memantau pesanan, atau ada pesanan yang akhirnya terlupakan? Bisa ceritakan contoh kejadian yang pernah dialami?”
+
+Pertanyaan tersebut membantu memperjelas masalah yang mungkin muncul ketika banyak pesan masuk secara bersamaan. Contoh yang diberikan berfungsi sebagai pemantik dan tetap perlu dikonfirmasi oleh customer.
+
+### Respons 4 — Memeriksa pemahaman
+
+**Grasella**
+
+> “Kalau aku memahami penjelasanmu dengan benar, kamu ingin mengurangi pekerjaan berulang dan memastikan semua pesanan tercatat, tetapi kamu juga ingin cara kerja staf tetap mudah dan pelayanan kepada pelanggan tidak terganggu. Apakah aku sudah memahami masalahnya dengan tepat, atau ada hal lain yang lebih penting buat kamu?”
+
+Rangkuman ini digunakan untuk memeriksa pemahaman sebelum menentukan solusi. Customer diberi kesempatan untuk mengoreksi apabila terdapat kebutuhan yang belum terwakili.
+
+### Respons 5 — Memperjelas kebutuhan sebelum memilih solusi
+
+**Grasella**
+
+Sebelum memilih sistem, saya perlu menggali kanal yang digunakan untuk menerima pesanan, cara staf mencatat pesanan, jenis pertanyaan yang sering berulang, penyebab pesanan terlewat, jumlah staf, anggaran, waktu yang tersedia, serta pengalaman staf menggunakan teknologi.
+
+Informasi tersebut membantu membedakan masalah utama dari dugaan awal. Dengan begitu, solusi dapat dipilih berdasarkan kebutuhan usaha, bukan semata-mata berdasarkan fitur teknologi.
+
+### Respons 6 — Menawarkan pencatatan digital
+
+**Grasella**
+
+> “Kalau masalahnya pesanan sering tercecer, kita bisa mencoba satu daftar digital untuk mencatat semua pesanan di satu tempat. Jadi, staf bisa melihat pesanan mana yang baru masuk, sedang diproses, atau sudah selesai tanpa harus mencari catatan di banyak tempat. Tapi kita perlu memastikan cara ini benar-benar lebih mudah daripada cara yang sekarang.”
+
+Solusi ini ditujukan untuk memusatkan informasi dan mempermudah pemantauan status pesanan. Manfaatnya tetap perlu diuji karena sistem baru belum tentu lebih mudah daripada proses yang telah berjalan.
+
+### Respons 7 — Menjelaskan chatbot AI dan keterbatasannya
+
+**Grasella**
+
+> “Kalau pertanyaan pelanggan sering berulang, chatbot AI bisa membantu menjawab pertanyaan sederhana, misalnya tentang harga, menu, atau jam operasional. Tapi AI juga bisa salah menjawab, jadi informasinya perlu diperiksa dan dibatasi pada hal-hal yang sudah dipastikan benar. Untuk pertanyaan yang rumit atau tidak bisa dijawab, pelanggan tetap harus punya cara untuk menghubungi staf.”
+
+Penjelasan ini menghubungkan manfaat AI dengan pertanyaan berulang, sekaligus mengakui risiko jawaban yang tidak akurat. Chatbot tidak boleh menjadi satu-satunya jalur pelayanan apabila pelanggan masih membutuhkan bantuan manusia.
+
+### Respons 8 — Menjaga interaksi personal
+
+**Grasella**
+
+> “Menurutku, teknologi nggak harus menggantikan interaksi langsung dengan pelanggan. Kita bisa menggunakannya untuk membantu menjawab pertanyaan sederhana, sedangkan staf tetap menangani pelanggan yang membutuhkan penjelasan lebih lanjut atau pelayanan yang lebih personal. Jadi, teknologi justru diharapkan membantu staf punya lebih banyak waktu untuk pelanggan.”
+
+Pendekatan ini menempatkan teknologi sebagai alat bantu. Interaksi langsung tetap dipertahankan untuk pertanyaan yang memerlukan penjelasan lebih lanjut atau pelayanan personal.
+
+### Respons 9 — Menentukan jalur bantuan manusia
+
+**Grasella**
+
+> “Kita perlu memastikan ada pilihan yang jelas untuk menghubungi staf ketika pelanggan membutuhkan bantuan manusia. Sebelum memilih sistem, aku akan memeriksa apakah ada fitur pengalihan otomatis. Kalau tidak ada, kita bisa menggunakan kanal yang sudah tersedia, seperti WhatsApp usaha, dengan petugas yang bertanggung jawab memeriksa pesan. Kita perlu menguji alurnya terlebih dahulu supaya pelanggan tidak kebingungan.”
+
+Respons ini menekankan bahwa ketersediaan fitur harus diverifikasi. Apabila fitur pengalihan otomatis tidak tersedia, kanal komunikasi yang sudah digunakan dapat dipertimbangkan, dengan penanggung jawab dan alur tindak lanjut yang jelas.
+
+### Respons 10 — Menawarkan uji coba terbatas
+
+**Grasella**
+
+> “Bagaimana kalau kita mulai dari satu proses yang paling bermasalah dulu, Elsa, tanpa langsung mengubah semua cara kerja? Misalnya, kita mencoba pencatatan digital pada satu kanal pesanan selama tiga hari, kalau waktu tersebut cocok untukmu. Kita tentukan satu staf yang bertanggung jawab dan tetap siapkan pencatatan manual sebagai cadangan. Setelah itu, kita lihat apakah pesanan lebih mudah dipantau dan apakah cara ini benar-benar membantu.”
+
+Uji coba terbatas ditawarkan agar perubahan tidak langsung mencakup seluruh kegiatan operasional. Durasi tiga hari merupakan usulan awal yang perlu disesuaikan dengan kondisi usaha dan persetujuan customer.
+
+### Respons 11 — Menanggapi kesiapan staf
+
+**Grasella**
+
+> “Aku paham. Kalau staf sedang sibuk, jangan sampai belajar sistem baru malah mengganggu pelayanan. Kita bisa menjadwalkan demo singkat pada waktu yang lebih tenang, lalu menyediakan panduan sederhana yang bisa dibaca saat diperlukan. Kalau ternyata belum ada waktu yang memungkinkan, kita bisa menunda uji coba sampai staf lebih siap.”
+
+Respons ini mempertimbangkan waktu dan kesiapan staf. Demonstrasi sebaiknya dilakukan pada waktu yang tidak mengganggu pelayanan, dan uji coba dapat ditunda apabila belum ada waktu yang sesuai.
+
+### Respons 12 — Menghormati keputusan customer
+
+**Grasella**
+
+> “Nggak apa-apa, Elsa. Aku nggak ingin kamu merasa harus langsung mengubah cara kerja yang sudah ada. Kamu bisa mempertimbangkannya terlebih dahulu. Kalau nanti kamu ingin mencoba atau masih punya pertanyaan, kita bisa membahasnya lagi. Yang penting, solusi yang dipilih nantinya memang sesuai dengan kebutuhan dan kesiapan usahamu.”
+
+Penutupan ini memberikan ruang bagi customer untuk mempertimbangkan alternatif tanpa tekanan. Tujuan komunikasi bukan sekadar mendapatkan persetujuan, melainkan membantu customer memilih solusi yang sesuai dengan kebutuhan dan kesiapan usaha.
+
+## Tahap D — Uji ulang
+
+Uji ulang berfokus pada kejelasan penanggung jawab, akses bantuan manusia, kesiapan staf, dan penerapan perubahan secara bertahap.
+
+### Respons uji ulang 1 — Menangani kekhawatiran tentang bantuan manusia
+
+**Prompt uji ulang**
+
+Elsa masih bingung mengenai siapa yang akan menangani pelanggan ketika sistem tidak mampu menjawab pertanyaan.
+
+**Grasella**
+
+> “Aku paham, Elsa. Pelanggan tetap harus bisa mendapatkan bantuan meskipun sistem tidak mampu menjawab. Menurutku, kita perlu menentukan siapa yang bertanggung jawab menangani pertanyaan tersebut dan bagaimana pelanggan bisa menghubunginya. Sebelum memutuskan sistem yang digunakan, kita juga perlu memastikan fitur apa saja yang benar-benar tersedia.”
+
+Respons ini menekankan pentingnya menentukan penanggung jawab dan memeriksa kemampuan sistem sebelum penerapan dilakukan.
+
+### Respons uji ulang 2 — Menjelaskan mekanisme eskalasi
+
+Saya akan memeriksa apakah sistem memiliki fitur pengalihan otomatis kepada staf. Jika fitur tersebut tidak tersedia, pelanggan dapat diarahkan ke kanal layanan yang sudah digunakan, seperti WhatsApp usaha, selama cara tersebut memungkinkan.
+
+Selanjutnya, perlu ditentukan staf yang bertanggung jawab, cara mencatat pertanyaan yang belum selesai, dan waktu respons yang realistis. Alur tersebut perlu diuji sebelum digunakan oleh pelanggan.
+
+### Respons uji ulang 3 — Memahami kebutuhan pelatihan staf
+
+Saya akan menanyakan pengalaman staf menggunakan aplikasi serupa dan bagian apa yang menurut mereka paling sulit. Demonstrasi singkat dapat membantu mengidentifikasi apakah kesulitan berkaitan dengan pencatatan, pembaruan status, atau pemahaman alur kerja.
+
+Dukungan kemudian dapat disesuaikan, misalnya melalui panduan tertulis, checklist, atau latihan singkat. Pendekatan ini bertujuan memastikan pelatihan sesuai kebutuhan staf dan tidak mengganggu operasional.
+
+### Respons uji ulang 4 — Menyesuaikan uji coba
+
+Saya akan menyarankan uji coba pada satu proses atau satu kanal pesanan, dengan satu staf sebagai penanggung jawab. Durasi tiga hari dapat digunakan sebagai usulan awal apabila sesuai dengan kondisi usaha.
+
+Pencatatan manual tetap disiapkan sebagai cadangan. Evaluasi dapat dilakukan dengan memeriksa jumlah pesanan terlewat, konsistensi pencatatan, waktu yang dibutuhkan, kemudahan penggunaan, dan kemampuan pelanggan memperoleh bantuan manusia.
+
+### Respons uji ulang 5 — Menghadapi jalur eskalasi yang belum teruji
+
+Saya tidak akan langsung menerapkan chatbot untuk seluruh pelayanan apabila jalur bantuan manusia belum tersedia atau belum teruji. Saya akan menyarankan pemeriksaan mekanisme tersebut terlebih dahulu atau mempertahankan kanal layanan manusia yang sudah tersedia.
+
+Jika belum ada mekanisme yang dapat diandalkan, penerapan chatbot sebaiknya ditunda sampai akses bantuan pelanggan lebih jelas.
+
+### Respons uji ulang 6 — Menghormati keputusan untuk menunda
+
+**Grasella**
+
+> “Aku mengerti, Elsa. Menurutku, lebih baik kita menerapkan perubahan saat kamu dan staf sudah siap daripada memaksakannya ketika kondisi belum memungkinkan. Kalau kamu berkenan, kita bisa mencatat hal-hal yang masih perlu dipersiapkan dan membahasnya lagi ketika waktunya lebih tepat. Kalau belum ingin melanjutkan, aku juga menghormati keputusanmu.”
+
+Respons ini menunjukkan bahwa penundaan dapat menjadi pilihan yang bertanggung jawab ketika kesiapan staf atau mekanisme dukungan belum memadai.
+
+### Respons uji ulang 7 — Penyesuaian pendekatan
+
+Setelah mempertimbangkan hambatan tersebut, saya akan lebih memprioritaskan kesiapan staf dan kejelasan jalur bantuan manusia sebelum mengusulkan penerapan. Saya juga akan mempersempit cakupan uji coba, memastikan dukungan yang ditawarkan benar-benar tersedia, dan menyiapkan prosedur cadangan.
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Tujuan komunikasi diarahkan pada pemahaman kebutuhan Elsa dan pemilihan solusi yang sesuai. Bukti yang tersedia menunjukkan bahwa Elsa menyampaikan kekhawatiran tentang dampak perubahan terhadap orang lain. Pernyataan tersebut memberikan titik awal untuk menggali kebutuhan, tetapi belum cukup untuk memastikan sikap, pengetahuan, keterampilan, atau keputusan akhir Elsa.
+
+Respons komunikator mencakup pertanyaan terbuka, pemeriksaan pemahaman, penjelasan alternatif TI/AI, pembahasan keterbatasan AI, dan usulan uji coba terbatas. Namun, tidak tersedia bukti yang cukup untuk menyimpulkan bahwa Elsa menerima solusi, menyetujui demonstrasi, atau menyepakati uji coba.
+
+| Unsur pada target | Kondisi awal berdasarkan bukti | Hasil evaluasi | Bukti dan batas |
+|---|---|---|---|
+| Attitude | Elsa mengkhawatirkan bahwa perubahan dapat menyulitkan orang lain. | Sikap terhadap teknologi dan keputusan akhir belum dapat dipastikan. | Pernyataan pembuka Elsa |
+| Knowledge | Pemahaman tentang solusi digital dan AI belum diketahui. | Belum ada bukti langsung mengenai pemahaman Elsa setelah penjelasan. | Respons komunikator 6–9 tidak membuktikan pemahaman target |
+| Skill/kesiapan | Kemampuan menggunakan teknologi belum diketahui. | Kebutuhan pelatihan masih perlu diperiksa. | Belum ada bukti penggunaan sistem oleh Elsa atau staf |
+| SWOT | Dampak perubahan pada orang lain menjadi perhatian awal. | Manfaat dan risiko perlu divalidasi melalui informasi operasional. | Pernyataan pembuka Elsa dan usulan solusi |
+| Keputusan | Belum tersedia bukti persetujuan terhadap solusi tertentu. | Tidak dapat disimpulkan bahwa demo atau uji coba telah disepakati. | Tidak ada konfirmasi keputusan akhir Elsa dalam materi yang tersedia |
+
+Pada sisi komunikator, pendekatan yang digunakan berusaha menggeser fokus dari penawaran teknologi semata menuju kebutuhan customer. Pencatatan digital dan chatbot AI diperlakukan sebagai alternatif yang perlu diuji kesesuaiannya, bukan sebagai solusi yang pasti dibutuhkan.
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode | Stimulus komunikator | Respons target yang tersedia | Evaluasi ASK/SWOT | Adaptasi yang relevan |
+|---|---|---|---|---|
+| Pembukaan | Mengakui kekhawatiran dan mengajukan pertanyaan terbuka | Elsa menyampaikan kekhawatiran bahwa perubahan dapat menyulitkan orang lain | Kekhawatiran mengenai dampak perubahan teridentifikasi, tetapi penyebab spesifiknya belum diketahui | Menggali siapa yang terdampak dan aspek perubahan yang paling dikhawatirkan |
+| Penggalian kebutuhan | Bertanya mengenai proses kerja dan kendala pesanan | Tidak tersedia balasan lanjutan Elsa dalam materi yang dicatat | Alur kerja dan masalah utama belum dapat dikonfirmasi | Meminta contoh konkret dan memeriksa pemahaman |
+| Penjelasan solusi | Menawarkan pencatatan digital dan chatbot AI dengan batasan yang jelas | Tidak tersedia balasan lanjutan Elsa yang dapat digunakan untuk menilai penerimaan solusi | Kesesuaian solusi belum terverifikasi | Membandingkan alternatif berdasarkan kebutuhan dan risiko |
+| Dukungan manusia | Menjelaskan pentingnya jalur bantuan manusia | Tidak tersedia konfirmasi target mengenai mekanisme yang diinginkan | Kebutuhan eskalasi telah dipertimbangkan oleh komunikator, tetapi belum disepakati | Memeriksa fitur dan menentukan penanggung jawab |
+| Uji coba | Mengusulkan uji coba terbatas dan prosedur cadangan | Tidak tersedia bukti persetujuan Elsa terhadap jadwal atau cakupan uji coba | Kesiapan tindakan belum dapat ditentukan | Menyepakati cakupan, jadwal, dan indikator bersama customer |
+
+Diagnosis profil target tetap bersifat terbatas. Tidak cukup bukti untuk menentukan preferensi kepribadian, tingkat kepercayaan, keterampilan teknologi, atau keputusan akhir Elsa. Analisis tidak boleh menggantikan informasi yang seharusnya diperoleh melalui percakapan.
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode | Pesan personal/kepedulian | Respons target yang tersedia | Rasa aman, kepercayaan, dan keterbukaan | Batas inferensi |
+|---|---|---|---|---|
+| Pembukaan | Mengakui bahwa perubahan tidak seharusnya menyulitkan staf atau pelanggan | Elsa menyampaikan kekhawatiran awal | Elsa telah menyampaikan satu kekhawatiran secara eksplisit | Tidak cukup untuk menyimpulkan tingkat kepercayaan atau rasa aman |
+| Penggalian | Memberi kesempatan untuk menjelaskan kendala | Tidak tersedia balasan lanjutan yang tercatat | Kesempatan untuk berbicara diberikan melalui pertanyaan terbuka | Efek pertanyaan terhadap keterbukaan belum dapat dinilai |
+| Penjelasan solusi | Mengakui bahwa AI dapat salah dan pelanggan tetap membutuhkan bantuan manusia | Tidak tersedia konfirmasi target atas penjelasan tersebut | Komunikator berusaha menyampaikan batasan secara transparan | Transparansi pesan tidak otomatis membuktikan kepercayaan target meningkat |
+| Uji coba | Menghormati kesiapan staf dan keputusan customer | Tidak tersedia konfirmasi akhir Elsa | Pilihan customer dihormati dalam rumusan respons komunikator | Dampak aktual terhadap hubungan belum teramati |
+
+Pendekatan komunikator berusaha menjaga hubungan dengan mengakui kekhawatiran, menjelaskan risiko, dan menghindari pemaksaan. Meskipun demikian, niat untuk menunjukkan kepedulian tidak otomatis membuktikan bahwa customer merasa dipahami atau dipercaya.
+
+Untuk mengevaluasi kualitas relasi secara lebih kuat, diperlukan tanggapan target setelah pertanyaan dan penjelasan diberikan. Tanpa tanggapan tersebut, perubahan rasa aman, kepercayaan, atau keterbukaan tidak dapat dipastikan.
+
+## Evaluasi solusi TI/AI
+
+### 1. Pencatatan pesanan digital
+
+Pencatatan digital dapat membantu memusatkan informasi pesanan dalam satu tempat. Status pesanan seperti baru masuk, sedang diproses, dan selesai dapat membantu staf memantau pekerjaan.
+
+Namun, manfaat tersebut perlu dibandingkan dengan metode yang sudah berjalan. Solusi baru tidak otomatis lebih mudah dan perlu diuji tanpa mengganggu operasional.
+
+### 2. Jawaban standar dan chatbot AI
+
+Pertanyaan berulang dapat ditangani melalui jawaban standar yang telah diperiksa. Chatbot AI dapat dipertimbangkan apabila dibutuhkan untuk menangani pertanyaan sederhana, seperti harga, menu, dan jam operasional.
+
+AI dapat memberikan jawaban yang keliru. Karena itu, informasi yang digunakan harus diperiksa dan mekanisme bantuan manusia perlu tersedia. Chatbot tidak seharusnya menggantikan seluruh interaksi langsung dengan pelanggan.
+
+### 3. Jalur bantuan manusia
+
+Sebelum sistem diterapkan, perlu dipastikan bagaimana pelanggan menghubungi staf ketika pertanyaan tidak dapat dijawab. Fitur pengalihan otomatis harus diperiksa, bukan diasumsikan tersedia.
+
+Jika fitur tersebut tidak tersedia, kanal yang sudah digunakan, seperti WhatsApp usaha, dapat dipertimbangkan. Penanggung jawab, cara mencatat pertanyaan yang belum selesai, dan waktu respons perlu ditentukan dengan jelas.
+
+### 4. Uji coba terbatas
+
+Uji coba sebaiknya dilakukan pada satu proses atau kanal pesanan terlebih dahulu. Staf penanggung jawab, jadwal, panduan penggunaan, dan pencatatan manual sebagai cadangan perlu disiapkan.
+
+Indikator evaluasi dapat meliputi:
+
+- Jumlah pesanan yang terlewat.
+- Konsistensi pencatatan dan pembaruan status.
+- Waktu yang dibutuhkan untuk mencatat pesanan.
+- Kemudahan penggunaan bagi staf.
+- Kejelasan jalur bantuan manusia.
+- Gangguan yang muncul selama operasional.
+
+Durasi tiga hari merupakan usulan awal, bukan keputusan yang telah disepakati. Durasi dan cakupan perlu disesuaikan dengan kondisi usaha.
+
+### 5. Kesesuaian teknologi dengan kebutuhan
+
+AI tidak harus digunakan apabila solusi yang lebih sederhana sudah cukup menyelesaikan masalah. Pencatatan digital atau jawaban standar dapat menjadi alternatif yang lebih sesuai, bergantung pada kendala yang benar-benar dialami.
+
+Keputusan teknologi sebaiknya mengikuti kebutuhan customer, kemampuan staf, sumber daya yang tersedia, dan manfaat yang dapat diamati.
+
+## Uji ulang dan pembelajaran
+
+Uji ulang difokuskan pada dua hal: memastikan pelanggan tetap memperoleh bantuan ketika AI tidak dapat menjawab dan menyesuaikan penerapan teknologi dengan kesiapan staf.
+
+Respons komunikator pada uji ulang menekankan pentingnya memeriksa fitur yang tersedia, menentukan penanggung jawab, menyediakan kanal bantuan manusia, dan melakukan uji coba secara terbatas. Pendekatan ini berusaha mengurangi risiko operasional dan menghindari janji yang belum dapat dipastikan.
+
+Namun, respons komunikator saja tidak cukup untuk membuktikan bahwa keterampilan telah berhasil diterapkan dalam interaksi. Tidak tersedia balasan Elsa yang memadai untuk menilai perubahan sikap, pemahaman, kepercayaan, atau kesediaannya melanjutkan uji coba.
+
+Dengan demikian, hasil uji ulang dalam laporan ini dievaluasi berdasarkan kualitas respons yang disusun, bukan berdasarkan perubahan target yang belum teramati.
+
+## Penilaian enam dimensi
+
+Penilaian berikut merupakan evaluasi kualitatif terhadap respons komunikator berdasarkan materi yang tersedia. Skor numerik tidak diberikan karena deskriptor penilaian formal dan bukti interaksi lengkap tidak tersedia dalam materi ini.
+
+| Dimensi | Evaluasi | Bukti | Hal yang perlu ditingkatkan |
+|---|---|---|---|
+| Tujuan dan konteks | Tujuan memahami kebutuhan dan menawarkan solusi yang sesuai telah dirumuskan. | Bagian B dan respons 1–5 | Menentukan indikator keberhasilan yang dapat disepakati bersama customer |
+| Persepsi dan validasi profil/status | Respons awal mengakui kekhawatiran dan mengajukan pertanyaan terbuka. | Respons 1–5 | Memastikan kesimpulan tentang kebutuhan didasarkan pada jawaban target |
+| Pemilihan dan urutan repertoar | Solusi digital dan AI dijelaskan setelah pendekatan penggalian kebutuhan dirumuskan. | Respons 6–9 | Memastikan kebutuhan telah benar-benar dikonfirmasi sebelum solusi dipilih |
+| Eksekusi yang jelas, peduli, dan konsisten | Respons mempertimbangkan keterbatasan AI, bantuan manusia, dan kesiapan staf. | Respons 7–12 | Memastikan janji tentang fitur, waktu, dan dukungan didasarkan pada kondisi nyata |
+| Evaluasi dan adaptasi | Uji ulang mempertimbangkan jalur eskalasi, pelatihan, dan uji coba terbatas. | Bagian C, Tahap D | Menggunakan tanggapan target untuk menilai apakah adaptasi benar-benar membantu |
+| Refleksi dan lesson learned | Fokus komunikasi diarahkan pada kebutuhan customer, bukan hanya penawaran teknologi. | Bagian B dan D | Memperjelas perubahan pendekatan berdasarkan hasil interaksi dan umpan balik target |
+
+Penilaian tersebut tidak dimaksudkan sebagai nilai resmi dosen. Penilaian formal memerlukan rubrik yang berlaku dan bukti yang memadai untuk setiap dimensi.
+
+## Refleksi dan lesson learned
+
+### 1. Hal yang dipelajari
+
+Saya belajar bahwa menawarkan solusi TI/AI tidak seharusnya dimulai dengan menjelaskan keunggulan teknologi. Komunikator perlu memahami masalah customer, proses kerja yang berjalan, dan hal-hal yang dikhawatirkan sebelum memilih solusi.
+
+Pernyataan Elsa tentang kekhawatiran terhadap dampak perubahan menjadi pengingat bahwa solusi yang tampak efisien dari sisi teknologi belum tentu mudah digunakan oleh staf atau diterima pelanggan.
+
+### 2. Hal yang sudah baik
+
+Saya berusaha mengakui kekhawatiran customer, memberikan kesempatan untuk menjelaskan kebutuhan, dan mempertimbangkan dampak perubahan terhadap orang lain. Saya juga memasukkan keterbatasan AI dan pentingnya bantuan manusia dalam penjelasan solusi.
+
+Selain itu, saya tidak memosisikan penerapan teknologi sebagai sesuatu yang harus segera dilakukan. Uji coba terbatas dan kemungkinan menunda penerapan dipertimbangkan sebagai bagian dari proses pengambilan keputusan.
+
+### 3. Hal yang perlu diperbaiki
+
+Saya perlu memastikan bahwa pertanyaan yang diajukan benar-benar menghasilkan informasi yang cukup sebelum solusi ditawarkan. Dugaan tentang pesanan yang tercecer, pertanyaan berulang, dan kebutuhan chatbot harus dikonfirmasi, bukan dianggap sebagai fakta.
+
+Saya juga perlu lebih jelas membedakan manfaat yang diharapkan dari manfaat yang telah dibuktikan. Fitur sistem, mekanisme pengalihan, biaya, dan dukungan harus diverifikasi sebelum dijadikan dasar penawaran.
+
+### 4. Rencana tindak lanjut
+
+Jika customer bersedia melanjutkan pembahasan, saya akan:
+
+1. Memetakan proses penerimaan pertanyaan dan pencatatan pesanan.
+2. Mengidentifikasi masalah utama berdasarkan contoh konkret.
+3. Membandingkan solusi sederhana dengan penggunaan AI.
+4. Memeriksa biaya, fitur, dan jalur bantuan manusia.
+5. Menentukan kebutuhan pelatihan dan penanggung jawab.
+6. Menyepakati uji coba terbatas apabila sesuai dengan kesiapan customer.
+7. Mengevaluasi hasil menggunakan indikator yang telah ditentukan bersama.
+
+Rencana tersebut merupakan usulan tindak lanjut, bukan bukti bahwa customer telah menyetujui pelaksanaannya.
+
+## Tindak lanjut dan batas bukti
+
+| Jenis | Langkah | Status/batas |
+|---|---|---|
+| Tujuan komunikasi | Memahami kebutuhan Elsa dan menawarkan solusi yang sesuai | Tujuan telah dirumuskan; keberhasilan terhadap target belum dapat dipastikan |
+| Penggalian kebutuhan | Memahami alur kerja, masalah, dan kesiapan staf | Pertanyaan telah disusun; jawaban lanjutan Elsa belum tersedia dalam materi yang dicatat |
+| Pemilihan solusi | Mempertimbangkan pencatatan digital, jawaban standar, dan chatbot AI | Alternatif telah dijelaskan; kesesuaian belum terverifikasi |
+| Jalur bantuan manusia | Memeriksa fitur pengalihan dan menentukan kanal bantuan | Usulan telah dijelaskan; belum ada kesepakatan target yang dapat dibuktikan |
+| Uji coba | Menentukan cakupan, penanggung jawab, waktu, dan indikator evaluasi | Usulan awal; belum ada bukti persetujuan pelaksanaan |
+| Refleksi | Memperbaiki pendekatan agar lebih berpusat pada kebutuhan customer | Pelajaran dan strategi perbaikan telah dirumuskan |
+| Kelengkapan asesmen | Memastikan tanggapan target, evaluasi hasil, dan refleksi relasional tersedia | Evaluasi masih terbatas oleh bukti interaksi yang tersedia |
+
+Laporan ini membedakan respons komunikator dari respons target, serta membedakan usulan tindak lanjut dari tindakan yang telah disepakati. Tidak ada dasar untuk menyimpulkan bahwa Elsa telah menerima solusi, menyetujui demonstrasi, atau melakukan uji coba apabila konfirmasi tersebut tidak tersedia.
+
+Secara keseluruhan, pelajaran utama dari kasus ini adalah bahwa solusi TI/AI yang baik harus berangkat dari kebutuhan manusia dan kondisi operasional. Keberhasilan bukan hanya tentang memperkenalkan teknologi, tetapi juga memastikan bahwa teknologi yang dipilih relevan, dapat digunakan, memiliki dukungan yang memadai, dan tidak mengorbankan kualitas pelayanan kepada pelanggan.

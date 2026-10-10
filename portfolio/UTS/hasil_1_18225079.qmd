@@ -1,0 +1,482 @@
+
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 1 — Kasus 1"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Komponen | Keterangan |
+|---|---|
+| Nama | Grasella |
+| NIM | 18225079 |
+| Kelas | 01 |
+| Tanggal | 10 Oktober 2026 |
+| Sesi | Sesi 1 |
+| Kasus | Kasus 1 — Konseptual |
+| Urutan pengerjaan | 1 dari 5 |
+| Target utama | Diri sendiri |
+| Pembanding | Dimas, K1-04 (karakter fiktif untuk simulasi) |
+| Bank | 2.0 |
+| Paket | 2.0 |
+| Modalitas | Teks |
+| Sifat pengalaman diri | Pengalaman nyata yang dilaporkan oleh mahasiswa |
+| Sifat kasus pembanding | Simulasi dengan karakter fiktif |
+| Cakupan transkrip | Percakapan asesmen, simulasi Dimas, evaluasi, uji ulang, dan konfirmasi akhir; beberapa bagian diringkas sebagai ringkasan percakapan, bukan transkrip verbatim lengkap |
+
+Laporan ini disusun berdasarkan jawaban dan refleksi yang diberikan mahasiswa selama proses asesmen. Pengalaman menunda pengerjaan tugas merupakan pengalaman pribadi yang dilaporkan oleh mahasiswa. Sementara itu, Dimas adalah karakter pembanding fiktif yang digunakan untuk melatih pemahaman perspektif, pemilihan stimulus komunikasi, dan penyusunan tindakan yang terukur.
+
+Hasil asesmen dan uji ulang menunjukkan pemahaman serta rancangan strategi yang dinyatakan mahasiswa. Hasil tersebut tidak secara otomatis membuktikan bahwa strategi telah diterapkan secara konsisten dalam kehidupan sehari-hari.
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+### 1. Gambaran kasus
+
+Kasus utama yang dibahas adalah pengelolaan waktu dan konsistensi belajar mahasiswa, khususnya ketika menghadapi tugas atau materi pemrograman yang sulit dipahami.
+
+Dalam pengalaman yang diceritakan, mahasiswa pernah mengalami kesulitan memahami konsep pemrograman dan merasa tidak yakin harus memulai dari mana. Ketika menghadapi keadaan tersebut, muncul pikiran untuk menunda pengerjaan dan menggunakan ponsel untuk scrolling dengan harapan dapat merasa lebih segar setelahnya.
+
+Mahasiswa berpikir:
+
+> "Nanti aja deh, scrolling sebentar dulu, siapa tahu setelah ini lebih fresh."
+
+Namun, aktivitas scrolling berlangsung lebih lama daripada yang direncanakan. Akibatnya, waktu untuk memahami materi menjadi berkurang dan pengerjaan tugas harus dilakukan dengan lebih terburu-buru.
+
+Masalah utama bukan semata-mata kurangnya keinginan untuk belajar. Mahasiswa menyatakan memiliki keinginan untuk berkembang dan memahami materi, tetapi mengalami kesulitan dalam memulai tugas, mempertahankan fokus, dan menerapkan jadwal secara konsisten. Ketika materi terasa sulit, mahasiswa cenderung menghindari ketidaknyamanan tersebut melalui aktivitas yang lebih menyenangkan.
+
+Dengan demikian, kasus ini berkaitan dengan tiga aspek utama:
+
+1. **Pengelolaan diri:** kemampuan mengatur waktu, prioritas, dan respons terhadap kesulitan.
+2. **Komunikasi intrapersonal:** cara mahasiswa berbicara kepada diri sendiri ketika merasa bingung atau kewalahan.
+3. **Perubahan perilaku:** kemampuan mengubah niat dan rencana menjadi tindakan kecil yang dapat dilakukan dan dievaluasi.
+
+### 2. Tujuan tindakan
+
+Tujuan utama adalah membangun strategi pengelolaan waktu dan konsistensi belajar yang lebih realistis, terutama ketika menghadapi tugas yang sulit.
+
+Tujuan khususnya adalah:
+
+- Memulai pengerjaan tugas sulit pada hari yang sama atau paling lambat satu sampai dua hari setelah tugas diberikan, selama instruksi dan materi yang diperlukan sudah tersedia.
+- Membiasakan diri memulai tugas melalui sesi awal selama 15 menit.
+- Memecah tugas besar menjadi bagian-bagian kecil agar lebih mudah dikerjakan.
+- Mengurangi gangguan ponsel dengan menjauhkannya atau mengaktifkan mode fokus ketika belajar.
+- Mengalokasikan sekitar satu sampai dua jam sehari di luar jadwal kuliah untuk belajar dalam beberapa sesi yang lebih pendek.
+- Mengevaluasi proses belajar berdasarkan waktu mulai, durasi belajar, kemajuan pengerjaan, dan pemahaman konsep, bukan hanya berdasarkan lamanya waktu yang dihabiskan.
+
+### 3. Indikator keberhasilan
+
+| Indikator | Ukuran yang digunakan |
+|---|---|
+| Inisiasi tugas | Tugas mulai dikerjakan pada hari yang sama atau dalam satu sampai dua hari setelah diberikan jika memungkinkan |
+| Konsistensi | Durasi dan jumlah sesi belajar dicatat selama dua minggu |
+| Fokus | Ponsel dijauhkan atau mode fokus diaktifkan selama sesi belajar |
+| Kemajuan tugas | Bagian yang berhasil dikerjakan dicatat setiap hari |
+| Pemahaman | Mahasiswa mencoba menjelaskan kembali konsep atau menyelesaikan soal tanpa melihat contoh |
+| Respons terhadap kesulitan | Mahasiswa mencoba langkah kecil dan mencari bantuan, bukan langsung menghindari tugas |
+| Evaluasi strategi | Strategi dipertahankan atau diubah berdasarkan kemajuan yang tercatat |
+
+Keberhasilan tidak harus berarti seluruh tugas langsung selesai atau semua materi langsung dipahami. Strategi dianggap mulai membantu apabila mahasiswa mampu memulai, membuat kemajuan nyata, mengenali bagian yang belum dipahami, dan kembali ke prioritas setelah kehilangan fokus.
+
+## Profil awal komunikator
+
+Profil berikut merupakan gambaran awal berdasarkan pengakuan mahasiswa selama asesmen. Profil ini bukan hasil pengukuran psikologis formal.
+
+| Aspek | Profil awal | Bukti atau penjelasan |
+|---|---|---|
+| Strengths | Memiliki keinginan untuk belajar, berkembang, dan meminta bantuan | Mahasiswa menyatakan ingin memperbaiki pengelolaan waktu serta bersedia mencari referensi atau bertanya kepada teman |
+| Weaknesses | Kesulitan memulai tugas, menjaga konsistensi, dan mengendalikan distraksi ponsel | Mahasiswa menceritakan bahwa scrolling dapat berlangsung lebih lama daripada rencana |
+| Opportunities | Menggunakan teknik memecah tugas, sesi belajar singkat, latihan bertahap, dan bantuan dari teman | Mahasiswa menyebut penjelasan konsep, contoh langkah demi langkah, latihan, dan diskusi sebagai cara belajar yang membantu |
+| Threats | Beban tugas, jadwal kuliah, kegiatan organisasi, dan distraksi digital | Berbagai tuntutan dapat mengurangi waktu serta fokus belajar |
+| Attitude | Memiliki keinginan untuk memperbaiki diri, tetapi dapat menghindari tugas ketika merasa kesulitan | Mahasiswa menyadari adanya perbedaan antara niat belajar dan tindakan nyata |
+| Knowledge | Mengetahui pentingnya jadwal, prioritas, dan pembagian tugas | Mahasiswa pernah mencoba membuat jadwal, tetapi belum selalu menerapkannya secara konsisten |
+| Skill | Perlu mengembangkan kemampuan memulai tugas, mempertahankan fokus, dan belajar secara konsisten | Kesulitan paling terasa ketika harus menentukan langkah pertama pada materi yang belum dipahami |
+| MBTI | Tidak dinyatakan dalam asesmen ini | Tidak digunakan sebagai dasar diagnosis atau kesimpulan kepribadian |
+| Karakter dan peran | Mahasiswa yang sedang beradaptasi dengan tuntutan akademik dan kegiatan lain | Perlu menyeimbangkan kegiatan kuliah, tugas, belajar mandiri, dan organisasi |
+
+### Dialog internal sebelum perubahan
+
+Pikiran yang muncul ketika menghadapi materi sulit adalah:
+
+> "Aduh, ini susah banget. Aku belum ngerti harus mulai dari mana. Nanti aja deh, scrolling sebentar dulu, habis itu baru belajar."
+
+Pola tersebut menunjukkan bahwa kesulitan memahami materi dapat memicu rasa kewalahan. Scrolling kemudian menjadi pilihan yang terasa lebih mudah dalam jangka pendek, tetapi berpotensi memperburuk keterbatasan waktu.
+
+Dialog internal alternatif yang dirumuskan mahasiswa adalah:
+
+> "Nggak apa-apa kalau sekarang belum paham. Aku nggak harus menyelesaikan semuanya sekaligus. Coba baca soalnya dulu, pahami apa yang ditanyakan, lalu kerjakan satu bagian kecil. Kalau masih bingung, cari referensi atau tanya teman."
+
+Dialog alternatif ini mengubah fokus dari tuntutan untuk langsung memahami semuanya menjadi tindakan yang lebih kecil dan dapat dilakukan.
+
+## Dugaan awal profil target dan rencana
+
+### 1. Target utama: diri sendiri
+
+Sebelum mengevaluasi strategi perubahan, dugaan awal tentang diri sendiri adalah bahwa kesulitan utama terletak pada proses memulai tugas, bukan semata-mata pada ketiadaan niat belajar.
+
+| Kategori | Catatan awal |
+|---|---|
+| Fakta yang dilaporkan | Mahasiswa pernah menunda tugas pemrograman karena belum memahami konsep dan tidak tahu harus memulai dari mana |
+| Fakta yang dilaporkan | Scrolling berlangsung lebih lama dari yang direncanakan sehingga waktu pengerjaan berkurang |
+| Dugaan awal | Menghindari tugas memberi rasa lega sementara ketika mahasiswa menghadapi kebingungan |
+| Hal yang perlu diperiksa | Apakah pembagian tugas menjadi bagian kecil dapat membantu proses memulai |
+| Hal yang perlu diperiksa | Apakah mengurangi akses ke ponsel membantu mempertahankan fokus |
+| Rencana | Memulai selama 15 menit, mencatat bagian yang belum dipahami, mencoba satu langkah, dan mencari bantuan apabila diperlukan |
+
+Dugaan tersebut diperlakukan sebagai hipotesis awal yang dapat dievaluasi, bukan sebagai kesimpulan mutlak tentang diri sendiri.
+
+### 2. Target pembanding: Dimas, K1-04
+
+Dimas digunakan sebagai karakter fiktif untuk simulasi komunikasi. Dalam skenario ini, Dimas digambarkan sebagai pribadi yang analitis, skeptis terhadap metode belajar yang tidak menunjukkan hasil, dan menghargai kompetensi serta bukti yang dapat diperiksa.
+
+Profil fiktif Dimas mencakup:
+
+- Meragukan anggapan bahwa belajar rutin otomatis meningkatkan pemahaman.
+- Menginginkan indikator kemajuan yang dapat diamati.
+- Lebih tertarik pada percobaan terbatas daripada komitmen jangka panjang tanpa bukti.
+- Menginginkan kesempatan untuk menilai hasil secara mandiri.
+- Tidak menyukai janji berlebihan atau ajakan yang mengabaikan pertimbangannya.
+
+Dalam skenario ini, MBTI INTJ merupakan bagian dari karakter fiktif, bukan hasil asesmen terhadap orang nyata.
+
+Pembukaan yang sesuai dengan karakter tersebut adalah:
+
+> "Apa bukti pendekatan ini lebih baik?"
+
+Pertanyaan tersebut menandakan bahwa komunikasi perlu dimulai dengan mengakui keraguan Dimas, memahami pengalamannya, dan menyepakati indikator yang masuk akal. Pendekatan yang terlalu memaksa atau langsung meminta komitmen berisiko tidak sesuai dengan kebutuhannya.
+
+### 3. Rencana komunikasi menggunakan TAIDA
+
+| Tahap | Target diri sendiri | Target Dimas dalam simulasi |
+|---|---|---|
+| Attention | Menyadari bahwa kebingungan sering menjadi pemicu penundaan | Mengakui pertanyaan kritis Dimas mengenai efektivitas latihan rutin |
+| Interest | Mengidentifikasi penyebab penundaan dan strategi yang mungkin membantu | Menggali pengalaman Dimas dan alasan ia meragukan metode belajar tertentu |
+| Desire | Menumbuhkan kemauan mencoba langkah kecil tanpa menuntut hasil sempurna | Menawarkan eksperimen terbatas dengan indikator yang disepakati bersama |
+| Action | Memulai sesi 15 menit, menjauhkan ponsel, dan mencatat kemajuan | Menyusun rencana simulasi tiga hari dengan latihan dan evaluasi terukur |
+
+Rencana ini menekankan bahwa komunikasi yang efektif tidak hanya berorientasi pada tercapainya persetujuan. Komunikator perlu memahami kebutuhan target, menghargai otonominya, dan memastikan bahwa tindakan yang disepakati sesuai dengan situasi target.
+
+# C) Skrip Percakapan
+
+Bagian ini memuat catatan percakapan yang tersedia dari proses asesmen. Kutipan yang ditampilkan sebagai kutipan langsung mengikuti jawaban mahasiswa yang tercatat. Bagian yang tidak tersedia secara verbatim dijelaskan sebagai ringkasan, bukan dibuat seolah-olah merupakan transkrip kata demi kata.
+
+## 1. Asesmen diri dan penetapan tujuan
+
+**U1 — Mahasiswa | Konteks dan masalah**
+
+Mahasiswa menjelaskan bahwa dirinya ingin memperbaiki pengelolaan waktu dan konsistensi belajar. Ketika menghadapi materi yang sulit, khususnya pemrograman, mahasiswa terkadang merasa bingung menentukan langkah awal. Kondisi tersebut membuat mahasiswa menunda pengerjaan dan beralih ke scrolling ponsel.
+
+**U2 — Mahasiswa | Pola pikiran dan respons**
+
+Mahasiswa melaporkan pikiran berikut:
+
+> "Nanti aja deh, scrolling sebentar dulu, siapa tahu setelah ini lebih fresh."
+
+Mahasiswa kemudian menyadari bahwa scrolling berlangsung lebih lama daripada yang direncanakan. Akibatnya, waktu untuk memahami materi menjadi berkurang dan pengerjaan tugas terasa lebih terburu-buru.
+
+**U3 — Mahasiswa | Evaluasi diri**
+
+Mahasiswa mengidentifikasi kekuatan berupa keinginan untuk belajar dan memperbaiki diri serta kesediaan meminta bantuan. Hambatan yang dirasakan adalah kesulitan memulai, kurang konsisten menjalankan jadwal, dan mudah terdistraksi oleh ponsel.
+
+Mahasiswa juga menyatakan bahwa penjelasan konsep, contoh langkah demi langkah, latihan soal, dan diskusi dengan teman dapat membantu proses belajar.
+
+**U4 — Mahasiswa | Alternatif tindakan**
+
+Mahasiswa merumuskan dialog internal alternatif:
+
+> "Nggak apa-apa kalau sekarang belum paham. Aku nggak harus menyelesaikan semuanya sekaligus. Coba baca soalnya dulu, pahami apa yang ditanyakan, lalu kerjakan satu bagian kecil. Kalau masih bingung, cari referensi atau tanya teman."
+
+Mahasiswa kemudian menetapkan langkah awal berupa belajar selama 15 menit pada saat menghadapi tugas sulit, membaca instruksi, mencatat bagian yang belum dipahami, mencoba satu langkah kecil, dan menjauhkan ponsel.
+
+## 2. Simulasi komunikasi dengan Dimas
+
+**Konteks simulasi:** Dimas merupakan karakter fiktif yang skeptis terhadap efektivitas latihan rutin. Ia mempertanyakan apakah penambahan waktu belajar benar-benar meningkatkan pemahaman.
+
+**U5 — Mahasiswa | Mengakui keraguan dan menggali pengalaman**
+
+> "Iya, aku paham maksudmu. Memang belum tentu belajar setiap hari atau membuat jadwal otomatis bikin kita lebih paham. Menurutku, yang penting bukan cuma berapa lama kita belajar, tapi juga bagaimana kita menggunakan waktu itu. Mungkin kita bisa coba dulu dalam waktu singkat, lalu lihat apakah ada perubahan dari hasil latihan atau pemahaman kita. Tapi aku penasaran, selama ini kamu lebih merasa latihan rutin itu nggak efektif, atau kamu pernah mencoba cara tertentu tetapi hasilnya nggak sesuai harapan?"
+
+**U6 — Mahasiswa | Menawarkan pendekatan yang dapat dievaluasi**
+
+> "Ohh, berarti yang jadi masalah buatmu bukan latihan rutinnya, tapi apakah latihan itu benar-benar menghasilkan kemajuan, ya. Aku setuju sih, kalau cuma menghabiskan waktu tanpa tahu apa yang perlu diperbaiki, kita bisa saja mengulang kesalahan yang sama. Mungkin kita nggak perlu langsung berkomitmen belajar lama setiap hari. Kita bisa coba satu metode dalam waktu singkat, tentukan bagian yang mau diperbaiki, lalu bandingkan hasil sebelum dan sesudahnya. Kalau ternyata nggak efektif, metodenya bisa dievaluasi atau diganti. Menurutmu, indikator kemajuan seperti apa yang paling masuk akal buat menentukan apakah suatu metode layak dilanjutkan?"
+
+**U7 — Mahasiswa | Mengusulkan percobaan terbatas**
+
+> "Setuju sih, yang penting bukan cuma lama belajarnya, tapi juga hasilnya. Gimana kalau kita coba selama tiga hari dengan fokus ke soal yang sering bikin kamu salah, lalu lihat apakah kesalahanmu berkurang dan kamu lebih paham solusinya? Menurutmu, cara ini realistis nggak buat dicoba?"
+
+**U8 — Mahasiswa | Menyesuaikan tingkat kesulitan dan evaluasi**
+
+> "Masuk akal sih. Gimana kalau kamu pilih soal yang tingkat kesulitannya sedang, yang memang sering bikin kamu salah tapi masih bisa kamu kerjakan? Kita bisa pakai soal dengan tingkat kesulitan serupa untuk membandingkan hasilnya. Nanti setelah tiga hari, kamu sendiri yang menilai apakah ada kemajuan dan metodenya layak dilanjutkan. Menurutmu, kriteria itu sudah cukup adil atau ada yang mau kamu ubah?"
+
+**U9 — Mahasiswa | Menyusun tindakan yang spesifik**
+
+> "Oke, gimana kalau mulai besok selama tiga hari, kamu luangkan 20 menit sehari buat latihan 3–5 soal pemrograman yang tingkat kesulitannya sedang dan sesuai dengan kesalahanmu sebelumnya? Sebelum mulai, catat hasil awalmu. Setelah latihan, catat jumlah jawaban benar dan coba jelaskan langkah penyelesaiannya tanpa melihat contoh. Di hari ketiga, bandingkan hasilnya dengan awal dan evaluasi bagian yang masih sulit. Kalau belum ada kemajuan, kita bisa coba ubah metode atau cari penjelasan konsep lain. Setelah itu, kamu bebas menentukan mau lanjut atau nggak berdasarkan hasilnya."
+
+**R1 — Dimas | Ringkasan respons simulasi**
+
+Dalam simulasi, Dimas awalnya meragukan latihan rutin karena waktu belajar yang lebih lama tidak selalu menjamin pemahaman. Ia mengkhawatirkan kemungkinan mengulang kesalahan yang sama tanpa mengetahui bagian yang perlu diperbaiki.
+
+Setelah pendekatan diarahkan pada indikator yang dapat diperiksa, Dimas dalam skenario menjadi lebih terbuka terhadap percobaan terbatas. Ia bersedia mempertimbangkan latihan tiga hari dengan durasi 20 menit per hari, tiga sampai lima soal dengan tingkat kesulitan sedang, pencatatan hasil awal, dan evaluasi hasil setelah latihan.
+
+Respons ini merupakan respons karakter dalam simulasi, bukan bukti bahwa Dimas nyata telah melaksanakan latihan tersebut atau mengalami peningkatan kemampuan.
+
+## 3. Evaluasi dan uji ulang diri
+
+**U10 — Mahasiswa | Evaluasi pendekatan komunikasi**
+
+Mahasiswa menilai bahwa pertanyaan tentang indikator kemajuan merupakan bagian yang paling membantu dalam simulasi. Pertanyaan tersebut menggali kebutuhan Dimas terhadap hasil yang terukur, bukan sekadar menyuruhnya belajar lebih rutin.
+
+Mahasiswa juga menyadari bahwa dirinya terlalu cepat menawarkan percobaan tiga hari. Sebelum memberi solusi, mahasiswa seharusnya menggali lebih jauh pengalaman metode belajar yang pernah dicoba, kesalahan yang sering berulang, dan hambatan yang dialami Dimas.
+
+**U11 — Mahasiswa | Uji ulang ketika menghadapi tugas sulit**
+
+> "Pertama, aku akan menyadari bahwa aku mulai ingin menghindari tugas karena bingung, lalu mengingatkan diriku bahwa aku nggak harus langsung memahami semuanya. Aku akan menjauhkan HP dan mengaktifkan mode fokus supaya nggak tergoda scrolling. Setelah itu, aku akan menggunakan 15 menit pertama untuk membaca ulang soal, menuliskan apa yang diketahui dan ditanyakan, serta menandai konsep yang belum kupahami. Kalau masih bingung, aku akan mencari contoh atau referensi yang relevan. Aku akan mencoba mengerjakan satu bagian kecil terlebih dahulu, bukan memaksakan diri menyelesaikan seluruh soal sekaligus. Aku memilih cara ini karena masalahku selama ini bukan hanya sulit memahami materi, tetapi juga cenderung menghindar ketika merasa kesulitan. Dengan memecah tugas menjadi langkah kecil, aku berharap bisa mulai belajar tanpa merasa terlalu kewalahan. Untuk mengevaluasi keberhasilannya, aku akan mencatat berapa lama aku benar-benar belajar, apakah aku berhasil memulai pengerjaan, bagian apa yang sudah kuselesaikan, dan apakah aku lebih memahami konsepnya. Bagiku, strategi ini berhasil jika aku bisa kembali fokus dan menghasilkan kemajuan nyata, meskipun belum berhasil menyelesaikan seluruh soal."
+
+**U12 — Mahasiswa | Uji ulang ketika strategi awal belum cukup**
+
+> "Kalau setelah 15 menit aku masih bingung, aku akan mencari penjelasan atau contoh yang lebih sederhana selama 10 menit. Kalau masih belum paham, aku akan bertanya kepada teman atau mencari bantuan dari sumber lain. Menurutku, meminta bantuan bukan berarti gagal, tetapi bagian dari proses belajar. Setelah mendapat penjelasan, aku akan mencoba mengerjakan soal kembali tanpa melihat contoh. Aku juga akan mencatat bagian yang masih sulit dan kemajuan yang berhasil kucapai agar bisa menentukan langkah selanjutnya tanpa terus mengulang cara yang sama."
+
+**U13 — Mahasiswa | Keputusan setelah evaluasi**
+
+Mahasiswa menetapkan bahwa strategi dapat dilanjutkan apabila mulai memahami konsep dan mampu menyelesaikan sebagian soal. Apabila masih bingung, mahasiswa akan mengganti pendekatan atau meminta bantuan. Jika terlalu lelah, mahasiswa akan beristirahat dan menentukan waktu untuk kembali mengerjakan tugas.
+
+Mahasiswa juga mengakui bahwa distraksi ponsel dan konsistensi tetap menjadi tantangan. Oleh sebab itu, keberhasilan strategi perlu diperiksa melalui pelaksanaan nyata, bukan hanya berdasarkan rencana yang telah dirumuskan.
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+### 1. Hasil terhadap tujuan
+
+Berdasarkan proses asesmen dan uji ulang, mahasiswa telah merumuskan strategi yang lebih spesifik untuk menghadapi tugas sulit. Strategi tersebut meliputi memulai selama 15 menit, menjauhkan ponsel, memecah tugas, mencatat hal yang belum dipahami, mencoba satu bagian kecil, dan mencari bantuan jika diperlukan.
+
+Perubahan yang dapat dinyatakan berdasarkan percakapan adalah perubahan pemahaman dan rancangan tindakan. Belum tersedia bukti longitudinal bahwa mahasiswa telah menerapkan strategi tersebut secara konsisten selama dua minggu.
+
+| Aspek | Kondisi awal | Hasil asesmen dan uji ulang | Batas bukti |
+|---|---|---|---|
+| SWOT — Strengths | Memiliki keinginan untuk berkembang dan bersedia meminta bantuan | Kesediaan belajar dan mengevaluasi strategi dinyatakan kembali | Belum membuktikan konsistensi tindakan |
+| SWOT — Weaknesses | Kesulitan memulai, menjaga konsistensi, dan mengendalikan distraksi | Mahasiswa mengenali hambatan dan menyusun respons alternatif | Hambatan masih mungkin muncul dalam pelaksanaan |
+| SWOT — Opportunities | Dapat memanfaatkan referensi, latihan bertahap, dan diskusi | Strategi bantuan bertahap dirumuskan lebih jelas | Efektivitasnya belum diuji melalui catatan nyata |
+| SWOT — Threats | Beban akademik dan scrolling dapat mengganggu waktu belajar | Mahasiswa merencanakan mode fokus dan jadwal kembali belajar | Gangguan eksternal belum dapat dianggap teratasi |
+| ASK — Attitude | Ingin berkembang, tetapi cenderung menghindar ketika bingung | Lebih terbuka untuk menerima bahwa pemahaman dapat dibangun bertahap | Perubahan sikap dalam percakapan belum sama dengan perubahan kebiasaan |
+| ASK — Knowledge | Mengetahui pentingnya jadwal dan pembagian tugas, tetapi belum konsisten menerapkannya | Memahami penggunaan langkah kecil, indikator kemajuan, dan bantuan bertahap | Pengetahuan belum membuktikan keberhasilan praktik |
+| ASK — Skill | Perlu mengembangkan kemampuan memulai, fokus, dan mempertahankan konsistensi | Memiliki rencana tindakan dan evaluasi yang lebih operasional | Keterampilan aktual belum terverifikasi melalui observasi atau hasil kerja |
+
+### 2. Perubahan dialog internal
+
+Perubahan utama terlihat pada cara mahasiswa menanggapi kebingungan.
+
+| Sebelum | Setelah asesmen dan uji ulang |
+|---|---|
+| "Aduh, ini susah banget. Aku belum ngerti harus mulai dari mana." | "Nggak apa-apa kalau sekarang belum paham." |
+| "Nanti aja deh, scrolling sebentar dulu." | Menjauhkan ponsel dan memulai selama 15 menit |
+| Menganggap tugas sulit sebagai sesuatu yang perlu dihindari sementara | Memecah tugas menjadi bagian kecil yang bisa dicoba |
+| Menunda ketika tidak mengetahui langkah berikutnya | Mencari referensi, contoh yang lebih sederhana, atau bantuan teman |
+| Berpotensi menilai belajar hanya berdasarkan lamanya waktu | Mencatat kemajuan, hasil latihan, dan pemahaman |
+
+Perubahan tersebut menunjukkan bahwa mahasiswa telah merumuskan alternatif respons yang lebih adaptif. Namun, penerapannya tetap perlu diuji dalam kegiatan belajar sehari-hari.
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Status dan bukti | Stimulus atau tindakan mahasiswa | Respons atau hasil | Perubahan ASK/SWOT dan evaluasi |
+|---|---|---|---|---|
+| Pengalaman awal | Pengalaman nyata yang dilaporkan | Menghadapi tugas pemrograman yang sulit dipahami | Mahasiswa menunda dan scrolling lebih lama dari rencana | Menunjukkan hubungan antara kebingungan, penghindaran, dan berkurangnya waktu belajar |
+| U1–U4 | Asesmen diri | Mengidentifikasi hambatan dan menyusun dialog internal alternatif | Mahasiswa merumuskan tindakan awal selama 15 menit | Knowledge tentang hambatan menjadi lebih jelas; tindakan aktual belum terverifikasi |
+| U5 | Simulasi Dimas | Mengakui keraguan dan menanyakan pengalaman sebelumnya | Dalam skenario, Dimas mendapat ruang untuk menjelaskan keraguannya | Stimulus menghargai perspektif target dan tidak langsung membantah |
+| U6 | Simulasi Dimas | Menggali indikator kemajuan yang masuk akal | Dalam skenario, fokus percakapan bergeser pada bukti hasil belajar | Menunjukkan keterampilan bertanya dan menyesuaikan pendekatan |
+| U7 | Simulasi Dimas | Mengusulkan percobaan tiga hari | Dalam skenario, target mempertimbangkan metode yang terbatas | Rencana menjadi konkret, tetapi penawaran solusi berpotensi terlalu cepat |
+| U8 | Simulasi Dimas | Menawarkan soal dengan tingkat kesulitan sedang dan evaluasi mandiri | Dalam skenario, kriteria menjadi lebih sesuai dengan kebutuhan target | Menghargai otonomi dan kebutuhan pengukuran yang adil |
+| U9 | Simulasi Dimas | Menyusun jadwal latihan dan indikator hasil | Dalam skenario, terdapat rancangan tindakan yang dapat dievaluasi | Action lebih spesifik; tidak membuktikan eksperimen benar-benar dilakukan |
+| U10 | Evaluasi mahasiswa | Mengidentifikasi bahwa penggalian pengalaman perlu dilakukan lebih dahulu | Mahasiswa menyadari kelemahan dalam urutan komunikasi | Reflection menunjukkan kesadaran terhadap proses, bukan hanya hasil akhir |
+| U11–U12 | Uji ulang diri | Menggunakan langkah kecil, fokus, referensi, dan bantuan bertahap | Mahasiswa menghasilkan strategi alternatif yang lebih lengkap | Skill perencanaan dan pemecahan masalah lebih terstruktur |
+| U13 | Keputusan tindak lanjut | Menetapkan kapan melanjutkan, mengubah strategi, meminta bantuan, atau beristirahat | Mahasiswa memiliki aturan evaluasi yang lebih jelas | Menunjukkan rencana adaptasi, tetapi implementasi belum terverifikasi |
+
+### Perbandingan dugaan awal dan hasil evaluasi
+
+Dugaan awal mengenai diri sendiri adalah bahwa masalah utama bukan semata-mata kurangnya keinginan untuk belajar, melainkan kesulitan memulai ketika merasa bingung. Hasil asesmen mendukung dugaan tersebut karena mahasiswa menjelaskan pola menghindari tugas dan kemudian merumuskan strategi untuk mengurangi hambatan pada langkah pertama.
+
+Dalam simulasi Dimas, dugaan awal bahwa target memerlukan bukti terukur diperjelas melalui percakapan mengenai indikator kemajuan. Respons simulasi menunjukkan bahwa pendekatan berbasis eksperimen terbatas lebih sesuai dengan karakter fiktif tersebut daripada ajakan umum untuk belajar lebih rutin.
+
+Meskipun demikian, dugaan mengenai profil Dimas hanya berlaku dalam skenario yang digunakan. Dugaan tersebut tidak dapat digeneralisasi kepada orang nyata tanpa penggalian informasi langsung.
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal atau pendekatan | Respons yang teramati dalam catatan | Keamanan, kepercayaan, dan keterbukaan | Batas interpretasi |
+|---|---|---|---|---|
+| U5 | Mengakui bahwa waktu belajar tidak otomatis menjamin pemahaman | Simulasi berfokus pada kekhawatiran mengenai efektivitas latihan | Ada indikasi keterbukaan dalam skenario karena keraguan diberi ruang | Tidak mengukur kepercayaan psikologis secara formal |
+| U6 | Menanyakan indikator kemajuan yang dianggap masuk akal | Simulasi mengarah pada kebutuhan terhadap hasil terukur | Pendekatan memberi ruang bagi target untuk menentukan kriteria | Tidak membuktikan perubahan sikap pada orang nyata |
+| U8 | Menawarkan kriteria yang dapat dinilai sendiri dan meminta masukan | Simulasi mempertahankan pilihan target terhadap kriteria | Otonomi target dihargai | Respons tetap merupakan bagian dari simulasi |
+| U9 | Menjelaskan durasi, jumlah soal, pencatatan, dan opsi mengubah metode | Simulasi menghasilkan rencana yang spesifik | Rencana bersifat transparan dan memberi kebebasan untuk berhenti atau mengubah metode | Kesediaan mencoba bukan bukti pelaksanaan |
+| U11–U13 | Menggunakan bahasa yang tidak menyalahkan diri sendiri dan menetapkan pilihan tindak lanjut | Mahasiswa menyusun strategi yang lebih realistis | Menunjukkan sikap yang lebih suportif terhadap diri sendiri | Belum membuktikan bahwa dialog internal baru digunakan secara konsisten |
+
+Pesan personal yang penting dalam proses ini adalah bahwa kebingungan tidak harus diikuti oleh penghindaran. Mahasiswa dapat mengakui kesulitan tanpa menyalahkan diri sendiri, kemudian memilih tindakan yang masih dapat dilakukan.
+
+Dalam simulasi Dimas, kualitas pendekatan juga dipengaruhi oleh kesediaan mengakui keraguan target. Persetujuan tidak diperlakukan sebagai tujuan yang harus dicapai dengan memaksa, melainkan sebagai pilihan yang seharusnya didasarkan pada kebutuhan dan pertimbangan target.
+
+## Uji ulang dan pembelajaran
+
+### 1. Strategi uji ulang
+
+Uji ulang dilakukan untuk memeriksa apakah mahasiswa dapat merumuskan respons yang lebih terarah ketika kembali menghadapi tugas sulit.
+
+Strategi yang dirumuskan adalah:
+
+1. Menyadari munculnya dorongan untuk menghindari tugas.
+2. Mengingatkan diri bahwa seluruh materi tidak harus langsung dipahami.
+3. Menjauhkan ponsel dan mengaktifkan mode fokus.
+4. Menggunakan 15 menit pertama untuk membaca soal, mengidentifikasi informasi yang tersedia, dan menandai bagian yang belum dipahami.
+5. Mengerjakan satu bagian kecil terlebih dahulu.
+6. Jika masih bingung, mencari penjelasan atau contoh yang lebih sederhana selama sekitar 10 menit.
+7. Jika masih mengalami kesulitan, bertanya kepada teman atau mencari sumber bantuan lain.
+8. Setelah mendapat bantuan, mencoba mengerjakan soal kembali tanpa melihat contoh.
+9. Mencatat kemajuan dan bagian yang masih sulit.
+10. Memutuskan apakah strategi perlu dilanjutkan, diubah, atau dijadwalkan ulang setelah beristirahat.
+
+Strategi ini lebih operasional dibandingkan niat umum untuk belajar lebih rajin karena setiap tahap memiliki tindakan yang dapat dilakukan.
+
+### 2. Kriteria evaluasi uji ulang
+
+| Kondisi | Keputusan |
+|---|---|
+| Mulai memahami konsep dan dapat menyelesaikan sebagian soal | Melanjutkan strategi dan meningkatkan latihan secara bertahap |
+| Masih bingung setelah 15 menit | Mencari contoh atau penjelasan yang lebih sederhana |
+| Masih bingung setelah mencari referensi | Meminta bantuan teman atau sumber lain |
+| Sudah mendapat penjelasan | Mencoba kembali tanpa melihat contoh untuk memeriksa pemahaman |
+| Strategi tidak menunjukkan kemajuan | Mengevaluasi penyebab kesulitan dan mengubah metode |
+| Kondisi terlalu lelah | Beristirahat dan menentukan waktu untuk kembali mengerjakan tugas |
+
+Kriteria ini menghindari dua ekstrem, yaitu memaksakan diri tanpa evaluasi dan berhenti terlalu cepat ketika menghadapi kesulitan.
+
+### 3. Pembelajaran dari simulasi Dimas
+
+Pembelajaran utama dari simulasi adalah pentingnya menggali perspektif target sebelum memberikan solusi.
+
+Mahasiswa menyadari bahwa usulan percobaan tiga hari muncul relatif cepat. Sebelum menyampaikan usulan tersebut, komunikasi dapat diperbaiki dengan menanyakan:
+
+- Metode belajar apa yang pernah dicoba sebelumnya?
+- Kesalahan apa yang paling sering berulang?
+- Bagian mana yang paling sulit dipahami?
+- Bagaimana target biasanya mengetahui bahwa ia sudah mengalami kemajuan?
+- Berapa banyak waktu yang realistis untuk dialokasikan?
+- Indikator apa yang akan membuat target memutuskan untuk melanjutkan atau mengubah metode?
+
+Pertanyaan tersebut membantu memastikan bahwa solusi dirancang bersama, bukan hanya berasal dari asumsi komunikator.
+
+### 4. Perubahan pendekatan komunikasi
+
+| Aspek | Pendekatan awal | Pendekatan yang ingin dikembangkan |
+|---|---|---|
+| Mendengarkan | Cenderung cepat mengarahkan percakapan ke solusi | Menggali pengalaman dan kesulitan target terlebih dahulu |
+| Bertanya | Menawarkan percobaan relatif cepat | Menggunakan pertanyaan terbuka untuk memahami kebutuhan |
+| Menyusun solusi | Mengusulkan rencana yang dianggap masuk akal | Menyusun rencana bersama berdasarkan kondisi target |
+| Evaluasi | Berpotensi berfokus pada persetujuan | Menilai kesesuaian strategi berdasarkan indikator |
+| Relasi | Berisiko terlalu berorientasi pada tercapainya kesepakatan | Menghargai pilihan, kenyamanan, dan otonomi target |
+
+Pembelajaran tersebut dapat digunakan pada komunikasi sehari-hari, terutama ketika membantu teman menghadapi masalah akademik. Memahami kebutuhan orang lain merupakan bagian penting sebelum menawarkan bantuan.
+
+## Penilaian enam dimensi
+
+Penilaian berikut merupakan **usulan penilaian AI** berdasarkan materi yang tercatat dalam laporan. Skor perlu dimoderasi oleh dosen berdasarkan rubrik resmi, kecukupan bukti, dan ketentuan pelaksanaan UTS. Skor 4 diberikan sebagai penilaian terhadap kualitas proses dan rancangan yang terdokumentasi, bukan sebagai klaim bahwa seluruh perubahan perilaku telah terbukti.
+
+| Dimensi | Skor usulan | Bukti utama | Alasan penilaian |
+|---|---:|---|---|
+| 1. Tujuan dan konteks | 4/4 | B; U1–U4 | Masalah, konteks akademik, tujuan, dan indikator keberhasilan dirumuskan secara jelas |
+| 2. Validasi persepsi/profil/status | 4/4 | B; U5–U6; U10 | Profil diri dijelaskan melalui pengalaman yang dilaporkan, sedangkan kebutuhan target simulasi digali melalui pertanyaan; batas fakta dan dugaan dinyatakan |
+| 3. Pilihan dan urutan repertoar | 4/4 | B; U5–U9; U11–U13 | Strategi mencakup pengakuan perspektif, pertanyaan, eksperimen terukur, dan adaptasi; mahasiswa juga mengenali bahwa solusi sebaiknya tidak ditawarkan terlalu cepat |
+| 4. Eksekusi yang jelas, peduli, dan konsisten | 4/4 | U5–U9; U11–U12 | Pesan menggunakan bahasa yang menghargai perspektif, memberikan pilihan, dan menjelaskan langkah secara spesifik |
+| 5. Evaluasi dan adaptasi | 4/4 | U10–U13; tabel evaluasi | Mahasiswa mengidentifikasi kelemahan pendekatan awal dan menyusun kriteria untuk melanjutkan, mengganti strategi, meminta bantuan, atau beristirahat |
+| 6. Refleksi dan pembelajaran | 4/4 | D; U10–U13 | Refleksi mencakup kelemahan pribadi, pembelajaran komunikasi, alternatif tindakan, dan tindak lanjut |
+
+### Rekapitulasi skor usulan
+
+| Komponen | Hasil |
+|---|---:|
+| Jumlah dimensi | 6 |
+| Skor maksimum per dimensi | 4 |
+| Total skor usulan | 24/24 |
+| Persentase berdasarkan skor usulan | 100/100 |
+| Status | Usulan AI; perlu moderasi dosen |
+
+Perhitungan:
+
+\[
+\text{Nilai}=\frac{\text{Total skor}}{24}\times100
+\]
+
+\[
+\text{Nilai}=\frac{24}{24}\times100=100
+\]
+
+**Catatan validitas penilaian:** skor maksimum di atas merupakan usulan yang menilai kelengkapan dan kualitas rancangan yang terdokumentasi. Dosen dapat menurunkan skor apabila rubrik mensyaratkan transkrip lengkap, bukti pelaksanaan tindakan nyata, pengamatan hasil perilaku, atau bukti lain yang belum tersedia. Nilai 100 bukan nilai resmi dan tidak berarti perubahan kebiasaan mahasiswa telah terbukti.
+
+## Refleksi dan lesson learned mahasiswa
+
+### 1. Refleksi tentang diri sendiri
+
+Saya menyadari bahwa masalah saya bukan hanya tentang kurangnya waktu atau sulitnya materi, tetapi juga tentang cara saya merespons kesulitan. Ketika tidak memahami materi, saya cenderung merasa kewalahan dan memilih menghindar melalui scrolling. Pilihan tersebut mungkin terasa nyaman untuk sementara, tetapi dapat mengurangi waktu yang saya miliki untuk memahami materi dan menyelesaikan tugas.
+
+Melalui asesmen ini, saya belajar bahwa saya tidak harus menunggu sampai merasa siap atau memahami seluruh materi untuk mulai mengerjakan tugas. Saya bisa memulai dari langkah kecil, seperti membaca soal selama 15 menit, menuliskan informasi yang diketahui, dan mencoba satu bagian yang paling memungkinkan untuk dikerjakan.
+
+Saya juga menyadari bahwa membuat jadwal saja tidak cukup apabila jadwal tersebut tidak diikuti tindakan. Oleh karena itu, saya perlu mengevaluasi perilaku nyata, seperti kapan saya mulai belajar, berapa lama saya benar-benar fokus, dan kemajuan apa yang berhasil saya capai.
+
+### 2. Refleksi tentang komunikasi
+
+Simulasi Dimas membantu saya memahami bahwa setiap orang dapat memiliki kebutuhan dan alasan yang berbeda. Seseorang yang meragukan latihan rutin belum tentu malas atau tidak mau berkembang. Bisa jadi, orang tersebut pernah mencoba metode tertentu tetapi tidak melihat hasil yang dianggap sepadan.
+
+Saya belajar untuk tidak langsung berasumsi bahwa solusi yang menurut saya baik pasti cocok bagi orang lain. Saya perlu mendengarkan pengalaman mereka, menggali hambatan, dan menanyakan indikator keberhasilan yang mereka anggap masuk akal sebelum menawarkan pendekatan.
+
+Saya juga menyadari bahwa tujuan komunikasi bukan sekadar membuat orang lain setuju dengan usulan saya. Tujuan yang lebih penting adalah memahami kebutuhan mereka dan menyusun tindakan yang realistis, terukur, serta tetap memberi ruang bagi keputusan mereka sendiri.
+
+### 3. Lesson learned
+
+Pembelajaran utama yang saya peroleh adalah bahwa perubahan perlu dimulai dari pemahaman terhadap masalah, tindakan kecil yang jelas, dan evaluasi yang jujur.
+
+Dalam pengelolaan diri, saya perlu mengubah respons ketika merasa bingung: bukan langsung menghindar, melainkan mencoba satu langkah kecil dan mencari bantuan jika diperlukan.
+
+Dalam komunikasi interpersonal, saya perlu mengubah kebiasaan menawarkan solusi terlalu cepat menjadi kebiasaan mendengarkan, bertanya, memahami kebutuhan, dan menyusun solusi bersama.
+
+Pesan yang ingin saya ingat ketika menghadapi tugas sulit adalah:
+
+> "Aku nggak harus langsung memahami semuanya. Coba mulai dari satu bagian kecil selama 15 menit. Kalau masih bingung, cari bantuan. Yang penting, jangan langsung menghindar sebelum mencoba."
+
+## Tindak lanjut dan batas bukti
+
+### 1. Rencana tindak lanjut dua minggu
+
+| Waktu atau kegiatan | Tindakan | Bukti yang dicatat |
+|---|---|---|
+| Saat tugas diberikan | Membaca instruksi dan mengidentifikasi bagian yang perlu dikerjakan | Tanggal tugas diberikan dan tanggal mulai |
+| Satu sampai dua hari pertama, jika memungkinkan | Memulai pengerjaan meskipun hanya selama 15 menit | Waktu mulai dan bagian yang berhasil dikerjakan |
+| Setiap hari | Mengalokasikan sekitar satu sampai dua jam untuk belajar di luar kelas dalam sesi yang lebih pendek | Durasi belajar aktual dan jumlah sesi |
+| Sebelum belajar | Menjauhkan ponsel atau mengaktifkan mode fokus | Apakah strategi fokus digunakan |
+| Ketika bingung | Menandai konsep yang belum dipahami dan mencoba langkah kecil | Bagian yang sulit dan upaya yang telah dilakukan |
+| Jika masih kesulitan | Mencari contoh sederhana, referensi, atau bertanya kepada teman | Sumber bantuan yang digunakan dan hasilnya |
+| Setelah belajar | Mencatat kemajuan dan bagian yang masih sulit | Bagian selesai, hasil latihan, dan pemahaman |
+| Akhir dua minggu | Menilai konsistensi dan menentukan strategi yang perlu dipertahankan atau diubah | Rekap waktu mulai, durasi, kemajuan, dan hambatan |
+
+Target durasi belajar satu sampai dua jam per hari merupakan sasaran yang direncanakan, bukan klaim bahwa mahasiswa telah melaksanakannya setiap hari.
+
+### 2. Batas bukti dan validitas kesimpulan
+
+Kesimpulan dalam laporan ini perlu dibaca dengan memperhatikan batas bukti berikut:
+
+1. Pengalaman menunda tugas pemrograman merupakan pengalaman nyata yang dilaporkan oleh mahasiswa.
+2. Respons Dimas merupakan bagian dari simulasi karakter fiktif. Tidak ada klaim bahwa Dimas nyata telah melakukan eksperimen belajar tiga hari.
+3. Hasil asesmen menunjukkan bahwa mahasiswa dapat mengidentifikasi hambatan dan merumuskan alternatif tindakan. Hasil ini tidak membuktikan bahwa perilaku belajar sudah berubah secara konsisten.
+4. Rencana dua minggu merupakan rencana tindak lanjut. Evaluasi keberhasilannya membutuhkan catatan pelaksanaan yang benar-benar dibuat selama periode tersebut.
+5. Penilaian enam dimensi merupakan usulan AI yang perlu ditinjau oleh dosen, khususnya apabila rubrik resmi mensyaratkan bukti tambahan atau transkrip lengkap.
+
+### 3. Kesimpulan akhir
+
+Berdasarkan asesmen, simulasi, evaluasi, dan uji ulang, mahasiswa telah mengidentifikasi pola penundaan yang dipicu oleh kebingungan dan merumuskan strategi yang lebih operasional untuk menghadapinya. Strategi tersebut mencakup memulai selama 15 menit, membagi tugas menjadi bagian kecil, mengurangi distraksi ponsel, mencari bantuan secara bertahap, dan mengevaluasi kemajuan berdasarkan hasil yang dapat diamati.
+
+Dalam komunikasi interpersonal, mahasiswa memperoleh pembelajaran mengenai pentingnya memahami perspektif target sebelum menawarkan solusi. Simulasi Dimas menunjukkan bagaimana pertanyaan terbuka, indikator yang terukur, dan penghargaan terhadap otonomi dapat digunakan untuk merancang percobaan yang lebih sesuai dengan kebutuhan target.
+
+Dengan demikian, hasil utama yang dapat dinyatakan saat ini adalah **peningkatan kejelasan pemahaman dan perencanaan tindakan**. Perubahan kebiasaan belajar yang nyata masih perlu diperiksa melalui penerapan dan pencatatan selama dua minggu. Laporan ini tidak menyamakan niat, rencana, atau persetujuan dalam simulasi dengan bukti keberhasilan pelaksanaan.

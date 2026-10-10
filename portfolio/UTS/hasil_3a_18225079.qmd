@@ -1,0 +1,384 @@
+
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 3a — Kasus 3"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|:--|:--|
+| Nama mahasiswa | Grasella |
+| NIM | 18225079 |
+| Kelas | K1 |
+| Tanggal | 10 Oktober 2026 |
+| Sesi | 3a |
+| Kasus | Kasus 3 — Menawarkan Solusi TI dan AI |
+| Target komunikasi | Fajar (K3-06) |
+| Versi bank kasus | v2.0 |
+| Modalitas komunikasi | Teks |
+| Jenis kasus | Simulasi fiktif berdasarkan profil kasus KIPP |
+| Nama berkas | `hasil_3a_18225079.qmd` |
+| Status bukti | Skrip simulasi lengkap. Sebagian respons target merupakan pelengkapan simulasi untuk menutup bagian percakapan yang sebelumnya belum memiliki jawaban. |
+
+**Catatan metode:** Laporan ini menyajikan alur simulasi yang disusun secara lengkap dan kronologis. Dialog tambahan digunakan untuk melengkapi respons terhadap pertanyaan yang sebelumnya belum dijawab satu per satu. Dialog tersebut merupakan bagian dari simulasi, bukan klaim bahwa semua kalimat itu sudah muncul dalam percakapan sebelumnya.
+
+# B) Kasus dan Tujuan
+
+## 1. Brief kasus
+
+Fajar adalah pengelola usaha yang menghadapi dua masalah operasional. Pertama, pesanan berisiko tercecer ketika banyak pesanan masuk dalam waktu bersamaan. Kedua, pelanggan berulang kali menanyakan informasi dasar seperti menu, harga, dan jam operasional.
+
+Di sisi lain, jumlah staf terbatas. Fajar khawatir sistem baru akan membutuhkan biaya tambahan, waktu belajar, dan perubahan alur kerja yang justru memperlambat pelayanan. Oleh karena itu, solusi TI atau AI tidak boleh langsung dipaksakan sebelum kebutuhan, kesiapan, dan keterbatasan operasional dipahami.
+
+Mahasiswa perlu menggali masalah utama, menawarkan solusi yang proporsional, dan membantu target mengambil keputusan berdasarkan kebutuhan serta bukti praktis.
+
+## 2. Tujuan tindakan mahasiswa
+
+Tujuan utama komunikasi adalah memahami kebutuhan dan kendala Fajar, kemudian menawarkan solusi yang sesuai tanpa memaksakan penggunaan AI.
+
+Tujuan khusus:
+
+1. Mengidentifikasi masalah operasional yang paling mengganggu.
+2. Memahami dampak pesanan yang terlewat dan keterbatasan staf.
+3. Menggali alur pesanan, kendala biaya, serta kesiapan pengguna.
+4. Menawarkan solusi sederhana yang sesuai dengan masalah.
+5. Menyusun langkah uji coba yang memiliki lingkup, penanggung jawab, waktu, dukungan, dan indikator keberhasilan yang jelas.
+6. Menjaga hubungan komunikasi dengan menghargai keputusan target, termasuk jika target belum siap menerapkan solusi.
+
+## 3. Indikator keberhasilan
+
+| Indikator | Kriteria keberhasilan |
+|:--|:--|
+| Pemahaman kebutuhan | Masalah utama dan kendala operasional dapat dijelaskan oleh target. |
+| Kesesuaian solusi | Solusi menjawab masalah yang diprioritaskan dan tidak menambah kompleksitas yang tidak diperlukan. |
+| Kesiapan target | Target menunjukkan kesediaan untuk melihat demo atau mempertimbangkan uji coba. |
+| Kejelasan tindakan | Lingkup uji coba, waktu, penanggung jawab, dukungan, dan prosedur cadangan dibahas secara konkret. |
+| Evaluasi | Terdapat indikator untuk menilai apakah solusi membantu. |
+| Kualitas hubungan | Mahasiswa menghargai kekhawatiran, tidak memaksa keputusan, dan memberi ruang bagi target untuk menyampaikan keberatan. |
+
+Keberhasilan komunikasi tidak otomatis berarti keberhasilan implementasi. Uji coba baru dapat dinyatakan terlaksana setelah benar-benar dilakukan dan hasilnya diperiksa.
+
+## 4. Profil awal komunikator
+
+Profil awal mahasiswa disusun berdasarkan perilaku komunikasi yang tampak dalam simulasi. Informasi pribadi yang tidak dilaporkan tidak diasumsikan.
+
+| Unsur | Profil awal | Dasar penilaian |
+|:--|:--|:--|
+| SWOT subjektif | Peluang: solusi digital sederhana dapat membantu pencatatan. Ancaman: keterbatasan staf, biaya, dan risiko perubahan alur kerja. | Analisis masalah pada kasus |
+| Attitude (A) | Berusaha memahami kebutuhan target dan menghindari pemaksaan teknologi. | Pembukaan dan penawaran solusi |
+| Knowledge (K) | Mengetahui beberapa alternatif, seperti daftar digital, jawaban standar, dan pencatatan manual sebagai cadangan. | Repertoar solusi yang ditawarkan |
+| Skill (S) | Mencoba menggunakan pertanyaan penggalian kebutuhan, menjelaskan manfaat, dan menyesuaikan usulan terhadap kendala. | Rangkaian percakapan dan retest |
+| Preferensi/MBTI | Tidak dilaporkan; tidak disimpulkan dari percakapan. | Tidak ada data yang cukup |
+| Peran dan konteks | Mahasiswa berperan sebagai pihak yang menawarkan solusi TI kepada pengelola usaha. | Konteks kasus |
+
+Kekuatan awal pendekatan ini adalah orientasi pada kebutuhan pengguna. Hal yang perlu diwaspadai adalah kecenderungan menawarkan beberapa pertanyaan dan solusi sekaligus sebelum semua informasi tentang alur kerja target benar-benar diperoleh.
+
+## 5. Dugaan awal profil target dan rencana TAIDA
+
+TAIDA digunakan untuk merencanakan tahapan komunikasi: Target, Attention, Interest, Desire, dan Action. Status di tabel berikut merupakan dugaan awal yang perlu divalidasi selama interaksi.
+
+| Tahap | Dugaan/status awal | Strategi komunikasi | Bukti yang diharapkan |
+|:--|:--|:--|:--|
+| Target | Fajar menginginkan solusi praktis dan tidak memiliki banyak waktu. | Menyampaikan tujuan secara ringkas dan menghargai keterbatasan waktu. | Fajar bersedia menjelaskan masalah. |
+| Attention | Pesanan yang tercecer mungkin menjadi masalah paling mendesak. | Menanyakan masalah yang paling mengganggu dan dampaknya. | Fajar menentukan prioritas berdasarkan pengalamannya. |
+| Interest | Solusi sederhana berpotensi menarik jika tidak menambah pekerjaan. | Menggali alur kerja, biaya, waktu belajar, dan kendala staf sebelum menawarkan solusi. | Fajar memberi tanggapan terhadap solusi yang relevan. |
+| Desire | Fajar mungkin membutuhkan bukti praktis sebelum bersedia mencoba. | Menawarkan demo singkat, checklist, lingkup terbatas, dan prosedur cadangan. | Fajar bersedia melihat demo atau mempertimbangkan uji coba. |
+| Action | Keputusan harus sesuai dengan kesiapan operasional. | Menentukan kanal, penanggung jawab, waktu, indikator keberhasilan, dan kondisi penghentian. | Target menyampaikan keputusan secara eksplisit. |
+
+## 6. Profil target setelah pengungkapan
+
+Berdasarkan profil kasus K3-06, karakteristik target adalah sebagai berikut.
+
+| Unsur | Profil target |
+|:--|:--|
+| Attitude (A) | Pragmatis, menginginkan hasil cepat, dan kurang menyukai penjelasan panjang. |
+| Knowledge (K) | Memiliki pengalaman praktis, tetapi pemahaman tentang risiko kesalahan otomatisasi masih terbatas. |
+| Skill (S) | Cenderung cepat mencoba sesuatu, tetapi konsistensi dokumentasi merupakan kendala. |
+| Preferensi komunikasi | Penjelasan langsung, demo singkat, dan hasil praktis. |
+| Hambatan | Tidak ingin sistem baru menambah biaya, waktu belajar, atau beban staf. |
+| Dukungan yang dibutuhkan | Demo, checklist sederhana, penanggung jawab yang jelas, dan prosedur cadangan. |
+| Peluang | Bersedia mempertimbangkan solusi apabila manfaatnya jelas dan cara penggunaannya sederhana. |
+| Ancaman | Perubahan sistem saat kondisi ramai dapat memperlambat pelayanan dan menurunkan kepercayaan. |
+
+Profil tersebut dipakai untuk menyesuaikan pendekatan, bukan untuk menyimpulkan kondisi psikologis target secara mutlak.
+
+# C) Skrip Percakapan
+
+## Catatan transkrip
+
+Bagian ini merupakan **skrip simulasi lengkap yang disusun untuk laporan**. Dialog tambahan yang melengkapi jawaban Fajar ditujukan agar seluruh tahap komunikasi dapat dievaluasi. Dialog tambahan tersebut bukan transkrip verbatim dari percakapan sebelumnya.
+
+## Tahap 1 — Pembukaan dan penggalian kebutuhan
+
+**AI001 — Fajar:**
+
+“Bisa langsung ditunjukkan manfaatnya? Saya tidak punya banyak waktu.”
+
+**U001 — Mahasiswa:**
+
+“Bisa, Pak. Saya ingin memastikan solusi yang ditawarkan benar-benar membantu dan tidak malah menambah pekerjaan Bapak. Dari dua masalah tadi, pertanyaan pelanggan yang berulang dan pesanan yang terkadang tercecer, mana yang paling mengganggu kegiatan usaha Bapak saat ini?”
+
+**AI002 — Fajar:**
+
+“Kalau yang paling mengganggu, sebenarnya pesanan yang tercecer, sih, Pak—eh, maksud saya, terutama saat banyak pesanan masuk bersamaan. Tapi pertanyaan pelanggan juga sering berulang, misalnya soal menu, harga, dan jam operasional. Masalahnya, staf saya terbatas. Saya khawatir kalau pakai sistem baru, malah harus belajar banyak hal lagi dan pekerjaan jadi makin lambat.”
+
+**U002 — Mahasiswa:**
+
+“Saya mengerti, Pak. Kalau staf terbatas dan pesanan sedang ramai, sistem baru seharusnya membantu meringankan pekerjaan, bukan menambah beban. Boleh tahu, selama ini pesanan biasanya masuk lewat mana, Pak? Misalnya WhatsApp, telepon, atau langsung di tempat? Lalu, bagaimana staf mencatat dan memastikan semua pesanan sudah diproses?”
+
+**AI003 — Fajar:**
+
+“Pesanan paling sering masuk lewat WhatsApp, tetapi ada juga pelanggan yang datang langsung. Biasanya staf melihat pesan yang masuk lalu mengerjakannya satu per satu. Kalau sedang ramai, saya khawatir ada pesan yang tertumpuk atau terlambat ditangani. Saya belum punya cara yang benar-benar konsisten untuk memastikan semua pesanan sudah selesai.”
+
+**U003 — Mahasiswa:**
+
+“Berarti masalah utamanya bukan sekadar banyaknya pesan, tetapi juga memastikan setiap pesanan tercatat dan statusnya bisa dipantau, ya, Pak. Kalau ada pesanan yang terlewat, biasanya dampaknya seperti apa? Apakah pelanggan harus menunggu lebih lama, pesanan perlu dibuat ulang, atau ada dampak lain?”
+
+**AI004 — Fajar:**
+
+“Pelanggan bisa menunggu lebih lama dan kadang harus bertanya lagi tentang pesanannya. Kalau pesanan sampai terlewat, staf juga perlu mengecek ulang. Itu membuat pekerjaan semakin menumpuk, terutama saat banyak pelanggan datang bersamaan.”
+
+**U004 — Mahasiswa:**
+
+“Kalau begitu, saya menangkap bahwa prioritas pertama adalah mengurangi risiko pesanan terlewat dan memudahkan staf mengetahui pesanan mana yang sudah diproses. Apakah itu hasil yang paling Bapak butuhkan saat ini, atau ada hal lain yang lebih penting?”
+
+**AI005 — Fajar:**
+
+“Iya, itu yang paling penting. Saya ingin pesanan lebih mudah dipantau, tetapi saya tidak mau staf harus mengisi banyak hal atau berpindah-pindah aplikasi.”
+
+## Tahap 2 — Menggali batasan dan kekhawatiran
+
+**U005 — Mahasiswa:**
+
+“Saya paham, Pak. Kita tidak perlu langsung mengubah seluruh cara kerja. Saya ingin memastikan solusi yang dipilih tetap sederhana. Selain waktu belajar, apakah Bapak juga khawatir soal biaya atau kemungkinan sistem mengalami gangguan?”
+
+**AI006 — Fajar:**
+
+“Iya. Saya tidak mau membayar aplikasi baru hanya untuk mencatat pesanan. Saya juga khawatir staf tidak konsisten memperbarui status pesanan ketika sedang sibuk. Kalau daftar tidak diperbarui, akhirnya sama saja.”
+
+**U006 — Mahasiswa:**
+
+“Betul, Pak. Kalau pencatatan justru tidak diperbarui, manfaatnya akan berkurang. Karena itu, solusi perlu punya penanggung jawab yang jelas dan cara penggunaan yang sederhana. Kita juga bisa mempertahankan pencatatan manual sebagai cadangan jika daftar digital tidak bisa diakses atau staf sedang terlalu sibuk.”
+
+**AI007 — Fajar:**
+
+“Kalau ada cadangan, saya lebih tenang. Tetapi saya tetap ingin melihat dulu apakah cara tersebut benar-benar mudah digunakan. Saya tidak mau staf menghabiskan waktu untuk mempelajari sistem baru.”
+
+## Tahap 3 — Menawarkan solusi
+
+**U007 — Mahasiswa:**
+
+“Dari masalah yang Bapak jelaskan, menurut saya kita tidak perlu langsung menggunakan sistem yang kompleks atau AI. Saya mengusulkan uji coba menggunakan satu daftar digital sederhana untuk mencatat pesanan, waktu masuk, sumber pesanan, dan status pengerjaannya.
+
+Untuk pertanyaan pelanggan yang berulang, kita juga bisa mulai dengan membuat daftar jawaban standar mengenai menu, harga, dan jam operasional. Dengan begitu, kita bisa memperbaiki masalah yang paling mendesak terlebih dahulu tanpa langsung menambah teknologi yang belum diperlukan.
+
+Menurut Bapak, apakah pendekatan sederhana seperti ini sesuai dengan kebutuhan usaha?”
+
+**AI008 — Fajar:**
+
+“Kalau hanya satu daftar digital, kedengarannya cukup masuk akal. Tetapi saya belum yakin staf akan konsisten memperbarui status pesanan. Kalau mereka sibuk melayani pelanggan, daftar itu bisa saja tidak diperbarui. Saya juga tidak mau harus membayar aplikasi baru.”
+
+**U008 — Mahasiswa:**
+
+“Saya mengerti, Pak. Untuk mengurangi risiko itu, kita bisa mencoba satu kanal pesanan terlebih dahulu, misalnya WhatsApp, dan menunjuk satu staf sebagai penanggung jawab pencatatan. Kita bisa menggunakan alat yang sudah tersedia, misalnya Google Sheets, selama sesuai dengan akses dan kebutuhan usaha Bapak. Sebelum uji coba, saya akan menyiapkan demo singkat dan checklist agar langkahnya mudah diikuti.
+
+Kalau ternyata cara ini menambah beban kerja atau tidak membantu, kita bisa mengevaluasi, memperbaiki, atau menghentikannya. Apakah Bapak bersedia melihat contoh penggunaannya terlebih dahulu?”
+
+**AI009 — Fajar:**
+
+“Saya bersedia melihat demonya, asalkan tidak ada biaya tambahan dan caranya memang sederhana. Saya ingin memastikan pencatatan tidak membuat staf lebih lambat melayani pelanggan.”
+
+## Tahap 4 — Menentukan rencana tindakan
+
+**U009 — Mahasiswa:**
+
+“Baik, Pak. Kalau Bapak setuju, kita bisa membatasi uji coba pada pesanan WhatsApp selama tiga hari. Sebelum mulai, kita menyiapkan daftar digital, demo singkat, dan checklist. Satu staf menjadi penanggung jawab untuk memperbarui status pesanan.
+
+Setelah tiga hari, kita mengevaluasi jumlah pesanan yang terlewat, konsistensi pembaruan status, waktu pencatatan, dan kemudahan penggunaan. Apakah cakupan dan indikator tersebut sudah sesuai dengan kebutuhan Bapak?”
+
+**AI010 — Fajar:**
+
+“Rencana itu bisa dipertimbangkan. Saya ingin memastikan dulu siapa yang akan bertanggung jawab. Saya juga ingin tahu apakah staf bisa tetap memakai pencatatan manual jika ada kendala. Untuk indikator, jumlah pesanan yang terlewat dan apakah pencatatan memperlambat pelayanan menurut saya paling penting.”
+
+**U010 — Mahasiswa:**
+
+“Setuju, Pak. Kita perlu memastikan penanggung jawabnya sebelum uji coba dimulai. Pencatatan manual tetap bisa menjadi cadangan jika daftar digital tidak bisa diakses atau kondisi sedang terlalu ramai. Saya juga akan menyiapkan checklist sederhana agar staf tidak perlu mengingat banyak langkah.
+
+Apakah ada kondisi operasional tertentu yang perlu kita perhatikan sebelum menentukan waktu uji coba?”
+
+**AI011 — Fajar:**
+
+“Ada. Staf yang biasanya menangani WhatsApp minggu depan akan cuti dua hari. Saya tidak mau staf pengganti harus belajar sistem baru saat kondisi sedang ramai. Kalau uji cobanya tetap harus jalan, siapa yang akan memastikan pencatatannya konsisten?”
+
+## Tahap 5 — Retest: menghadapi kendala baru
+
+**U011 — Mahasiswa:**
+
+“Saya paham, Pak. Kalau staf utama sedang cuti, jangan sampai uji coba justru mengganggu operasional. Menurut saya, kita tidak perlu memulai uji coba saat dua hari tersebut.
+
+Kita bisa melakukan demo singkat terlebih dahulu, lalu setelah staf utama kembali, ia menjadi penanggung jawab pencatatan dan memperbarui status pesanan. Untuk sementara, staf pengganti tetap menggunakan cara pencatatan yang sudah biasa dilakukan.
+
+Kalau Bapak setuju, kita bisa mulai dari pesanan WhatsApp saja selama tiga hari setelah staf utama kembali. Saya juga akan menyiapkan checklist sederhana agar pencatatan lebih konsisten. Jika daftar digital tidak bisa diakses atau staf sedang terlalu sibuk, pencatatan manual tetap menjadi cadangan.
+
+Menurut Bapak, apakah waktu dan cakupan uji coba seperti ini realistis, atau ada usulan lain yang lebih sesuai dengan kondisi usaha?”
+
+**AI012 — Fajar:**
+
+“Menurut saya, menunggu sampai staf utama kembali lebih masuk akal. Saya tidak ingin staf pengganti harus mempelajari cara baru ketika sedang ramai. Tetapi saya belum bisa memastikan tanggal uji cobanya sekarang karena harus melihat kondisi operasional nanti. Demo dan checklist bisa disiapkan terlebih dahulu.”
+
+## Tahap 6 — Konfirmasi keputusan dan dukungan
+
+**U012 — Mahasiswa:**
+
+“Baik, Pak. Sebelum uji coba dimulai, saya akan menyiapkan demo singkat dan checklist yang berisi cara mencatat pesanan serta memperbarui statusnya. Kita juga perlu memastikan staf utama memahami alurnya dan mengetahui langkah yang harus dilakukan jika daftar digital tidak dapat diakses.
+
+Apakah persiapan tersebut sudah cukup membantu, atau ada dukungan lain yang Bapak perlukan?”
+
+**AI013 — Fajar:**
+
+“Untuk awal, demo dan checklist sudah cukup. Yang penting, staf utama bisa mencoba dulu dan tidak harus mempelajari terlalu banyak hal sekaligus. Kalau ada kendala, saya ingin ada cara untuk kembali ke pencatatan sebelumnya.”
+
+**U013 — Mahasiswa:**
+
+“Baik, Pak. Kita akan mempertahankan pencatatan manual sebagai cadangan. Saya juga ingin memastikan bahwa uji coba ini bukan kewajiban untuk melanjutkan sistem. Setelah tiga hari, kita akan menilai hasilnya bersama. Jika sistem membantu, kita bisa mempertimbangkan kelanjutan; jika justru memperumit pekerjaan, kita bisa memperbaiki atau menghentikannya.
+
+Apakah Bapak bersedia mempertimbangkan rencana tersebut setelah demo dilakukan?”
+
+**AI014 — Fajar:**
+
+“Saya bersedia mempertimbangkannya, terutama kalau memang tidak ada biaya tambahan. Saya setuju demo singkat dan checklist disiapkan dulu supaya staf utama bisa memahami caranya sebelum mencoba.
+
+Untuk uji coba tiga hari, saya belum bisa memastikan sekarang karena harus melihat kondisi operasional setelah staf utama kembali. Indikator yang kamu usulkan cukup masuk akal, terutama jumlah pesanan yang terlewat dan apakah staf bisa memperbarui status tanpa memperlambat pelayanan. Kalau ternyata daftar digital membuat pekerjaan lebih rumit, kita perlu mengevaluasi atau kembali ke cara sebelumnya. Saya lebih nyaman kalau keputusan untuk melanjutkan diambil setelah melihat hasilnya.”
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## 1. Hasil tujuan komunikasi
+
+Tujuan komunikasi tercapai sebagian hingga cukup baik pada tahap penggalian kebutuhan, penawaran solusi, dan penyusunan rencana. Fajar menjelaskan masalah utama, menyampaikan kendala biaya dan konsistensi staf, bersedia melihat demo, serta mempertimbangkan uji coba terbatas.
+
+Namun, belum ada komitmen final mengenai tanggal pelaksanaan uji coba tiga hari. Keputusan untuk melanjutkan solusi baru akan dipertimbangkan setelah demo dan evaluasi. Oleh karena itu, hasil tidak boleh dinyatakan sebagai implementasi yang telah disepakati sepenuhnya.
+
+## 2. Perubahan SWOT/ASK target
+
+| Unsur | Kondisi awal | Kondisi akhir simulasi | Bukti | Interpretasi |
+|:--|:--|:--|:--|:--|
+| SWOT — peluang | Pencatatan digital belum dinilai sebagai solusi yang pasti dibutuhkan. | Target melihat kemungkinan manfaat jika solusi sederhana dan tanpa biaya tambahan. | AI007, AI009, AI014 | Peluang terbuka, tetapi manfaat aktual belum dibuktikan. |
+| SWOT — ancaman | Target khawatir sistem baru menambah beban dan memperlambat pelayanan. | Kekhawatiran tetap ada, tetapi prosedur cadangan dan uji coba terbatas dibahas. | AI002, AI008, AI014 | Ancaman dikenali dan diantisipasi, belum sepenuhnya dihilangkan. |
+| Attitude (A) | Menginginkan hasil praktis dan tidak memiliki banyak waktu. | Bersedia melihat demo dan mempertimbangkan solusi. | AI001, AI009, AI014 | Sikap terhadap solusi menjadi lebih terbuka. |
+| Knowledge (K) | Belum memperoleh gambaran rinci tentang solusi yang diusulkan. | Memahami gambaran awal daftar digital, demo, checklist, dan evaluasi. | U007–U009, AI014 | Ada tambahan informasi, tetapi penguasaan teknis belum diuji. |
+| Skill (S) | Konsistensi pencatatan staf dikhawatirkan menjadi kendala. | Penanggung jawab, checklist, dan pencatatan manual diusulkan sebagai dukungan. | AI006, U008, U011 | Dukungan sudah direncanakan; kemampuan staf belum terbukti melalui praktik. |
+| Action | Belum ada keputusan untuk mencoba solusi. | Bersedia melihat demo dan mempertimbangkan uji coba, tetapi belum menetapkan tanggal. | AI009, AI012, AI014 | Tindakan awal berupa demo dapat dilanjutkan; komitmen uji coba belum final. |
+
+Perubahan di atas menggambarkan perubahan yang tampak dalam respons simulasi. Perubahan tersebut tidak membuktikan bahwa pengetahuan atau keterampilan Fajar telah meningkat secara mendalam, karena belum ada pengujian praktik.
+
+## 3. Evaluasi stimulus–respons
+
+| Episode | Stimulus mahasiswa | Respons target | Evaluasi ASK/SWOT | Adaptasi yang dilakukan |
+|:--|:--|:--|:--|:--|
+| E1 — Penggalian prioritas | Mengakui keterbatasan waktu dan menanyakan masalah utama. | Target menyebut pesanan yang tercecer. | Masalah prioritas mulai teridentifikasi. | Fokus pada pesanan sebelum menawarkan AI. |
+| E2 — Dampak masalah | Menanyakan konsekuensi pesanan yang terlewat. | Target menjelaskan keterlambatan, pengecekan ulang, dan penumpukan pekerjaan. | Kebutuhan operasional menjadi lebih jelas. | Menekankan pencatatan dan pemantauan status. |
+| E3 — Kebutuhan dan batasan | Menggali biaya, waktu belajar, dan kekhawatiran terhadap sistem. | Target menekankan biaya tambahan dan konsistensi pembaruan status. | Hambatan utama terkait biaya, beban kerja, dan dokumentasi. | Menawarkan solusi sederhana dengan prosedur cadangan. |
+| E4 — Penawaran solusi | Menawarkan daftar digital dan jawaban standar tanpa langsung memakai AI. | Target bersedia melihat demo tetapi belum yakin terhadap konsistensi staf. | Minat awal muncul, namun kekhawatiran belum selesai. | Membatasi uji coba pada satu kanal dan satu penanggung jawab. |
+| E5 — Penentuan tindakan | Mengusulkan uji coba tiga hari dan indikator keberhasilan. | Target ingin mengetahui penanggung jawab dan memastikan pencatatan manual tetap tersedia. | Keputusan membutuhkan kejelasan peran dan mitigasi risiko. | Menambahkan checklist dan prosedur cadangan. |
+| E6 — Retest | Menyesuaikan jadwal karena staf utama akan cuti. | Target menilai penundaan lebih realistis dan meminta demo terlebih dahulu. | Adaptasi sesuai dengan kesiapan operasional. | Menunda uji coba sampai staf utama kembali. |
+| E7 — Penutupan | Meminta konfirmasi kesiapan, dukungan, dan evaluasi bersama. | Target bersedia mempertimbangkan solusi tetapi belum memastikan tanggal uji coba. | Keterbukaan meningkat, tetapi Action belum final. | Menghormati keputusan target dan tidak menyamakan pertimbangan dengan komitmen. |
+
+## 4. Evaluasi hubungan komunikasi
+
+Penilaian berikut mengukur tanda-tanda yang tampak dalam ujaran, bukan mengklaim mengetahui perasaan internal target.
+
+| Aspek | Penilaian kualitatif | Bukti | Batas interpretasi |
+|:--|:--|:--|:--|
+| Rasa aman untuk menyampaikan kekhawatiran | Sedang | Target menjelaskan keterbatasan staf, biaya, dan jadwal cuti. | Keterbukaan dalam simulasi tidak membuktikan rasa aman secara menyeluruh. |
+| Merasa dipahami | Sedang | Respons mahasiswa mengakui kendala dan menyesuaikan jadwal. | Belum ada pernyataan eksplisit dari target bahwa ia merasa dipahami. |
+| Kepercayaan | Mulai berkembang, belum dapat dipastikan kuat | Target bersedia melihat demo dan checklist. | Kesediaan tersebut juga dapat didorong oleh manfaat praktis, bukan hanya kepercayaan. |
+| Kesediaan melanjutkan komunikasi | Ada | Target bersedia mempertimbangkan demo dan evaluasi. | Tidak sama dengan persetujuan implementasi. |
+| Kesediaan mengungkapkan kendala | Cukup terlihat | Target menyebut biaya, konsistensi pencatatan, dan staf cuti. | Penilaian berlaku untuk konteks simulasi. |
+
+### Pesan yang membantu atau menghambat rasa dipercaya dan dipedulikan
+
+Pesan yang membantu adalah pengakuan bahwa sistem baru tidak boleh menambah beban staf, penawaran pencatatan manual sebagai cadangan, dan kesediaan menunda uji coba saat staf utama cuti. Pesan tersebut menunjukkan perhatian terhadap kondisi operasional target.
+
+Sebaliknya, penjelasan yang terlalu panjang atau terlalu cepat menawarkan beberapa solusi dapat menghambat komunikasi dengan target yang menginginkan penjelasan singkat. Untuk komunikasi nyata, pertanyaan sebaiknya disampaikan bertahap, lalu mahasiswa menunggu dan mendengarkan jawaban sebelum melanjutkan.
+
+## 5. Penilaian enam dimensi
+
+Skor berikut merupakan **usulan penilaian diri untuk moderasi dosen**, bukan nilai resmi. Skor didasarkan pada skrip simulasi yang telah dilengkapi. Jika rubrik resmi memiliki deskriptor berbeda, skor perlu disesuaikan dengan rubrik tersebut.
+
+| Dimensi | Skor usulan | Bukti | Alasan |
+|:--|:--:|:--|:--|
+| Tujuan dan konteks | 3/4 | U001–U004 | Masalah prioritas dan dampaknya digali sebelum solusi ditawarkan. Namun, tujuan operasional dan ukuran keberhasilan masih perlu divalidasi lebih awal. |
+| Persepsi dan validasi profil/status | 3/4 | U002–U006, AI006–AI007 | Mahasiswa menggali alur, kekhawatiran, dan batasan. Masih ada risiko asumsi mengenai cara kerja aktual dan kesiapan staf. |
+| Pemilihan dan urutan repertoar | 3/4 | U007–U010 | Solusi sederhana ditawarkan sebelum AI, lalu dilanjutkan dengan uji coba terbatas dan prosedur cadangan. |
+| Eksekusi yang jelas, peduli, dan konsisten | 3/4 | U001, U006, U008, U011 | Mahasiswa menghargai keterbatasan target, menawarkan pilihan, dan menyesuaikan rencana ketika muncul kendala baru. |
+| Evaluasi dan adaptasi | 3/4 | U009–U013, AI011–AI014 | Kendala staf cuti direspons dengan penyesuaian jadwal, tanggung jawab, dan prosedur cadangan. |
+| Refleksi dan lesson learned | 3/4 | Bagian refleksi di bawah | Refleksi mengidentifikasi kebutuhan validasi, pentingnya tidak memaksakan teknologi, dan perbedaan antara keterbukaan dan komitmen. |
+
+Jumlah usulan skor adalah 18 dari 24, setara 75% jika dan hanya jika keenam dimensi memang menggunakan bobot yang sama dan perhitungan tersebut diizinkan oleh rubrik. Nilai ini bukan nilai resmi dan perlu dikonfirmasi melalui rubrik serta moderasi dosen. Nilai dari sesi ini tidak boleh langsung digabungkan menjadi nilai akhir lima sesi tanpa aturan agregasi yang jelas.
+
+## 6. Refleksi dan lesson learned
+
+### a. Koreksi dugaan dan persepsi
+
+Saya belajar bahwa solusi yang menurut saya sederhana belum tentu langsung terasa mudah bagi pengguna. Fajar tidak hanya mempertimbangkan fungsi pencatatan digital, tetapi juga dampaknya terhadap beban kerja, konsistensi staf, biaya, dan kelancaran operasional. Karena itu, saya perlu memvalidasi kebutuhan melalui pertanyaan dan mendengarkan jawaban, bukan hanya mengandalkan asumsi.
+
+### b. Efektivitas stimulus
+
+Pendekatan yang mengakui keterbatasan staf dan tidak memaksakan penggunaan AI sesuai dengan kekhawatiran Fajar. Penawaran demo, checklist, dan pencatatan manual sebagai cadangan juga menjawab kebutuhan akan langkah awal yang sederhana. Respons Fajar menunjukkan keterbukaan untuk mempertimbangkan solusi, tetapi belum membuktikan adanya komitmen penerapan.
+
+### c. Adaptasi terhadap kendala baru
+
+Ketika muncul informasi bahwa staf utama akan cuti, saya menyesuaikan waktu dan lingkup uji coba. Saya tidak memaksakan penerapan saat kondisi belum mendukung. Hal ini mengajarkan bahwa rencana tindakan harus mengikuti kesiapan pengguna dan ketersediaan dukungan, bukan hanya target yang ingin dicapai.
+
+### d. Perbaikan komunikasi
+
+Dalam percakapan berikutnya, saya akan menghindari menyampaikan terlalu banyak pertanyaan sekaligus. Saya akan mengajukan satu pertanyaan utama, mendengarkan respons, merangkum jawaban, dan memastikan pemahaman sebelum menawarkan solusi. Dengan begitu, target memiliki ruang yang cukup untuk mengoreksi asumsi dan menyampaikan kebutuhan tambahan.
+
+### e. Pelajaran utama
+
+Solusi TI atau AI seharusnya mengikuti kebutuhan pengguna, bukan sebaliknya. Teknologi sederhana yang mudah dipahami dan memiliki prosedur cadangan dapat lebih bermanfaat daripada sistem kompleks yang sulit digunakan. Saya juga belajar membedakan kesediaan pengguna mempertimbangkan solusi, persetujuan untuk melihat demo, dan komitmen untuk melaksanakan uji coba karena ketiganya merupakan status yang berbeda.
+
+### f. Pesan yang membantu atau menghambat rasa dipercaya dan dipedulikan
+
+Pesan yang membantu adalah pengakuan terhadap keterbatasan waktu dan staf Fajar, serta penegasan bahwa solusi tidak akan dipaksakan. Bukti yang dapat diamati adalah Fajar mulai menjelaskan kendala secara lebih spesifik dan bersedia mempertimbangkan demo. Namun, bukti itu tidak cukup untuk menyimpulkan bahwa kepercayaan sudah terbentuk sepenuhnya.
+
+Pesan yang berpotensi menghambat adalah penjelasan yang terlalu panjang dan penawaran beberapa solusi sebelum semua kebutuhan terverifikasi. Karena itu, saya perlu lebih ringkas, memberi ruang untuk respons target, dan menguji pemahaman sebelum beralih ke tahap berikutnya.
+
+## 7. Tindak lanjut
+
+Jika simulasi ini diterapkan dalam konteks nyata dan target menyetujui langkah lanjutan, rencana tindak lanjutnya adalah:
+
+1. Mengonfirmasi bahwa WhatsApp merupakan kanal yang paling sesuai untuk uji coba awal.
+2. Menyiapkan contoh daftar digital dengan kolom nomor pesanan, waktu masuk, detail pesanan, sumber pesanan, dan status pengerjaan.
+3. Menyiapkan demo singkat dan checklist penggunaan.
+4. Memastikan staf utama tersedia dan bersedia menjadi penanggung jawab pencatatan.
+5. Mempertahankan pencatatan manual sebagai prosedur cadangan.
+6. Meminta persetujuan eksplisit mengenai tanggal dan lingkup uji coba sebelum pelaksanaan.
+7. Jika uji coba benar-benar dilaksanakan, mengevaluasi jumlah pesanan terlewat, konsistensi pembaruan status, waktu pencatatan, dan kemudahan penggunaan.
+8. Membahas hasil bersama target sebelum memutuskan apakah solusi akan dilanjutkan, diperbaiki, atau dihentikan.
+
+## 8. Batas bukti
+
+1. Kasus ini merupakan simulasi fiktif berbasis profil kasus KIPP, bukan konsultasi dengan pelanggan nyata.
+2. Skrip lengkap memuat pelengkapan respons target untuk pertanyaan yang sebelumnya belum memiliki jawaban terpisah.
+3. Tidak tersedia bukti nonverbal seperti intonasi, ekspresi wajah, atau bahasa tubuh.
+4. Tidak ada bukti bahwa daftar digital telah dibuat, staf telah dilatih, atau uji coba tiga hari telah dilakukan.
+5. Kesediaan melihat demo dan mempertimbangkan uji coba tidak boleh ditafsirkan sebagai komitmen implementasi.
+6. Dampak terhadap jumlah pesanan terlewat, waktu pencatatan, dan beban kerja belum dapat disimpulkan tanpa hasil uji coba nyata.
+7. Google Sheets merupakan alternatif yang diusulkan dalam simulasi, bukan sistem yang telah diverifikasi cocok untuk seluruh kondisi usaha.
+8. Skor penilaian merupakan usulan evaluasi diri dan perlu disesuaikan dengan rubrik resmi serta moderasi dosen.
+
+## 9. Kesimpulan
+
+Simulasi menunjukkan bahwa pendekatan yang menghargai waktu, menggali kebutuhan, dan menyesuaikan solusi dengan keterbatasan operasional dapat membuka ruang pertimbangan bagi pengguna. Fajar menjelaskan bahwa masalah utama adalah pesanan yang berisiko tercecer, sementara biaya, konsistensi pencatatan, dan kesiapan staf menjadi kendala penerapan.
+
+Mahasiswa menawarkan pencatatan digital sederhana, demo, checklist, dan prosedur manual sebagai cadangan. Ketika muncul kendala staf utama cuti, rencana disesuaikan agar uji coba tidak mengganggu operasional.
+
+Hasil akhir menunjukkan bahwa Fajar bersedia melihat demo dan mempertimbangkan uji coba, tetapi belum menetapkan tanggal pelaksanaan. Dengan demikian, keberhasilan komunikasi terletak pada pemahaman kebutuhan dan penyusunan opsi yang realistis, sedangkan komitmen tindakan masih perlu dikonfirmasi secara eksplisit.
