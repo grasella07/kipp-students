@@ -3,7 +3,7 @@
 title: "Week 12 — Community Communication Challenge"
 week: 12
 status: "Completed"
-self_score: 14
+self_score: 20
 assessor_score:
 description: "Analisis komunikasi komunitas melalui penggalian kebutuhan pengguna dan perumusan alternatif solusi untuk masalah antrean kantin kampus."
 categories:
