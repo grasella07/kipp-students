@@ -2,7 +2,7 @@
 ---
 title: "WEEK 14 — AI-MEDIATED COMMUNICATION DESIGN"
 week: 14
-status: "In Progress"
+status: "Complete"
 self_score: 18
 assessor_score:
 description: "Refleksi penggunaan AI untuk menyusun portofolio KIPP dan menganalisis proyek antrean kantin secara bertanggung jawab."
