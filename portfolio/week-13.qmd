@@ -11,7 +11,6 @@ categories:
   - Contribution
 ---
 
-
 # WEEK 13 — PUBLIC CONTRIBUTION CHALLENGE
 
 ## 1. Public Character, Target, dan Objective
@@ -190,6 +189,7 @@ Instruksi yang diberikan berfokus pada penyusunan jawaban berdasarkan kegiatan p
 Hasil AI digunakan sebagai bahan penyusunan dan diperiksa kembali agar tidak menyatakan bahwa wawancara, publikasi, implementasi, atau pengujian telah dilakukan jika tidak ada bukti yang mendukungnya.
 
 Saya tetap bertanggung jawab untuk memeriksa:
+
 - **Accuracy:** apakah setiap klaim sesuai dengan catatan dan pengalaman yang tersedia.
 - **Privacy:** apakah informasi pengguna dapat disampaikan tanpa membuka identitas pribadi yang tidak diperlukan.
 - **Authority:** apakah konten jelas sebagai gagasan mahasiswa, bukan pengumuman resmi atau pernyataan dari pengelola kantin.
@@ -221,7 +221,6 @@ Dalam proyek antrean kantin, informasi status pesanan dan estimasi waktu tunggu 
 Keterbatasan terbesar kegiatan ini adalah sumber informasi pengguna masih terbatas dan gagasan solusi belum diuji secara langsung. Selain itu, saya belum membuat atau memublikasikan artefak sehingga belum memiliki bukti mengenai respons publik, pemahaman pembaca, atau perubahan reputasi.
 
 Pembelajaran utama saya adalah bahwa komunikasi publik yang bertanggung jawab harus menjelaskan sumber, batas bukti, dan status sebuah gagasan secara terbuka. Dengan begitu, pembaca dapat membedakan antara masalah yang telah ditemukan, solusi yang sedang diusulkan, dan hasil yang benar-benar telah dibuktikan.
-
 
 ## 10. Self-Assessment
 
