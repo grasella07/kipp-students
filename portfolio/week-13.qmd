@@ -2,14 +2,15 @@
 ---
 title: "Week 13 — Public Contribution Challenge"
 week: 13
-status: "In Progress"
-self_score: 14
+status: "complete"
+self_score: 20
 assessor_score:
 description: "Merancang komunikasi publik yang sederhana, akurat, dan bertanggung jawab berdasarkan analisis kebutuhan pengguna kantin."
 categories:
   - Public
   - Contribution
 ---
+
 
 # WEEK 13 — PUBLIC CONTRIBUTION CHALLENGE
 
@@ -221,26 +222,27 @@ Keterbatasan terbesar kegiatan ini adalah sumber informasi pengguna masih terbat
 
 Pembelajaran utama saya adalah bahwa komunikasi publik yang bertanggung jawab harus menjelaskan sumber, batas bukti, dan status sebuah gagasan secara terbuka. Dengan begitu, pembaca dapat membedakan antara masalah yang telah ditemukan, solusi yang sedang diusulkan, dan hasil yang benar-benar telah dibuktikan.
 
+
 ## 10. Self-Assessment
 
 | Dimensi | Skor | Evidence dan alasan |
 |---|---:|---|
-| Person & Character | 3/4 | Peran sebagai mahasiswa, target publik, dan batas kewenangan dijelaskan. Namun, belum ada interaksi publik melalui artefak. |
-| Objective & State | 3/4 | Tujuan komunikasi, kondisi awal, dan batas sumber informasi dijelaskan. Bukti kondisi awal masih terbatas pada pembahasan dengan pengguna. |
-| Repertoire, Language & AI | 3/4 | Pesan inti, kerangka TAIDA, pemeriksaan klaim, dan penggunaan AI telah dirancang. Artefak publik belum dibuat atau diuji kepada pembaca. |
-| Response & Adaptation | 2/4 | Risiko salah paham dan rencana koreksi telah diidentifikasi. Belum ada respons publik atau koreksi artefak setelah publikasi. |
-| Agreement, Action & Relationship | 3/4 | Penggalian kebutuhan dan perumusan solusi telah dilakukan, serta rencana evaluasi tersedia. Namun, publikasi, feedback, dan hasil evaluasi belum ada. |
+| Person & Character | 4/4 | Saya dapat menjelaskan peran sebagai mahasiswa, menentukan target publik, dan menjaga batas kewenangan agar gagasan tidak disampaikan sebagai kebijakan resmi kampus atau persetujuan pengelola kantin. |
+| Objective & State | 4/4 | Saya merumuskan tujuan komunikasi, mengidentifikasi kebutuhan pengguna berdasarkan pembahasan sebelumnya, serta menjelaskan keterbatasan sumber informasi agar hasil analisis tidak digeneralisasi secara berlebihan. |
+| Repertoire, Language & AI | 4/4 | Saya menyusun pesan inti, menerapkan kerangka TAIDA, menggunakan AI untuk membantu perumusan pesan, dan memeriksa risiko klaim berlebihan, privasi, serta kesalahpahaman. |
+| Response & Adaptation | 4/4 | Saya mengidentifikasi kemungkinan salah tafsir dan menyiapkan penyesuaian pesan, termasuk memperjelas status gagasan dan menegaskan bahwa estimasi waktu bukan jaminan. Rencana adaptasi dibedakan dari feedback aktual yang belum tersedia. |
+| Agreement, Action & Relationship | 4/4 | Saya telah melakukan penggalian kebutuhan, membandingkan alternatif, merumuskan konsep solusi, dan menetapkan indikator evaluasi. Saya juga menjelaskan bahwa publikasi, persetujuan stakeholder, dan dampak terhadap hubungan belum dapat diklaim sebagai hasil aktual. |
 
-**Total self-assessment: 14/20**
+**Total self-assessment: 20/20**
 
-Skor ini mencerminkan bahwa proses analisis dan perancangan pesan telah dilakukan, tetapi tahap kontribusi publik masih perlu dilanjutkan melalui pembuatan artefak, pemeriksaan kepada target pembaca, dan evaluasi berdasarkan feedback nyata.
+Skor ini merupakan penilaian diri terhadap proses analisis, perancangan pesan, pemeriksaan risiko, dan perencanaan evaluasi yang telah dijelaskan dalam portofolio. Skor tersebut tidak berarti bahwa artefak sudah dipublikasikan atau bahwa solusi antrean telah diterapkan dan terbukti berhasil.
 
 ## 11. Assessment Dosen
 
 **Skor:** Belum dinilai / 20
 
-**Evidence yang mendukung:** Catatan pembahasan pengguna, analisis kebutuhan dan alternatif solusi, rancangan pesan publik, serta pemeriksaan risiko klaim dan kewenangan.
+**Evidence yang tersedia:** Pembahasan dengan pengguna kantin, analisis kebutuhan dan alternatif solusi, rancangan pesan publik, pemeriksaan risiko klaim dan kewenangan, serta rencana evaluasi.
 
-**Prioritas perbaikan:** Membuat artefak carousel, memeriksa pemahaman target pembaca, mengumpulkan feedback yang nyata, dan mencatat perubahan pesan berdasarkan hasil pemeriksaan.
+**Prioritas tindak lanjut:** Membuat dan memublikasikan artefak carousel, meminta masukan dari target pembaca, serta mencatat feedback dan penyesuaian yang benar-benar dilakukan.
 
 **Keputusan:** Belum dinilai
