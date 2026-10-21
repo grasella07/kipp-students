@@ -1,25 +1,246 @@
+
 ---
-title: "Public Contribution Challenge"
+title: "Week 13 — Public Contribution Challenge"
 week: 13
-status: "Belum dimulai"
-self_score: "—"
-assessor_score: "—"
-description: "Public artifact, evidence, context, response, dan reputation."
-categories: [Public, Contribution]
+status: "In Progress"
+self_score: 14
+assessor_score:
+description: "Merancang komunikasi publik yang sederhana, akurat, dan bertanggung jawab berdasarkan analisis kebutuhan pengguna kantin."
+categories:
+  - Public
+  - Contribution
 ---
 
-## Kompetensi target
+# WEEK 13 — PUBLIC CONTRIBUTION CHALLENGE
 
-Mengomunikasikan core meaning kepada public secara sederhana, benar, dan bertanggung jawab.
+## 1. Public Character, Target, dan Objective
 
-## Evidence wajib
+### Public character
 
-- Public character, target, objective, dan TAIDA map.
-- Public artifact serta sumber evidence.
-- Context-collapse/reputation check, response, dan correction bila diperlukan.
+Saya berperan sebagai mahasiswa yang mengkaji masalah sehari-hari di lingkungan kampus dan menyampaikan gagasan solusi berdasarkan kebutuhan pengguna. Saya tidak mewakili kampus, penjual, atau pengelola kantin secara resmi.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 13](../examples/week-13.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+Peran ini membatasi klaim yang dapat saya sampaikan. Saya dapat menjelaskan hasil pembahasan dan analisis yang telah dilakukan, tetapi tidak dapat menyatakan bahwa gagasan solusi telah disetujui atau diterapkan oleh pihak kantin.
 
-{{< include ../includes/evidence-template.md >}}
+### Target publik
+
+Target utama adalah mahasiswa pengguna kantin kampus, khususnya mahasiswa yang memiliki waktu istirahat terbatas dan perlu memperkirakan waktu untuk menunggu pesanan.
+
+Konten juga mungkin dilihat oleh penjual, pengelola kantin, pihak kampus, atau masyarakat lain. Karena itu, pesan perlu disusun agar tidak disalahartikan sebagai kritik terhadap pihak tertentu atau pengumuman resmi institusi.
+
+### Objective
+
+Saya ingin membantu mahasiswa memahami bahwa informasi status pesanan dan estimasi waktu tunggu dapat membantu mereka mengatur waktu dengan lebih baik. Saya juga ingin menunjukkan bahwa solusi teknologi perlu mempertimbangkan kebutuhan pembeli dan kemampuan penjual dalam memperbarui informasi.
+
+Tujuan komunikasi ini adalah meningkatkan pemahaman dan mengundang masukan, bukan menyatakan bahwa masalah antrean telah terselesaikan.
+
+### Initial state
+
+Berdasarkan pembahasan dengan pengguna kantin pada kegiatan sebelumnya, masalah yang ditemukan meliputi antrean panjang, ketidakpastian waktu tunggu, dan kebutuhan untuk menanyakan perkembangan pesanan.
+
+Namun, informasi tersebut berasal dari pembahasan dengan pengguna yang terbatas. Oleh karena itu, hasilnya belum dapat dianggap mewakili seluruh mahasiswa atau menggambarkan kondisi semua kantin.
+
+## 2. Core Meaning dan TAIDA Map
+
+### Core meaning
+
+Informasi status pesanan dan estimasi waktu tunggu dapat membantu pembeli merencanakan waktu dengan lebih baik. Namun, estimasi harus dipahami sebagai perkiraan yang dapat berubah, bukan jaminan waktu pesanan selesai.
+
+### TAIDA map
+
+| Elemen | Penerapan |
+|---|---|
+| Target | Mahasiswa pengguna kantin yang memiliki waktu terbatas. |
+| Attention | Mengangkat situasi ketika pembeli sudah memesan makanan, tetapi belum mengetahui perkembangan pesanannya. |
+| Interest | Menjelaskan bagaimana informasi status pesanan dapat mengurangi ketidakpastian selama menunggu. |
+| Desire | Menunjukkan manfaat sistem informasi pesanan yang sederhana dan mudah dipahami. |
+| Action | Mengajak pembaca mempertimbangkan pentingnya informasi pesanan yang jelas dan memberikan masukan terhadap gagasan solusi. |
+
+TAIDA digunakan sebagai kerangka untuk merancang pesan. Karena artefak belum dipublikasikan, belum ada bukti bahwa target telah memperhatikan, memahami, atau merespons pesan tersebut.
+
+## 3. Public Artifact dan Sumber Evidence
+
+### Status artefak
+
+Artefak yang direncanakan adalah carousel edukasi tiga panel yang akan dibagikan secara digital. Pada saat penyusunan portofolio ini, carousel belum dibuat atau dipublikasikan. Konten berikut merupakan rancangan awal artefak, bukan bukti publikasi.
+
+### Draft carousel
+
+**Panel 1 — Masalah**
+
+"Sudah pesan makanan, tetapi belum tahu kapan pesanan selesai?"
+
+Pesan pendukung: Ketidakpastian selama menunggu dapat menyulitkan pembeli dalam mengatur waktu, terutama ketika waktu istirahat terbatas.
+
+**Panel 2 — Gagasan solusi**
+
+"Informasi status pesanan membantu pembeli mengetahui perkembangannya."
+
+Pesan pendukung: Status seperti "sedang disiapkan" dan "siap diambil" dapat menjadi cara sederhana untuk memberikan informasi mengenai pesanan.
+
+**Panel 3 — Batasan dan tanggung jawab**
+
+"Estimasi waktu tunggu membantu mengatur waktu, tetapi bukan jaminan."
+
+Pesan pendukung: Estimasi perlu diperbarui ketika kondisi kantin berubah. Penerapannya juga perlu mempertimbangkan kemudahan penggunaan dan beban kerja penjual.
+
+### Draft caption
+
+Antrean kantin bukan hanya soal berapa lama kita menunggu, tetapi juga seberapa jelas informasi yang kita dapatkan.
+
+Informasi status pesanan dan estimasi waktu tunggu bisa menjadi salah satu alternatif untuk membantu pembeli mengatur waktu. Namun, estimasi tetap merupakan perkiraan yang dapat berubah sesuai kondisi pelayanan.
+
+Gagasan ini masih berupa hasil analisis kebutuhan pengguna, bukan sistem yang sudah diterapkan. Masukan mengenai kejelasan informasi dan kemungkinan penerapannya akan membantu pengembangan gagasan lebih lanjut.
+
+### Sumber evidence
+
+Sumber yang mendasari rancangan pesan ini adalah hasil wawancara atau pembahasan dengan pengguna kantin serta analisis kebutuhan dan alternatif solusi pada Week 9–12.
+
+Sumber tersebut mendukung adanya kebutuhan informasi dalam pengalaman pengguna yang dibahas. Namun, sumber tersebut belum membuktikan bahwa solusi pasti efektif bagi seluruh pengguna atau mampu mengurangi waktu antrean.
+
+Bukti yang tersedia berupa catatan pembahasan dan hasil analisis kebutuhan pengguna. Bukti publikasi, hasil pengujian sistem, dan data perubahan waktu tunggu belum tersedia.
+
+## 4. Context-Collapse dan Reputation Check
+
+### Risiko interpretasi
+
+Sebelum publikasi, saya mengidentifikasi beberapa kemungkinan salah paham:
+
+1. Pembaca mengira sistem informasi pesanan sudah diterapkan di kantin.
+2. Pembaca menganggap konten sebagai pengumuman resmi dari kampus atau pengelola kantin.
+3. Pembaca memahami estimasi waktu sebagai jaminan bahwa pesanan selesai tepat waktu.
+4. Penjual atau pengelola kantin menganggap konten sebagai kritik atau tuduhan terhadap kualitas pelayanan.
+5. Pembaca menganggap pengalaman pengguna yang dibahas mewakili semua mahasiswa.
+
+Risiko tersebut menunjukkan pentingnya menjelaskan konteks, sumber, dan batas klaim dalam komunikasi publik.
+
+### Pemeriksaan accuracy, privacy, dan authority
+
+**Accuracy:** Saya tidak menggunakan statistik yang belum tersedia atau menyatakan bahwa sistem telah mengurangi antrean. Klaim dibatasi pada kebutuhan yang ditemukan dalam pembahasan dan manfaat yang masih berupa kemungkinan.
+
+**Privacy:** Saya tidak perlu mencantumkan nama atau identitas pribadi pengguna dalam carousel. Sebelum publikasi, saya akan memeriksa kembali materi sumber dan memastikan tidak ada informasi pribadi yang dicantumkan tanpa izin.
+
+**Authority:** Konten akan disampaikan sebagai gagasan pribadi mahasiswa, bukan pengumuman resmi kampus atau pengelola kantin. Saya juga tidak akan menyatakan bahwa pihak kantin telah menyetujui solusi.
+
+### Pemeriksaan dan koreksi bahasa
+
+| Klaim yang dihindari | Rumusan yang lebih bertanggung jawab |
+|---|---|
+| "Sistem ini akan menghilangkan antrean kantin." | "Sistem informasi pesanan berpotensi membantu mengurangi ketidakpastian saat menunggu." |
+| "Semua mahasiswa membutuhkan estimasi waktu tunggu." | "Dalam pembahasan dengan pengguna kantin, estimasi waktu tunggu dinilai dapat membantu perencanaan waktu." |
+| "Pesanan selesai dalam lima menit." | "Estimasi waktu dapat ditampilkan sebagai perkiraan dan perlu diperbarui jika kondisi berubah." |
+
+Perubahan tersebut merupakan pemeriksaan terhadap rancangan pesan sebelum publikasi, bukan koreksi terhadap unggahan yang sudah beredar.
+
+## 5. Response dan Adaptation
+
+### Respons yang tersedia
+
+Belum ada respons terhadap artefak publik karena konten belum dibuat atau dibagikan.
+
+Pada pembahasan proyek sebelumnya, terdapat masukan bahwa status pesanan dan estimasi waktu tunggu dapat membantu pembeli, dengan catatan estimasi harus masuk akal dan diperbarui ketika kondisi berubah.
+
+Masukan tersebut digunakan untuk memperjelas pesan inti dan menekankan bahwa informasi yang tersedia harus tetap dapat dipercaya.
+
+### Rencana adaptasi
+
+Setelah carousel dibuat, saya berencana meminta satu mahasiswa pengguna kantin untuk memeriksa apakah pesan mudah dipahami dan apakah ada bagian yang berpotensi menimbulkan salah paham. Jika memungkinkan, saya juga akan meminta masukan penjual mengenai kelayakan pembaruan status pesanan.
+
+Jika pembaca mengira sistem sudah diterapkan, saya akan memperjelas bahwa konten masih berupa gagasan. Jika estimasi dianggap sebagai jaminan, saya akan menegaskan kembali bahwa estimasi merupakan perkiraan yang dapat berubah.
+
+Rencana ini belum dilaksanakan dan belum menghasilkan feedback publik.
+
+## 6. Action, Review Plan, dan Relationship Outcome
+
+### Tindakan yang sudah dilakukan
+
+Tindakan yang telah dilakukan meliputi:
+
+- Menggali masalah melalui pembahasan dengan pengguna kantin.
+- Mengidentifikasi kebutuhan informasi status pesanan dan estimasi waktu tunggu.
+- Membandingkan alternatif solusi.
+- Merumuskan gagasan fitur status pesanan dan estimasi waktu tunggu.
+- Mengidentifikasi risiko salah paham serta batas klaim yang dapat disampaikan kepada publik.
+
+Pembuatan carousel, publikasi konten, pengumpulan feedback publik, uji coba sistem, dan pengukuran efektivitas belum dilakukan.
+
+### Rencana evaluasi
+
+Jika artefak dipublikasikan, saya akan mengevaluasi komunikasi melalui indikator berikut:
+
+1. Pembaca memahami bahwa status pesanan dan estimasi waktu tunggu masih berupa gagasan solusi.
+2. Pembaca memahami bahwa estimasi bukan jaminan waktu penyelesaian.
+3. Pembaca dapat menjelaskan manfaat dan keterbatasan gagasan tersebut.
+4. Masukan yang diterima membantu mengidentifikasi bagian pesan yang membingungkan atau perlu diperbaiki.
+
+Indikator ini merupakan rencana evaluasi, bukan hasil pengukuran aktual. Jumlah tayangan atau interaksi saja juga tidak cukup untuk membuktikan bahwa pembaca memahami pesan atau bahwa masalah antrean telah terselesaikan.
+
+### Relationship outcome
+
+Belum ada perubahan reputasi publik yang dapat diamati karena belum ada konten yang dipublikasikan.
+
+Meski demikian, proses analisis membantu saya memahami bahwa gagasan solusi perlu mempertimbangkan kebutuhan pembeli sekaligus kondisi kerja penjual. Dalam komunikasi publik, saya perlu menyampaikan gagasan secara terbuka, tidak mengatasnamakan pihak lain, dan tidak menyalahkan pihak tertentu tanpa bukti.
+
+## 7. Penggunaan AI
+
+Saya menggunakan ChatGPT untuk membantu menyusun dan merapikan portofolio, mengorganisasi gagasan, merumuskan pesan inti, serta mengidentifikasi risiko salah paham dan klaim yang terlalu mutlak.
+
+Instruksi yang diberikan berfokus pada penyusunan jawaban berdasarkan kegiatan proyek kantin sebelumnya dan pembedaan antara kegiatan aktual, analisis, serta rencana lanjutan.
+
+Hasil AI digunakan sebagai bahan penyusunan dan diperiksa kembali agar tidak menyatakan bahwa wawancara, publikasi, implementasi, atau pengujian telah dilakukan jika tidak ada bukti yang mendukungnya.
+
+Saya tetap bertanggung jawab untuk memeriksa:
+- **Accuracy:** apakah setiap klaim sesuai dengan catatan dan pengalaman yang tersedia.
+- **Privacy:** apakah informasi pengguna dapat disampaikan tanpa membuka identitas pribadi yang tidak diperlukan.
+- **Authority:** apakah konten jelas sebagai gagasan mahasiswa, bukan pengumuman resmi atau pernyataan dari pengelola kantin.
+
+AI membantu proses penyusunan dan pemeriksaan bahasa, tetapi tidak menggantikan bukti lapangan atau penilaian manusia.
+
+## 8. Feedback dan Tindak Lanjut
+
+### Feedback yang diterima
+
+Belum ada feedback terhadap artefak Week 13 karena artefak belum dibuat atau dibagikan. Masukan yang tersedia berasal dari pembahasan proyek sebelumnya, terutama mengenai manfaat status pesanan dan perlunya memperbarui estimasi ketika kondisi berubah.
+
+### Adaptation/replay
+
+Adaptasi yang telah dilakukan berada pada tingkat analisis dan perumusan pesan. Saya memperjelas bahwa estimasi adalah perkiraan, membatasi klaim efektivitas, dan memasukkan pertimbangan mengenai beban kerja penjual.
+
+Koreksi terhadap artefak setelah menerima respons publik masih menunggu proses pembuatan dan publikasi.
+
+### Next practice
+
+Pada kegiatan komunikasi publik berikutnya, saya akan melatih kebiasaan memeriksa setiap klaim sebelum publikasi dengan membedakan fakta dari wawancara, hasil analisis, dan rencana. Saya juga akan meminta setidaknya satu orang dari target pembaca untuk memeriksa apakah pesan dapat dipahami tanpa menimbulkan kesan bahwa solusi telah diterapkan.
+
+## 9. Refleksi
+
+Saya belajar bahwa menyampaikan gagasan kepada publik bukan hanya tentang membuat pesan yang menarik, tetapi juga memastikan bahwa pesan tersebut akurat dan tidak menimbulkan kesalahpahaman.
+
+Dalam proyek antrean kantin, informasi status pesanan dan estimasi waktu tunggu terlihat sederhana, tetapi penerapannya tetap perlu mempertimbangkan kondisi penjual dan perubahan situasi di kantin. Karena itu, saya perlu menjelaskan manfaat yang diharapkan tanpa menjanjikan hasil yang belum diuji.
+
+Keterbatasan terbesar kegiatan ini adalah sumber informasi pengguna masih terbatas dan gagasan solusi belum diuji secara langsung. Selain itu, saya belum membuat atau memublikasikan artefak sehingga belum memiliki bukti mengenai respons publik, pemahaman pembaca, atau perubahan reputasi.
+
+Pembelajaran utama saya adalah bahwa komunikasi publik yang bertanggung jawab harus menjelaskan sumber, batas bukti, dan status sebuah gagasan secara terbuka. Dengan begitu, pembaca dapat membedakan antara masalah yang telah ditemukan, solusi yang sedang diusulkan, dan hasil yang benar-benar telah dibuktikan.
+
+## 10. Self-Assessment
+
+| Dimensi | Skor | Evidence dan alasan |
+|---|---:|---|
+| Person & Character | 3/4 | Peran sebagai mahasiswa, target publik, dan batas kewenangan dijelaskan. Namun, belum ada interaksi publik melalui artefak. |
+| Objective & State | 3/4 | Tujuan komunikasi, kondisi awal, dan batas sumber informasi dijelaskan. Bukti kondisi awal masih terbatas pada pembahasan dengan pengguna. |
+| Repertoire, Language & AI | 3/4 | Pesan inti, kerangka TAIDA, pemeriksaan klaim, dan penggunaan AI telah dirancang. Artefak publik belum dibuat atau diuji kepada pembaca. |
+| Response & Adaptation | 2/4 | Risiko salah paham dan rencana koreksi telah diidentifikasi. Belum ada respons publik atau koreksi artefak setelah publikasi. |
+| Agreement, Action & Relationship | 3/4 | Penggalian kebutuhan dan perumusan solusi telah dilakukan, serta rencana evaluasi tersedia. Namun, publikasi, feedback, dan hasil evaluasi belum ada. |
+
+**Total self-assessment: 14/20**
+
+Skor ini mencerminkan bahwa proses analisis dan perancangan pesan telah dilakukan, tetapi tahap kontribusi publik masih perlu dilanjutkan melalui pembuatan artefak, pemeriksaan kepada target pembaca, dan evaluasi berdasarkan feedback nyata.
+
+## 11. Assessment Dosen
+
+**Skor:** Belum dinilai / 20
+
+**Evidence yang mendukung:** Catatan pembahasan pengguna, analisis kebutuhan dan alternatif solusi, rancangan pesan publik, serta pemeriksaan risiko klaim dan kewenangan.
+
+**Prioritas perbaikan:** Membuat artefak carousel, memeriksa pemahaman target pembaca, mengumpulkan feedback yang nyata, dan mencatat perubahan pesan berdasarkan hasil pemeriksaan.
+
+**Keputusan:** Belum dinilai
