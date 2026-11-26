@@ -1,11 +1,10 @@
-
 ---
 title: "WEEK 14 — AI-MEDIATED COMMUNICATION DESIGN"
 week: 14
 status: "Complete"
-self_score: 18
+self_score: 16
 assessor_score:
-description: "Refleksi penggunaan AI untuk menyusun portofolio KIPP dan menganalisis proyek antrean kantin secara bertanggung jawab."
+description: "Refleksi penggunaan AI dalam penyusunan portofolio KIPP dan perancangan komunikasi proyek antrean kantin secara bertanggung jawab."
 categories:
   - AI
   - Ethics
@@ -17,23 +16,37 @@ categories:
 
 ### 1.1 Kegiatan dan waktu
 
-Pada Oktober 2026, saya menggunakan ChatGPT melalui browser komputer untuk membantu menyusun portofolio KIPP Week 9–13, termasuk menganalisis proyek antrean kantin. Penggunaan AI berfokus pada penyusunan jawaban, perapian bahasa, pengorganisasian analisis, dan pengaitan pengalaman dengan konsep komunikasi, pengambilan keputusan, serta evaluasi diri.
+Pada Oktober 2026, saya menggunakan ChatGPT melalui browser komputer untuk membantu menyusun portofolio KIPP Week 9–13, termasuk menganalisis proyek sistem informasi antrean kantin. Penggunaan AI berfokus pada penyusunan jawaban, perapian bahasa, pengorganisasian informasi, pengembangan analisis, serta pengaitan pengalaman dengan konsep komunikasi, pengambilan keputusan, dan evaluasi diri.
 
-Sebelum menggunakan AI, saya telah memiliki konteks proyek dan gagasan utama mengenai masalah antrean kantin. Namun, saya masih perlu menyusun berbagai informasi menjadi jawaban yang runtut, memastikan setiap bagian menjawab pertanyaan tugas, serta membedakan pengalaman aktual dari analisis dan rencana.
+Sebelum menggunakan AI, saya sudah memiliki konteks proyek dan gagasan utama mengenai permasalahan antrean kantin. Dari pembahasan dengan pengguna kantin sebelumnya, saya memahami bahwa pembeli terkadang mengalami ketidakpastian mengenai kapan pesanannya selesai dan perlu menanyakan langsung kepada penjual. Kondisi ini menjadi dasar munculnya gagasan fitur status pesanan dan estimasi waktu tunggu.
 
-### 1.2 Pihak yang terlibat
+Selain berdiskusi dengan pengguna, saya juga pernah menyampaikan gagasan kedua fitur tersebut kepada salah satu penjual kantin. Penjual memberikan persetujuan secara lisan terhadap arah konsep yang diusulkan. Namun, persetujuan ini masih terbatas pada gagasan fitur, bukan persetujuan formal untuk implementasi sistem. Belum ada pengujian atau penerapan sistem yang dapat membuktikan efektivitasnya.
 
-Pihak yang relevan dalam kegiatan ini adalah:
+Dalam penyusunan portofolio, saya masih perlu mengubah berbagai informasi tersebut menjadi jawaban yang runtut, memastikan setiap bagian menjawab pertanyaan tugas, dan membedakan pengalaman aktual dari interpretasi maupun rencana. Pada tahap inilah ChatGPT digunakan sebagai alat bantu.
 
-- **Saya sebagai mahasiswa:** menentukan konteks pengalaman, memeriksa isi, mengambil keputusan, dan bertanggung jawab atas jawaban akhir.
-- **ChatGPT sebagai alat bantu:** membantu mengorganisasi informasi, merumuskan bahasa, mengembangkan analisis, dan mengidentifikasi kemungkinan risiko komunikasi.
-- **Dosen sebagai penilai:** menilai portofolio berdasarkan tuntutan tugas dan kriteria penilaian.
-- **Pengguna kantin:** menjadi sumber informasi dari diskusi sebelumnya mengenai pengalaman dan kebutuhan pengguna.
-- **Penjual, pengelola kantin, dan pihak kampus:** merupakan stakeholder yang perlu dipertimbangkan dalam analisis, tetapi tidak dapat dianggap telah menyetujui solusi yang diusulkan.
+### 1.2 Pihak yang terlibat dan batas kewenangan
+
+Pihak-pihak yang relevan dalam kegiatan ini adalah:
+
+- **Saya sebagai mahasiswa:** menentukan konteks pengalaman, memberikan instruksi kepada AI, memeriksa hasil, mengambil keputusan, dan bertanggung jawab atas isi akhir portofolio.
+- **ChatGPT sebagai alat bantu AI:** membantu mengorganisasi informasi, merumuskan bahasa, mengembangkan analisis, serta mengidentifikasi kemungkinan risiko komunikasi.
+- **Pengguna kantin:** menjadi sumber informasi mengenai pengalaman dan kebutuhan pembeli berdasarkan pembahasan sebelumnya.
+- **Penjual kantin:** menjadi stakeholder yang pernah menerima penjelasan mengenai gagasan status pesanan dan estimasi waktu tunggu serta memberikan tanggapan secara lisan.
+- **Pengelola kantin dan pihak kampus:** merupakan pihak yang perlu dipertimbangkan apabila solusi akan diterapkan secara lebih luas. Namun, belum ada konfirmasi atau persetujuan langsung dari pihak-pihak tersebut.
+- **Dosen:** berperan sebagai penilai portofolio berdasarkan tuntutan tugas dan kriteria penilaian.
+
+Pembagian ini penting karena setiap pihak memiliki kewenangan yang berbeda. Saya dapat menjelaskan pengalaman dan gagasan sendiri, tetapi tidak dapat mengambil keputusan operasional atas nama penjual, pengelola kantin, maupun kampus.
 
 ### 1.3 Tujuan penggunaan AI
 
-Tujuan saya menggunakan AI adalah menghasilkan portofolio yang lebih terstruktur dan menunjukkan hubungan antara konteks proyek, kebutuhan pengguna, alternatif solusi, risiko, serta refleksi pembelajaran.
+Tujuan saya menggunakan AI adalah:
+
+1. Menyusun portofolio secara lebih terstruktur dan sesuai dengan pertanyaan tugas.
+2. Menghubungkan masalah antrean kantin dengan kebutuhan pengguna dan alternatif solusi.
+3. Mengembangkan analisis mengenai pembagian peran, kewenangan, dan tanggung jawab stakeholder.
+4. Memeriksa apakah suatu pernyataan merupakan fakta, interpretasi, atau rencana.
+5. Mengidentifikasi risiko komunikasi, khususnya klaim yang terlalu berlebihan.
+6. Menyusun refleksi mengenai penggunaan AI secara bertanggung jawab.
 
 Saya tidak menggunakan AI untuk menggantikan pengalaman langsung, menciptakan bukti, atau menentukan keputusan atas nama stakeholder. AI membantu proses penyusunan dan analisis, sedangkan tanggung jawab atas kebenaran isi tetap berada pada saya.
 
@@ -41,65 +54,89 @@ Saya tidak menggunakan AI untuk menggantikan pengalaman langsung, menciptakan bu
 
 ### 2.1 Peran AI
 
-Saya menggunakan ChatGPT untuk:
+Saya menggunakan ChatGPT untuk beberapa kebutuhan berikut:
 
-1. Menyusun kerangka jawaban sesuai pertanyaan portofolio.
-2. Merapikan bahasa agar lebih jelas dan mudah dipahami.
-3. Mengelompokkan informasi berdasarkan bagian tugas.
-4. Membandingkan alternatif solusi untuk masalah antrean kantin.
-5. Mengembangkan draft analisis dan refleksi.
-6. Mengidentifikasi risiko salah paham dan klaim yang berlebihan.
-7. Membantu memahami aspek yang perlu dibahas berdasarkan tuntutan tugas.
+| Kebutuhan | Bentuk bantuan AI |
+|---|---|
+| Penyusunan portofolio | Membantu membuat kerangka jawaban berdasarkan pertanyaan dan bagian tugas. |
+| Pengorganisasian informasi | Mengelompokkan pengalaman, permasalahan, alternatif solusi, dan refleksi agar lebih mudah dipahami. |
+| Pengembangan analisis | Membantu menghubungkan masalah antrean kantin dengan kebutuhan pengguna dan kepentingan stakeholder. |
+| Perumusan bahasa | Merapikan kalimat agar lebih jelas, runtut, dan tidak terlalu berulang. |
+| Pemeriksaan risiko | Mengidentifikasi kemungkinan klaim berlebihan, asumsi yang belum terverifikasi, dan risiko salah paham. |
+| Evaluasi diri | Membantu menyusun pertanyaan reflektif mengenai keputusan dan tanggung jawab saya selama menggunakan AI. |
 
 ### 2.2 Peran dan tanggung jawab manusia
 
-Saya tetap menentukan pengalaman yang relevan, menilai kesesuaian jawaban dengan konteks, dan memutuskan bagian yang digunakan dalam portofolio. Saya juga bertanggung jawab membedakan fakta, interpretasi, dan rencana.
+Saya tetap bertanggung jawab atas seluruh keputusan yang berkaitan dengan isi portofolio. AI dapat memberikan alternatif kalimat atau sudut pandang, tetapi saya perlu menilai apakah saran tersebut sesuai dengan pengalaman dan bukti yang benar-benar tersedia.
 
-Sebagai contoh, gagasan mengenai informasi status pesanan dan estimasi waktu tunggu dapat dijelaskan sebagai alternatif yang berpotensi membantu pembeli. Namun, saya tidak boleh menyatakan bahwa solusi tersebut sudah berhasil mengurangi antrean karena belum ada implementasi dan pengujian yang dapat membuktikannya.
+Sebagai contoh, AI dapat membantu menjelaskan bahwa fitur status pesanan dan estimasi waktu tunggu berpotensi mengurangi ketidakpastian pembeli. Namun, saya harus membatasi pernyataan tersebut sebagai manfaat yang diharapkan, bukan hasil yang sudah terbukti.
 
-Saya juga tidak menggunakan AI untuk mengarang persetujuan penjual, menyatakan bahwa sistem sudah diterapkan, atau mengatasnamakan kampus.
+Begitu juga dengan tanggapan penjual. Saya dapat menjelaskan bahwa penjual pernah menyampaikan persetujuan secara lisan terhadap konsep fitur yang diusulkan. Akan tetapi, saya tidak boleh mengubahnya menjadi klaim bahwa penjual telah menyetujui implementasi, menyediakan waktu untuk menjalankan sistem, atau menjamin keberhasilan solusi.
+
+Dengan demikian, saya bertanggung jawab untuk memastikan bahwa output AI tidak melampaui informasi yang saya miliki.
 
 ### 2.3 Batas penggunaan AI
 
-Saya menggunakan AI ketika membutuhkan bantuan untuk menyusun struktur, memperjelas bahasa, atau mempertimbangkan sudut pandang lain. Saya perlu berhenti atau melakukan pemeriksaan ulang ketika jawaban mulai melampaui informasi yang tersedia, mengandung asumsi yang belum terverifikasi, atau membuat rencana terdengar seperti kegiatan yang telah selesai.
+Saya menggunakan AI ketika membutuhkan bantuan untuk menyusun struktur, memperjelas bahasa, dan mempertimbangkan sudut pandang lain. Namun, saya perlu melakukan pemeriksaan ulang ketika:
 
-Dengan demikian, AI berperan sebagai pendukung proses berpikir, bukan sebagai pengganti penilaian dan tanggung jawab manusia.
+- AI memberikan informasi yang tidak pernah saya sampaikan.
+- AI mengubah kemungkinan atau rencana menjadi seolah-olah kegiatan yang sudah terlaksana.
+- AI menyimpulkan persetujuan stakeholder tanpa dasar yang jelas.
+- AI memberikan rekomendasi yang tidak mempertimbangkan kondisi operasional kantin.
+- Bahasa yang dihasilkan terlalu formal atau tidak sesuai dengan pengalaman saya.
+
+Saya juga memahami bahwa AI tidak dapat menggantikan komunikasi langsung dengan pengguna dan penjual. Untuk mengetahui apakah suatu solusi dapat diterima atau diterapkan, saya tetap perlu meminta tanggapan dari pihak yang terlibat.
 
 ## 3. Prompt, Output, dan Revisi Manusia
 
 ### 3.1 Prompt yang digunakan
 
-Berikut merupakan parafrasa instruksi yang menggambarkan penggunaan ChatGPT dalam penyusunan portofolio, bukan kutipan persis dari riwayat percakapan:
+Berikut merupakan parafrasa instruksi yang menggambarkan penggunaan ChatGPT selama penyusunan portofolio, bukan kutipan persis dari riwayat percakapan:
 
-> Bantu saya menjawab pertanyaan portofolio KIPP berdasarkan konteks proyek antrean kantin sebelumnya. Gunakan bahasa Indonesia yang natural dan susun jawaban secara runtut sesuai pertanyaan tugas.
+> Bantu saya menyusun jawaban portofolio KIPP berdasarkan konteks proyek antrean kantin sebelumnya. Gunakan bahasa Indonesia yang natural, runtut, dan sesuai dengan pertanyaan tugas.
 
-> Bantu saya membedakan kegiatan yang sudah dilakukan dari analisis dan rencana. Jangan membuat klaim atau bukti yang tidak tersedia.
+> Bantu saya membedakan kegiatan yang sudah dilakukan, analisis, dan rencana. Jangan membuat klaim atau bukti yang tidak tersedia dalam konteks proyek.
 
-Instruksi tersebut menunjukkan bahwa saya tidak hanya membutuhkan bantuan menghasilkan teks, tetapi juga mengarahkan AI agar mempertahankan konteks dan batas bukti.
+> Periksa kembali apakah penjelasan mengenai stakeholder, persetujuan, tindakan, dan dampak sudah sesuai dengan bukti yang benar-benar dimiliki. Jika belum ada bukti, jelaskan keterbatasannya dan jangan menganggapnya sudah terlaksana.
+
+Instruksi tersebut menunjukkan bahwa saya tidak hanya meminta AI menghasilkan teks, tetapi juga mengarahkan AI untuk mempertahankan konteks dan batas bukti.
 
 ### 3.2 Output AI yang membantu
 
-Output yang paling membantu adalah struktur analisis yang menghubungkan masalah antrean kantin, kebutuhan pengguna, alternatif solusi, risiko, dan refleksi diri.
+Output yang paling membantu adalah struktur analisis yang menghubungkan masalah antrean kantin, kebutuhan pengguna, alternatif solusi, risiko, dan refleksi pembelajaran.
 
-Melalui struktur tersebut, saya dapat menjelaskan alasan di balik gagasan status pesanan dan estimasi waktu tunggu, bukan sekadar menyebutkan solusi. AI juga membantu memperjelas bahwa estimasi waktu merupakan perkiraan yang perlu diperbarui sesuai kondisi, bukan jaminan bahwa pesanan selesai pada waktu tertentu.
+AI membantu saya menjelaskan bahwa status pesanan dapat memberikan informasi mengenai perkembangan pesanan, sedangkan estimasi waktu tunggu dapat membantu pembeli memperkirakan kapan makanan siap diambil.
+
+AI juga membantu memperjelas bahwa estimasi waktu merupakan perkiraan yang dapat berubah sesuai kondisi antrean, jumlah pesanan, dan proses persiapan makanan. Oleh karena itu, informasi tersebut tidak boleh dipahami sebagai jaminan waktu penyelesaian.
+
+Selain itu, AI membantu saya melihat bahwa solusi yang secara teknis terlihat sederhana belum tentu langsung dapat diterapkan. Penjual tetap memiliki pertimbangan operasional, seperti waktu untuk memperbarui status, jumlah pesanan yang sedang dikerjakan, dan kemudahan penggunaan sistem.
 
 ### 3.3 Evaluasi output dan keputusan revisi
 
 | Output atau saran AI | Keputusan manusia | Alasan |
 |---|---|---|
-| Menyusun pengalaman sesuai struktur pertanyaan portofolio | Digunakan sebagai kerangka | Membantu jawaban lebih runtut dan mudah ditinjau berdasarkan tuntutan tugas. |
-| Menjelaskan manfaat status pesanan dan estimasi waktu tunggu | Digunakan dengan batasan | Manfaat tersebut merupakan potensi solusi, bukan hasil yang sudah terbukti. |
-| Menghubungkan analisis dengan tindakan atau kesepakatan stakeholder | Dibatasi sesuai bukti yang tersedia | Saya tidak boleh menyatakan adanya implementasi atau persetujuan formal tanpa bukti. |
-| Merapikan bahasa dan refleksi | Digunakan sebagai bahan penyusunan | Bahasa yang lebih jelas membantu komunikasi, tetapi isi tetap harus sesuai pengalaman saya. |
-| Mengembangkan analisis dan risiko | Ditinjau kembali berdasarkan konteks | Analisis AI perlu dibedakan dari fakta yang benar-benar diperoleh melalui kegiatan. |
+| Menyusun pengalaman sesuai struktur pertanyaan portofolio | Digunakan sebagai kerangka | Membantu jawaban lebih runtut dan mudah diperiksa. |
+| Menjelaskan manfaat status pesanan dan estimasi waktu tunggu | Digunakan dengan batasan | Manfaat tersebut merupakan potensi solusi, bukan hasil implementasi yang sudah terbukti. |
+| Menghubungkan solusi dengan kebutuhan pembeli dan penjual | Digunakan setelah ditinjau | Analisis perlu mempertimbangkan kebutuhan kedua pihak, bukan hanya kenyamanan pembeli. |
+| Mengembangkan pembahasan persetujuan stakeholder | Disesuaikan dengan pengalaman aktual | Persetujuan penjual hanya disampaikan secara lisan terhadap konsep, bukan persetujuan formal untuk implementasi. |
+| Menyusun dampak dan perubahan hubungan | Dibatasi sesuai bukti | Belum ada bukti yang menunjukkan perubahan hubungan atau keberhasilan penerapan sistem. |
+| Merapikan bahasa dan refleksi | Digunakan sebagai bahan penyusunan | Bahasa yang lebih jelas membantu komunikasi, tetapi isi tetap harus mencerminkan pengalaman saya. |
 
-Saya tidak memiliki catatan terpisah yang memastikan adanya kesalahan faktual spesifik dalam setiap output awal. Oleh karena itu, saya tidak mengklaim telah memperbaiki kesalahan tertentu yang tidak dapat saya tunjukkan. Evaluasi saya berfokus pada risiko yang perlu diperiksa, terutama klaim berlebihan dan pencampuran fakta dengan rencana.
+Saya tidak memiliki catatan terpisah yang memastikan adanya kesalahan faktual spesifik dalam setiap output awal. Karena itu, saya tidak mengklaim telah memperbaiki kesalahan tertentu yang tidak dapat saya tunjukkan. Evaluasi saya berfokus pada risiko yang perlu diperiksa, terutama klaim berlebihan dan pencampuran fakta dengan rencana.
 
-### 3.4 Pemeriksaan kebenaran
+### 3.4 Pemeriksaan kebenaran atau human review
 
-Saya membandingkan draft dengan konteks tugas dan pembahasan proyek sebelumnya. Saya memeriksa apakah pernyataan mengenai diskusi pengguna, kebutuhan, alternatif solusi, implementasi, dan respons stakeholder sesuai dengan informasi yang tersedia.
+Saya melakukan pemeriksaan terhadap hasil AI dengan membandingkannya dengan konteks tugas dan pembahasan proyek sebelumnya. Pemeriksaan dilakukan dengan memperhatikan tiga kategori berikut:
 
-Saya juga memastikan bahwa analisis tidak ditulis seolah-olah merupakan hasil pengujian. Pemeriksaan ini membantu menjaga agar jawaban tetap akurat dan tidak melebih-lebihkan hasil proyek.
+| Kategori | Contoh dalam proyek | Cara memeriksa |
+|---|---|---|
+| **Fakta** | Pembeli pernah menyampaikan ketidakpastian mengenai waktu penyelesaian pesanan. Penjual pernah memberikan persetujuan lisan terhadap konsep fitur. | Memastikan pernyataan sesuai dengan pengalaman dan komunikasi yang benar-benar terjadi. |
+| **Analisis** | Status pesanan dan estimasi waktu tunggu berpotensi membantu pembeli memperoleh informasi yang lebih jelas. | Memastikan kesimpulan disampaikan sebagai interpretasi, bukan hasil pengujian. |
+| **Rencana** | Meminta konfirmasi tertulis dari penjual dan menguji apakah informasi status mudah diperbarui. | Memastikan tindakan yang belum dilakukan tetap ditulis sebagai rencana. |
+
+Saya juga memeriksa apakah AI memberikan kesimpulan yang terlalu jauh dari informasi awal. Misalnya, persetujuan lisan terhadap konsep tidak dapat diartikan sebagai persetujuan untuk menjalankan sistem. Begitu pula dengan potensi pengurangan ketidakpastian pembeli yang belum dapat disebut sebagai dampak terukur sebelum dilakukan pengujian.
+
+Pemeriksaan ini menjadi bentuk *human review*: AI menghasilkan dan mengembangkan alternatif, sedangkan saya memeriksa konteks, menilai kelayakan, dan menentukan apakah hasilnya dapat digunakan.
 
 ## 4. Privacy, Authority, dan Risk Review
 
@@ -107,122 +144,239 @@ Saya juga memastikan bahwa analisis tidak ditulis seolah-olah merupakan hasil pe
 
 Informasi yang saya masukkan ke ChatGPT terutama berupa pertanyaan tugas, konteks proyek antrean kantin, ringkasan pembahasan pengguna, dan draft portofolio.
 
-Saya memahami bahwa informasi pribadi yang tidak relevan sebaiknya tidak dimasukkan ke prompt. Dalam menjelaskan kebutuhan pengguna, fokusnya adalah pengalaman dan persoalan yang dibahas, bukan identitas pribadi seseorang. Jika hasil analisis digunakan dalam artefak publik, nama atau informasi kontak tidak perlu dicantumkan apabila tidak dibutuhkan.
+Saya memahami bahwa informasi pribadi yang tidak relevan sebaiknya tidak dimasukkan ke dalam prompt. Dalam menjelaskan kebutuhan pengguna, saya cukup menyampaikan pengalaman dan persoalan yang dibahas tanpa mencantumkan identitas atau informasi kontak yang tidak diperlukan.
+
+Jika hasil analisis digunakan dalam artefak publik, saya juga perlu memastikan bahwa informasi yang ditampilkan tidak membuka identitas pihak lain tanpa alasan yang jelas.
 
 Pertimbangan ini merupakan upaya menjaga privasi, bukan hasil audit privasi formal.
 
 ### 4.2 Batas kewenangan
 
-Saya berwenang menjelaskan pengalaman dan analisis saya sendiri. ChatGPT dapat membantu mengolah informasi dan menyusun bahasa, tetapi tidak dapat menentukan kebenaran pengalaman pribadi secara mandiri atau memberikan persetujuan atas nama orang lain.
+Saya memiliki kewenangan untuk menjelaskan pengalaman, menyusun gagasan, dan mengembangkan analisis proyek. ChatGPT dapat membantu mengolah informasi, tetapi tidak dapat menentukan kebenaran pengalaman pribadi secara mandiri atau memberikan persetujuan atas nama orang lain.
 
-Pengguna kantin dapat memberikan masukan berdasarkan pengalamannya. Sementara itu, keputusan operasional mengenai penerapan sistem berada di luar kewenangan saya. Saya juga tidak memiliki dasar untuk menyampaikan gagasan ini sebagai kebijakan resmi kampus.
+Pengguna kantin dapat memberikan masukan berdasarkan pengalaman mereka sebagai pembeli. Penjual dapat menyampaikan pertimbangan terkait proses operasional dan kelayakan penggunaan fitur. Sementara itu, keputusan mengenai penerapan sistem secara lebih luas perlu melibatkan pihak yang memiliki kewenangan operasional.
+
+Saya juga tidak memiliki dasar untuk menyampaikan gagasan ini sebagai kebijakan resmi kampus.
 
 ### 4.3 Risiko penggunaan AI tanpa pemeriksaan
 
-Risiko yang saya identifikasi meliputi:
+Beberapa risiko yang saya identifikasi adalah:
 
-- **Klaim berlebihan:** solusi yang masih berupa gagasan dapat terdengar seperti sudah terbukti berhasil.
-- **Pencampuran fakta dan asumsi:** interpretasi dapat ditulis seolah-olah berasal dari hasil wawancara atau pengujian.
-- **Hilangnya suara pribadi:** bahasa yang terlalu formal dapat mengurangi keaslian refleksi.
-- **Risiko privasi:** informasi pribadi yang tidak diperlukan dapat masuk ke prompt atau artefak.
-- **Ketergantungan:** penggunaan AI secara berlebihan dapat mengurangi latihan berpikir dan menyusun argumen secara mandiri.
+1. **Klaim berlebihan:** solusi yang masih berupa gagasan dapat terdengar seperti sudah terbukti berhasil.
+2. **Pencampuran fakta dan asumsi:** interpretasi AI dapat ditulis seolah-olah berasal dari hasil wawancara atau pengujian.
+3. **Persetujuan yang tidak tepat:** tanggapan positif terhadap konsep dapat disalahartikan sebagai persetujuan implementasi.
+4. **Hilangnya suara pribadi:** bahasa yang terlalu formal dapat mengurangi keaslian refleksi.
+5. **Risiko privasi:** informasi pribadi yang tidak diperlukan dapat masuk ke prompt atau artefak.
+6. **Ketergantungan:** penggunaan AI secara berlebihan dapat mengurangi kesempatan untuk melatih kemampuan berpikir dan menyusun argumen secara mandiri.
 
-Untuk mengurangi risiko tersebut, saya meninjau kesesuaian isi, membatasi klaim berdasarkan bukti, dan mempertahankan keputusan akhir pada diri sendiri.
+Untuk mengurangi risiko tersebut, saya meninjau kesesuaian isi, membatasi klaim berdasarkan bukti, serta mempertahankan keputusan akhir pada diri sendiri.
 
 ### 4.4 Mengapa tidak menyerahkan semua tugas kepada AI?
 
-Memahami pengalaman sendiri, mengonfirmasi apa yang benar-benar terjadi, melakukan wawancara, menilai respons orang lain, dan bertanggung jawab atas isi akhir tetap membutuhkan keterlibatan manusia.
+Memahami pengalaman sendiri, mengonfirmasi apa yang benar-benar terjadi, melakukan komunikasi dengan stakeholder, menilai respons orang lain, dan bertanggung jawab atas isi akhir tetap membutuhkan keterlibatan manusia.
 
-Saya juga perlu berlatih menyusun pemikiran sendiri agar tidak bergantung pada AI setiap kali menghadapi tugas. Karena itu, saya menggunakan AI terutama ketika membutuhkan bantuan untuk memperjelas pemikiran yang sudah memiliki dasar, bukan untuk menggantikan proses memahami pengalaman dan mengambil keputusan.
+AI tidak dapat mengetahui secara langsung apakah penjual benar-benar bersedia menjalankan sistem, apakah fitur sesuai dengan alur kerja kantin, atau apakah pembeli merasa terbantu setelah menggunakannya.
+
+Karena itu, saya menggunakan AI sebagai pendukung proses berpikir, bukan pengganti komunikasi dan pengambilan keputusan. Saya perlu tetap terlibat dalam proses pengumpulan bukti dan validasi agar hasil analisis tidak hanya terlihat baik secara tertulis, tetapi juga sesuai dengan kondisi sebenarnya.
 
 ## 5. Analisis Enam Dimensi Komunikasi yang Dimediasi AI
 
 | Dimensi | Analisis penerapan |
 |---|---|
 | **Person & Character** | Saya berperan sebagai mahasiswa yang bertanggung jawab atas isi portofolio, sedangkan ChatGPT berperan sebagai alat bantu. Saya perlu menjaga kejujuran, ketelitian, dan tanggung jawab ketika menggunakan output AI. |
-| **Objective & State** | Tujuan penggunaan AI adalah menyusun jawaban yang runtut dan menghubungkan proyek dengan konsep pembelajaran. Kondisi awalnya adalah saya sudah memiliki konteks proyek, tetapi memerlukan bantuan untuk mengorganisasi informasi dan mengembangkan analisis. |
+| **Objective & State** | Tujuan penggunaan AI adalah menyusun jawaban yang runtut dan menghubungkan proyek dengan konsep pembelajaran. Kondisi awalnya adalah saya sudah memiliki konteks proyek, tetapi membutuhkan bantuan untuk mengorganisasi informasi dan mengembangkan analisis. |
 | **Repertoire & Language** | Saya menggunakan instruksi untuk mengatur struktur, gaya bahasa, konteks, dan batas klaim. AI membantu memperjelas bahasa, tetapi saya tetap perlu memastikan hasilnya sesuai dengan pengalaman dan tujuan komunikasi. |
-| **Response & Adaptation** | Saya memperjelas instruksi agar jawaban lebih kontekstual, natural, dan tidak mencampuradukkan tindakan aktual dengan rencana. Saya juga mengarahkan analisis untuk mempertimbangkan risiko dan keterbatasan bukti. |
-| **Agreement & Action** | Hasil konkret penggunaan AI adalah draft portofolio, pengorganisasian analisis, perumusan pesan inti, dan refleksi. Namun, penggunaan AI tidak menghasilkan persetujuan stakeholder atau bukti bahwa sistem antrean telah diterapkan. |
-| **Relationship Outcome** | AI membantu saya mempertimbangkan kebutuhan pembeli dan keterbatasan penjual dalam analisis. Namun, belum ada bukti bahwa penggunaan AI menghasilkan perubahan hubungan dengan pengguna, penjual, atau pengelola kantin. |
+| **Response & Adaptation** | Saya memperjelas instruksi agar jawaban lebih kontekstual dan tidak mencampuradukkan tindakan aktual dengan rencana. Saya juga mengarahkan analisis untuk mempertimbangkan risiko, keterbatasan bukti, dan sudut pandang stakeholder. |
+| **Agreement & Action** | Hasil konkret penggunaan AI adalah draft portofolio, pengorganisasian analisis, dan perumusan pesan. Dalam proyek kantin, terdapat persetujuan lisan penjual terhadap konsep fitur, tetapi belum ada persetujuan formal, implementasi, atau pengujian sistem. |
+| **Relationship Outcome** | AI membantu saya mempertimbangkan kebutuhan pembeli dan keterbatasan penjual. Namun, belum ada bukti yang cukup untuk menyimpulkan bahwa penggunaan AI menghasilkan perubahan hubungan dengan pengguna, penjual, atau pengelola kantin. |
 
-Analisis ini menunjukkan bahwa penggunaan AI tidak hanya berkaitan dengan kualitas teks, tetapi juga dengan pembagian peran, pilihan bahasa, batas kewenangan, dan tanggung jawab terhadap pihak lain.
+Dari keenam dimensi tersebut, saya memahami bahwa komunikasi yang dimediasi AI tidak hanya berkaitan dengan kualitas teks yang dihasilkan. Hal ini juga menyangkut siapa yang memiliki kewenangan, bagaimana informasi disampaikan, bagaimana respons pihak lain dipahami, dan siapa yang bertanggung jawab atas keputusan akhir.
 
-## 6. Response, Action, dan Dampak
+## 6. Response, Agreement, Action, dan Relationship Outcome
 
 ### 6.1 Respons terhadap output AI
 
-Saya menilai bahwa penggunaan ChatGPT membantu membuat jawaban portofolio lebih terstruktur dan memperjelas hubungan antara proyek dengan konsep pembelajaran. Penilaian tersebut merupakan evaluasi diri atas proses pengerjaan, bukan feedback eksternal.
+Saya menilai bahwa penggunaan ChatGPT membantu membuat jawaban portofolio lebih terstruktur dan memperjelas hubungan antara proyek dengan konsep pembelajaran.
 
-Belum ada feedback khusus dari dosen atau pihak lain yang dapat saya kaitkan secara langsung dengan penggunaan AI ini.
+Penilaian tersebut merupakan evaluasi diri terhadap proses pengerjaan. Saya belum memiliki feedback eksternal yang secara khusus menyatakan bahwa penggunaan AI telah meningkatkan kualitas komunikasi dengan stakeholder.
+
+Saya membedakan kedua hal tersebut agar evaluasi diri tidak disamakan dengan respons dari pihak lain.
 
 ### 6.2 Adaptasi penggunaan AI
 
-Dalam proses penyusunan jawaban, saya memperjelas konteks dan batasan instruksi. Saya mengarahkan jawaban agar tidak hanya membahas solusi, tetapi juga menjelaskan risiko, keterbatasan bukti, dan tanggung jawab manusia.
+Dalam proses penyusunan jawaban, saya memperjelas konteks dan batasan instruksi. Saya mengarahkan AI agar tidak hanya membahas manfaat solusi, tetapi juga mempertimbangkan risiko, keterbatasan bukti, dan tanggung jawab manusia.
 
-Adaptasi ini membantu saya memperhatikan bukan hanya apakah jawaban terlihat lengkap, melainkan juga apakah isinya dapat dipertanggungjawabkan.
+Salah satu penyesuaian penting adalah membedakan persetujuan terhadap gagasan dengan persetujuan terhadap implementasi. Dengan begitu, pembahasan mengenai tanggapan penjual tetap sesuai dengan apa yang benar-benar pernah disampaikan.
 
-### 6.3 Tindakan konkret dan bukti
+### 6.3 Agreement: bentuk kesepakatan yang tersedia
 
-Tindakan konkret yang dihasilkan dari penggunaan AI adalah:
+Dalam proyek antrean kantin, saya pernah menyampaikan gagasan fitur status pesanan dan estimasi waktu tunggu kepada salah satu penjual kantin. Penjual memberikan persetujuan secara lisan terhadap arah konsep tersebut.
 
-1. Menyusun draft jawaban portofolio KIPP Week 9–13.
-2. Mengorganisasi analisis proyek antrean kantin.
-3. Merumuskan pesan inti mengenai status pesanan dan estimasi waktu tunggu.
-4. Menyusun refleksi, identifikasi risiko, dan self-assessment.
+Namun, ruang lingkup persetujuan itu perlu dipahami secara tepat:
 
-Bukti yang tersedia berupa percakapan dengan ChatGPT, instruksi yang diberikan selama percakapan, dan draft portofolio yang dihasilkan. Bukti tersebut menunjukkan proses penggunaan AI untuk penyusunan tugas, bukan keberhasilan implementasi sistem antrean.
+- Persetujuan yang tersedia berkaitan dengan gagasan fitur status pesanan dan estimasi waktu tunggu.
+- Persetujuan tersebut disampaikan secara lisan, bukan dalam dokumen tertulis.
+- Belum ada kesepakatan mengenai jadwal, pembagian tanggung jawab, mekanisme operasional, atau pelaksanaan uji coba.
+- Belum ada konfirmasi dari pengelola kantin maupun pihak kampus.
 
-### 6.4 Dampak terhadap kemampuan dan hubungan
+Dengan demikian, sudah terdapat interaksi dan tanggapan awal dari stakeholder non-pembeli, tetapi belum cukup untuk menyatakan bahwa seluruh pihak telah mencapai kesepakatan untuk menerapkan solusi.
 
-Penggunaan AI membantu saya mengembangkan cara menjelaskan masalah dan menyusun gagasan secara sistematis. Di sisi lain, saya menyadari bahwa penggunaan yang berlebihan dapat membuat tulisan kehilangan suara pribadi dan mengurangi kesempatan untuk berlatih berpikir mandiri.
+### 6.4 Action: tindakan yang sudah dilakukan dan yang belum dilakukan
 
-Dalam proyek kantin, AI membantu saya mempertimbangkan kebutuhan pembeli dan kemungkinan keterbatasan penjual. Namun, belum ada perubahan hubungan dengan stakeholder yang dapat saya pastikan sebagai dampak langsung penggunaan AI.
+Tindakan yang telah dilakukan dalam proses ini meliputi:
 
-## 7. Feedback, Pembelajaran, dan Rencana Perbaikan
+1. Mengumpulkan informasi awal mengenai masalah antrean dari pembahasan dengan pengguna kantin.
+2. Mengembangkan gagasan fitur status pesanan dan estimasi waktu tunggu.
+3. Menyampaikan gagasan tersebut kepada penjual kantin.
+4. Menerima tanggapan lisan dari penjual terhadap konsep yang diusulkan.
+5. Menggunakan ChatGPT untuk mengorganisasi analisis, menyusun portofolio, dan memeriksa batas klaim.
 
-### 7.1 Feedback yang tersedia
+Sementara itu, tindakan yang belum dilakukan meliputi:
 
-Belum ada feedback eksternal yang secara khusus menilai penggunaan AI dalam penyusunan portofolio ini. Evaluasi yang tersedia berasal dari proses meninjau dan memperbaiki draft sendiri.
+- Meminta konfirmasi tertulis dari penjual mengenai pemahaman dan persetujuannya terhadap konsep.
+- Membahas lebih lanjut waktu dan cara pembaruan status pesanan dalam kegiatan operasional.
+- Meminta masukan dari pengelola kantin.
+- Membuat dan menguji prototipe bersama pengguna dan penjual.
+- Mengukur apakah fitur benar-benar membantu pembeli atau mengurangi ketidakpastian waktu tunggu.
 
-Saya membedakan evaluasi diri tersebut dari feedback pengguna, penjual, pengelola kantin, atau dosen agar tidak menimbulkan kesan bahwa pihak-pihak tersebut telah memberikan penilaian.
+Pemisahan ini penting karena penyusunan analisis dan penyampaian gagasan merupakan tindakan nyata, tetapi belum sama dengan implementasi dan evaluasi solusi.
 
-### 7.2 Perilaku yang akan dilatih
+### 6.5 Relationship Outcome: dampak terhadap hubungan dengan stakeholder
 
-Pada penggunaan AI berikutnya, saya akan memeriksa setiap pernyataan dalam draft dengan mengelompokkannya menjadi tiga kategori:
+Penggunaan AI membantu saya melihat bahwa solusi antrean kantin perlu mempertimbangkan kepentingan pembeli dan penjual secara bersamaan.
 
-- **Fakta:** informasi yang benar-benar didukung oleh pengalaman atau bukti yang tersedia.
-- **Analisis:** interpretasi atau penjelasan yang saya bangun berdasarkan informasi tersebut.
-- **Rencana:** tindakan atau solusi yang belum dilakukan.
+Bagi pembeli, informasi status pesanan dan estimasi waktu tunggu berpotensi memberikan kepastian informasi yang lebih baik. Bagi penjual, fitur tersebut perlu dirancang agar tidak menambah beban operasional secara berlebihan.
 
-Sebelum menggunakan output AI, saya akan memeriksa apakah setiap pernyataan ditempatkan pada kategori yang tepat dan apakah klaimnya sesuai dengan bukti.
+Interaksi dengan penjual memberikan tanggapan awal terhadap konsep yang saya usulkan. Namun, saya belum dapat menyimpulkan bahwa hubungan dengan penjual sudah berubah menjadi kerja sama implementasi atau bahwa kepercayaan stakeholder telah meningkat.
 
-### 7.3 Refleksi utama
+Dampak yang dapat saya pertanggungjawabkan saat ini adalah bertambahnya pemahaman saya mengenai pentingnya melibatkan pihak yang akan menggunakan atau menjalankan solusi. Perubahan pada hubungan stakeholder masih perlu divalidasi melalui komunikasi dan tindakan lanjutan.
 
-Saya belajar bahwa AI dapat membantu menyusun pemikiran dan memperjelas bahasa, tetapi kualitas hasilnya tetap bergantung pada konteks dan pemeriksaan manusia. Jawaban yang terdengar meyakinkan belum tentu akurat apabila tidak sesuai dengan pengalaman atau bukti yang tersedia.
+## 7. Bukti, Feedback, dan Rencana Validasi
 
-Dalam proyek antrean kantin, saya perlu membedakan kebutuhan yang ditemukan, solusi yang diusulkan, dan hasil yang benar-benar telah diuji. Prinsip yang sama berlaku dalam penyusunan portofolio: tulisan yang rapi tidak otomatis berarti seluruh klaim di dalamnya sudah terbukti.
+### 7.1 Pemetaan bukti yang tersedia
 
-Saya menyadari bahwa menggunakan AI secara bertanggung jawab bukan berarti harus menghindarinya, melainkan mengetahui kapan AI berguna dan kapan keputusan harus tetap dibuat sendiri. Tantangan saya adalah memanfaatkan bantuan AI tanpa kehilangan pemahaman, suara pribadi, dan tanggung jawab atas isi akhir.
+Untuk menghindari klaim yang tidak didukung, saya memisahkan bukti berdasarkan sumber dan hal yang dapat dibuktikannya.
 
-## 8. Self-Assessment
+| Bukti atau sumber informasi | Hal yang dapat didukung | Batas bukti |
+|---|---|---|
+| Pembahasan sebelumnya dengan pengguna kantin | Adanya pengalaman pembeli mengenai antrean dan ketidakpastian waktu penyelesaian pesanan. | Tidak dapat dianggap mewakili seluruh pengguna kantin. |
+| Komunikasi lisan dengan penjual kantin | Gagasan fitur status pesanan dan estimasi waktu tunggu pernah disampaikan dan memperoleh tanggapan positif secara lisan. | Belum ada konfirmasi tertulis atau persetujuan implementasi. |
+| Percakapan dengan ChatGPT | Proses pemberian instruksi, pengembangan analisis, dan penyusunan draft portofolio. | Tidak membuktikan bahwa stakeholder menyetujui atau menggunakan solusi. |
+| Draft portofolio KIPP | Hasil pengorganisasian pengalaman, analisis, dan refleksi dengan bantuan AI. | Tidak membuktikan keberhasilan sistem atau perubahan hubungan dengan stakeholder. |
+| Hasil evaluasi LLM tiket 989 | Terdapat penilaian bahwa pemahaman mengenai pembagian peran, kewenangan, dan human review sudah kuat, tetapi bukti eksternal dan perubahan hubungan masih perlu diperkuat. | Merupakan evaluasi terhadap portofolio, bukan feedback dari pengguna atau penjual kantin. |
+
+Pemetaan tersebut membantu saya memahami bahwa setiap bukti memiliki fungsi yang berbeda. Percakapan dengan AI dapat membuktikan proses penggunaan AI, sedangkan validasi kebutuhan dan penerimaan solusi tetap memerlukan komunikasi dengan stakeholder yang relevan.
+
+### 7.2 Feedback yang tersedia
+
+Feedback yang tersedia untuk W14 berasal dari hasil evaluasi LLM tiket 989. Evaluasi tersebut menyatakan bahwa saya telah menunjukkan pemahaman yang kuat mengenai pembagian peran, batas kewenangan, dan pemeriksaan kebenaran oleh manusia.
+
+Namun, evaluasi juga menunjukkan bahwa bukti eksternal dan perubahan hubungan nyata dengan stakeholder belum cukup untuk memvalidasi aspek *Agreement, Action & Relationship*.
+
+Saya memahami bahwa kelemahan tersebut tidak dapat diselesaikan hanya dengan menambah penjelasan di dalam portofolio. Diperlukan tindakan komunikasi yang benar-benar dilakukan dan memiliki bukti yang dapat diperiksa.
+
+### 7.3 Rencana validasi dengan stakeholder
+
+Sebagai tindak lanjut, saya perlu melakukan konfirmasi langsung kepada penjual kantin mengenai konsep yang pernah disampaikan. Konfirmasi ini dapat dilakukan secara singkat, tanpa langsung meminta penjual berkomitmen untuk menerapkan sistem.
+
+Hal-hal yang perlu dikonfirmasi meliputi:
+
+1. Apakah penjual masih memahami konsep status pesanan dan estimasi waktu tunggu yang pernah disampaikan?
+2. Apakah kedua fitur tersebut relevan dengan proses pelayanan di kantin?
+3. Informasi status seperti apa yang paling mudah diperbarui oleh penjual?
+4. Apakah estimasi waktu tunggu memungkinkan untuk diberikan berdasarkan kondisi antrean?
+5. Apa kendala yang mungkin muncul apabila konsep tersebut diuji coba?
+
+Setelah memperoleh tanggapan, saya perlu mencatat hasil komunikasi secara akurat. Jika penjual bersedia, saya dapat meminta konfirmasi tertulis singkat atau izin untuk mendokumentasikan percakapan. Saya juga perlu memastikan bahwa dokumentasi tersebut sesuai dengan persetujuan pihak yang terlibat.
+
+### 7.4 Indikator keberhasilan validasi
+
+| Aspek | Indikator yang perlu diperoleh |
+|---|---|
+| Pemahaman stakeholder | Penjual dapat menjelaskan kembali tujuan fitur status pesanan dan estimasi waktu tunggu. |
+| Relevansi solusi | Penjual dapat menyampaikan apakah fitur sesuai dengan kebutuhan operasional kantin. |
+| Agreement | Terdapat tanggapan yang jelas mengenai bagian konsep yang disetujui, belum disetujui, atau masih perlu dibahas. |
+| Action | Terdapat tindakan lanjutan yang disepakati, misalnya pembahasan prototipe atau uji coba terbatas, jika penjual bersedia. |
+| Relationship Outcome | Terdapat bukti komunikasi lanjutan yang menunjukkan apakah pemahaman dan kerja sama dengan stakeholder berkembang. |
+
+Saya tidak menetapkan bahwa seluruh indikator tersebut sudah tercapai. Tabel ini merupakan kriteria untuk mengevaluasi komunikasi berikutnya agar hasilnya dapat dibuktikan secara lebih objektif.
+
+## 8. Pembelajaran dan Refleksi
+
+### 8.1 Pembelajaran utama
+
+Dari proses penggunaan ChatGPT dalam penyusunan portofolio, saya belajar bahwa AI dapat membantu mengembangkan pemikiran, tetapi tidak dapat menggantikan proses validasi terhadap kenyataan di lapangan.
+
+Sebuah jawaban dapat terlihat lengkap karena memiliki analisis, tabel, dan kesimpulan yang runtut. Namun, hal tersebut belum tentu menunjukkan bahwa komunikasi dengan stakeholder sudah berjalan dengan baik. Untuk membuktikan adanya kesepakatan dan perubahan hubungan, tetap diperlukan respons dan tindakan nyata dari pihak yang terlibat.
+
+Saya juga memahami bahwa persetujuan tidak selalu berarti semua pihak menyetujui seluruh bagian solusi. Tanggapan penjual terhadap konsep merupakan langkah awal yang penting, tetapi masih perlu pembahasan lebih lanjut mengenai kelayakan operasional dan bentuk keterlibatan masing-masing pihak.
+
+### 8.2 Perilaku yang akan saya latih
+
+Pada penggunaan AI berikutnya, saya akan menerapkan beberapa kebiasaan berikut:
+
+- Memeriksa setiap pernyataan dengan membedakan fakta, analisis, dan rencana.
+- Meminta AI menunjukkan bagian yang berpotensi mengandung asumsi atau klaim berlebihan.
+- Membandingkan output AI dengan informasi dan bukti yang benar-benar tersedia.
+- Mempertahankan bahasa yang sesuai dengan pengalaman dan cara komunikasi saya sendiri.
+- Tidak menggunakan output AI sebagai pengganti konfirmasi langsung dari stakeholder.
+- Mendokumentasikan hasil komunikasi dengan pihak terkait secara akurat dan dengan izin yang diperlukan.
+
+### 8.3 Refleksi akhir
+
+Saya menyadari bahwa menggunakan AI secara bertanggung jawab bukan berarti harus menghindarinya. Hal yang lebih penting adalah memahami fungsi dan batas penggunaannya. AI dapat membantu menyusun pemikiran, memperjelas bahasa, dan memberikan sudut pandang tambahan. Namun, keputusan akhir tetap membutuhkan penilaian manusia.
+
+Dalam proyek antrean kantin, saya juga belajar bahwa solusi yang baik tidak cukup hanya menjawab kebutuhan pembeli. Solusi tersebut harus mempertimbangkan kemampuan penjual untuk menjalankannya dan perlu dibicarakan dengan pihak yang memiliki kewenangan.
+
+Saya tidak ingin menjadikan portofolio yang terlihat lengkap sebagai pengganti tindakan nyata. Persetujuan lisan yang pernah diperoleh merupakan langkah awal, tetapi masih perlu ditindaklanjuti melalui konfirmasi yang lebih jelas dan pembahasan mengenai kemungkinan penerapan. Dengan demikian, penggunaan AI tidak berhenti pada menghasilkan tulisan, tetapi membantu saya mempersiapkan komunikasi yang lebih terarah, jujur, dan dapat dipertanggungjawabkan.
+
+## 9. Self-Assessment
 
 | Aspek | Skor | Alasan |
 |---|---:|---|
-| **1. Person & Character** | 4/4 | Saya memahami pembagian peran manusia dan AI, menjaga tanggung jawab atas isi akhir, serta membedakan kewenangan pribadi dengan kewenangan stakeholder lain. |
-| **2. Objective & State** | 4/4 | Tujuan penggunaan AI jelas dan berhubungan dengan kebutuhan nyata dalam penyusunan portofolio. Saya juga dapat menjelaskan kondisi awal serta bantuan yang diperlukan. |
-| **3. Repertoire, Language & AI** | 3/4 | Saya menggunakan AI untuk menyusun struktur, merapikan bahasa, dan mengembangkan analisis. Namun, pemeriksaan output masih berfokus pada konteks dan konsistensi informasi; belum ada dokumentasi sistematis untuk memverifikasi setiap klaim menggunakan sumber independen. |
-| **4. Response & Adaptation** | 4/4 | Saya memperjelas instruksi dan menyesuaikan arah jawaban agar lebih kontekstual, membedakan tindakan dari rencana, serta mempertimbangkan keterbatasan bukti. |
-| **5. Agreement, Action & Relationship** | 3/4 | Saya dapat menjelaskan tindakan konkret berupa draft dan analisis serta menjaga batas kewenangan. Namun, belum ada feedback eksternal atau bukti perubahan hubungan dengan stakeholder. |
+| **1. Person & Character** | 4/4 | Saya memahami tanggung jawab manusia dalam penggunaan AI, menjaga kejujuran terhadap bukti, dan membedakan kewenangan pribadi dengan kewenangan stakeholder. |
+| **2. Objective & State** | 4/4 | Tujuan penggunaan AI jelas, yaitu membantu penyusunan portofolio dan pengembangan analisis proyek. Saya juga dapat menjelaskan konteks awal dan kebutuhan yang ingin dibantu. |
+| **3. Repertoire, Language & AI** | 3/4 | Saya menggunakan AI untuk menyusun struktur, memperjelas bahasa, dan mengembangkan analisis. Namun, pemeriksaan output belum didukung dokumentasi verifikasi independen yang sistematis untuk setiap klaim. |
+| **4. Response & Adaptation** | 3/4 | Saya memperjelas instruksi dan menyesuaikan output berdasarkan konteks serta keterbatasan bukti. Namun, belum ada feedback eksternal yang cukup untuk menilai efektivitas komunikasi secara lebih luas. |
+| **5. Agreement, Action & Relationship** | 2/4 | Sudah terdapat komunikasi dan tanggapan lisan penjual terhadap konsep fitur. Namun, belum ada konfirmasi tertulis, kesepakatan implementasi, tindakan bersama, atau bukti perubahan hubungan dengan stakeholder. |
 
-**Total self-assessment: 18/20**
+**Total self-assessment: 16/20**
 
-Skor ini merupakan penilaian diri berdasarkan proses penggunaan AI yang dijelaskan di atas. Saya belum memberikan skor penuh pada seluruh aspek karena verifikasi independen, feedback eksternal, dan dampak hubungan belum didukung bukti yang memadai.
+Skor tersebut merupakan penilaian diri berdasarkan kegiatan dan bukti yang tersedia. Saya belum memberikan skor lebih tinggi pada aspek *Response & Adaptation* serta *Agreement, Action & Relationship* karena validasi eksternal dan tindak lanjut bersama stakeholder masih perlu dilakukan.
 
-## 9. Penilaian Dosen
+## 10. Penilaian dan Tindak Lanjut Evaluasi
+
+### Hasil evaluasi LLM tiket 989
+
+- **Minggu:** W14
+- **Status:** TERCAPAI
+- **Skor:** 3 — Revisi
+- **Total rubrik:** 14
+
+**Ringkasan evaluasi:**
+
+Saya telah menunjukkan pemahaman yang kuat mengenai pembagian peran manusia dan AI, batas kewenangan, serta pentingnya pemeriksaan kebenaran oleh manusia (*human review*). Namun, bukti eksternal dan perubahan hubungan nyata dengan stakeholder masih belum cukup untuk memvalidasi dampak komunikasi.
+
+**Prioritas perbaikan:**
+
+Prioritas utama adalah memperoleh bukti interaksi nyata dengan stakeholder. Tindak lanjut yang perlu dilakukan adalah meminta konfirmasi dari penjual atau pengguna kantin mengenai solusi yang diusulkan, mencatat respons mereka, serta mengidentifikasi bentuk tindakan lanjutan yang memungkinkan.
+
+**Bukti yang perlu dilengkapi setelah tindakan dilakukan:**
+
+- Catatan komunikasi atau konfirmasi tertulis dari stakeholder.
+- Tanggapan mengenai relevansi dan kelayakan fitur.
+- Kesepakatan atau perbedaan pendapat yang benar-benar disampaikan.
+- Bukti tindakan lanjutan apabila terdapat kesediaan untuk bekerja sama.
+- Refleksi mengenai perubahan pemahaman atau hubungan setelah komunikasi tersebut.
+
+Dengan melengkapi bukti tersebut, saya dapat menunjukkan bahwa penggunaan AI tidak hanya membantu menghasilkan portofolio yang lebih terstruktur, tetapi juga mendukung proses komunikasi yang tetap melibatkan manusia dan stakeholder secara langsung.
+
+---
+
+## 11. Penilaian Dosen
 
 *Bagian ini diisi oleh dosen atau penilai.*
 
-- **Assessor score:** 
-- **Feedback:** 
-- **Area for improvement:** 
+- **Assessor score:**
+- **Feedback:**
+- **Area for improvement:**
