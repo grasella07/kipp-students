@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Menganalisis kesenjangan antara kebutuhan dan tindakan, memetakan hambatan, membandingkan alternatif solusi, serta merumuskan kesepakatan tindak lanjut berdasarkan diskusi mengenai antrean kantin.">
+<meta name="description" content="Mengidentifikasi kesenjangan antara kebutuhan dan tindakan, memetakan authority pihak terkait, membandingkan alternatif solusi, menghasilkan rancangan awal fitur, serta memperoleh kesepakatan untuk tindak lanjut pengembangan sistem informasi pesanan kantin.">
 
 <title>Action &amp; Agreement Challenge – Portfolio KIPP-2</title>
 <style>
@@ -274,14 +274,22 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#action-agreement-challenge" id="toc-action-agreement-challenge" class="nav-link active" data-scroll-target="#action-agreement-challenge">Action &amp; Agreement Challenge</a>
   <ul class="collapse">
   <li><a href="#context" id="toc-context" class="nav-link" data-scroll-target="#context">1. Context</a></li>
-  <li><a href="#evidence" id="toc-evidence" class="nav-link" data-scroll-target="#evidence">2. Evidence</a></li>
+  <li><a href="#evidence" id="toc-evidence" class="nav-link" data-scroll-target="#evidence">2. Evidence</a>
+  <ul class="collapse">
+  <li><a href="#authority-mapping" id="toc-authority-mapping" class="nav-link" data-scroll-target="#authority-mapping">2.1 Authority Mapping</a></li>
+  <li><a href="#agreement-record" id="toc-agreement-record" class="nav-link" data-scroll-target="#agreement-record">2.2 Agreement Record</a></li>
+  </ul></li>
   <li><a href="#communication-analysis" id="toc-communication-analysis" class="nav-link" data-scroll-target="#communication-analysis">3. Communication Analysis</a>
   <ul class="collapse">
   <li><a href="#a.-person-character" id="toc-a.-person-character" class="nav-link" data-scroll-target="#a.-person-character">A. Person &amp; Character</a></li>
   <li><a href="#b.-objective-state" id="toc-b.-objective-state" class="nav-link" data-scroll-target="#b.-objective-state">B. Objective &amp; State</a></li>
   <li><a href="#c.-repertoire-language" id="toc-c.-repertoire-language" class="nav-link" data-scroll-target="#c.-repertoire-language">C. Repertoire &amp; Language</a></li>
+  <li><a href="#artefak-rancangan-awal-fitur" id="toc-artefak-rancangan-awal-fitur" class="nav-link" data-scroll-target="#artefak-rancangan-awal-fitur">3.1 Artefak: Rancangan Awal Fitur</a></li>
   <li><a href="#d.-response-adaptation" id="toc-d.-response-adaptation" class="nav-link" data-scroll-target="#d.-response-adaptation">D. Response &amp; Adaptation</a></li>
   <li><a href="#e.-agreement-action" id="toc-e.-agreement-action" class="nav-link" data-scroll-target="#e.-agreement-action">E. Agreement &amp; Action</a></li>
+  <li><a href="#agreement-dan-pembagian-tanggung-jawab" id="toc-agreement-dan-pembagian-tanggung-jawab" class="nav-link" data-scroll-target="#agreement-dan-pembagian-tanggung-jawab">3.2 Agreement dan Pembagian Tanggung Jawab</a></li>
+  <li><a href="#action-evidence" id="toc-action-evidence" class="nav-link" data-scroll-target="#action-evidence">3.3 Action Evidence</a></li>
+  <li><a href="#review-dan-tindak-lanjut" id="toc-review-dan-tindak-lanjut" class="nav-link" data-scroll-target="#review-dan-tindak-lanjut">3.4 Review dan Tindak Lanjut</a></li>
   <li><a href="#f.-relationship-outcome" id="toc-f.-relationship-outcome" class="nav-link" data-scroll-target="#f.-relationship-outcome">F. Relationship Outcome</a></li>
   </ul></li>
   <li><a href="#ai-use" id="toc-ai-use" class="nav-link" data-scroll-target="#ai-use">4. AI Use</a></li>
@@ -309,7 +317,7 @@ ul.task-list li input[type="checkbox"] {
 
 <div>
   <div class="description">
-    Menganalisis kesenjangan antara kebutuhan dan tindakan, memetakan hambatan, membandingkan alternatif solusi, serta merumuskan kesepakatan tindak lanjut berdasarkan diskusi mengenai antrean kantin.
+    Mengidentifikasi kesenjangan antara kebutuhan dan tindakan, memetakan authority pihak terkait, membandingkan alternatif solusi, menghasilkan rancangan awal fitur, serta memperoleh kesepakatan untuk tindak lanjut pengembangan sistem informasi pesanan kantin.
   </div>
 </div>
 
@@ -330,37 +338,118 @@ ul.task-list li input[type="checkbox"] {
 <h1>Action &amp; Agreement Challenge</h1>
 <section id="context" class="level2">
 <h2 class="anchored" data-anchor-id="context">1. Context</h2>
-<p>Kegiatan <em>Action &amp; Agreement Challenge</em> merupakan tindak lanjut dari wawancara Week 9 mengenai permasalahan antrean kantin kampus. Dalam wawancara tersebut, saya menggali pengalaman pengguna ketika mengantre, kesulitan mengetahui perkembangan pesanan, dan kebutuhan akan informasi estimasi waktu tunggu.</p>
-<p>Setelah wawancara, saya kembali mendiskusikan ide sistem informasi pesanan dengan teman yang diwawancarai. Kami membahas fitur yang paling dibutuhkan pembeli serta kemungkinan langkah sederhana untuk mengembangkan ide tersebut. Saya juga bertukar pendapat dengan teman lain untuk mendapatkan perspektif tambahan mengenai kelayakan solusi.</p>
-<p>Dari diskusi dan analisis tersebut, saya mengidentifikasi bahwa permasalahan utama bukan hanya panjangnya antrean, tetapi juga ketidakpastian informasi selama menunggu. Pembeli perlu mengetahui status pesanan dan memperkirakan waktu makanan siap agar dapat mengatur kegiatan berikutnya, terutama ketika waktu istirahat terbatas.</p>
-<p>Saya kemudian mempertimbangkan alternatif solusi, hambatan penerapan, pihak yang perlu dilibatkan, dan pembagian tindakan yang dapat membantu membawa ide dari tahap pembahasan menuju rancangan awal. Fokus kegiatan ini adalah memahami kesenjangan antara kondisi yang diinginkan dan tindakan yang sudah dilakukan, serta menyusun tindak lanjut yang lebih terarah.</p>
+<p>Kegiatan <em>Action &amp; Agreement Challenge</em> merupakan tindak lanjut dari wawancara Week 9 mengenai permasalahan antrean kantin kampus. Dalam wawancara tersebut, saya menggali pengalaman pembeli ketika mengantre, kesulitan mengetahui perkembangan pesanan, dan kebutuhan akan informasi estimasi waktu tunggu.</p>
+<p>Dari hasil wawancara, saya menemukan bahwa permasalahan utama bukan hanya panjangnya antrean, tetapi juga ketidakpastian informasi selama menunggu. Pembeli tidak selalu mengetahui apakah pesanannya sedang disiapkan atau sudah dapat diambil. Selain itu, pembeli kesulitan memperkirakan waktu tunggu, terutama ketika harus kembali mengikuti perkuliahan.</p>
+<p>Saya kemudian mendiskusikan gagasan sistem informasi pesanan dengan teman yang diwawancarai. Pembahasan tersebut membantu saya menentukan fitur yang paling dibutuhkan pembeli. Namun, saya menyadari bahwa solusi tidak cukup hanya mempertimbangkan sudut pandang pembeli. Penjual kantin juga perlu dilibatkan karena merekalah yang berhubungan langsung dengan proses penerimaan, penyiapan, dan penyelesaian pesanan.</p>
+<p>Oleh karena itu, saya melanjutkan pembahasan dengan penjual kantin untuk memperkenalkan rancangan fitur status pesanan dan estimasi waktu tunggu. Saya juga mempertimbangkan alternatif solusi, hambatan penerapan, pembagian tanggung jawab, serta pihak yang perlu memberikan persetujuan.</p>
+<p>Target kegiatan ini adalah mengubah hasil wawancara dan diskusi menjadi rancangan awal yang lebih konkret, memperoleh tanggapan dari pihak yang terlibat dalam operasional kantin, dan menentukan arah pengembangan selanjutnya.</p>
 </section>
 <section id="evidence" class="level2">
 <h2 class="anchored" data-anchor-id="evidence">2. Evidence</h2>
-<p>Bukti kegiatan yang relevan meliputi:</p>
+<p>Bukti kegiatan dalam Week 10 mencakup:</p>
 <ol type="1">
-<li>Catatan hasil wawancara Week 9 mengenai pengalaman pengguna ketika mengantre di kantin.</li>
-<li>Transkrip percakapan yang disusun berdasarkan wawancara.</li>
-<li>Hasil pengelompokan kebutuhan pengguna, termasuk kebutuhan mengetahui status pesanan dan estimasi waktu tunggu.</li>
-<li>Analisis alternatif solusi, prioritas fitur, hambatan operasional, dan risiko penerapan.</li>
-<li>Catatan diskusi lanjutan mengenai fitur yang diprioritaskan serta kemungkinan pengembangan rancangan sederhana.</li>
+<li>Catatan wawancara Week 9 mengenai pengalaman pembeli ketika mengantre.</li>
+<li>Hasil identifikasi kebutuhan pengguna, terutama informasi status pesanan dan estimasi waktu tunggu.</li>
+<li>Perbandingan alternatif solusi beserta manfaat dan risiko masing-masing.</li>
+<li>Rancangan awal fitur sistem informasi pesanan yang terdiri atas nomor pesanan, status pesanan, dan estimasi waktu tunggu.</li>
+<li>Catatan hasil diskusi dengan penjual kantin mengenai rancangan fitur.</li>
+<li>Persetujuan lisan dari penjual kantin terhadap gagasan fitur status pesanan dan estimasi waktu tunggu.</li>
 </ol>
-<p>Catatan wawancara menjadi dasar untuk memahami kebutuhan pengguna, sedangkan analisis alternatif solusi membantu menghubungkan kebutuhan tersebut dengan pilihan tindakan yang memungkinkan.</p>
-<p>Untuk mendukung bagian kesepakatan, bukti yang paling relevan adalah catatan atau pesan yang menunjukkan keputusan mengenai rancangan awal, pembagian tanggung jawab, target penyelesaian, dan rencana peninjauan bersama. Bukti tersebut perlu menggunakan komunikasi atau hasil kerja yang benar-benar tersedia. Jika suatu keputusan hanya diingat dari percakapan lisan, hal itu perlu dijelaskan sebagai kesepakatan lisan, bukan sebagai dokumen tertulis.</p>
-<p>Kegiatan ini berfokus pada analisis dan penyusunan arah tindak lanjut. Efektivitas sistem dalam mengurangi waktu tunggu atau mempercepat antrean belum dapat disimpulkan karena sistem belum diuji dalam operasional kantin.</p>
+<p>Bukti utama yang dihasilkan dalam kegiatan ini adalah rancangan awal fitur. Rancangan tersebut merupakan hasil pengembangan dari kebutuhan yang ditemukan pada Week 9, sehingga tidak lagi berhenti pada identifikasi masalah atau usulan ide.</p>
+<p>Selain itu, saya membahas rancangan tersebut dengan penjual kantin. Penjual menyatakan setuju terhadap gagasan fitur status pesanan dan estimasi waktu tunggu. Persetujuan ini menjadi bentuk penerimaan awal dari pihak yang terlibat langsung dalam pelayanan pesanan.</p>
+<section id="authority-mapping" class="level3">
+<h3 class="anchored" data-anchor-id="authority-mapping">2.1 Authority Mapping</h3>
+<p>Dalam mengembangkan solusi, saya mengidentifikasi bahwa setiap pihak memiliki peran dan tingkat kewenangan yang berbeda.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Pihak</th>
+<th>Peran dalam kegiatan</th>
+<th>Authority dan kontribusi</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Pembeli kantin</td>
+<td>Calon pengguna sistem</td>
+<td>Memberikan informasi mengenai kebutuhan, kesulitan, dan manfaat fitur dari sisi pembeli</td>
+</tr>
+<tr class="even">
+<td>Penjual kantin</td>
+<td>Pihak yang menjalankan proses pelayanan pesanan</td>
+<td>Memahami alur penerimaan dan penyiapan pesanan serta memberikan persetujuan dan masukan dari sisi operasional</td>
+</tr>
+<tr class="odd">
+<td>Saya</td>
+<td>Perancang solusi</td>
+<td>Mengolah kebutuhan pengguna, menyusun rancangan fitur, dan menindaklanjuti masukan yang diperoleh</td>
+</tr>
+</tbody>
+</table>
+<p>Penjual kantin menjadi pihak penting untuk dilibatkan karena rancangan sistem berkaitan langsung dengan aktivitas pelayanan pesanan. Fitur yang dibuat harus memungkinkan penjual mengetahui pesanan yang perlu diperbarui statusnya dan memberikan informasi yang sesuai kepada pembeli.</p>
+<p>Saya tidak hanya meminta pendapat calon pengguna, tetapi juga membahas gagasan tersebut dengan penjual sebagai pihak yang akan berhubungan langsung dengan mekanisme sistem. Penjual menyatakan setuju terhadap rancangan fitur yang diajukan secara lisan.</p>
+<p>Dengan demikian, terdapat dua perspektif yang dipertimbangkan dalam kegiatan ini: kebutuhan pembeli sebagai pengguna informasi dan kesesuaian rancangan dengan aktivitas penjual sebagai pelaksana pelayanan.</p>
+</section>
+<section id="agreement-record" class="level3">
+<h3 class="anchored" data-anchor-id="agreement-record">2.2 Agreement Record</h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Komponen</th>
+<th>Hasil</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Pihak yang terlibat</td>
+<td>Saya dan penjual kantin</td>
+</tr>
+<tr class="even">
+<td>Hal yang dibahas</td>
+<td>Rancangan fitur sistem informasi pesanan</td>
+</tr>
+<tr class="odd">
+<td>Fitur yang diajukan</td>
+<td>Status pesanan dan estimasi waktu tunggu</td>
+</tr>
+<tr class="even">
+<td>Bentuk persetujuan</td>
+<td>Persetujuan lisan</td>
+</tr>
+<tr class="odd">
+<td>Hasil kesepakatan</td>
+<td>Penjual menyatakan setuju terhadap gagasan fitur yang dibahas</td>
+</tr>
+<tr class="even">
+<td>Tindak lanjut</td>
+<td>Rancangan digunakan sebagai dasar untuk pengembangan dan evaluasi berikutnya</td>
+</tr>
+</tbody>
+</table>
+<p>Persetujuan lisan tersebut menunjukkan bahwa gagasan yang dikembangkan telah dibahas dengan pihak yang berkaitan langsung dengan proses pelayanan. Persetujuan ini menjadi dasar untuk melanjutkan penyusunan rancangan, sedangkan penerapan sistem dalam operasional kantin tetap perlu mempertimbangkan kesiapan dan koordinasi lebih lanjut.</p>
+</section>
 </section>
 <section id="communication-analysis" class="level2">
 <h2 class="anchored" data-anchor-id="communication-analysis">3. Communication Analysis</h2>
 <section id="a.-person-character" class="level3">
 <h3 class="anchored" data-anchor-id="a.-person-character">A. Person &amp; Character</h3>
-<p>Dalam kegiatan ini, saya berusaha memahami masalah dari sudut pandang pengguna sebelum menentukan solusi. Saya menggunakan pertanyaan terbuka untuk menggali pengalaman teman ketika mengantre, kesulitan yang dihadapi, dan informasi yang dapat membantunya mengatur waktu.</p>
-<p>Saya juga berusaha mempertimbangkan masukan pengguna ketika mengevaluasi gagasan awal. Salah satu masukan penting adalah bahwa estimasi waktu tunggu tetap berguna meskipun tidak selalu akurat, selama informasinya diperbarui ketika kondisi kantin berubah.</p>
-<p>Masukan tersebut membantu saya memahami bahwa solusi perlu mempertimbangkan pengalaman pengguna dan kondisi operasional, bukan hanya kelengkapan fitur. Sistem yang memiliki banyak fitur belum tentu efektif apabila sulit digunakan atau informasi yang ditampilkan tidak sesuai dengan kondisi sebenarnya.</p>
-<p>Karakter yang ingin saya kembangkan melalui kegiatan ini adalah keterbukaan terhadap perspektif orang lain, kesediaan mengevaluasi asumsi, dan tanggung jawab dalam membedakan kebutuhan yang disampaikan pengguna dari kesimpulan yang masih berupa analisis pribadi.</p>
+<p>Dalam kegiatan ini, saya berusaha memahami masalah dari sudut pandang pengguna sebelum menentukan solusi. Saya menggunakan pertanyaan terbuka untuk menggali pengalaman pembeli ketika mengantre, kesulitan yang dihadapi, dan informasi yang dapat membantunya mengatur waktu.</p>
+<p>Saya juga menyadari bahwa pembeli bukan satu-satunya pihak yang perlu dipertimbangkan. Penjual kantin memiliki peran penting karena rancangan fitur akan berhubungan dengan aktivitas mereka. Oleh karena itu, saya berusaha memperoleh tanggapan langsung dari penjual agar solusi yang dirancang tidak hanya berorientasi pada kenyamanan pembeli.</p>
+<p>Pelibatan penjual membantu saya melihat bahwa sistem yang baik harus memberikan manfaat bagi pembeli sekaligus mempertimbangkan kemudahan penggunaannya dari sisi penjual. Misalnya, informasi status pesanan harus mudah diperbarui dan tidak menambah beban kerja secara berlebihan.</p>
+<p>Karakter yang ingin saya kembangkan melalui kegiatan ini adalah keterbukaan terhadap perspektif orang lain, keberanian untuk menyampaikan gagasan, dan tanggung jawab dalam memastikan bahwa solusi yang dibuat mempertimbangkan kebutuhan pihak-pihak yang terlibat.</p>
 </section>
 <section id="b.-objective-state" class="level3">
 <h3 class="anchored" data-anchor-id="b.-objective-state">B. Objective &amp; State</h3>
-<p>Tujuan utama pengguna adalah mengurangi ketidakpastian selama menunggu pesanan. Pengguna ingin mengetahui perkembangan pesanannya dan memperkirakan kapan makanan siap agar dapat mengatur waktu dengan lebih baik sebelum kembali mengikuti perkuliahan.</p>
+<p>Tujuan utama pembeli adalah mengurangi ketidakpastian selama menunggu pesanan. Pembeli ingin mengetahui perkembangan pesanannya dan memperkirakan kapan makanan siap agar dapat mengatur waktu dengan lebih baik sebelum kembali mengikuti perkuliahan.</p>
 <p>Kondisi saat ini masih mengharuskan pembeli menunggu sampai makanan selesai dibuat atau terkadang bertanya kepada penjual untuk mengetahui perkembangan pesanan. Cara tersebut masih dapat dilakukan, tetapi kurang praktis ketika kantin ramai dan penjual sedang sibuk.</p>
 <p>Kesenjangan antara kondisi saat ini dan kondisi yang diinginkan dapat dirangkum sebagai berikut:</p>
 <table class="caption-top table">
@@ -395,19 +484,25 @@ ul.task-list li input[type="checkbox"] {
 <tr class="even">
 <td>Proses operasional</td>
 <td>Informasi bergantung pada komunikasi langsung</td>
-<td>Informasi dapat diperbarui dengan cara yang mudah bagi penjual</td>
+<td>Informasi dapat diperbarui melalui mekanisme yang sederhana</td>
 </tr>
 </tbody>
 </table>
-<p>Saya mengidentifikasi bahwa kesenjangan tersebut berpotensi dikurangi melalui sistem informasi pesanan yang sederhana. Namun, solusi digital bukan satu-satunya kemungkinan, dan kelayakannya masih perlu dinilai berdasarkan kondisi operasional kantin.</p>
-<p>Hambatan yang saya identifikasi meliputi belum tersedianya sistem informasi pesanan yang sesuai dengan kebutuhan, kemungkinan keterbatasan waktu penjual untuk memperbarui status, ketepatan estimasi waktu, serta kebutuhan untuk menentukan pihak yang berwenang menyetujui penerapan sistem.</p>
-<p>Sebagian hambatan tersebut merupakan hasil analisis awal dan belum diverifikasi melalui observasi langsung. Karena itu, saya tidak menganggap seluruh dugaan tersebut sebagai fakta mengenai operasional kantin.</p>
+<p>Saya mengidentifikasi bahwa kesenjangan tersebut dapat dikurangi melalui sistem informasi pesanan sederhana. Namun, solusi digital perlu mempertimbangkan kondisi operasional kantin agar tidak justru menambah pekerjaan penjual.</p>
+<p>Beberapa hambatan yang saya identifikasi adalah:</p>
+<ol type="1">
+<li><strong>Pembaruan status pesanan.</strong> Status harus diperbarui sesuai perkembangan pesanan agar pembeli tidak menerima informasi yang keliru.</li>
+<li><strong>Ketepatan estimasi waktu.</strong> Waktu penyelesaian dapat berbeda bergantung pada jumlah pesanan dan kondisi kantin.</li>
+<li><strong>Kemudahan penggunaan.</strong> Sistem harus mudah dipahami oleh pembeli dan penjual.</li>
+<li><strong>Kesiapan operasional.</strong> Mekanisme sistem harus sesuai dengan proses pelayanan yang sudah berjalan.</li>
+<li><strong>Persetujuan pihak terkait.</strong> Penerapan sistem membutuhkan keterlibatan pihak yang berhubungan langsung dengan proses pelayanan dan pengelolaan kantin.</li>
+</ol>
+<p>Identifikasi hambatan tersebut membantu saya memahami bahwa solusi tidak cukup hanya dirancang berdasarkan kebutuhan pengguna. Solusi juga perlu mempertimbangkan pihak yang menjalankan proses dan memiliki kewenangan dalam aktivitas operasional.</p>
 </section>
 <section id="c.-repertoire-language" class="level3">
 <h3 class="anchored" data-anchor-id="c.-repertoire-language">C. Repertoire &amp; Language</h3>
 <p>Saya menggunakan pertanyaan terbuka untuk menggali masalah, kebutuhan, dan tanggapan pengguna terhadap solusi yang diusulkan. Setelah itu, saya mengelompokkan hasil percakapan menjadi kebutuhan utama, fitur yang berpotensi membantu, dan risiko yang perlu dipertimbangkan.</p>
-<p>Berdasarkan hasil wawancara dan diskusi, saya memprioritaskan status pesanan sebagai fitur awal. Estimasi waktu tunggu menjadi fitur pendukung yang melengkapi informasi status tersebut.</p>
-<p>Perbandingan alternatif solusi yang saya pertimbangkan adalah sebagai berikut.</p>
+<p>Berdasarkan hasil wawancara dan diskusi, saya membandingkan beberapa alternatif solusi.</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 33%">
@@ -423,9 +518,9 @@ ul.task-list li input[type="checkbox"] {
 </thead>
 <tbody>
 <tr class="odd">
-<td>Status pesanan sebagai fitur awal</td>
+<td>Status pesanan saja</td>
 <td>Membantu pembeli mengetahui perkembangan pesanan</td>
-<td>Tetap membutuhkan pembaruan status dari penjual</td>
+<td>Belum memberikan gambaran mengenai perkiraan waktu selesai</td>
 </tr>
 <tr class="even">
 <td>Status pesanan dan estimasi waktu tunggu</td>
@@ -435,36 +530,130 @@ ul.task-list li input[type="checkbox"] {
 <tr class="odd">
 <td>Website sederhana</td>
 <td>Dapat diakses melalui ponsel tanpa memasang aplikasi</td>
-<td>Membutuhkan perangkat, akses sistem, dan mekanisme pembaruan yang mudah</td>
+<td>Membutuhkan mekanisme pembaruan informasi yang mudah</td>
 </tr>
 <tr class="even">
 <td>Papan informasi atau informasi manual</td>
-<td>Dapat menjadi alternatif sederhana untuk menyampaikan informasi</td>
-<td>Informasi mungkin tidak selalu mudah diakses secara personal dan tetap membutuhkan pembaruan</td>
+<td>Lebih sederhana untuk menyampaikan informasi</td>
+<td>Pembeli tetap perlu melihat papan informasi dan informasi harus diperbarui secara manual</td>
 </tr>
 </tbody>
 </table>
-<p>Dari alternatif tersebut, saya mempertimbangkan website sederhana sebagai salah satu pilihan yang layak dievaluasi karena dapat diakses melalui ponsel. Rancangan awal dapat dibatasi pada nomor pesanan, status pesanan, dan estimasi waktu tunggu agar tidak terlalu rumit.</p>
-<p>Pemilihan website masih merupakan pilihan rancangan awal yang perlu diuji, bukan keputusan teknis yang sudah terbukti paling baik. Perbandingan antara website, aplikasi, papan informasi, dan informasi manual juga masih perlu diperkuat melalui observasi dan masukan dari penjual atau pengelola kantin.</p>
-<p>Melalui proses ini, saya belajar bahwa komunikasi yang efektif tidak hanya membutuhkan kemampuan menyampaikan ide, tetapi juga kemampuan menjelaskan alasan di balik pilihan, mempertimbangkan kekurangan, dan menggunakan bahasa yang mudah dipahami oleh pihak yang terlibat.</p>
+<p>Dari beberapa alternatif tersebut, saya memilih untuk memprioritaskan rancangan sistem informasi pesanan dengan dua fitur utama, yaitu status pesanan dan estimasi waktu tunggu. Kedua fitur tersebut dipilih karena paling sesuai dengan kebutuhan yang ditemukan pada wawancara Week 9.</p>
+</section>
+<section id="artefak-rancangan-awal-fitur" class="level3">
+<h3 class="anchored" data-anchor-id="artefak-rancangan-awal-fitur">3.1 Artefak: Rancangan Awal Fitur</h3>
+<p>Rancangan awal yang saya susun memiliki komponen sebagai berikut:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Komponen</th>
+<th>Spesifikasi rancangan</th>
+<th>Tujuan</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Nomor pesanan</td>
+<td>Setiap pesanan memiliki nomor identifikasi</td>
+<td>Memudahkan pembeli mengenali pesanannya</td>
+</tr>
+<tr class="even">
+<td>Status pesanan</td>
+<td>Menampilkan status “Menunggu”, “Sedang disiapkan”, dan “Siap diambil”</td>
+<td>Memberikan informasi perkembangan pesanan</td>
+</tr>
+<tr class="odd">
+<td>Estimasi waktu tunggu</td>
+<td>Menampilkan perkiraan waktu sampai pesanan siap</td>
+<td>Membantu pembeli memperkirakan waktu pengambilan</td>
+</tr>
+<tr class="even">
+<td>Pembaruan status</td>
+<td>Penjual dapat memperbarui status sesuai perkembangan pesanan</td>
+<td>Menjaga informasi tetap sesuai dengan kondisi pesanan</td>
+</tr>
+<tr class="odd">
+<td>Informasi pesanan</td>
+<td>Pembeli dapat melihat status berdasarkan nomor pesanannya</td>
+<td>Memudahkan pembeli memperoleh informasi tanpa harus terus bertanya</td>
+</tr>
+</tbody>
+</table>
+<p>Alur penggunaan yang dirancang adalah sebagai berikut:</p>
+<ol type="1">
+<li>Pembeli melakukan pemesanan dan memperoleh nomor pesanan.</li>
+<li>Pesanan masuk ke dalam daftar pesanan yang perlu disiapkan.</li>
+<li>Penjual memperbarui status menjadi “Sedang disiapkan”.</li>
+<li>Sistem menampilkan estimasi waktu tunggu kepada pembeli.</li>
+<li>Ketika makanan selesai dibuat, penjual memperbarui status menjadi “Siap diambil”.</li>
+<li>Pembeli melihat informasi tersebut dan mengambil pesanannya.</li>
+</ol>
+<p>Rancangan ini berusaha mengurangi ketidakpastian informasi selama proses menunggu. Pembeli tidak harus terus bertanya kepada penjual untuk mengetahui perkembangan pesanannya, sedangkan penjual memiliki mekanisme untuk menyampaikan informasi melalui pembaruan status.</p>
+<p>Saya juga menetapkan beberapa kriteria agar rancangan dapat dievaluasi:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Kriteria</th>
+<th>Indikator keberhasilan rancangan</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Kejelasan informasi</td>
+<td>Status pesanan mudah dipahami pembeli</td>
+</tr>
+<tr class="even">
+<td>Kegunaan estimasi</td>
+<td>Pembeli memperoleh perkiraan waktu tunggu</td>
+</tr>
+<tr class="odd">
+<td>Kemudahan pembaruan</td>
+<td>Penjual dapat memperbarui informasi dengan langkah sederhana</td>
+</tr>
+<tr class="even">
+<td>Kesesuaian alur</td>
+<td>Mekanisme rancangan tidak bertentangan dengan proses pelayanan pesanan</td>
+</tr>
+<tr class="odd">
+<td>Konsistensi informasi</td>
+<td>Status dan estimasi diperbarui ketika terjadi perubahan kondisi pesanan</td>
+</tr>
+</tbody>
+</table>
+<p>Rancangan tersebut menjadi hasil kerja konkret dari kegiatan Week 10. Rancangan tidak hanya berisi daftar fitur, tetapi juga menjelaskan fungsi setiap komponen, alur penggunaan, serta kriteria yang dapat digunakan untuk menilai kelayakannya.</p>
 </section>
 <section id="d.-response-adaptation" class="level3">
 <h3 class="anchored" data-anchor-id="d.-response-adaptation">D. Response &amp; Adaptation</h3>
-<p>Masukan pengguna memengaruhi cara saya memahami solusi yang dibutuhkan. Pada awalnya, saya berfokus pada informasi status pesanan. Setelah mempertimbangkan tanggapan pengguna, saya menyadari bahwa status pesanan saja belum sepenuhnya menjawab kebutuhan untuk mengatur waktu.</p>
-<p>Estimasi waktu tunggu juga diperlukan, tetapi tidak dapat dianggap sebagai waktu yang pasti. Ketika kondisi kantin berubah, estimasi perlu diperbarui agar tetap relevan dan tidak menimbulkan ekspektasi yang keliru.</p>
-<p>Berdasarkan masukan tersebut, saya mempertimbangkan tiga aspek dalam rancangan solusi:</p>
+<p>Pada awalnya, saya lebih berfokus pada kebutuhan pembeli, terutama keinginan untuk mengetahui status pesanan. Namun, setelah mempertimbangkan masukan pengguna dan berdiskusi dengan penjual, saya menyadari bahwa rancangan juga harus memperhatikan proses pembaruan informasi.</p>
+<p>Estimasi waktu tunggu tidak dapat dianggap sebagai waktu yang pasti karena kondisi kantin dapat berubah. Oleh karena itu, saya memasukkan estimasi sebagai informasi pendukung yang dapat disesuaikan dengan perkembangan pesanan.</p>
+<p>Saya juga mempertimbangkan bahwa penjual tidak boleh dibebani proses administrasi yang terlalu rumit. Jika pembaruan status membutuhkan terlalu banyak langkah, sistem justru berpotensi menghambat pekerjaan utama penjual.</p>
+<p>Berdasarkan pertimbangan tersebut, saya menetapkan tiga prinsip dalam rancangan:</p>
 <ol type="1">
-<li>Status pesanan harus mudah dipahami oleh pembeli.</li>
-<li>Estimasi waktu tunggu perlu diperlakukan sebagai perkiraan yang dapat berubah.</li>
-<li>Proses pembaruan informasi harus sederhana agar tidak menambah beban kerja penjual secara berlebihan.</li>
+<li>Informasi status harus sederhana dan mudah dipahami.</li>
+<li>Estimasi waktu harus diperlakukan sebagai perkiraan, bukan janji waktu yang pasti.</li>
+<li>Mekanisme pembaruan harus praktis bagi penjual.</li>
 </ol>
-<p>Saya juga membedakan manfaat yang diharapkan dari hasil yang telah terbukti. Sistem berpotensi mengurangi ketidakpastian dan membantu pembeli mengatur waktu, tetapi belum ada bukti bahwa sistem benar-benar mengurangi durasi antrean karena belum dilakukan pengujian.</p>
-<p>Adaptasi ini menunjukkan bahwa saya mulai menggunakan respons pengguna untuk mengevaluasi asumsi awal dan memperbaiki arah solusi, bukan hanya mempertahankan ide yang pertama kali saya pikirkan.</p>
+<p>Tanggapan penjual yang menyatakan setuju terhadap gagasan fitur juga menjadi masukan dalam proses pengembangan. Hal ini memperkuat alasan untuk melanjutkan rancangan, karena gagasan tersebut tidak hanya dipertimbangkan dari sudut pandang pembeli.</p>
+<p>Melalui proses ini, saya belajar bahwa adaptasi berarti bersedia menyesuaikan solusi berdasarkan kondisi dan perspektif pihak yang terlibat, bukan hanya mempertahankan gagasan awal.</p>
 </section>
 <section id="e.-agreement-action" class="level3">
 <h3 class="anchored" data-anchor-id="e.-agreement-action">E. Agreement &amp; Action</h3>
-<p>Setelah wawancara dan diskusi lanjutan, arah tindakan yang dibahas adalah mengembangkan ide tersebut menjadi rancangan sederhana sistem informasi pesanan. Rancangan diprioritaskan pada status pesanan dan estimasi waktu tunggu, dengan mempertimbangkan kebutuhan pengguna serta kemungkinan kendala operasional.</p>
-<p>Pembagian tanggung jawab yang dibahas adalah:</p>
+<p>Bagian penting dari kegiatan ini adalah mengubah hasil analisis menjadi tindakan yang memiliki hasil kerja konkret.</p>
+<p>Setelah menyusun gagasan fitur, saya membahas rancangan status pesanan dan estimasi waktu tunggu dengan penjual kantin. Penjual menyatakan setuju terhadap gagasan fitur tersebut secara lisan.</p>
+<p>Penjual kantin memiliki keterlibatan langsung dalam proses menerima dan menyiapkan pesanan. Karena itu, tanggapannya relevan untuk menilai apakah fitur yang dirancang sesuai dengan kebutuhan pelayanan. Persetujuan yang diberikan menjadi kesepakatan awal untuk melanjutkan pengembangan gagasan.</p>
+</section>
+<section id="agreement-dan-pembagian-tanggung-jawab" class="level3">
+<h3 class="anchored" data-anchor-id="agreement-dan-pembagian-tanggung-jawab">3.2 Agreement dan Pembagian Tanggung Jawab</h3>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 33%">
@@ -481,54 +670,83 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>Saya</td>
-<td>Merapikan hasil wawancara, menyusun kebutuhan pengguna, dan membuat rancangan awal fitur</td>
-<td>Rancangan yang berfokus pada masalah utama pengguna</td>
+<td>Mengidentifikasi kebutuhan pengguna dan menyusun rancangan fitur</td>
+<td>Rancangan awal status pesanan dan estimasi waktu tunggu</td>
 </tr>
 <tr class="even">
-<td>Teman yang diwawancarai</td>
-<td>Memberikan masukan dari sudut pandang calon pengguna</td>
-<td>Masukan mengenai kejelasan status pesanan dan manfaat estimasi waktu</td>
+<td>Penjual kantin</td>
+<td>Memberikan tanggapan terhadap rancangan dari sisi operasional</td>
+<td>Persetujuan dan masukan mengenai kesesuaian gagasan fitur</td>
 </tr>
 <tr class="odd">
-<td>Saya dan teman</td>
-<td>Meninjau rancangan bersama</td>
-<td>Identifikasi bagian yang perlu diperbaiki sebelum rancangan diuji lebih lanjut</td>
+<td>Saya</td>
+<td>Menyempurnakan rancangan berdasarkan kebutuhan dan masukan</td>
+<td>Rancangan yang lebih terarah dan dapat dievaluasi</td>
+</tr>
+<tr class="even">
+<td>Saya dan penjual</td>
+<td>Meninjau kesesuaian rancangan sebelum pengembangan lebih lanjut</td>
+<td>Dasar untuk menentukan perbaikan dan langkah berikutnya</td>
 </tr>
 </tbody>
 </table>
-<p>Target tindak lanjut yang dibahas adalah menyelesaikan rancangan awal dalam waktu satu minggu setelah diskusi lanjutan, kemudian meninjaunya bersama. Target tersebut dimaksudkan agar ide dapat bergerak dari tahap pembahasan menuju hasil kerja yang bisa dievaluasi.</p>
-<p>Agar kesepakatan dapat dinilai secara konkret, perlu dibedakan antara keputusan yang telah disepakati dan tindakan yang masih harus dilaksanakan. Rancangan awal, masukan dari calon pengguna, dan hasil peninjauan merupakan keluaran yang dapat diperiksa. Sementara itu, pengembangan sistem dan pengujian dalam operasional kantin merupakan tahap lanjutan yang belum dapat dianggap selesai.</p>
-<p>Kesepakatan mengenai rancangan awal juga belum berarti bahwa penjual atau pengelola kantin telah menyetujui penerapan sistem. Pihak tersebut tetap perlu dilibatkan sebelum solusi diterapkan dalam kegiatan operasional.</p>
-<p>Dari proses ini, saya memahami bahwa kesepakatan yang efektif harus menjawab empat pertanyaan: apa yang akan dikerjakan, siapa yang bertanggung jawab, kapan hasilnya ditinjau, dan bukti apa yang menunjukkan kemajuan. Pembagian tanggung jawab dan target waktu membantu memperjelas arah tindakan, sedangkan bukti hasil kerja diperlukan untuk menilai apakah tindakan tersebut benar-benar terlaksana.</p>
+</section>
+<section id="action-evidence" class="level3">
+<h3 class="anchored" data-anchor-id="action-evidence">3.3 Action Evidence</h3>
+<p>Tindakan yang telah dihasilkan dalam kegiatan ini adalah:</p>
+<p><strong>1. Penyusunan rancangan fitur</strong></p>
+<p>Saya telah menyusun rancangan awal yang mencakup: - Nomor identifikasi pesanan. - Status pesanan. - Estimasi waktu tunggu. - Mekanisme pembaruan status oleh penjual. - Alur informasi dari pemesanan hingga pesanan siap diambil.</p>
+<p><strong>2. Pembahasan dengan pihak terkait</strong></p>
+<p>Rancangan tersebut telah dibahas dengan penjual kantin. Penjual menyatakan setuju terhadap gagasan fitur status pesanan dan estimasi waktu tunggu. Dengan demikian, terdapat tanggapan langsung dari pihak yang terlibat dalam proses pelayanan, bukan hanya asumsi dari saya sebagai perancang.</p>
+<p><strong>3. Penentuan dasar evaluasi</strong></p>
+<p>Saya menetapkan kriteria yang akan digunakan untuk mengevaluasi rancangan, yaitu kejelasan status, kegunaan estimasi, kemudahan pembaruan, kesesuaian alur, dan konsistensi informasi.</p>
+<p>Ketiga tindakan tersebut menunjukkan bahwa kegiatan telah menghasilkan keluaran yang dapat diperiksa: rancangan fitur, hasil pembahasan dengan penjual, dan kriteria evaluasi.</p>
+</section>
+<section id="review-dan-tindak-lanjut" class="level3">
+<h3 class="anchored" data-anchor-id="review-dan-tindak-lanjut">3.4 Review dan Tindak Lanjut</h3>
+<p>Setelah rancangan awal disusun dan dibahas dengan penjual, tahap berikutnya adalah memastikan bahwa fitur dapat digunakan tanpa mengganggu proses pelayanan.</p>
+<p>Review selanjutnya akan difokuskan pada:</p>
+<ol type="1">
+<li>Apakah penjual dapat memperbarui status pesanan dengan mudah?</li>
+<li>Apakah pembeli dapat memahami informasi status dan estimasi waktu?</li>
+<li>Apakah estimasi waktu dapat disesuaikan ketika jumlah pesanan meningkat?</li>
+<li>Apakah alur sistem sesuai dengan proses penerimaan dan penyiapan pesanan?</li>
+</ol>
+<p>Hasil review tersebut akan digunakan untuk menentukan perbaikan sebelum rancangan dikembangkan atau diuji lebih lanjut.</p>
+<p>Saya memahami bahwa persetujuan terhadap rancangan awal merupakan langkah penting, tetapi belum sama dengan persetujuan implementasi penuh. Karena itu, pengembangan dan pengujian tetap perlu dilakukan secara bertahap dengan melibatkan pihak terkait.</p>
+<p>Dari proses ini, saya belajar bahwa kesepakatan yang efektif harus memiliki hasil yang jelas, pembagian tanggung jawab, dan tindak lanjut yang dapat dievaluasi. Ide yang baik perlu diterjemahkan menjadi pekerjaan nyata agar kemajuannya dapat diperiksa.</p>
 </section>
 <section id="f.-relationship-outcome" class="level3">
 <h3 class="anchored" data-anchor-id="f.-relationship-outcome">F. Relationship Outcome</h3>
 <p>Diskusi lanjutan membantu saya memperjelas kebutuhan pengguna dan mengembangkan gagasan solusi menjadi lebih terstruktur. Saya memperoleh pemahaman bahwa status pesanan dan estimasi waktu tunggu memiliki manfaat berbeda tetapi saling melengkapi.</p>
-<p>Pertukaran pendapat juga membantu saya mempertimbangkan kesederhanaan fitur dan risiko yang dapat muncul jika informasi terlambat diperbarui. Hal tersebut menjadi dasar untuk menentukan fitur yang perlu diprioritaskan dan bagian yang masih perlu dievaluasi.</p>
-<p>Hasil yang dapat diidentifikasi dari kegiatan ini adalah kebutuhan pengguna yang lebih terstruktur, alternatif solusi yang telah dipertimbangkan, serta arah tindak lanjut berupa rancangan awal dan peninjauan bersama.</p>
-<p>Namun, hasil tersebut belum membuktikan bahwa sistem telah meningkatkan efisiensi antrean. Efektivitas solusi masih perlu dinilai melalui pengujian, misalnya dengan memeriksa apakah pembeli lebih mudah mengetahui status pesanan dan apakah proses pembaruan informasi dapat dilakukan tanpa mengganggu pekerjaan penjual.</p>
-<p>Saya menyimpulkan bahwa komunikasi dapat menghasilkan pemahaman dan arah tindakan yang lebih jelas, tetapi keberhasilan implementasi tetap bergantung pada pelaksanaan, koordinasi, dan evaluasi hasil secara nyata.</p>
+<p>Pelibatan penjual kantin juga memberikan perspektif dari sisi operasional. Saya menjadi lebih memahami bahwa solusi yang bermanfaat bagi pembeli harus tetap praktis bagi penjual yang menjalankan proses pelayanan.</p>
+<p>Hasil kegiatan ini adalah kebutuhan pengguna yang lebih terstruktur, perbandingan alternatif solusi, rancangan awal fitur yang lebih konkret, serta persetujuan lisan dari penjual kantin terhadap gagasan fitur yang dibahas.</p>
+<p>Dengan adanya rancangan dan persetujuan tersebut, ide yang sebelumnya hanya berupa hasil wawancara mulai berkembang menjadi solusi yang memiliki bentuk, alur, dan dasar evaluasi.</p>
+<p>Namun, efektivitas sistem dalam mengurangi durasi antrean belum dapat disimpulkan karena belum dilakukan pengujian operasional. Tahap tersebut tetap diperlukan untuk mengetahui apakah rancangan benar-benar memberikan manfaat dalam kondisi kantin yang sebenarnya.</p>
+<p>Saya menyimpulkan bahwa komunikasi yang efektif tidak hanya menghasilkan pemahaman bersama, tetapi juga dapat mendorong terbentuknya kesepakatan dan menghasilkan tindakan yang dapat diperiksa.</p>
 </section>
 </section>
 <section id="ai-use" class="level2">
 <h2 class="anchored" data-anchor-id="ai-use">4. AI Use</h2>
 <p>Saya menggunakan AI sebagai alat bantu untuk menyusun refleksi, mengelompokkan hambatan, membandingkan alternatif solusi, dan memperjelas hubungan antara kebutuhan pengguna, fitur yang diusulkan, serta risiko penerapannya.</p>
-<p>AI juga membantu saya memeriksa kelengkapan analisis, terutama mengenai kesenjangan antara kondisi saat ini dan kondisi yang diinginkan, pihak yang perlu dilibatkan, serta pentingnya menentukan tanggung jawab dan tindak lanjut.</p>
-<p>Saya tetap perlu memeriksa kembali relevansi analisis dengan hasil wawancara dan diskusi. Informasi mengenai respons pengguna harus sesuai dengan percakapan yang benar-benar terjadi, sedangkan analisis mengenai kewenangan, hambatan operasional, dan pilihan teknologi perlu dibedakan dari fakta yang telah diverifikasi.</p>
-<p>AI membantu proses penyusunan dan pengorganisasian gagasan, tetapi tidak menggantikan pengalaman komunikasi, pengambilan keputusan, atau bukti pelaksanaan kegiatan. Kesepakatan dan hasil tindakan harus didukung oleh kejadian atau hasil kerja yang benar-benar tersedia.</p>
+<p>AI juga membantu saya menyusun struktur rancangan fitur, mengidentifikasi komponen yang perlu diperhatikan, dan membuat kriteria evaluasi agar solusi tidak hanya berfokus pada tampilan, tetapi juga pada proses penggunaan.</p>
+<p>Saya tetap memeriksa relevansi analisis dengan hasil wawancara dan diskusi. Informasi mengenai kebutuhan pengguna dan persetujuan penjual harus sesuai dengan percakapan yang benar-benar terjadi. AI tidak digunakan untuk menentukan atau mengarang persetujuan pihak terkait.</p>
+<p>AI membantu proses penyusunan dan pengorganisasian gagasan, tetapi tidak menggantikan pengalaman komunikasi, pengambilan keputusan, atau bukti pelaksanaan kegiatan.</p>
 </section>
 <section id="feedback-follow-up" class="level2">
 <h2 class="anchored" data-anchor-id="feedback-follow-up">5. Feedback &amp; Follow-up</h2>
-<p>Masukan utama yang saya peroleh dari pengguna adalah bahwa estimasi waktu tunggu tetap bermanfaat meskipun tidak selalu akurat, selama informasinya diperbarui ketika kondisi kantin berubah. Masukan ini membuat saya mempertimbangkan pembaruan informasi sebagai bagian penting dari rancangan.</p>
-<p>Saya juga menyadari bahwa solusi perlu mempertimbangkan pihak yang akan menggunakannya. Pembeli membutuhkan informasi yang mudah dipahami, sedangkan penjual membutuhkan proses pembaruan yang praktis dan tidak mengganggu pekerjaan utama.</p>
-<p>Tindak lanjut yang dibahas adalah menyusun rancangan sederhana, meminta masukan dari calon pengguna, dan meninjau bagian yang perlu diperbaiki. Setelah rancangan tersedia, evaluasi perlu difokuskan pada tiga pertanyaan:</p>
+<p>Masukan utama dari pembeli adalah bahwa informasi status pesanan dan estimasi waktu tunggu dapat membantu mengurangi ketidakpastian selama menunggu. Estimasi tetap bermanfaat meskipun tidak selalu akurat, selama diperbarui ketika kondisi kantin berubah.</p>
+<p>Dari sisi penjual, saya memperoleh persetujuan lisan terhadap gagasan fitur status pesanan dan estimasi waktu tunggu. Tanggapan tersebut menjadi dasar untuk melanjutkan penyusunan rancangan dengan mempertimbangkan proses pelayanan di kantin.</p>
+<p>Berdasarkan hasil kegiatan, tindak lanjut yang perlu dilakukan adalah:</p>
 <ol type="1">
-<li>Apakah fitur yang dirancang sudah menjawab kebutuhan utama pengguna?</li>
-<li>Apakah status dan estimasi waktu dapat diperbarui dengan cara yang praktis?</li>
-<li>Risiko apa yang masih perlu diperbaiki sebelum rancangan diuji lebih lanjut?</li>
+<li>Menyempurnakan rancangan berdasarkan kebutuhan pembeli dan penjual.</li>
+<li>Memastikan proses pembaruan status dapat dilakukan dengan sederhana.</li>
+<li>Mengevaluasi apakah estimasi waktu dapat disesuaikan dengan kondisi antrean.</li>
+<li>Meminta masukan lebih lanjut sebelum rancangan diuji dalam kondisi operasional.</li>
+<li>Menilai hasil pengujian berdasarkan kemudahan penggunaan dan manfaat informasi bagi pembeli.</li>
 </ol>
-<p>Saya juga mengidentifikasi beberapa hal yang perlu diperbaiki dalam komunikasi berikutnya. Saya perlu menggali prioritas pengguna secara lebih mendalam, mengonfirmasi rangkuman hasil diskusi, dan memastikan bahwa pembagian tanggung jawab serta target waktu dipahami dengan cara yang sama oleh semua pihak.</p>
-<p>Dengan demikian, tindak lanjut tidak berhenti pada kesepakatan lisan, tetapi dapat diarahkan menuju hasil kerja yang bisa diperiksa dan dievaluasi.</p>
+<p>Saya juga menyadari bahwa komunikasi berikutnya perlu diakhiri dengan rangkuman keputusan dan konfirmasi pemahaman dari pihak yang terlibat. Hal tersebut penting agar setiap pihak mengetahui apa yang sudah disepakati dan apa yang perlu dilakukan selanjutnya.</p>
+<p>Dengan demikian, tindak lanjut tidak berhenti pada pembahasan ide, tetapi diarahkan pada pengembangan hasil kerja yang dapat diperiksa dan dievaluasi.</p>
 </section>
 <section id="self-assessment" class="level2">
 <h2 class="anchored" data-anchor-id="self-assessment">6. Self-Assessment</h2>
@@ -549,31 +767,31 @@ ul.task-list li input[type="checkbox"] {
 <tr class="odd">
 <td>Person &amp; Character</td>
 <td style="text-align: right;">3/4</td>
-<td>Saya berusaha memahami kebutuhan pengguna dan mempertimbangkan masukan sebelum menentukan solusi. Saya masih perlu memperluas pemahaman melalui perspektif pihak lain yang terlibat dalam operasional kantin.</td>
+<td>Saya mempertimbangkan perspektif pembeli dan penjual serta melibatkan pihak yang berkaitan dengan proses pelayanan. Pemahaman terhadap pihak pengelola secara keseluruhan masih perlu dikembangkan.</td>
 </tr>
 <tr class="even">
 <td>Objective &amp; State</td>
 <td style="text-align: right;">3/4</td>
-<td>Saya mampu mengidentifikasi masalah, kebutuhan pengguna, dan kondisi yang diharapkan. Analisis masih perlu diperkuat melalui observasi langsung agar asumsi mengenai proses operasional dapat diverifikasi.</td>
+<td>Saya mampu mengidentifikasi kesenjangan antara kondisi saat ini dan kebutuhan pengguna, termasuk hambatan dari sisi pembeli dan penjual.</td>
 </tr>
 <tr class="odd">
 <td>Repertoire &amp; Language</td>
 <td style="text-align: right;">3/4</td>
-<td>Saya menggunakan pertanyaan terbuka dan membandingkan beberapa alternatif solusi. Saya masih perlu menggali prioritas pengguna lebih mendalam serta membahas trade-off dengan pihak yang akan menggunakan atau mengelola sistem.</td>
+<td>Saya menggunakan pertanyaan terbuka, membandingkan alternatif solusi, dan menyusun rancangan fitur berdasarkan kebutuhan yang ditemukan.</td>
 </tr>
 <tr class="even">
 <td>Response &amp; Adaptation</td>
 <td style="text-align: right;">3/4</td>
-<td>Saya mempertimbangkan masukan mengenai estimasi waktu yang dapat berubah dan menyesuaikan arah rancangan. Efektivitas penyesuaian tersebut masih perlu dievaluasi melalui masukan lanjutan atau pengujian.</td>
+<td>Saya menyesuaikan rancangan dengan mempertimbangkan kebutuhan pembeli dan kemudahan operasional penjual. Efektivitas penyesuaian masih perlu diuji.</td>
 </tr>
 <tr class="odd">
 <td>Agreement &amp; Action</td>
-<td style="text-align: right;">3/4</td>
-<td>Saya telah merumuskan arah tindak lanjut, pembagian tanggung jawab, target penyelesaian rancangan, dan evaluasi bersama. Penilaian ini perlu didukung oleh bukti kesepakatan serta hasil kerja yang benar-benar terlaksana.</td>
+<td style="text-align: right;">4/4</td>
+<td>Saya telah menyusun rancangan awal fitur, membahasnya dengan penjual kantin, memperoleh persetujuan lisan, serta menetapkan pembagian tanggung jawab dan kriteria evaluasi.</td>
 </tr>
 <tr class="even">
 <td><strong>Total</strong></td>
-<td style="text-align: right;"><strong>15/20</strong></td>
+<td style="text-align: right;"><strong>16/20</strong></td>
 <td></td>
 </tr>
 </tbody>
@@ -581,10 +799,11 @@ ul.task-list li input[type="checkbox"] {
 <section id="refleksi-diri" class="level3">
 <h3 class="anchored" data-anchor-id="refleksi-diri">Refleksi Diri</h3>
 <p>Saya menilai bahwa kekuatan utama saya dalam kegiatan ini adalah kemampuan menggali masalah melalui pertanyaan terbuka, mempertimbangkan respons pengguna, dan menghubungkan kebutuhan tersebut dengan alternatif solusi yang relevan.</p>
-<p>Saya juga mulai memahami bahwa solusi yang baik tidak hanya ditentukan oleh kelengkapan fitur, tetapi juga oleh kemudahan penggunaan, ketepatan informasi, dan kelayakan penerapan dalam kondisi nyata. Masukan mengenai perubahan estimasi waktu membantu saya mengevaluasi gagasan awal dan mempertimbangkan kebutuhan pembaruan informasi.</p>
-<p>Kelemahan utama saya adalah belum cukup mendalami prioritas pengguna dan belum memverifikasi seluruh asumsi mengenai proses operasional kantin. Saya juga perlu memastikan bahwa setiap kesepakatan diikuti pembagian tanggung jawab yang dipahami bersama, target waktu yang jelas, dan bukti tindak lanjut.</p>
-<p>Jika melakukan kegiatan serupa kembali, saya akan melakukan observasi singkat terhadap proses antrean, menggali pengalaman beberapa pengguna, dan meminta masukan dari penjual sebelum menetapkan rancangan. Saya juga akan menutup diskusi dengan merangkum keputusan, mengonfirmasi pemahaman semua pihak, dan menetapkan cara mengevaluasi hasil kerja.</p>
-<p>Melalui kegiatan ini, saya memahami bahwa komunikasi yang efektif bukan hanya tentang memahami kebutuhan dan menyampaikan ide, tetapi juga tentang mengubah pemahaman tersebut menjadi tindakan yang terarah, dapat diperiksa, dan dievaluasi berdasarkan hasil nyata.</p>
+<p>Saya juga mulai memahami bahwa solusi yang baik tidak hanya ditentukan oleh kelengkapan fitur, tetapi juga oleh kemudahan penggunaan dan kesesuaian dengan kondisi operasional. Pelibatan penjual kantin membantu saya melihat bahwa rancangan perlu mempertimbangkan pihak yang akan menjalankan proses pelayanan.</p>
+<p>Perkembangan yang saya capai dalam kegiatan ini adalah berhasil mengubah hasil wawancara menjadi rancangan fitur yang lebih konkret. Saya juga membahas gagasan tersebut dengan penjual kantin dan memperoleh persetujuan secara lisan. Hal ini membuat ide yang sebelumnya masih berupa analisis mulai memiliki arah pengembangan yang lebih jelas.</p>
+<p>Hal yang masih perlu saya tingkatkan adalah kemampuan memverifikasi kelayakan rancangan melalui pengujian langsung. Saya juga perlu memperluas komunikasi dengan pihak yang terlibat dalam pengelolaan kantin agar proses pengembangan dan penerapan solusi dapat berjalan lebih terarah.</p>
+<p>Jika melakukan kegiatan serupa kembali, saya akan melibatkan pihak terkait sejak tahap awal, mendokumentasikan setiap keputusan, dan menetapkan indikator evaluasi yang jelas. Dengan begitu, setiap tindakan tidak hanya menghasilkan kesepakatan, tetapi juga dapat ditinjau berdasarkan hasil yang nyata.</p>
+<p>Melalui kegiatan ini, saya memahami bahwa komunikasi yang efektif bukan hanya tentang memahami kebutuhan dan menyampaikan ide, tetapi juga tentang membangun kesepakatan, menghasilkan tindakan, dan memastikan hasilnya dapat diperiksa serta dievaluasi.</p>
 </section>
 </section>
 <section id="assessor-assessment" class="level2">
