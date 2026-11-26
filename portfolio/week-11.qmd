@@ -1,150 +1,232 @@
+```markdown
 ---
 title: "Multi-Person Negotiation Challenge"
 week: 11
 status: "Complete"
 self_score: 14
 assessor_score:
-description: "Memetakan stakeholder, kepentingan, kendala, alternatif solusi, serta hasil diskusi mengenai sistem informasi antrean kantin."
+description: "Menganalisis kepentingan dan kewenangan stakeholder, mengomunikasikan rancangan solusi kepada penjual kantin, serta mengevaluasi kesepakatan awal dan tindak lanjut pengembangan sistem informasi antrean."
 categories:
   - Negotiation
   - Stakeholder
+  - Communication
 ---
 
 # Multi-Person Negotiation Challenge
 
 ## 1. Konteks Kegiatan
 
-Kegiatan ini berlangsung pada Oktober 2026 dalam konteks aktivitas kampus. Saya menggali pengalaman teman yang pernah mengantre di kantin untuk memahami masalah yang dihadapi pembeli, terutama antrean panjang, ketidakpastian waktu tunggu, dan kurangnya informasi mengenai perkembangan pesanan. Setelah wawancara, saya melanjutkan pembahasan dengan teman lain untuk mempertimbangkan fitur dan kelayakan solusi.
+Kegiatan Multi-Person Negotiation Challenge merupakan kelanjutan dari pengembangan ide sistem informasi antrean kantin yang telah dimulai pada minggu sebelumnya. Permasalahan awal berasal dari pengalaman pembeli yang menghadapi antrean panjang dan kesulitan memperkirakan waktu penyelesaian pesanan. Kondisi tersebut dapat menyulitkan pembeli, terutama ketika harus menyesuaikan waktu menunggu dengan jadwal perkuliahan berikutnya.
 
-Tujuan kegiatan adalah merumuskan solusi yang dapat membantu pembeli mengetahui status pesanan dan memperkirakan waktu tunggu tanpa menambah beban kerja penjual secara berlebihan. Kegiatan ini merupakan proses penggalian kebutuhan dan diskusi solusi, bukan negosiasi formal yang melibatkan seluruh stakeholder.
+Pada tahap awal, saya menggali pengalaman teman sebagai pengguna kantin untuk memahami kebutuhan yang sebenarnya. Dari proses tersebut, saya mengidentifikasi dua kebutuhan utama, yaitu informasi mengenai status pesanan dan estimasi waktu tunggu. Selanjutnya, saya mulai merumuskan rancangan solusi dengan mempertimbangkan manfaat fitur bagi pembeli serta kemungkinan penerapannya dalam kegiatan operasional kantin.
+
+Agar rancangan tidak hanya didasarkan pada sudut pandang pembeli, saya juga mengomunikasikan ide tersebut secara langsung kepada penjual kantin. Dalam percakapan lisan tersebut, saya menjelaskan arah rancangan berupa fitur status pesanan dan estimasi waktu tunggu. Penjual memberikan persetujuan secara lisan terhadap rancangan fitur yang disampaikan.
+
+Proses ini membuat saya menyadari bahwa pengembangan solusi membutuhkan komunikasi dengan lebih dari satu pihak. Pembeli memiliki kebutuhan terhadap informasi, sedangkan penjual merupakan pihak yang terlibat dalam pelayanan dan berpotensi menjalankan proses pembaruan informasi. Selain itu, pengelola kantin juga perlu dipertimbangkan karena persetujuan terhadap penerapan sistem secara keseluruhan belum dapat dipastikan hanya melalui komunikasi dengan penjual.
+
+Dengan demikian, tujuan kegiatan ini bukan sekadar menghasilkan rancangan fitur, tetapi juga memahami posisi, kepentingan, kewenangan, dan kemungkinan perbedaan kebutuhan antarstakeholder sebelum solusi dikembangkan lebih lanjut.
 
 ## 2. Evidence
 
-Evidence yang relevan meliputi catatan atau transkrip wawancara, dokumen analisis kebutuhan pengguna, dan hasil perumusan alternatif solusi. Saya berkontribusi dengan menggali masalah, mengelompokkan kebutuhan pengguna, membandingkan alternatif, dan menyusun analisis risiko.
+Evidence yang digunakan dalam kegiatan ini mencakup proses penggalian kebutuhan pengguna, perumusan solusi, dan komunikasi dengan pihak yang berkaitan dengan operasional kantin.
 
-Catatan wawancara digunakan untuk menjelaskan perspektif pembeli. Analisis mengenai penjual dan pengelola kantin merupakan pertimbangan desain, bukan hasil wawancara langsung dengan mereka. Rancangan solusi juga belum menjadi bukti bahwa sistem telah diterapkan atau diuji.
+| No. | Evidence | Informasi yang Didukung |
+|---|---|---|
+| 1 | Catatan wawancara dengan teman sebagai pembeli kantin | Pengalaman antrean, ketidakpastian waktu tunggu, dan kebutuhan informasi status pesanan |
+| 2 | Hasil pengelompokan kebutuhan pengguna | Identifikasi status pesanan dan estimasi waktu tunggu sebagai kebutuhan utama |
+| 3 | Analisis alternatif solusi | Perbandingan fitur status, estimasi, website, aplikasi, dan papan informasi |
+| 4 | Rancangan awal sistem informasi antrean | Rumusan solusi berupa fitur status pesanan dan estimasi waktu tunggu |
+| 5 | Catatan hasil percakapan lisan dengan penjual kantin | Persetujuan lisan penjual terhadap arah rancangan kedua fitur |
+
+Percakapan dengan penjual dilakukan secara lisan. Dalam percakapan tersebut, saya menyampaikan rancangan fitur status pesanan dan estimasi waktu tunggu, kemudian memperoleh persetujuan secara lisan dari penjual terhadap arah rancangan tersebut.
+
+Percakapan ini tidak direkam sehingga saya tidak menyajikannya sebagai transkrip verbatim. Dokumentasi yang saya gunakan berupa catatan kembali mengenai isi dan hasil percakapan berdasarkan ingatan saya. Persetujuan tersebut juga memiliki ruang lingkup yang jelas, yaitu penerimaan terhadap arah rancangan fitur, bukan persetujuan final untuk menerapkan sistem dalam kegiatan operasional kantin.
+
+Bukti ini menunjukkan bahwa rancangan telah dikomunikasikan kepada salah satu pihak yang berkaitan langsung dengan pelayanan. Namun, keterlibatan pengelola kantin, pembahasan teknis mengenai mekanisme penggunaan, serta uji coba sistem masih belum menjadi bagian dari kegiatan yang telah terlaksana.
 
 ## 3. Stakeholder Person Map
 
-| Stakeholder | Position | Interest / Constraint | Authority | State berdasarkan evidence |
+Pemetaan stakeholder dilakukan untuk memahami siapa saja pihak yang terlibat, apa kepentingannya, bagaimana kewenangannya, dan sejauh mana mereka telah terlibat dalam proses pengembangan solusi.
+
+| Stakeholder | Position | Interest / Constraint | Authority | Current State |
 |---|---|---|---|---|
-| Saya | Mengusulkan sistem informasi pesanan | Ingin menyelesaikan masalah pengguna dengan solusi yang realistis | Menyusun analisis dan rancangan dalam lingkup pekerjaan saya | Pemahaman berkembang dari status pesanan menuju status, estimasi, dan pembaruan informasi |
-| Teman yang diwawancarai | Menilai status dan estimasi waktu berguna bagi pembeli | Mengurangi ketidakpastian dan mengatur waktu sebelum kelas | Memberi masukan berdasarkan pengalaman pengguna | Menjelaskan manfaat status dan estimasi serta pentingnya pembaruan |
-| Teman diskusi | Memberikan perspektif tambahan tentang fitur dan kelayakan | Mengupayakan solusi yang relevan dan sederhana | Memberi masukan; kewenangan implementasi tidak diketahui | Terlibat dalam pertukaran pendapat tentang fitur dan kelayakan |
-| Penjual kantin | Belum dikonfirmasi secara langsung | Secara potensial perlu menjaga pelayanan dan menghindari input tambahan yang berlebihan | Kemungkinan berperan dalam operasional; kewenangan formal belum diverifikasi | Belum diketahui karena belum diwawancarai |
-| Pengelola kantin | Belum dikonfirmasi secara langsung | Secara potensial perlu mempertimbangkan kelancaran operasional | Kewenangan formal belum diverifikasi | Belum diketahui karena belum diwawancarai |
+| Saya sebagai perancang | Mengusulkan sistem informasi antrean dengan fitur status pesanan dan estimasi waktu tunggu | Menghasilkan solusi yang sesuai kebutuhan pembeli dan memungkinkan untuk diterapkan | Menentukan analisis dan rancangan awal dalam lingkup proyek | Telah merumuskan kebutuhan, menyusun rancangan, dan mengomunikasikannya kepada penjual |
+| Teman sebagai pembeli | Membutuhkan informasi mengenai perkembangan dan perkiraan waktu penyelesaian pesanan | Mengurangi ketidakpastian serta membantu mengatur waktu sebelum kelas | Memberikan masukan berdasarkan pengalaman sebagai pengguna | Telah menyampaikan pengalaman dan kebutuhan pengguna |
+| Penjual kantin | Menyetujui arah rancangan fitur status pesanan dan estimasi waktu tunggu | Aspek operasional, kemudahan penggunaan, dan beban kerja masih perlu dikaji lebih lanjut | Terlibat dalam pelayanan sehari-hari; kewenangan untuk menyetujui penerapan sistem secara keseluruhan belum diketahui | Telah menerima penjelasan rancangan dan memberikan persetujuan secara lisan terhadap arah fitur |
+| Pengelola kantin | Belum menyampaikan posisi secara langsung | Kepentingan terkait prosedur, konsistensi operasional, dan penerapan sistem belum diketahui | Kewenangan formal dalam pengambilan keputusan belum diverifikasi | Belum dilibatkan secara langsung dalam pembahasan rancangan |
+
+Dari pemetaan tersebut, saya memahami bahwa tidak semua stakeholder memiliki peran dan kewenangan yang sama. Pembeli merupakan pihak yang merasakan masalah, sedangkan penjual memiliki keterlibatan langsung dalam pelayanan. Pengelola kantin perlu diperhatikan karena kemungkinan memiliki kewenangan dalam menentukan apakah suatu sistem dapat diterapkan.
+
+Pemetaan ini juga membantu saya membedakan antara informasi yang sudah diperoleh secara langsung dan hal-hal yang masih berupa asumsi. Saya tidak dapat menyimpulkan kepentingan atau kewenangan pengelola hanya berdasarkan perkiraan, sehingga bagian tersebut perlu dikonfirmasi melalui komunikasi berikutnya.
 
 ## 4. Objective and Multi-State TAIDA
 
-### Target state
+### 4.1 Target State
 
-Pembeli memperoleh informasi status pesanan dan perkiraan waktu tunggu yang mudah dipahami. Informasi tersebut membantu pembeli menentukan kapan harus mengambil pesanan atau mengatur kegiatan lain.
+Target yang ingin dicapai adalah tersedianya sistem informasi yang memungkinkan pembeli mengetahui perkembangan pesanannya dan memperoleh perkiraan waktu tunggu. Informasi tersebut diharapkan membantu pembeli menentukan kapan harus mengambil pesanan tanpa harus terus-menerus bertanya kepada penjual.
 
-### Initial state
+Dari sisi operasional, sistem juga diharapkan dapat digunakan tanpa menambah proses kerja yang terlalu rumit. Oleh karena itu, keberhasilan solusi tidak hanya diukur dari kelengkapan informasi yang diterima pembeli, tetapi juga dari kemungkinan penerapannya dalam kegiatan pelayanan kantin.
 
-Pembeli dapat mengalami antrean panjang dan ketidakpastian waktu penyelesaian pesanan. Untuk mengetahui perkembangan pesanan, pembeli terkadang harus menunggu atau bertanya langsung kepada penjual. Pada tahap awal, fitur dan mekanisme solusi belum dirumuskan secara terperinci.
+### 4.2 Initial State
 
-### Perubahan state dalam proses analisis
+Pada kondisi awal, pembeli dapat mengalami antrean panjang dan tidak mengetahui secara pasti kapan pesanannya selesai. Pembeli terkadang harus menunggu di sekitar tempat pemesanan atau bertanya langsung kepada penjual untuk mengetahui perkembangan pesanan.
 
-| Tahap | State / temuan | Implikasi |
+Sementara itu, belum terdapat rancangan mekanisme informasi yang disepakati untuk membantu pembeli mengetahui status dan estimasi waktu tunggu. Cara penerapan solusi juga belum ditentukan karena perlu mempertimbangkan kegiatan operasional kantin.
+
+### 4.3 Perubahan State
+
+| Tahap | State / Temuan | Dampak terhadap Proses |
 |---|---|---|
-| Memahami masalah | Ketidakpastian waktu tunggu dan status pesanan menjadi masalah utama | Kebutuhan perlu digali sebelum memilih teknologi |
-| Mengidentifikasi kebutuhan | Status pesanan membantu pembeli mengetahui perkembangan pesanan | Status dipertimbangkan sebagai fitur dasar |
-| Memperoleh masukan | Estimasi berguna meskipun dapat berubah, selama masuk akal dan diperbarui | Estimasi perlu diperlakukan sebagai perkiraan, bukan jaminan |
-| Menganalisis kendala | Sistem perlu mempertimbangkan beban kerja penjual dan kemudahan penggunaan | Kompleksitas fitur perlu dibatasi |
-| Merumuskan opsi | Status, estimasi, website, aplikasi, dan papan informasi dipertimbangkan | Platform belum diputuskan melalui uji implementasi |
+| Identifikasi masalah | Pembeli mengalami ketidakpastian mengenai status dan waktu penyelesaian pesanan | Masalah diarahkan pada kebutuhan informasi selama menunggu |
+| Penggalian kebutuhan | Status pesanan dan estimasi waktu tunggu menjadi kebutuhan utama | Kedua fitur mulai dirumuskan sebagai solusi |
+| Analisis alternatif | Website, aplikasi, dan papan informasi dipertimbangkan sebagai alternatif penyampaian informasi | Solusi tidak langsung ditentukan berdasarkan teknologi tertentu |
+| Komunikasi dengan penjual | Rancangan fitur status dan estimasi disampaikan kepada penjual | Rancangan memperoleh persetujuan awal secara lisan |
+| Identifikasi kebutuhan lanjutan | Mekanisme pembaruan, pembagian tanggung jawab, dan persetujuan pengelola belum dikonfirmasi | Diperlukan validasi lanjutan sebelum implementasi |
 
-Perubahan yang dapat saya pastikan adalah perkembangan pemahaman dan rumusan solusi saya. State penjual, pengelola kantin, serta pihak kampus belum dapat dipetakan secara pasti karena belum ada konfirmasi langsung dari mereka.
+Perubahan yang dapat dibuktikan dalam proses ini adalah berkembangnya pemahaman saya mengenai kebutuhan pengguna serta diperolehnya persetujuan awal dari penjual. Saya juga mulai memahami bahwa penerimaan terhadap ide dan kesiapan untuk menjalankan ide merupakan dua hal yang berbeda.
+
+Dengan demikian, target state belum sepenuhnya tercapai. Rancangan telah memperoleh penerimaan awal dari penjual, tetapi belum seluruh stakeholder terlibat dan belum ada pengujian terhadap mekanisme operasionalnya.
 
 ## 5. Position–Interest Analysis
 
-Posisi adalah pendapat atau solusi yang dinyatakan, sedangkan interest adalah kebutuhan atau alasan yang mendasarinya.
+Position–Interest Analysis digunakan untuk membedakan solusi yang disampaikan oleh setiap pihak dengan kebutuhan yang mendasari solusi tersebut.
 
-| Pihak | Position | Interest | Potensi trade-off |
+| Pihak | Position | Interest | Potential Trade-off |
 |---|---|---|---|
-| Pembeli | Membutuhkan status pesanan dan estimasi waktu | Kepastian informasi dan pengelolaan waktu | Informasi lebih lengkap harus tetap mudah dipahami dan cukup akurat |
-| Saya sebagai perancang | Mengusulkan sistem informasi pesanan | Solusi yang relevan dengan kebutuhan dan realistis diterapkan | Fitur bermanfaat perlu diseimbangkan dengan kompleksitas |
-| Teman diskusi | Memberikan masukan tentang fitur dan kelayakan | Solusi yang praktis dan sesuai konteks | Kelengkapan fitur dibandingkan kemudahan penerapan |
-| Penjual, sebagai stakeholder yang perlu dilibatkan | Posisi aktual belum diketahui | Potensi kebutuhan menjaga kelancaran pelayanan dan membatasi beban input | Informasi yang lebih rinci mungkin membutuhkan proses pembaruan tambahan |
-| Pengelola kantin, sebagai stakeholder yang perlu dilibatkan | Posisi aktual belum diketahui | Potensi kebutuhan menjaga konsistensi operasional | Penerapan sistem mungkin membutuhkan persetujuan dan penyesuaian proses |
+| Pembeli | Membutuhkan informasi status pesanan dan estimasi waktu tunggu | Mendapatkan kepastian informasi dan mengatur waktu | Informasi yang lebih lengkap harus tetap mudah dipahami dan cukup akurat |
+| Saya sebagai perancang | Mengusulkan sistem informasi antrean | Menghasilkan solusi yang relevan dan realistis | Kelengkapan fitur perlu diseimbangkan dengan kompleksitas sistem |
+| Penjual kantin | Menyetujui arah rancangan fitur status dan estimasi | Kebutuhan operasional lebih lanjut perlu digali | Manfaat informasi bagi pembeli perlu disesuaikan dengan proses pelayanan |
+| Pengelola kantin | Belum menyampaikan posisi | Belum diketahui secara langsung | Persyaratan dan kewenangan penerapan perlu diklarifikasi |
 
-Analisis untuk penjual dan pengelola adalah hipotesis yang perlu diuji melalui komunikasi langsung, bukan pendapat yang boleh dianggap telah mereka nyatakan.
+Dari analisis tersebut, saya memahami bahwa kebutuhan pembeli dan pihak operasional tidak selalu sama. Pembeli menginginkan informasi yang lengkap dan cepat, sedangkan penerapan informasi tersebut membutuhkan mekanisme pembaruan yang dapat dijalankan.
+
+Persetujuan awal penjual menunjukkan bahwa arah rancangan dapat diterima pada tingkat konsep. Namun, saya tetap perlu memahami apakah mekanisme yang dirancang sesuai dengan kondisi kerja penjual dan apakah pengelola memiliki persyaratan tertentu sebelum sistem dapat digunakan.
 
 ## 6. Negotiation Process, Common Ground, and Options
 
-### Proses komunikasi
+### 6.1 Proses Komunikasi dan Negosiasi
 
-Saya menanyakan kesulitan yang dialami ketika mengantre, manfaat informasi status pesanan, kebutuhan estimasi waktu tunggu, dan tanggapan jika estimasi berubah ketika kantin ramai. Dari diskusi, saya memahami bahwa status dapat mengurangi kebutuhan pembeli untuk bertanya berulang kali. Estimasi membantu pembeli mengatur waktu, tetapi perlu masuk akal dan diperbarui saat kondisi berubah.
+Proses negosiasi diawali dengan memahami masalah dari sisi pembeli. Saya menggali pengalaman mengenai kesulitan ketika mengantre, ketidakpastian waktu tunggu, serta manfaat informasi status pesanan.
 
-### Common ground
+Setelah kebutuhan tersebut dirumuskan, saya menyusun arah rancangan berupa fitur status pesanan dan estimasi waktu tunggu. Saya kemudian mengomunikasikan rancangan tersebut kepada penjual kantin untuk memperoleh tanggapan dari pihak yang terlibat langsung dalam pelayanan.
 
-Titik temu yang muncul dari pembahasan adalah informasi pesanan harus berguna, mudah dipahami, dan membantu pembeli mengambil keputusan selama menunggu. Status menjelaskan perkembangan pesanan, sedangkan estimasi memberi gambaran waktu. Keduanya perlu dipertimbangkan bersama dengan keterbatasan akurasi dan kemudahan penggunaan.
+Dalam percakapan tersebut, saya menjelaskan bahwa status pesanan dapat membantu pembeli mengetahui perkembangan pesanannya, sedangkan estimasi waktu tunggu dapat memberikan gambaran kapan pesanan kemungkinan selesai. Penjual memberikan persetujuan secara lisan terhadap arah rancangan kedua fitur tersebut.
 
-Titik temu ini berasal dari pembahasan mengenai kebutuhan pengguna. Belum ada bukti bahwa seluruh stakeholder, khususnya penjual dan pengelola kantin, telah menyetujui tujuan tersebut.
+Dari proses ini, saya belajar bahwa komunikasi dengan stakeholder tidak cukup dilakukan hanya untuk menyampaikan ide. Saya juga perlu memastikan bahwa pihak yang diajak berdiskusi memahami tujuan solusi dan memiliki kesempatan untuk memberikan tanggapan. Persetujuan yang diperoleh menjadi masukan dalam pengembangan rancangan, tetapi belum dapat dianggap sebagai persetujuan atas seluruh mekanisme implementasi.
 
-### Options and trade-offs
+### 6.2 Common Ground
 
-| Opsi | Manfaat | Risiko atau trade-off | Status |
+Titik temu yang diperoleh dalam proses ini adalah arah solusi yang berfokus pada penyediaan informasi pesanan bagi pembeli. Status pesanan digunakan untuk menjelaskan perkembangan pesanan, sedangkan estimasi waktu tunggu memberikan perkiraan waktu penyelesaian.
+
+Persetujuan lisan penjual terhadap arah rancangan menunjukkan adanya penerimaan awal terhadap konsep fitur yang dibahas. Hal ini menjadi dasar untuk melanjutkan pengembangan rancangan.
+
+Namun, common ground tersebut masih terbatas pada arah solusi. Belum terdapat kesepakatan bersama mengenai cara memperbarui informasi, pihak yang bertanggung jawab, maupun prosedur penerapan sistem.
+
+### 6.3 Options and Trade-offs
+
+| Opsi | Manfaat | Risiko / Trade-off | Hasil Pertimbangan |
 |---|---|---|---|
-| Status pesanan | Memberi informasi perkembangan pesanan | Membutuhkan pembaruan status yang konsisten | Diprioritaskan sebagai fitur dasar |
-| Estimasi waktu tunggu | Membantu pembeli mengatur waktu | Estimasi dapat meleset jika kondisi berubah | Dipertimbangkan sebagai fitur pendukung yang perlu diperbarui |
-| Website sederhana | Dapat diakses melalui ponsel tanpa instalasi aplikasi | Tetap membutuhkan mekanisme pembaruan data dan evaluasi kemudahan penggunaan | Alternatif yang dianalisis, belum diuji |
-| Aplikasi khusus | Dapat menyediakan fungsi lebih lengkap | Instalasi dan pengembangan berpotensi menambah hambatan | Alternatif yang dipertimbangkan |
-| Papan informasi | Bisa terlihat langsung di area kantin | Pembeli perlu berada dekat papan dan informasi harus diperbarui | Alternatif yang dipertimbangkan |
+| Status pesanan | Pembeli dapat mengetahui perkembangan pesanannya | Membutuhkan pembaruan status secara konsisten | Dipilih sebagai fitur dasar |
+| Estimasi waktu tunggu | Membantu pembeli memperkirakan waktu pengambilan pesanan | Estimasi dapat berubah ketika jumlah pesanan meningkat | Dipilih sebagai fitur pendukung dengan catatan perlu pembaruan |
+| Website sederhana | Dapat diakses melalui ponsel tanpa instalasi aplikasi | Membutuhkan mekanisme pembaruan informasi dan pengelolaan data | Alternatif platform yang masih perlu dikaji |
+| Aplikasi khusus | Memungkinkan pengembangan fungsi yang lebih lengkap | Membutuhkan pengembangan dan instalasi tambahan | Belum menjadi prioritas |
+| Papan informasi | Dapat dilihat langsung di area kantin | Pembeli perlu berada di sekitar papan dan informasi harus diperbarui | Alternatif penyampaian informasi yang dipertimbangkan |
 
-Rumusan solusi yang dihasilkan adalah status pesanan sebagai fitur dasar dan estimasi waktu tunggu sebagai fitur pendukung. Website sederhana merupakan alternatif platform yang layak dikaji lebih lanjut, tetapi belum ditetapkan sebagai keputusan implementasi final.
+Berdasarkan kebutuhan pengguna dan pembahasan dengan penjual, rancangan yang diprioritaskan adalah penggabungan fitur status pesanan dan estimasi waktu tunggu. Kedua fitur tersebut dipilih karena menjawab kebutuhan utama pembeli.
+
+Sementara itu, pemilihan platform belum ditetapkan sebagai keputusan final. Saya perlu mempertimbangkan kemudahan penggunaan, mekanisme pembaruan, dan kesesuaian dengan kondisi operasional sebelum menentukan bentuk implementasi.
 
 ## 7. Agreement, Dissent, and Action
 
-Hasil pembahasan menghasilkan arah solusi yang lebih terfokus: status pesanan sebagai fitur dasar, estimasi waktu tunggu sebagai fitur pendukung, dan perhatian terhadap pembaruan informasi serta kemudahan penggunaan.
+### 7.1 Agreement Record
 
-Tidak ada perbedaan pendapat mendasar yang saya ketahui mengenai manfaat informasi status dan estimasi dalam diskusi yang berlangsung. Namun, ini tidak berarti seluruh stakeholder telah menyepakati rancangan. Pilihan platform, mekanisme operasional, pembagian tanggung jawab, dan persetujuan penjual atau pengelola masih belum terkonfirmasi.
+Kesepakatan awal yang diperoleh dalam kegiatan ini adalah persetujuan lisan penjual kantin terhadap rancangan fitur status pesanan dan estimasi waktu tunggu.
 
-Tindak lanjut yang saya tetapkan dalam pengembangan ide adalah:
+| Aspek | Hasil Pembahasan |
+|---|---|
+| Pihak yang terlibat | Saya sebagai perancang dan penjual kantin |
+| Topik yang dibahas | Rancangan fitur status pesanan dan estimasi waktu tunggu |
+| Arah yang disampaikan | Penyediaan informasi perkembangan pesanan dan perkiraan waktu penyelesaian bagi pembeli |
+| Respons penjual | Memberikan persetujuan secara lisan terhadap arah rancangan fitur |
+| Ruang lingkup persetujuan | Persetujuan awal terhadap konsep fitur, bukan persetujuan final implementasi |
+| Hal yang belum disepakati | Platform, mekanisme pembaruan, pembagian tanggung jawab, dan prosedur operasional |
 
-1. Merapikan kebutuhan pengguna berdasarkan catatan wawancara.
-2. Merumuskan fitur utama dan pendukung.
-3. Mengidentifikasi risiko estimasi yang tidak akurat, status yang tidak diperbarui, dan beban kerja penjual.
-4. Menyusun rancangan sederhana untuk ditinjau lebih lanjut.
-5. Memvalidasi asumsi operasional melalui diskusi dengan penjual atau pengelola sebelum menganggap solusi layak diterapkan.
+Kesepakatan ini menjadi hasil penting karena rancangan telah dikomunikasikan kepada penjual, bukan hanya dibangun berdasarkan asumsi saya. Namun, saya tetap membatasi kesimpulan pada hal yang benar-benar dibahas agar tidak menganggap persetujuan awal sebagai izin untuk langsung menerapkan sistem.
 
-Langkah tersebut merupakan rencana kerja dalam pengembangan ide, bukan bukti bahwa kesepakatan multipihak atau implementasi sistem telah terjadi.
+### 7.2 Dissent and Unresolved Issues
+
+Dalam komunikasi yang telah dilakukan, saya belum memperoleh pernyataan penolakan secara langsung dari penjual terhadap arah rancangan fitur. Meskipun demikian, masih terdapat beberapa hal yang belum memperoleh keputusan bersama.
+
+Pertama, mekanisme pembaruan status pesanan belum ditentukan. Kedua, cara menentukan estimasi waktu tunggu masih perlu dikaji agar informasi yang diberikan tidak terlalu jauh dari kondisi sebenarnya. Ketiga, belum diketahui apakah pengelola kantin memiliki ketentuan atau kewenangan khusus terkait penerapan sistem.
+
+Hal-hal tersebut saya kategorikan sebagai unresolved issues, bukan sebagai penolakan dari stakeholder. Saya perlu mengklarifikasinya melalui komunikasi lanjutan agar perbedaan kebutuhan atau keberatan yang mungkin muncul dapat dibahas secara terbuka.
+
+### 7.3 Action Plan
+
+| Tindakan | Tujuan | Indikator Keberhasilan |
+|---|---|---|
+| Merapikan rancangan fitur | Memastikan kebutuhan utama pembeli sudah tercakup | Rancangan menjelaskan fungsi status dan estimasi |
+| Mengklarifikasi mekanisme pembaruan kepada penjual | Mengetahui proses yang memungkinkan dilakukan dalam pelayanan | Terdapat penjelasan mengenai cara dan pihak yang memperbarui informasi |
+| Berkomunikasi dengan pengelola kantin | Memahami kewenangan dan persyaratan penerapan | Terdapat tanggapan langsung dari pengelola |
+| Menentukan mekanisme estimasi | Mengurangi risiko perkiraan waktu yang tidak sesuai | Terdapat dasar penentuan dan cara pembaruan estimasi |
+| Melakukan uji coba setelah memperoleh persetujuan | Menilai manfaat dan kelayakan solusi | Terdapat hasil pengamatan atau evaluasi penggunaan |
+
+Dari tabel tersebut, tindakan yang sudah dilakukan adalah menyusun rancangan dan mengomunikasikannya kepada penjual hingga memperoleh persetujuan awal. Tindakan lainnya merupakan tindak lanjut yang masih perlu dilaksanakan, bukan hasil yang saya klaim telah tercapai.
 
 ## 8. Relationship Outcome
 
-Diskusi membantu saya menjaga komunikasi terbuka dengan memberi ruang kepada teman untuk menjelaskan pengalaman dan pandangannya. Pembahasan menjadi lebih terarah karena saya tidak hanya menawarkan teknologi, tetapi juga menghubungkan fitur dengan kebutuhan pengguna dan risiko penerapan.
+Proses komunikasi dengan penjual memberikan pengalaman bagi saya untuk membangun hubungan dengan pihak yang berada di luar kelompok pengguna awal. Saya belajar bahwa ketika menawarkan solusi, saya perlu menyampaikan tujuan dengan jelas dan tetap terbuka terhadap tanggapan dari pihak yang akan terdampak.
 
-Dampak hubungan yang dapat saya simpulkan terbatas pada proses diskusi dengan teman. Saya belum dapat menilai respons atau kualitas hubungan dengan penjual dan pengelola karena belum berkomunikasi langsung dengan mereka mengenai rancangan ini.
+Persetujuan lisan penjual menjadi indikasi bahwa komunikasi awal mengenai rancangan dapat berjalan dengan baik. Proses tersebut juga membantu saya melihat bahwa pengembangan sistem membutuhkan keterlibatan pihak operasional sejak tahap perancangan, bukan hanya ketika sistem sudah selesai dibuat.
+
+Namun, hasil hubungan ini masih terbatas pada komunikasi awal dengan penjual. Saya belum dapat menyimpulkan adanya hubungan kerja sama jangka panjang atau kesepahaman seluruh stakeholder karena pengelola kantin belum dilibatkan. Oleh karena itu, hubungan dengan pihak terkait masih perlu dibangun melalui komunikasi dan tindak lanjut berikutnya.
 
 ## 9. Feedback and Adaptation
 
-Masukan yang saya terima adalah estimasi waktu tunggu tetap berguna walaupun dapat berubah saat kantin ramai, asalkan perkiraannya masuk akal dan diperbarui ketika kondisi berubah.
+Masukan dari pengguna menunjukkan bahwa status pesanan dan estimasi waktu tunggu dapat membantu mengurangi ketidakpastian selama proses antrean. Estimasi tetap bermanfaat meskipun dapat berubah, selama perkiraannya masuk akal dan informasi diperbarui ketika kondisi berubah.
 
-Masukan tersebut mengubah fokus analisis saya. Saya tidak lagi memandang solusi hanya sebagai penambahan status pesanan, tetapi juga mempertimbangkan estimasi, pembaruan informasi, kemudahan penggunaan, dan beban kerja operasional. Langkah berikutnya adalah menguji asumsi tentang kebutuhan penjual dan menilai apakah pembaruan informasi dapat dilakukan tanpa mengganggu pelayanan.
+Selain itu, komunikasi dengan penjual membuat saya menyadari bahwa rancangan perlu mempertimbangkan pihak yang akan terlibat dalam pengoperasiannya. Sebelumnya, perhatian saya lebih banyak tertuju pada manfaat fitur bagi pembeli. Setelah memperoleh persetujuan awal penjual, saya mulai mempertimbangkan lebih jauh bagaimana informasi tersebut dapat diperbarui tanpa mengganggu kegiatan pelayanan.
+
+Perubahan ini membuat saya tidak langsung menentukan platform atau mekanisme implementasi. Saya perlu memastikan terlebih dahulu bahwa solusi yang dikembangkan sesuai dengan kebutuhan pembeli dan dapat diterima oleh pihak operasional.
 
 ## 10. Penggunaan AI
 
-Saya menggunakan AI setelah kegiatan untuk membantu mengelompokkan kebutuhan pengguna, membandingkan alternatif solusi, merapikan analisis, dan menyusun refleksi. Instruksi yang digunakan berfokus pada penyusunan analisis proyek antrean kantin berdasarkan informasi yang telah saya berikan.
+AI digunakan sebagai alat bantu selama proses penyusunan dan evaluasi dokumen W11. Saya memanfaatkan AI untuk:
 
-Saya meninjau kembali hasil AI agar sesuai dengan konteks proyek dan membedakan informasi yang berasal dari diskusi dengan asumsi yang masih perlu diverifikasi. AI membantu pengorganisasian ide dan penulisan, tetapi tidak menggantikan wawancara, tidak membuktikan persetujuan stakeholder, dan tidak menjadi bukti bahwa sistem telah diterapkan. Penilaian mengenai kebutuhan pengguna, kelayakan operasional, serta kewenangan implementasi tetap memerlukan verifikasi manusia.
+1. Mengelompokkan stakeholder berdasarkan posisi, kepentingan, dan kewenangannya.
+2. Membedakan fakta yang berasal dari komunikasi langsung dengan asumsi yang masih perlu diverifikasi.
+3. Membandingkan alternatif solusi beserta manfaat dan risikonya.
+4. Menyusun struktur agreement record, dissent, dan action plan.
+5. Mengevaluasi konsistensi antara tujuan solusi, hasil komunikasi, dan tindak lanjut.
+6. Merapikan dokumentasi serta refleksi agar lebih sistematis.
+
+Saya tidak menggunakan AI untuk menggantikan interaksi dengan stakeholder atau menciptakan pernyataan yang seolah-olah disampaikan oleh penjual maupun pengelola kantin. Informasi mengenai persetujuan penjual tetap mengacu pada percakapan lisan yang benar-benar berlangsung.
+
+Hasil yang disusun AI juga saya tinjau kembali agar tidak mengubah asumsi menjadi fakta. Sebagai contoh, kemungkinan adanya beban kerja tambahan bagi penjual dicatat sebagai risiko yang perlu diperiksa, bukan sebagai keluhan yang sudah disampaikan oleh penjual.
+
+Dengan demikian, AI berperan dalam membantu analisis, pengorganisasian informasi, dan penyusunan dokumentasi. Pengambilan keputusan mengenai rancangan serta penilaian terhadap hasil komunikasi tetap didasarkan pada informasi dan pertimbangan saya sendiri.
 
 ## 11. Self-Assessment
 
-| Dimensi | Skor | Evidence dan refleksi |
+| Dimensi | Skor | Evidence dan Refleksi |
 |---|---:|---|
-| Person & Character | 3/4 | Berusaha memahami perspektif pengguna dan mempertimbangkan kebutuhan operasional, tetapi belum mewawancarai semua stakeholder secara langsung. |
-| Objective & State | 3/4 | Mampu menjelaskan kondisi awal, tujuan pengguna, dan perkembangan pemahaman selama analisis. |
-| Repertoire, Language & AI | 3/4 | Menggunakan pertanyaan untuk menggali kebutuhan, membandingkan alternatif, dan memakai AI untuk menyusun analisis dengan pemeriksaan ulang. |
-| Response & Adaptation | 3/4 | Mempertimbangkan masukan mengenai perubahan estimasi dan memperluas analisis ke pembaruan informasi serta beban kerja. |
-| Agreement, Action & Relationship | 2/4 | Sudah merumuskan arah solusi dan tindak lanjut pribadi, tetapi bukti kesepakatan multipihak, pembagian tugas bersama, dan implementasi masih terbatas. |
+| Person & Character | 3/4 | Mempertimbangkan perspektif pembeli dan penjual serta menyadari perlunya melibatkan pengelola. Pemetaan kepentingan pengelola masih membutuhkan konfirmasi langsung. |
+| Objective & State | 3/4 | Mampu menjelaskan kondisi awal, target solusi, serta perubahan pemahaman setelah memperoleh masukan pengguna dan persetujuan awal penjual. |
+| Repertoire, Language & AI | 3/4 | Menggunakan komunikasi untuk menyampaikan rancangan dan memanfaatkan AI untuk menyusun analisis secara sistematis dengan pemeriksaan ulang terhadap fakta dan asumsi. |
+| Response & Adaptation | 3/4 | Menyesuaikan fokus pengembangan dengan mempertimbangkan kebutuhan pengguna, persetujuan awal penjual, dan risiko operasional yang masih perlu diperiksa. |
+| Agreement, Action & Relationship | 2/4 | Memperoleh persetujuan lisan penjual terhadap arah fitur dan menyusun tindak lanjut, tetapi belum memiliki kesepakatan operasional bersama seluruh stakeholder maupun bukti implementasi. |
 
 **Total self-assessment: 14/20**
 
 ### Refleksi
 
-Saya belajar bahwa negosiasi bukan hanya tentang meyakinkan orang lain terhadap solusi yang saya tawarkan, tetapi juga memahami kepentingan, kebutuhan, dan keterbatasan setiap pihak. Dalam proyek antrean kantin, saya memahami bahwa fitur yang bermanfaat bagi pembeli belum tentu mudah diterapkan jika tidak mempertimbangkan proses kerja penjual. Karena itu, solusi perlu menyeimbangkan manfaat, kemudahan penggunaan, dan risiko operasional.
+Melalui kegiatan ini, saya belajar bahwa negosiasi tidak hanya berkaitan dengan kemampuan menyampaikan ide atau memperoleh persetujuan. Hal yang lebih penting adalah memahami kepentingan, keterbatasan, dan kewenangan setiap pihak yang terlibat. Dalam proyek sistem informasi antrean kantin, kebutuhan pembeli menjadi dasar dalam merancang solusi. Namun, solusi tersebut juga harus mempertimbangkan pihak yang akan menjalankan prosesnya.
 
-Saya juga belajar bahwa masukan pengguna dapat mengubah cara saya merumuskan masalah. Awalnya, saya lebih berfokus pada status pesanan, tetapi kemudian menyadari bahwa estimasi waktu dan pembaruan informasi juga penting. Ke depannya, saya ingin meningkatkan kemampuan memetakan wewenang stakeholder, menguji asumsi melalui observasi langsung, dan memastikan kesepakatan memiliki indikator keberhasilan yang jelas. Dengan demikian, hasil negosiasi tidak hanya menghasilkan ide, tetapi juga dapat diterjemahkan menjadi tindakan dan dievaluasi berdasarkan bukti nyata.
+Saya mendapatkan pengalaman untuk mengomunikasikan rancangan secara langsung kepada penjual kantin dan memperoleh persetujuan lisan terhadap arah fitur yang diusulkan. Dari pengalaman tersebut, saya memahami bahwa komunikasi langsung memberikan sudut pandang yang tidak selalu bisa diperoleh hanya melalui analisis kebutuhan pengguna. Saya juga belajar untuk tidak menganggap persetujuan terhadap suatu ide sebagai persetujuan terhadap seluruh proses implementasinya.
+
+Hal lain yang saya pelajari adalah pentingnya membedakan fakta, asumsi, dan keputusan yang belum dibuat. Misalnya, kemungkinan bertambahnya beban kerja penjual merupakan risiko yang perlu diperiksa, bukan sesuatu yang boleh langsung dianggap sebagai keberatan penjual. Sikap ini membantu saya menyusun rancangan berdasarkan informasi yang lebih objektif.
+
+Ke depannya, saya perlu meningkatkan kemampuan melakukan negosiasi dengan melibatkan lebih banyak stakeholder, terutama pihak yang memiliki kewenangan dalam pengambilan keputusan. Saya juga perlu mendokumentasikan hasil komunikasi dengan lebih terstruktur, memastikan ruang lingkup kesepakatan dipahami bersama, dan menyusun tindak lanjut yang dapat dievaluasi. Dengan demikian, rancangan yang dibuat tidak berhenti pada persetujuan awal, tetapi dapat berkembang melalui kerja sama dan validasi dari pihak-pihak terkait.
 
 ## 12. Assessment Dosen
 
@@ -152,3 +234,4 @@ Saya juga belajar bahwa masukan pengguna dapat mengubah cara saya merumuskan mas
 **Evidence yang mendukung:** —  
 **Prioritas perbaikan:** —  
 **Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+```
