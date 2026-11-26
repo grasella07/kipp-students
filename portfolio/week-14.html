@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Refleksi penggunaan AI untuk menyusun portofolio KIPP dan menganalisis proyek antrean kantin secara bertanggung jawab.">
+<meta name="description" content="Refleksi penggunaan AI dalam penyusunan portofolio KIPP dan perancangan komunikasi proyek antrean kantin secara bertanggung jawab.">
 
 <title>WEEK 14 — AI-MEDIATED COMMUNICATION DESIGN – Portfolio KIPP-2</title>
 <style>
@@ -276,7 +276,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#konteks-kegiatan" id="toc-konteks-kegiatan" class="nav-link" data-scroll-target="#konteks-kegiatan">1. Konteks Kegiatan</a>
   <ul class="collapse">
   <li><a href="#kegiatan-dan-waktu" id="toc-kegiatan-dan-waktu" class="nav-link" data-scroll-target="#kegiatan-dan-waktu">1.1 Kegiatan dan waktu</a></li>
-  <li><a href="#pihak-yang-terlibat" id="toc-pihak-yang-terlibat" class="nav-link" data-scroll-target="#pihak-yang-terlibat">1.2 Pihak yang terlibat</a></li>
+  <li><a href="#pihak-yang-terlibat-dan-batas-kewenangan" id="toc-pihak-yang-terlibat-dan-batas-kewenangan" class="nav-link" data-scroll-target="#pihak-yang-terlibat-dan-batas-kewenangan">1.2 Pihak yang terlibat dan batas kewenangan</a></li>
   <li><a href="#tujuan-penggunaan-ai" id="toc-tujuan-penggunaan-ai" class="nav-link" data-scroll-target="#tujuan-penggunaan-ai">1.3 Tujuan penggunaan AI</a></li>
   </ul></li>
   <li><a href="#pembagian-peran-manusia-dan-ai" id="toc-pembagian-peran-manusia-dan-ai" class="nav-link" data-scroll-target="#pembagian-peran-manusia-dan-ai">2. Pembagian Peran Manusia dan AI</a>
@@ -290,7 +290,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#prompt-yang-digunakan" id="toc-prompt-yang-digunakan" class="nav-link" data-scroll-target="#prompt-yang-digunakan">3.1 Prompt yang digunakan</a></li>
   <li><a href="#output-ai-yang-membantu" id="toc-output-ai-yang-membantu" class="nav-link" data-scroll-target="#output-ai-yang-membantu">3.2 Output AI yang membantu</a></li>
   <li><a href="#evaluasi-output-dan-keputusan-revisi" id="toc-evaluasi-output-dan-keputusan-revisi" class="nav-link" data-scroll-target="#evaluasi-output-dan-keputusan-revisi">3.3 Evaluasi output dan keputusan revisi</a></li>
-  <li><a href="#pemeriksaan-kebenaran" id="toc-pemeriksaan-kebenaran" class="nav-link" data-scroll-target="#pemeriksaan-kebenaran">3.4 Pemeriksaan kebenaran</a></li>
+  <li><a href="#pemeriksaan-kebenaran-atau-human-review" id="toc-pemeriksaan-kebenaran-atau-human-review" class="nav-link" data-scroll-target="#pemeriksaan-kebenaran-atau-human-review">3.4 Pemeriksaan kebenaran atau human review</a></li>
   </ul></li>
   <li><a href="#privacy-authority-dan-risk-review" id="toc-privacy-authority-dan-risk-review" class="nav-link" data-scroll-target="#privacy-authority-dan-risk-review">4. Privacy, Authority, dan Risk Review</a>
   <ul class="collapse">
@@ -300,21 +300,33 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#mengapa-tidak-menyerahkan-semua-tugas-kepada-ai" id="toc-mengapa-tidak-menyerahkan-semua-tugas-kepada-ai" class="nav-link" data-scroll-target="#mengapa-tidak-menyerahkan-semua-tugas-kepada-ai">4.4 Mengapa tidak menyerahkan semua tugas kepada AI?</a></li>
   </ul></li>
   <li><a href="#analisis-enam-dimensi-komunikasi-yang-dimediasi-ai" id="toc-analisis-enam-dimensi-komunikasi-yang-dimediasi-ai" class="nav-link" data-scroll-target="#analisis-enam-dimensi-komunikasi-yang-dimediasi-ai">5. Analisis Enam Dimensi Komunikasi yang Dimediasi AI</a></li>
-  <li><a href="#response-action-dan-dampak" id="toc-response-action-dan-dampak" class="nav-link" data-scroll-target="#response-action-dan-dampak">6. Response, Action, dan Dampak</a>
+  <li><a href="#response-agreement-action-dan-relationship-outcome" id="toc-response-agreement-action-dan-relationship-outcome" class="nav-link" data-scroll-target="#response-agreement-action-dan-relationship-outcome">6. Response, Agreement, Action, dan Relationship Outcome</a>
   <ul class="collapse">
   <li><a href="#respons-terhadap-output-ai" id="toc-respons-terhadap-output-ai" class="nav-link" data-scroll-target="#respons-terhadap-output-ai">6.1 Respons terhadap output AI</a></li>
   <li><a href="#adaptasi-penggunaan-ai" id="toc-adaptasi-penggunaan-ai" class="nav-link" data-scroll-target="#adaptasi-penggunaan-ai">6.2 Adaptasi penggunaan AI</a></li>
-  <li><a href="#tindakan-konkret-dan-bukti" id="toc-tindakan-konkret-dan-bukti" class="nav-link" data-scroll-target="#tindakan-konkret-dan-bukti">6.3 Tindakan konkret dan bukti</a></li>
-  <li><a href="#dampak-terhadap-kemampuan-dan-hubungan" id="toc-dampak-terhadap-kemampuan-dan-hubungan" class="nav-link" data-scroll-target="#dampak-terhadap-kemampuan-dan-hubungan">6.4 Dampak terhadap kemampuan dan hubungan</a></li>
+  <li><a href="#agreement-bentuk-kesepakatan-yang-tersedia" id="toc-agreement-bentuk-kesepakatan-yang-tersedia" class="nav-link" data-scroll-target="#agreement-bentuk-kesepakatan-yang-tersedia">6.3 Agreement: bentuk kesepakatan yang tersedia</a></li>
+  <li><a href="#action-tindakan-yang-sudah-dilakukan-dan-yang-belum-dilakukan" id="toc-action-tindakan-yang-sudah-dilakukan-dan-yang-belum-dilakukan" class="nav-link" data-scroll-target="#action-tindakan-yang-sudah-dilakukan-dan-yang-belum-dilakukan">6.4 Action: tindakan yang sudah dilakukan dan yang belum dilakukan</a></li>
+  <li><a href="#relationship-outcome-dampak-terhadap-hubungan-dengan-stakeholder" id="toc-relationship-outcome-dampak-terhadap-hubungan-dengan-stakeholder" class="nav-link" data-scroll-target="#relationship-outcome-dampak-terhadap-hubungan-dengan-stakeholder">6.5 Relationship Outcome: dampak terhadap hubungan dengan stakeholder</a></li>
   </ul></li>
-  <li><a href="#feedback-pembelajaran-dan-rencana-perbaikan" id="toc-feedback-pembelajaran-dan-rencana-perbaikan" class="nav-link" data-scroll-target="#feedback-pembelajaran-dan-rencana-perbaikan">7. Feedback, Pembelajaran, dan Rencana Perbaikan</a>
+  <li><a href="#bukti-feedback-dan-rencana-validasi" id="toc-bukti-feedback-dan-rencana-validasi" class="nav-link" data-scroll-target="#bukti-feedback-dan-rencana-validasi">7. Bukti, Feedback, dan Rencana Validasi</a>
   <ul class="collapse">
-  <li><a href="#feedback-yang-tersedia" id="toc-feedback-yang-tersedia" class="nav-link" data-scroll-target="#feedback-yang-tersedia">7.1 Feedback yang tersedia</a></li>
-  <li><a href="#perilaku-yang-akan-dilatih" id="toc-perilaku-yang-akan-dilatih" class="nav-link" data-scroll-target="#perilaku-yang-akan-dilatih">7.2 Perilaku yang akan dilatih</a></li>
-  <li><a href="#refleksi-utama" id="toc-refleksi-utama" class="nav-link" data-scroll-target="#refleksi-utama">7.3 Refleksi utama</a></li>
+  <li><a href="#pemetaan-bukti-yang-tersedia" id="toc-pemetaan-bukti-yang-tersedia" class="nav-link" data-scroll-target="#pemetaan-bukti-yang-tersedia">7.1 Pemetaan bukti yang tersedia</a></li>
+  <li><a href="#feedback-yang-tersedia" id="toc-feedback-yang-tersedia" class="nav-link" data-scroll-target="#feedback-yang-tersedia">7.2 Feedback yang tersedia</a></li>
+  <li><a href="#rencana-validasi-dengan-stakeholder" id="toc-rencana-validasi-dengan-stakeholder" class="nav-link" data-scroll-target="#rencana-validasi-dengan-stakeholder">7.3 Rencana validasi dengan stakeholder</a></li>
+  <li><a href="#indikator-keberhasilan-validasi" id="toc-indikator-keberhasilan-validasi" class="nav-link" data-scroll-target="#indikator-keberhasilan-validasi">7.4 Indikator keberhasilan validasi</a></li>
   </ul></li>
-  <li><a href="#self-assessment" id="toc-self-assessment" class="nav-link" data-scroll-target="#self-assessment">8. Self-Assessment</a></li>
-  <li><a href="#penilaian-dosen" id="toc-penilaian-dosen" class="nav-link" data-scroll-target="#penilaian-dosen">9. Penilaian Dosen</a></li>
+  <li><a href="#pembelajaran-dan-refleksi" id="toc-pembelajaran-dan-refleksi" class="nav-link" data-scroll-target="#pembelajaran-dan-refleksi">8. Pembelajaran dan Refleksi</a>
+  <ul class="collapse">
+  <li><a href="#pembelajaran-utama" id="toc-pembelajaran-utama" class="nav-link" data-scroll-target="#pembelajaran-utama">8.1 Pembelajaran utama</a></li>
+  <li><a href="#perilaku-yang-akan-saya-latih" id="toc-perilaku-yang-akan-saya-latih" class="nav-link" data-scroll-target="#perilaku-yang-akan-saya-latih">8.2 Perilaku yang akan saya latih</a></li>
+  <li><a href="#refleksi-akhir" id="toc-refleksi-akhir" class="nav-link" data-scroll-target="#refleksi-akhir">8.3 Refleksi akhir</a></li>
+  </ul></li>
+  <li><a href="#self-assessment" id="toc-self-assessment" class="nav-link" data-scroll-target="#self-assessment">9. Self-Assessment</a></li>
+  <li><a href="#penilaian-dan-tindak-lanjut-evaluasi" id="toc-penilaian-dan-tindak-lanjut-evaluasi" class="nav-link" data-scroll-target="#penilaian-dan-tindak-lanjut-evaluasi">10. Penilaian dan Tindak Lanjut Evaluasi</a>
+  <ul class="collapse">
+  <li><a href="#hasil-evaluasi-llm-tiket-989" id="toc-hasil-evaluasi-llm-tiket-989" class="nav-link" data-scroll-target="#hasil-evaluasi-llm-tiket-989">Hasil evaluasi LLM tiket 989</a></li>
+  </ul></li>
+  <li><a href="#penilaian-dosen" id="toc-penilaian-dosen" class="nav-link" data-scroll-target="#penilaian-dosen">11. Penilaian Dosen</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -333,7 +345,7 @@ ul.task-list li input[type="checkbox"] {
 
 <div>
   <div class="description">
-    Refleksi penggunaan AI untuk menyusun portofolio KIPP dan menganalisis proyek antrean kantin secara bertanggung jawab.
+    Refleksi penggunaan AI dalam penyusunan portofolio KIPP dan perancangan komunikasi proyek antrean kantin secara bertanggung jawab.
   </div>
 </div>
 
@@ -356,23 +368,35 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="konteks-kegiatan">1. Konteks Kegiatan</h2>
 <section id="kegiatan-dan-waktu" class="level3">
 <h3 class="anchored" data-anchor-id="kegiatan-dan-waktu">1.1 Kegiatan dan waktu</h3>
-<p>Pada Oktober 2026, saya menggunakan ChatGPT melalui browser komputer untuk membantu menyusun portofolio KIPP Week 9–13, termasuk menganalisis proyek antrean kantin. Penggunaan AI berfokus pada penyusunan jawaban, perapian bahasa, pengorganisasian analisis, dan pengaitan pengalaman dengan konsep komunikasi, pengambilan keputusan, serta evaluasi diri.</p>
-<p>Sebelum menggunakan AI, saya telah memiliki konteks proyek dan gagasan utama mengenai masalah antrean kantin. Namun, saya masih perlu menyusun berbagai informasi menjadi jawaban yang runtut, memastikan setiap bagian menjawab pertanyaan tugas, serta membedakan pengalaman aktual dari analisis dan rencana.</p>
+<p>Pada Oktober 2026, saya menggunakan ChatGPT melalui browser komputer untuk membantu menyusun portofolio KIPP Week 9–13, termasuk menganalisis proyek sistem informasi antrean kantin. Penggunaan AI berfokus pada penyusunan jawaban, perapian bahasa, pengorganisasian informasi, pengembangan analisis, serta pengaitan pengalaman dengan konsep komunikasi, pengambilan keputusan, dan evaluasi diri.</p>
+<p>Sebelum menggunakan AI, saya sudah memiliki konteks proyek dan gagasan utama mengenai permasalahan antrean kantin. Dari pembahasan dengan pengguna kantin sebelumnya, saya memahami bahwa pembeli terkadang mengalami ketidakpastian mengenai kapan pesanannya selesai dan perlu menanyakan langsung kepada penjual. Kondisi ini menjadi dasar munculnya gagasan fitur status pesanan dan estimasi waktu tunggu.</p>
+<p>Selain berdiskusi dengan pengguna, saya juga pernah menyampaikan gagasan kedua fitur tersebut kepada salah satu penjual kantin. Penjual memberikan persetujuan secara lisan terhadap arah konsep yang diusulkan. Namun, persetujuan ini masih terbatas pada gagasan fitur, bukan persetujuan formal untuk implementasi sistem. Belum ada pengujian atau penerapan sistem yang dapat membuktikan efektivitasnya.</p>
+<p>Dalam penyusunan portofolio, saya masih perlu mengubah berbagai informasi tersebut menjadi jawaban yang runtut, memastikan setiap bagian menjawab pertanyaan tugas, dan membedakan pengalaman aktual dari interpretasi maupun rencana. Pada tahap inilah ChatGPT digunakan sebagai alat bantu.</p>
 </section>
-<section id="pihak-yang-terlibat" class="level3">
-<h3 class="anchored" data-anchor-id="pihak-yang-terlibat">1.2 Pihak yang terlibat</h3>
-<p>Pihak yang relevan dalam kegiatan ini adalah:</p>
+<section id="pihak-yang-terlibat-dan-batas-kewenangan" class="level3">
+<h3 class="anchored" data-anchor-id="pihak-yang-terlibat-dan-batas-kewenangan">1.2 Pihak yang terlibat dan batas kewenangan</h3>
+<p>Pihak-pihak yang relevan dalam kegiatan ini adalah:</p>
 <ul>
-<li><strong>Saya sebagai mahasiswa:</strong> menentukan konteks pengalaman, memeriksa isi, mengambil keputusan, dan bertanggung jawab atas jawaban akhir.</li>
-<li><strong>ChatGPT sebagai alat bantu:</strong> membantu mengorganisasi informasi, merumuskan bahasa, mengembangkan analisis, dan mengidentifikasi kemungkinan risiko komunikasi.</li>
-<li><strong>Dosen sebagai penilai:</strong> menilai portofolio berdasarkan tuntutan tugas dan kriteria penilaian.</li>
-<li><strong>Pengguna kantin:</strong> menjadi sumber informasi dari diskusi sebelumnya mengenai pengalaman dan kebutuhan pengguna.</li>
-<li><strong>Penjual, pengelola kantin, dan pihak kampus:</strong> merupakan stakeholder yang perlu dipertimbangkan dalam analisis, tetapi tidak dapat dianggap telah menyetujui solusi yang diusulkan.</li>
+<li><strong>Saya sebagai mahasiswa:</strong> menentukan konteks pengalaman, memberikan instruksi kepada AI, memeriksa hasil, mengambil keputusan, dan bertanggung jawab atas isi akhir portofolio.</li>
+<li><strong>ChatGPT sebagai alat bantu AI:</strong> membantu mengorganisasi informasi, merumuskan bahasa, mengembangkan analisis, serta mengidentifikasi kemungkinan risiko komunikasi.</li>
+<li><strong>Pengguna kantin:</strong> menjadi sumber informasi mengenai pengalaman dan kebutuhan pembeli berdasarkan pembahasan sebelumnya.</li>
+<li><strong>Penjual kantin:</strong> menjadi stakeholder yang pernah menerima penjelasan mengenai gagasan status pesanan dan estimasi waktu tunggu serta memberikan tanggapan secara lisan.</li>
+<li><strong>Pengelola kantin dan pihak kampus:</strong> merupakan pihak yang perlu dipertimbangkan apabila solusi akan diterapkan secara lebih luas. Namun, belum ada konfirmasi atau persetujuan langsung dari pihak-pihak tersebut.</li>
+<li><strong>Dosen:</strong> berperan sebagai penilai portofolio berdasarkan tuntutan tugas dan kriteria penilaian.</li>
 </ul>
+<p>Pembagian ini penting karena setiap pihak memiliki kewenangan yang berbeda. Saya dapat menjelaskan pengalaman dan gagasan sendiri, tetapi tidak dapat mengambil keputusan operasional atas nama penjual, pengelola kantin, maupun kampus.</p>
 </section>
 <section id="tujuan-penggunaan-ai" class="level3">
 <h3 class="anchored" data-anchor-id="tujuan-penggunaan-ai">1.3 Tujuan penggunaan AI</h3>
-<p>Tujuan saya menggunakan AI adalah menghasilkan portofolio yang lebih terstruktur dan menunjukkan hubungan antara konteks proyek, kebutuhan pengguna, alternatif solusi, risiko, serta refleksi pembelajaran.</p>
+<p>Tujuan saya menggunakan AI adalah:</p>
+<ol type="1">
+<li>Menyusun portofolio secara lebih terstruktur dan sesuai dengan pertanyaan tugas.</li>
+<li>Menghubungkan masalah antrean kantin dengan kebutuhan pengguna dan alternatif solusi.</li>
+<li>Mengembangkan analisis mengenai pembagian peran, kewenangan, dan tanggung jawab stakeholder.</li>
+<li>Memeriksa apakah suatu pernyataan merupakan fakta, interpretasi, atau rencana.</li>
+<li>Mengidentifikasi risiko komunikasi, khususnya klaim yang terlalu berlebihan.</li>
+<li>Menyusun refleksi mengenai penggunaan AI secara bertanggung jawab.</li>
+</ol>
 <p>Saya tidak menggunakan AI untuk menggantikan pengalaman langsung, menciptakan bukti, atau menentukan keputusan atas nama stakeholder. AI membantu proses penyusunan dan analisis, sedangkan tanggung jawab atas kebenaran isi tetap berada pada saya.</p>
 </section>
 </section>
@@ -380,46 +404,88 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="pembagian-peran-manusia-dan-ai">2. Pembagian Peran Manusia dan AI</h2>
 <section id="peran-ai" class="level3">
 <h3 class="anchored" data-anchor-id="peran-ai">2.1 Peran AI</h3>
-<p>Saya menggunakan ChatGPT untuk:</p>
-<ol type="1">
-<li>Menyusun kerangka jawaban sesuai pertanyaan portofolio.</li>
-<li>Merapikan bahasa agar lebih jelas dan mudah dipahami.</li>
-<li>Mengelompokkan informasi berdasarkan bagian tugas.</li>
-<li>Membandingkan alternatif solusi untuk masalah antrean kantin.</li>
-<li>Mengembangkan draft analisis dan refleksi.</li>
-<li>Mengidentifikasi risiko salah paham dan klaim yang berlebihan.</li>
-<li>Membantu memahami aspek yang perlu dibahas berdasarkan tuntutan tugas.</li>
-</ol>
+<p>Saya menggunakan ChatGPT untuk beberapa kebutuhan berikut:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Kebutuhan</th>
+<th>Bentuk bantuan AI</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Penyusunan portofolio</td>
+<td>Membantu membuat kerangka jawaban berdasarkan pertanyaan dan bagian tugas.</td>
+</tr>
+<tr class="even">
+<td>Pengorganisasian informasi</td>
+<td>Mengelompokkan pengalaman, permasalahan, alternatif solusi, dan refleksi agar lebih mudah dipahami.</td>
+</tr>
+<tr class="odd">
+<td>Pengembangan analisis</td>
+<td>Membantu menghubungkan masalah antrean kantin dengan kebutuhan pengguna dan kepentingan stakeholder.</td>
+</tr>
+<tr class="even">
+<td>Perumusan bahasa</td>
+<td>Merapikan kalimat agar lebih jelas, runtut, dan tidak terlalu berulang.</td>
+</tr>
+<tr class="odd">
+<td>Pemeriksaan risiko</td>
+<td>Mengidentifikasi kemungkinan klaim berlebihan, asumsi yang belum terverifikasi, dan risiko salah paham.</td>
+</tr>
+<tr class="even">
+<td>Evaluasi diri</td>
+<td>Membantu menyusun pertanyaan reflektif mengenai keputusan dan tanggung jawab saya selama menggunakan AI.</td>
+</tr>
+</tbody>
+</table>
 </section>
 <section id="peran-dan-tanggung-jawab-manusia" class="level3">
 <h3 class="anchored" data-anchor-id="peran-dan-tanggung-jawab-manusia">2.2 Peran dan tanggung jawab manusia</h3>
-<p>Saya tetap menentukan pengalaman yang relevan, menilai kesesuaian jawaban dengan konteks, dan memutuskan bagian yang digunakan dalam portofolio. Saya juga bertanggung jawab membedakan fakta, interpretasi, dan rencana.</p>
-<p>Sebagai contoh, gagasan mengenai informasi status pesanan dan estimasi waktu tunggu dapat dijelaskan sebagai alternatif yang berpotensi membantu pembeli. Namun, saya tidak boleh menyatakan bahwa solusi tersebut sudah berhasil mengurangi antrean karena belum ada implementasi dan pengujian yang dapat membuktikannya.</p>
-<p>Saya juga tidak menggunakan AI untuk mengarang persetujuan penjual, menyatakan bahwa sistem sudah diterapkan, atau mengatasnamakan kampus.</p>
+<p>Saya tetap bertanggung jawab atas seluruh keputusan yang berkaitan dengan isi portofolio. AI dapat memberikan alternatif kalimat atau sudut pandang, tetapi saya perlu menilai apakah saran tersebut sesuai dengan pengalaman dan bukti yang benar-benar tersedia.</p>
+<p>Sebagai contoh, AI dapat membantu menjelaskan bahwa fitur status pesanan dan estimasi waktu tunggu berpotensi mengurangi ketidakpastian pembeli. Namun, saya harus membatasi pernyataan tersebut sebagai manfaat yang diharapkan, bukan hasil yang sudah terbukti.</p>
+<p>Begitu juga dengan tanggapan penjual. Saya dapat menjelaskan bahwa penjual pernah menyampaikan persetujuan secara lisan terhadap konsep fitur yang diusulkan. Akan tetapi, saya tidak boleh mengubahnya menjadi klaim bahwa penjual telah menyetujui implementasi, menyediakan waktu untuk menjalankan sistem, atau menjamin keberhasilan solusi.</p>
+<p>Dengan demikian, saya bertanggung jawab untuk memastikan bahwa output AI tidak melampaui informasi yang saya miliki.</p>
 </section>
 <section id="batas-penggunaan-ai" class="level3">
 <h3 class="anchored" data-anchor-id="batas-penggunaan-ai">2.3 Batas penggunaan AI</h3>
-<p>Saya menggunakan AI ketika membutuhkan bantuan untuk menyusun struktur, memperjelas bahasa, atau mempertimbangkan sudut pandang lain. Saya perlu berhenti atau melakukan pemeriksaan ulang ketika jawaban mulai melampaui informasi yang tersedia, mengandung asumsi yang belum terverifikasi, atau membuat rencana terdengar seperti kegiatan yang telah selesai.</p>
-<p>Dengan demikian, AI berperan sebagai pendukung proses berpikir, bukan sebagai pengganti penilaian dan tanggung jawab manusia.</p>
+<p>Saya menggunakan AI ketika membutuhkan bantuan untuk menyusun struktur, memperjelas bahasa, dan mempertimbangkan sudut pandang lain. Namun, saya perlu melakukan pemeriksaan ulang ketika:</p>
+<ul>
+<li>AI memberikan informasi yang tidak pernah saya sampaikan.</li>
+<li>AI mengubah kemungkinan atau rencana menjadi seolah-olah kegiatan yang sudah terlaksana.</li>
+<li>AI menyimpulkan persetujuan stakeholder tanpa dasar yang jelas.</li>
+<li>AI memberikan rekomendasi yang tidak mempertimbangkan kondisi operasional kantin.</li>
+<li>Bahasa yang dihasilkan terlalu formal atau tidak sesuai dengan pengalaman saya.</li>
+</ul>
+<p>Saya juga memahami bahwa AI tidak dapat menggantikan komunikasi langsung dengan pengguna dan penjual. Untuk mengetahui apakah suatu solusi dapat diterima atau diterapkan, saya tetap perlu meminta tanggapan dari pihak yang terlibat.</p>
 </section>
 </section>
 <section id="prompt-output-dan-revisi-manusia" class="level2">
 <h2 class="anchored" data-anchor-id="prompt-output-dan-revisi-manusia">3. Prompt, Output, dan Revisi Manusia</h2>
 <section id="prompt-yang-digunakan" class="level3">
 <h3 class="anchored" data-anchor-id="prompt-yang-digunakan">3.1 Prompt yang digunakan</h3>
-<p>Berikut merupakan parafrasa instruksi yang menggambarkan penggunaan ChatGPT dalam penyusunan portofolio, bukan kutipan persis dari riwayat percakapan:</p>
+<p>Berikut merupakan parafrasa instruksi yang menggambarkan penggunaan ChatGPT selama penyusunan portofolio, bukan kutipan persis dari riwayat percakapan:</p>
 <blockquote class="blockquote">
-<p>Bantu saya menjawab pertanyaan portofolio KIPP berdasarkan konteks proyek antrean kantin sebelumnya. Gunakan bahasa Indonesia yang natural dan susun jawaban secara runtut sesuai pertanyaan tugas.</p>
+<p>Bantu saya menyusun jawaban portofolio KIPP berdasarkan konteks proyek antrean kantin sebelumnya. Gunakan bahasa Indonesia yang natural, runtut, dan sesuai dengan pertanyaan tugas.</p>
 </blockquote>
 <blockquote class="blockquote">
-<p>Bantu saya membedakan kegiatan yang sudah dilakukan dari analisis dan rencana. Jangan membuat klaim atau bukti yang tidak tersedia.</p>
+<p>Bantu saya membedakan kegiatan yang sudah dilakukan, analisis, dan rencana. Jangan membuat klaim atau bukti yang tidak tersedia dalam konteks proyek.</p>
 </blockquote>
-<p>Instruksi tersebut menunjukkan bahwa saya tidak hanya membutuhkan bantuan menghasilkan teks, tetapi juga mengarahkan AI agar mempertahankan konteks dan batas bukti.</p>
+<blockquote class="blockquote">
+<p>Periksa kembali apakah penjelasan mengenai stakeholder, persetujuan, tindakan, dan dampak sudah sesuai dengan bukti yang benar-benar dimiliki. Jika belum ada bukti, jelaskan keterbatasannya dan jangan menganggapnya sudah terlaksana.</p>
+</blockquote>
+<p>Instruksi tersebut menunjukkan bahwa saya tidak hanya meminta AI menghasilkan teks, tetapi juga mengarahkan AI untuk mempertahankan konteks dan batas bukti.</p>
 </section>
 <section id="output-ai-yang-membantu" class="level3">
 <h3 class="anchored" data-anchor-id="output-ai-yang-membantu">3.2 Output AI yang membantu</h3>
-<p>Output yang paling membantu adalah struktur analisis yang menghubungkan masalah antrean kantin, kebutuhan pengguna, alternatif solusi, risiko, dan refleksi diri.</p>
-<p>Melalui struktur tersebut, saya dapat menjelaskan alasan di balik gagasan status pesanan dan estimasi waktu tunggu, bukan sekadar menyebutkan solusi. AI juga membantu memperjelas bahwa estimasi waktu merupakan perkiraan yang perlu diperbarui sesuai kondisi, bukan jaminan bahwa pesanan selesai pada waktu tertentu.</p>
+<p>Output yang paling membantu adalah struktur analisis yang menghubungkan masalah antrean kantin, kebutuhan pengguna, alternatif solusi, risiko, dan refleksi pembelajaran.</p>
+<p>AI membantu saya menjelaskan bahwa status pesanan dapat memberikan informasi mengenai perkembangan pesanan, sedangkan estimasi waktu tunggu dapat membantu pembeli memperkirakan kapan makanan siap diambil.</p>
+<p>AI juga membantu memperjelas bahwa estimasi waktu merupakan perkiraan yang dapat berubah sesuai kondisi antrean, jumlah pesanan, dan proses persiapan makanan. Oleh karena itu, informasi tersebut tidak boleh dipahami sebagai jaminan waktu penyelesaian.</p>
+<p>Selain itu, AI membantu saya melihat bahwa solusi yang secara teknis terlihat sederhana belum tentu langsung dapat diterapkan. Penjual tetap memiliki pertimbangan operasional, seperti waktu untuk memperbarui status, jumlah pesanan yang sedang dikerjakan, dan kemudahan penggunaan sistem.</p>
 </section>
 <section id="evaluasi-output-dan-keputusan-revisi" class="level3">
 <h3 class="anchored" data-anchor-id="evaluasi-output-dan-keputusan-revisi">3.3 Evaluasi output dan keputusan revisi</h3>
@@ -440,36 +506,73 @@ ul.task-list li input[type="checkbox"] {
 <tr class="odd">
 <td>Menyusun pengalaman sesuai struktur pertanyaan portofolio</td>
 <td>Digunakan sebagai kerangka</td>
-<td>Membantu jawaban lebih runtut dan mudah ditinjau berdasarkan tuntutan tugas.</td>
+<td>Membantu jawaban lebih runtut dan mudah diperiksa.</td>
 </tr>
 <tr class="even">
 <td>Menjelaskan manfaat status pesanan dan estimasi waktu tunggu</td>
 <td>Digunakan dengan batasan</td>
-<td>Manfaat tersebut merupakan potensi solusi, bukan hasil yang sudah terbukti.</td>
+<td>Manfaat tersebut merupakan potensi solusi, bukan hasil implementasi yang sudah terbukti.</td>
 </tr>
 <tr class="odd">
-<td>Menghubungkan analisis dengan tindakan atau kesepakatan stakeholder</td>
-<td>Dibatasi sesuai bukti yang tersedia</td>
-<td>Saya tidak boleh menyatakan adanya implementasi atau persetujuan formal tanpa bukti.</td>
+<td>Menghubungkan solusi dengan kebutuhan pembeli dan penjual</td>
+<td>Digunakan setelah ditinjau</td>
+<td>Analisis perlu mempertimbangkan kebutuhan kedua pihak, bukan hanya kenyamanan pembeli.</td>
+</tr>
+<tr class="even">
+<td>Mengembangkan pembahasan persetujuan stakeholder</td>
+<td>Disesuaikan dengan pengalaman aktual</td>
+<td>Persetujuan penjual hanya disampaikan secara lisan terhadap konsep, bukan persetujuan formal untuk implementasi.</td>
+</tr>
+<tr class="odd">
+<td>Menyusun dampak dan perubahan hubungan</td>
+<td>Dibatasi sesuai bukti</td>
+<td>Belum ada bukti yang menunjukkan perubahan hubungan atau keberhasilan penerapan sistem.</td>
 </tr>
 <tr class="even">
 <td>Merapikan bahasa dan refleksi</td>
 <td>Digunakan sebagai bahan penyusunan</td>
-<td>Bahasa yang lebih jelas membantu komunikasi, tetapi isi tetap harus sesuai pengalaman saya.</td>
-</tr>
-<tr class="odd">
-<td>Mengembangkan analisis dan risiko</td>
-<td>Ditinjau kembali berdasarkan konteks</td>
-<td>Analisis AI perlu dibedakan dari fakta yang benar-benar diperoleh melalui kegiatan.</td>
+<td>Bahasa yang lebih jelas membantu komunikasi, tetapi isi tetap harus mencerminkan pengalaman saya.</td>
 </tr>
 </tbody>
 </table>
-<p>Saya tidak memiliki catatan terpisah yang memastikan adanya kesalahan faktual spesifik dalam setiap output awal. Oleh karena itu, saya tidak mengklaim telah memperbaiki kesalahan tertentu yang tidak dapat saya tunjukkan. Evaluasi saya berfokus pada risiko yang perlu diperiksa, terutama klaim berlebihan dan pencampuran fakta dengan rencana.</p>
+<p>Saya tidak memiliki catatan terpisah yang memastikan adanya kesalahan faktual spesifik dalam setiap output awal. Karena itu, saya tidak mengklaim telah memperbaiki kesalahan tertentu yang tidak dapat saya tunjukkan. Evaluasi saya berfokus pada risiko yang perlu diperiksa, terutama klaim berlebihan dan pencampuran fakta dengan rencana.</p>
 </section>
-<section id="pemeriksaan-kebenaran" class="level3">
-<h3 class="anchored" data-anchor-id="pemeriksaan-kebenaran">3.4 Pemeriksaan kebenaran</h3>
-<p>Saya membandingkan draft dengan konteks tugas dan pembahasan proyek sebelumnya. Saya memeriksa apakah pernyataan mengenai diskusi pengguna, kebutuhan, alternatif solusi, implementasi, dan respons stakeholder sesuai dengan informasi yang tersedia.</p>
-<p>Saya juga memastikan bahwa analisis tidak ditulis seolah-olah merupakan hasil pengujian. Pemeriksaan ini membantu menjaga agar jawaban tetap akurat dan tidak melebih-lebihkan hasil proyek.</p>
+<section id="pemeriksaan-kebenaran-atau-human-review" class="level3">
+<h3 class="anchored" data-anchor-id="pemeriksaan-kebenaran-atau-human-review">3.4 Pemeriksaan kebenaran atau human review</h3>
+<p>Saya melakukan pemeriksaan terhadap hasil AI dengan membandingkannya dengan konteks tugas dan pembahasan proyek sebelumnya. Pemeriksaan dilakukan dengan memperhatikan tiga kategori berikut:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Kategori</th>
+<th>Contoh dalam proyek</th>
+<th>Cara memeriksa</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Fakta</strong></td>
+<td>Pembeli pernah menyampaikan ketidakpastian mengenai waktu penyelesaian pesanan. Penjual pernah memberikan persetujuan lisan terhadap konsep fitur.</td>
+<td>Memastikan pernyataan sesuai dengan pengalaman dan komunikasi yang benar-benar terjadi.</td>
+</tr>
+<tr class="even">
+<td><strong>Analisis</strong></td>
+<td>Status pesanan dan estimasi waktu tunggu berpotensi membantu pembeli memperoleh informasi yang lebih jelas.</td>
+<td>Memastikan kesimpulan disampaikan sebagai interpretasi, bukan hasil pengujian.</td>
+</tr>
+<tr class="odd">
+<td><strong>Rencana</strong></td>
+<td>Meminta konfirmasi tertulis dari penjual dan menguji apakah informasi status mudah diperbarui.</td>
+<td>Memastikan tindakan yang belum dilakukan tetap ditulis sebagai rencana.</td>
+</tr>
+</tbody>
+</table>
+<p>Saya juga memeriksa apakah AI memberikan kesimpulan yang terlalu jauh dari informasi awal. Misalnya, persetujuan lisan terhadap konsep tidak dapat diartikan sebagai persetujuan untuk menjalankan sistem. Begitu pula dengan potensi pengurangan ketidakpastian pembeli yang belum dapat disebut sebagai dampak terukur sebelum dilakukan pengujian.</p>
+<p>Pemeriksaan ini menjadi bentuk <em>human review</em>: AI menghasilkan dan mengembangkan alternatif, sedangkan saya memeriksa konteks, menilai kelayakan, dan menentukan apakah hasilnya dapat digunakan.</p>
 </section>
 </section>
 <section id="privacy-authority-dan-risk-review" class="level2">
@@ -477,30 +580,34 @@ ul.task-list li input[type="checkbox"] {
 <section id="privasi-informasi" class="level3">
 <h3 class="anchored" data-anchor-id="privasi-informasi">4.1 Privasi informasi</h3>
 <p>Informasi yang saya masukkan ke ChatGPT terutama berupa pertanyaan tugas, konteks proyek antrean kantin, ringkasan pembahasan pengguna, dan draft portofolio.</p>
-<p>Saya memahami bahwa informasi pribadi yang tidak relevan sebaiknya tidak dimasukkan ke prompt. Dalam menjelaskan kebutuhan pengguna, fokusnya adalah pengalaman dan persoalan yang dibahas, bukan identitas pribadi seseorang. Jika hasil analisis digunakan dalam artefak publik, nama atau informasi kontak tidak perlu dicantumkan apabila tidak dibutuhkan.</p>
+<p>Saya memahami bahwa informasi pribadi yang tidak relevan sebaiknya tidak dimasukkan ke dalam prompt. Dalam menjelaskan kebutuhan pengguna, saya cukup menyampaikan pengalaman dan persoalan yang dibahas tanpa mencantumkan identitas atau informasi kontak yang tidak diperlukan.</p>
+<p>Jika hasil analisis digunakan dalam artefak publik, saya juga perlu memastikan bahwa informasi yang ditampilkan tidak membuka identitas pihak lain tanpa alasan yang jelas.</p>
 <p>Pertimbangan ini merupakan upaya menjaga privasi, bukan hasil audit privasi formal.</p>
 </section>
 <section id="batas-kewenangan" class="level3">
 <h3 class="anchored" data-anchor-id="batas-kewenangan">4.2 Batas kewenangan</h3>
-<p>Saya berwenang menjelaskan pengalaman dan analisis saya sendiri. ChatGPT dapat membantu mengolah informasi dan menyusun bahasa, tetapi tidak dapat menentukan kebenaran pengalaman pribadi secara mandiri atau memberikan persetujuan atas nama orang lain.</p>
-<p>Pengguna kantin dapat memberikan masukan berdasarkan pengalamannya. Sementara itu, keputusan operasional mengenai penerapan sistem berada di luar kewenangan saya. Saya juga tidak memiliki dasar untuk menyampaikan gagasan ini sebagai kebijakan resmi kampus.</p>
+<p>Saya memiliki kewenangan untuk menjelaskan pengalaman, menyusun gagasan, dan mengembangkan analisis proyek. ChatGPT dapat membantu mengolah informasi, tetapi tidak dapat menentukan kebenaran pengalaman pribadi secara mandiri atau memberikan persetujuan atas nama orang lain.</p>
+<p>Pengguna kantin dapat memberikan masukan berdasarkan pengalaman mereka sebagai pembeli. Penjual dapat menyampaikan pertimbangan terkait proses operasional dan kelayakan penggunaan fitur. Sementara itu, keputusan mengenai penerapan sistem secara lebih luas perlu melibatkan pihak yang memiliki kewenangan operasional.</p>
+<p>Saya juga tidak memiliki dasar untuk menyampaikan gagasan ini sebagai kebijakan resmi kampus.</p>
 </section>
 <section id="risiko-penggunaan-ai-tanpa-pemeriksaan" class="level3">
 <h3 class="anchored" data-anchor-id="risiko-penggunaan-ai-tanpa-pemeriksaan">4.3 Risiko penggunaan AI tanpa pemeriksaan</h3>
-<p>Risiko yang saya identifikasi meliputi:</p>
-<ul>
+<p>Beberapa risiko yang saya identifikasi adalah:</p>
+<ol type="1">
 <li><strong>Klaim berlebihan:</strong> solusi yang masih berupa gagasan dapat terdengar seperti sudah terbukti berhasil.</li>
-<li><strong>Pencampuran fakta dan asumsi:</strong> interpretasi dapat ditulis seolah-olah berasal dari hasil wawancara atau pengujian.</li>
+<li><strong>Pencampuran fakta dan asumsi:</strong> interpretasi AI dapat ditulis seolah-olah berasal dari hasil wawancara atau pengujian.</li>
+<li><strong>Persetujuan yang tidak tepat:</strong> tanggapan positif terhadap konsep dapat disalahartikan sebagai persetujuan implementasi.</li>
 <li><strong>Hilangnya suara pribadi:</strong> bahasa yang terlalu formal dapat mengurangi keaslian refleksi.</li>
 <li><strong>Risiko privasi:</strong> informasi pribadi yang tidak diperlukan dapat masuk ke prompt atau artefak.</li>
-<li><strong>Ketergantungan:</strong> penggunaan AI secara berlebihan dapat mengurangi latihan berpikir dan menyusun argumen secara mandiri.</li>
-</ul>
-<p>Untuk mengurangi risiko tersebut, saya meninjau kesesuaian isi, membatasi klaim berdasarkan bukti, dan mempertahankan keputusan akhir pada diri sendiri.</p>
+<li><strong>Ketergantungan:</strong> penggunaan AI secara berlebihan dapat mengurangi kesempatan untuk melatih kemampuan berpikir dan menyusun argumen secara mandiri.</li>
+</ol>
+<p>Untuk mengurangi risiko tersebut, saya meninjau kesesuaian isi, membatasi klaim berdasarkan bukti, serta mempertahankan keputusan akhir pada diri sendiri.</p>
 </section>
 <section id="mengapa-tidak-menyerahkan-semua-tugas-kepada-ai" class="level3">
 <h3 class="anchored" data-anchor-id="mengapa-tidak-menyerahkan-semua-tugas-kepada-ai">4.4 Mengapa tidak menyerahkan semua tugas kepada AI?</h3>
-<p>Memahami pengalaman sendiri, mengonfirmasi apa yang benar-benar terjadi, melakukan wawancara, menilai respons orang lain, dan bertanggung jawab atas isi akhir tetap membutuhkan keterlibatan manusia.</p>
-<p>Saya juga perlu berlatih menyusun pemikiran sendiri agar tidak bergantung pada AI setiap kali menghadapi tugas. Karena itu, saya menggunakan AI terutama ketika membutuhkan bantuan untuk memperjelas pemikiran yang sudah memiliki dasar, bukan untuk menggantikan proses memahami pengalaman dan mengambil keputusan.</p>
+<p>Memahami pengalaman sendiri, mengonfirmasi apa yang benar-benar terjadi, melakukan komunikasi dengan stakeholder, menilai respons orang lain, dan bertanggung jawab atas isi akhir tetap membutuhkan keterlibatan manusia.</p>
+<p>AI tidak dapat mengetahui secara langsung apakah penjual benar-benar bersedia menjalankan sistem, apakah fitur sesuai dengan alur kerja kantin, atau apakah pembeli merasa terbantu setelah menggunakannya.</p>
+<p>Karena itu, saya menggunakan AI sebagai pendukung proses berpikir, bukan pengganti komunikasi dan pengambilan keputusan. Saya perlu tetap terlibat dalam proses pengumpulan bukti dan validasi agar hasil analisis tidak hanya terlihat baik secara tertulis, tetapi juga sesuai dengan kondisi sebenarnya.</p>
 </section>
 </section>
 <section id="analisis-enam-dimensi-komunikasi-yang-dimediasi-ai" class="level2">
@@ -523,7 +630,7 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 <tr class="even">
 <td><strong>Objective &amp; State</strong></td>
-<td>Tujuan penggunaan AI adalah menyusun jawaban yang runtut dan menghubungkan proyek dengan konsep pembelajaran. Kondisi awalnya adalah saya sudah memiliki konteks proyek, tetapi memerlukan bantuan untuk mengorganisasi informasi dan mengembangkan analisis.</td>
+<td>Tujuan penggunaan AI adalah menyusun jawaban yang runtut dan menghubungkan proyek dengan konsep pembelajaran. Kondisi awalnya adalah saya sudah memiliki konteks proyek, tetapi membutuhkan bantuan untuk mengorganisasi informasi dan mengembangkan analisis.</td>
 </tr>
 <tr class="odd">
 <td><strong>Repertoire &amp; Language</strong></td>
@@ -531,75 +638,208 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 <tr class="even">
 <td><strong>Response &amp; Adaptation</strong></td>
-<td>Saya memperjelas instruksi agar jawaban lebih kontekstual, natural, dan tidak mencampuradukkan tindakan aktual dengan rencana. Saya juga mengarahkan analisis untuk mempertimbangkan risiko dan keterbatasan bukti.</td>
+<td>Saya memperjelas instruksi agar jawaban lebih kontekstual dan tidak mencampuradukkan tindakan aktual dengan rencana. Saya juga mengarahkan analisis untuk mempertimbangkan risiko, keterbatasan bukti, dan sudut pandang stakeholder.</td>
 </tr>
 <tr class="odd">
 <td><strong>Agreement &amp; Action</strong></td>
-<td>Hasil konkret penggunaan AI adalah draft portofolio, pengorganisasian analisis, perumusan pesan inti, dan refleksi. Namun, penggunaan AI tidak menghasilkan persetujuan stakeholder atau bukti bahwa sistem antrean telah diterapkan.</td>
+<td>Hasil konkret penggunaan AI adalah draft portofolio, pengorganisasian analisis, dan perumusan pesan. Dalam proyek kantin, terdapat persetujuan lisan penjual terhadap konsep fitur, tetapi belum ada persetujuan formal, implementasi, atau pengujian sistem.</td>
 </tr>
 <tr class="even">
 <td><strong>Relationship Outcome</strong></td>
-<td>AI membantu saya mempertimbangkan kebutuhan pembeli dan keterbatasan penjual dalam analisis. Namun, belum ada bukti bahwa penggunaan AI menghasilkan perubahan hubungan dengan pengguna, penjual, atau pengelola kantin.</td>
+<td>AI membantu saya mempertimbangkan kebutuhan pembeli dan keterbatasan penjual. Namun, belum ada bukti yang cukup untuk menyimpulkan bahwa penggunaan AI menghasilkan perubahan hubungan dengan pengguna, penjual, atau pengelola kantin.</td>
 </tr>
 </tbody>
 </table>
-<p>Analisis ini menunjukkan bahwa penggunaan AI tidak hanya berkaitan dengan kualitas teks, tetapi juga dengan pembagian peran, pilihan bahasa, batas kewenangan, dan tanggung jawab terhadap pihak lain.</p>
+<p>Dari keenam dimensi tersebut, saya memahami bahwa komunikasi yang dimediasi AI tidak hanya berkaitan dengan kualitas teks yang dihasilkan. Hal ini juga menyangkut siapa yang memiliki kewenangan, bagaimana informasi disampaikan, bagaimana respons pihak lain dipahami, dan siapa yang bertanggung jawab atas keputusan akhir.</p>
 </section>
-<section id="response-action-dan-dampak" class="level2">
-<h2 class="anchored" data-anchor-id="response-action-dan-dampak">6. Response, Action, dan Dampak</h2>
+<section id="response-agreement-action-dan-relationship-outcome" class="level2">
+<h2 class="anchored" data-anchor-id="response-agreement-action-dan-relationship-outcome">6. Response, Agreement, Action, dan Relationship Outcome</h2>
 <section id="respons-terhadap-output-ai" class="level3">
 <h3 class="anchored" data-anchor-id="respons-terhadap-output-ai">6.1 Respons terhadap output AI</h3>
-<p>Saya menilai bahwa penggunaan ChatGPT membantu membuat jawaban portofolio lebih terstruktur dan memperjelas hubungan antara proyek dengan konsep pembelajaran. Penilaian tersebut merupakan evaluasi diri atas proses pengerjaan, bukan feedback eksternal.</p>
-<p>Belum ada feedback khusus dari dosen atau pihak lain yang dapat saya kaitkan secara langsung dengan penggunaan AI ini.</p>
+<p>Saya menilai bahwa penggunaan ChatGPT membantu membuat jawaban portofolio lebih terstruktur dan memperjelas hubungan antara proyek dengan konsep pembelajaran.</p>
+<p>Penilaian tersebut merupakan evaluasi diri terhadap proses pengerjaan. Saya belum memiliki feedback eksternal yang secara khusus menyatakan bahwa penggunaan AI telah meningkatkan kualitas komunikasi dengan stakeholder.</p>
+<p>Saya membedakan kedua hal tersebut agar evaluasi diri tidak disamakan dengan respons dari pihak lain.</p>
 </section>
 <section id="adaptasi-penggunaan-ai" class="level3">
 <h3 class="anchored" data-anchor-id="adaptasi-penggunaan-ai">6.2 Adaptasi penggunaan AI</h3>
-<p>Dalam proses penyusunan jawaban, saya memperjelas konteks dan batasan instruksi. Saya mengarahkan jawaban agar tidak hanya membahas solusi, tetapi juga menjelaskan risiko, keterbatasan bukti, dan tanggung jawab manusia.</p>
-<p>Adaptasi ini membantu saya memperhatikan bukan hanya apakah jawaban terlihat lengkap, melainkan juga apakah isinya dapat dipertanggungjawabkan.</p>
+<p>Dalam proses penyusunan jawaban, saya memperjelas konteks dan batasan instruksi. Saya mengarahkan AI agar tidak hanya membahas manfaat solusi, tetapi juga mempertimbangkan risiko, keterbatasan bukti, dan tanggung jawab manusia.</p>
+<p>Salah satu penyesuaian penting adalah membedakan persetujuan terhadap gagasan dengan persetujuan terhadap implementasi. Dengan begitu, pembahasan mengenai tanggapan penjual tetap sesuai dengan apa yang benar-benar pernah disampaikan.</p>
 </section>
-<section id="tindakan-konkret-dan-bukti" class="level3">
-<h3 class="anchored" data-anchor-id="tindakan-konkret-dan-bukti">6.3 Tindakan konkret dan bukti</h3>
-<p>Tindakan konkret yang dihasilkan dari penggunaan AI adalah:</p>
-<ol type="1">
-<li>Menyusun draft jawaban portofolio KIPP Week 9–13.</li>
-<li>Mengorganisasi analisis proyek antrean kantin.</li>
-<li>Merumuskan pesan inti mengenai status pesanan dan estimasi waktu tunggu.</li>
-<li>Menyusun refleksi, identifikasi risiko, dan self-assessment.</li>
-</ol>
-<p>Bukti yang tersedia berupa percakapan dengan ChatGPT, instruksi yang diberikan selama percakapan, dan draft portofolio yang dihasilkan. Bukti tersebut menunjukkan proses penggunaan AI untuk penyusunan tugas, bukan keberhasilan implementasi sistem antrean.</p>
-</section>
-<section id="dampak-terhadap-kemampuan-dan-hubungan" class="level3">
-<h3 class="anchored" data-anchor-id="dampak-terhadap-kemampuan-dan-hubungan">6.4 Dampak terhadap kemampuan dan hubungan</h3>
-<p>Penggunaan AI membantu saya mengembangkan cara menjelaskan masalah dan menyusun gagasan secara sistematis. Di sisi lain, saya menyadari bahwa penggunaan yang berlebihan dapat membuat tulisan kehilangan suara pribadi dan mengurangi kesempatan untuk berlatih berpikir mandiri.</p>
-<p>Dalam proyek kantin, AI membantu saya mempertimbangkan kebutuhan pembeli dan kemungkinan keterbatasan penjual. Namun, belum ada perubahan hubungan dengan stakeholder yang dapat saya pastikan sebagai dampak langsung penggunaan AI.</p>
-</section>
-</section>
-<section id="feedback-pembelajaran-dan-rencana-perbaikan" class="level2">
-<h2 class="anchored" data-anchor-id="feedback-pembelajaran-dan-rencana-perbaikan">7. Feedback, Pembelajaran, dan Rencana Perbaikan</h2>
-<section id="feedback-yang-tersedia" class="level3">
-<h3 class="anchored" data-anchor-id="feedback-yang-tersedia">7.1 Feedback yang tersedia</h3>
-<p>Belum ada feedback eksternal yang secara khusus menilai penggunaan AI dalam penyusunan portofolio ini. Evaluasi yang tersedia berasal dari proses meninjau dan memperbaiki draft sendiri.</p>
-<p>Saya membedakan evaluasi diri tersebut dari feedback pengguna, penjual, pengelola kantin, atau dosen agar tidak menimbulkan kesan bahwa pihak-pihak tersebut telah memberikan penilaian.</p>
-</section>
-<section id="perilaku-yang-akan-dilatih" class="level3">
-<h3 class="anchored" data-anchor-id="perilaku-yang-akan-dilatih">7.2 Perilaku yang akan dilatih</h3>
-<p>Pada penggunaan AI berikutnya, saya akan memeriksa setiap pernyataan dalam draft dengan mengelompokkannya menjadi tiga kategori:</p>
+<section id="agreement-bentuk-kesepakatan-yang-tersedia" class="level3">
+<h3 class="anchored" data-anchor-id="agreement-bentuk-kesepakatan-yang-tersedia">6.3 Agreement: bentuk kesepakatan yang tersedia</h3>
+<p>Dalam proyek antrean kantin, saya pernah menyampaikan gagasan fitur status pesanan dan estimasi waktu tunggu kepada salah satu penjual kantin. Penjual memberikan persetujuan secara lisan terhadap arah konsep tersebut.</p>
+<p>Namun, ruang lingkup persetujuan itu perlu dipahami secara tepat:</p>
 <ul>
-<li><strong>Fakta:</strong> informasi yang benar-benar didukung oleh pengalaman atau bukti yang tersedia.</li>
-<li><strong>Analisis:</strong> interpretasi atau penjelasan yang saya bangun berdasarkan informasi tersebut.</li>
-<li><strong>Rencana:</strong> tindakan atau solusi yang belum dilakukan.</li>
+<li>Persetujuan yang tersedia berkaitan dengan gagasan fitur status pesanan dan estimasi waktu tunggu.</li>
+<li>Persetujuan tersebut disampaikan secara lisan, bukan dalam dokumen tertulis.</li>
+<li>Belum ada kesepakatan mengenai jadwal, pembagian tanggung jawab, mekanisme operasional, atau pelaksanaan uji coba.</li>
+<li>Belum ada konfirmasi dari pengelola kantin maupun pihak kampus.</li>
 </ul>
-<p>Sebelum menggunakan output AI, saya akan memeriksa apakah setiap pernyataan ditempatkan pada kategori yang tepat dan apakah klaimnya sesuai dengan bukti.</p>
+<p>Dengan demikian, sudah terdapat interaksi dan tanggapan awal dari stakeholder non-pembeli, tetapi belum cukup untuk menyatakan bahwa seluruh pihak telah mencapai kesepakatan untuk menerapkan solusi.</p>
 </section>
-<section id="refleksi-utama" class="level3">
-<h3 class="anchored" data-anchor-id="refleksi-utama">7.3 Refleksi utama</h3>
-<p>Saya belajar bahwa AI dapat membantu menyusun pemikiran dan memperjelas bahasa, tetapi kualitas hasilnya tetap bergantung pada konteks dan pemeriksaan manusia. Jawaban yang terdengar meyakinkan belum tentu akurat apabila tidak sesuai dengan pengalaman atau bukti yang tersedia.</p>
-<p>Dalam proyek antrean kantin, saya perlu membedakan kebutuhan yang ditemukan, solusi yang diusulkan, dan hasil yang benar-benar telah diuji. Prinsip yang sama berlaku dalam penyusunan portofolio: tulisan yang rapi tidak otomatis berarti seluruh klaim di dalamnya sudah terbukti.</p>
-<p>Saya menyadari bahwa menggunakan AI secara bertanggung jawab bukan berarti harus menghindarinya, melainkan mengetahui kapan AI berguna dan kapan keputusan harus tetap dibuat sendiri. Tantangan saya adalah memanfaatkan bantuan AI tanpa kehilangan pemahaman, suara pribadi, dan tanggung jawab atas isi akhir.</p>
+<section id="action-tindakan-yang-sudah-dilakukan-dan-yang-belum-dilakukan" class="level3">
+<h3 class="anchored" data-anchor-id="action-tindakan-yang-sudah-dilakukan-dan-yang-belum-dilakukan">6.4 Action: tindakan yang sudah dilakukan dan yang belum dilakukan</h3>
+<p>Tindakan yang telah dilakukan dalam proses ini meliputi:</p>
+<ol type="1">
+<li>Mengumpulkan informasi awal mengenai masalah antrean dari pembahasan dengan pengguna kantin.</li>
+<li>Mengembangkan gagasan fitur status pesanan dan estimasi waktu tunggu.</li>
+<li>Menyampaikan gagasan tersebut kepada penjual kantin.</li>
+<li>Menerima tanggapan lisan dari penjual terhadap konsep yang diusulkan.</li>
+<li>Menggunakan ChatGPT untuk mengorganisasi analisis, menyusun portofolio, dan memeriksa batas klaim.</li>
+</ol>
+<p>Sementara itu, tindakan yang belum dilakukan meliputi:</p>
+<ul>
+<li>Meminta konfirmasi tertulis dari penjual mengenai pemahaman dan persetujuannya terhadap konsep.</li>
+<li>Membahas lebih lanjut waktu dan cara pembaruan status pesanan dalam kegiatan operasional.</li>
+<li>Meminta masukan dari pengelola kantin.</li>
+<li>Membuat dan menguji prototipe bersama pengguna dan penjual.</li>
+<li>Mengukur apakah fitur benar-benar membantu pembeli atau mengurangi ketidakpastian waktu tunggu.</li>
+</ul>
+<p>Pemisahan ini penting karena penyusunan analisis dan penyampaian gagasan merupakan tindakan nyata, tetapi belum sama dengan implementasi dan evaluasi solusi.</p>
+</section>
+<section id="relationship-outcome-dampak-terhadap-hubungan-dengan-stakeholder" class="level3">
+<h3 class="anchored" data-anchor-id="relationship-outcome-dampak-terhadap-hubungan-dengan-stakeholder">6.5 Relationship Outcome: dampak terhadap hubungan dengan stakeholder</h3>
+<p>Penggunaan AI membantu saya melihat bahwa solusi antrean kantin perlu mempertimbangkan kepentingan pembeli dan penjual secara bersamaan.</p>
+<p>Bagi pembeli, informasi status pesanan dan estimasi waktu tunggu berpotensi memberikan kepastian informasi yang lebih baik. Bagi penjual, fitur tersebut perlu dirancang agar tidak menambah beban operasional secara berlebihan.</p>
+<p>Interaksi dengan penjual memberikan tanggapan awal terhadap konsep yang saya usulkan. Namun, saya belum dapat menyimpulkan bahwa hubungan dengan penjual sudah berubah menjadi kerja sama implementasi atau bahwa kepercayaan stakeholder telah meningkat.</p>
+<p>Dampak yang dapat saya pertanggungjawabkan saat ini adalah bertambahnya pemahaman saya mengenai pentingnya melibatkan pihak yang akan menggunakan atau menjalankan solusi. Perubahan pada hubungan stakeholder masih perlu divalidasi melalui komunikasi dan tindakan lanjutan.</p>
+</section>
+</section>
+<section id="bukti-feedback-dan-rencana-validasi" class="level2">
+<h2 class="anchored" data-anchor-id="bukti-feedback-dan-rencana-validasi">7. Bukti, Feedback, dan Rencana Validasi</h2>
+<section id="pemetaan-bukti-yang-tersedia" class="level3">
+<h3 class="anchored" data-anchor-id="pemetaan-bukti-yang-tersedia">7.1 Pemetaan bukti yang tersedia</h3>
+<p>Untuk menghindari klaim yang tidak didukung, saya memisahkan bukti berdasarkan sumber dan hal yang dapat dibuktikannya.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Bukti atau sumber informasi</th>
+<th>Hal yang dapat didukung</th>
+<th>Batas bukti</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Pembahasan sebelumnya dengan pengguna kantin</td>
+<td>Adanya pengalaman pembeli mengenai antrean dan ketidakpastian waktu penyelesaian pesanan.</td>
+<td>Tidak dapat dianggap mewakili seluruh pengguna kantin.</td>
+</tr>
+<tr class="even">
+<td>Komunikasi lisan dengan penjual kantin</td>
+<td>Gagasan fitur status pesanan dan estimasi waktu tunggu pernah disampaikan dan memperoleh tanggapan positif secara lisan.</td>
+<td>Belum ada konfirmasi tertulis atau persetujuan implementasi.</td>
+</tr>
+<tr class="odd">
+<td>Percakapan dengan ChatGPT</td>
+<td>Proses pemberian instruksi, pengembangan analisis, dan penyusunan draft portofolio.</td>
+<td>Tidak membuktikan bahwa stakeholder menyetujui atau menggunakan solusi.</td>
+</tr>
+<tr class="even">
+<td>Draft portofolio KIPP</td>
+<td>Hasil pengorganisasian pengalaman, analisis, dan refleksi dengan bantuan AI.</td>
+<td>Tidak membuktikan keberhasilan sistem atau perubahan hubungan dengan stakeholder.</td>
+</tr>
+<tr class="odd">
+<td>Hasil evaluasi LLM tiket 989</td>
+<td>Terdapat penilaian bahwa pemahaman mengenai pembagian peran, kewenangan, dan human review sudah kuat, tetapi bukti eksternal dan perubahan hubungan masih perlu diperkuat.</td>
+<td>Merupakan evaluasi terhadap portofolio, bukan feedback dari pengguna atau penjual kantin.</td>
+</tr>
+</tbody>
+</table>
+<p>Pemetaan tersebut membantu saya memahami bahwa setiap bukti memiliki fungsi yang berbeda. Percakapan dengan AI dapat membuktikan proses penggunaan AI, sedangkan validasi kebutuhan dan penerimaan solusi tetap memerlukan komunikasi dengan stakeholder yang relevan.</p>
+</section>
+<section id="feedback-yang-tersedia" class="level3">
+<h3 class="anchored" data-anchor-id="feedback-yang-tersedia">7.2 Feedback yang tersedia</h3>
+<p>Feedback yang tersedia untuk W14 berasal dari hasil evaluasi LLM tiket 989. Evaluasi tersebut menyatakan bahwa saya telah menunjukkan pemahaman yang kuat mengenai pembagian peran, batas kewenangan, dan pemeriksaan kebenaran oleh manusia.</p>
+<p>Namun, evaluasi juga menunjukkan bahwa bukti eksternal dan perubahan hubungan nyata dengan stakeholder belum cukup untuk memvalidasi aspek <em>Agreement, Action &amp; Relationship</em>.</p>
+<p>Saya memahami bahwa kelemahan tersebut tidak dapat diselesaikan hanya dengan menambah penjelasan di dalam portofolio. Diperlukan tindakan komunikasi yang benar-benar dilakukan dan memiliki bukti yang dapat diperiksa.</p>
+</section>
+<section id="rencana-validasi-dengan-stakeholder" class="level3">
+<h3 class="anchored" data-anchor-id="rencana-validasi-dengan-stakeholder">7.3 Rencana validasi dengan stakeholder</h3>
+<p>Sebagai tindak lanjut, saya perlu melakukan konfirmasi langsung kepada penjual kantin mengenai konsep yang pernah disampaikan. Konfirmasi ini dapat dilakukan secara singkat, tanpa langsung meminta penjual berkomitmen untuk menerapkan sistem.</p>
+<p>Hal-hal yang perlu dikonfirmasi meliputi:</p>
+<ol type="1">
+<li>Apakah penjual masih memahami konsep status pesanan dan estimasi waktu tunggu yang pernah disampaikan?</li>
+<li>Apakah kedua fitur tersebut relevan dengan proses pelayanan di kantin?</li>
+<li>Informasi status seperti apa yang paling mudah diperbarui oleh penjual?</li>
+<li>Apakah estimasi waktu tunggu memungkinkan untuk diberikan berdasarkan kondisi antrean?</li>
+<li>Apa kendala yang mungkin muncul apabila konsep tersebut diuji coba?</li>
+</ol>
+<p>Setelah memperoleh tanggapan, saya perlu mencatat hasil komunikasi secara akurat. Jika penjual bersedia, saya dapat meminta konfirmasi tertulis singkat atau izin untuk mendokumentasikan percakapan. Saya juga perlu memastikan bahwa dokumentasi tersebut sesuai dengan persetujuan pihak yang terlibat.</p>
+</section>
+<section id="indikator-keberhasilan-validasi" class="level3">
+<h3 class="anchored" data-anchor-id="indikator-keberhasilan-validasi">7.4 Indikator keberhasilan validasi</h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Aspek</th>
+<th>Indikator yang perlu diperoleh</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Pemahaman stakeholder</td>
+<td>Penjual dapat menjelaskan kembali tujuan fitur status pesanan dan estimasi waktu tunggu.</td>
+</tr>
+<tr class="even">
+<td>Relevansi solusi</td>
+<td>Penjual dapat menyampaikan apakah fitur sesuai dengan kebutuhan operasional kantin.</td>
+</tr>
+<tr class="odd">
+<td>Agreement</td>
+<td>Terdapat tanggapan yang jelas mengenai bagian konsep yang disetujui, belum disetujui, atau masih perlu dibahas.</td>
+</tr>
+<tr class="even">
+<td>Action</td>
+<td>Terdapat tindakan lanjutan yang disepakati, misalnya pembahasan prototipe atau uji coba terbatas, jika penjual bersedia.</td>
+</tr>
+<tr class="odd">
+<td>Relationship Outcome</td>
+<td>Terdapat bukti komunikasi lanjutan yang menunjukkan apakah pemahaman dan kerja sama dengan stakeholder berkembang.</td>
+</tr>
+</tbody>
+</table>
+<p>Saya tidak menetapkan bahwa seluruh indikator tersebut sudah tercapai. Tabel ini merupakan kriteria untuk mengevaluasi komunikasi berikutnya agar hasilnya dapat dibuktikan secara lebih objektif.</p>
+</section>
+</section>
+<section id="pembelajaran-dan-refleksi" class="level2">
+<h2 class="anchored" data-anchor-id="pembelajaran-dan-refleksi">8. Pembelajaran dan Refleksi</h2>
+<section id="pembelajaran-utama" class="level3">
+<h3 class="anchored" data-anchor-id="pembelajaran-utama">8.1 Pembelajaran utama</h3>
+<p>Dari proses penggunaan ChatGPT dalam penyusunan portofolio, saya belajar bahwa AI dapat membantu mengembangkan pemikiran, tetapi tidak dapat menggantikan proses validasi terhadap kenyataan di lapangan.</p>
+<p>Sebuah jawaban dapat terlihat lengkap karena memiliki analisis, tabel, dan kesimpulan yang runtut. Namun, hal tersebut belum tentu menunjukkan bahwa komunikasi dengan stakeholder sudah berjalan dengan baik. Untuk membuktikan adanya kesepakatan dan perubahan hubungan, tetap diperlukan respons dan tindakan nyata dari pihak yang terlibat.</p>
+<p>Saya juga memahami bahwa persetujuan tidak selalu berarti semua pihak menyetujui seluruh bagian solusi. Tanggapan penjual terhadap konsep merupakan langkah awal yang penting, tetapi masih perlu pembahasan lebih lanjut mengenai kelayakan operasional dan bentuk keterlibatan masing-masing pihak.</p>
+</section>
+<section id="perilaku-yang-akan-saya-latih" class="level3">
+<h3 class="anchored" data-anchor-id="perilaku-yang-akan-saya-latih">8.2 Perilaku yang akan saya latih</h3>
+<p>Pada penggunaan AI berikutnya, saya akan menerapkan beberapa kebiasaan berikut:</p>
+<ul>
+<li>Memeriksa setiap pernyataan dengan membedakan fakta, analisis, dan rencana.</li>
+<li>Meminta AI menunjukkan bagian yang berpotensi mengandung asumsi atau klaim berlebihan.</li>
+<li>Membandingkan output AI dengan informasi dan bukti yang benar-benar tersedia.</li>
+<li>Mempertahankan bahasa yang sesuai dengan pengalaman dan cara komunikasi saya sendiri.</li>
+<li>Tidak menggunakan output AI sebagai pengganti konfirmasi langsung dari stakeholder.</li>
+<li>Mendokumentasikan hasil komunikasi dengan pihak terkait secara akurat dan dengan izin yang diperlukan.</li>
+</ul>
+</section>
+<section id="refleksi-akhir" class="level3">
+<h3 class="anchored" data-anchor-id="refleksi-akhir">8.3 Refleksi akhir</h3>
+<p>Saya menyadari bahwa menggunakan AI secara bertanggung jawab bukan berarti harus menghindarinya. Hal yang lebih penting adalah memahami fungsi dan batas penggunaannya. AI dapat membantu menyusun pemikiran, memperjelas bahasa, dan memberikan sudut pandang tambahan. Namun, keputusan akhir tetap membutuhkan penilaian manusia.</p>
+<p>Dalam proyek antrean kantin, saya juga belajar bahwa solusi yang baik tidak cukup hanya menjawab kebutuhan pembeli. Solusi tersebut harus mempertimbangkan kemampuan penjual untuk menjalankannya dan perlu dibicarakan dengan pihak yang memiliki kewenangan.</p>
+<p>Saya tidak ingin menjadikan portofolio yang terlihat lengkap sebagai pengganti tindakan nyata. Persetujuan lisan yang pernah diperoleh merupakan langkah awal, tetapi masih perlu ditindaklanjuti melalui konfirmasi yang lebih jelas dan pembahasan mengenai kemungkinan penerapan. Dengan demikian, penggunaan AI tidak berhenti pada menghasilkan tulisan, tetapi membantu saya mempersiapkan komunikasi yang lebih terarah, jujur, dan dapat dipertanggungjawabkan.</p>
 </section>
 </section>
 <section id="self-assessment" class="level2">
-<h2 class="anchored" data-anchor-id="self-assessment">8. Self-Assessment</h2>
+<h2 class="anchored" data-anchor-id="self-assessment">9. Self-Assessment</h2>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 30%">
@@ -617,35 +857,61 @@ ul.task-list li input[type="checkbox"] {
 <tr class="odd">
 <td><strong>1. Person &amp; Character</strong></td>
 <td style="text-align: right;">4/4</td>
-<td>Saya memahami pembagian peran manusia dan AI, menjaga tanggung jawab atas isi akhir, serta membedakan kewenangan pribadi dengan kewenangan stakeholder lain.</td>
+<td>Saya memahami tanggung jawab manusia dalam penggunaan AI, menjaga kejujuran terhadap bukti, dan membedakan kewenangan pribadi dengan kewenangan stakeholder.</td>
 </tr>
 <tr class="even">
 <td><strong>2. Objective &amp; State</strong></td>
 <td style="text-align: right;">4/4</td>
-<td>Tujuan penggunaan AI jelas dan berhubungan dengan kebutuhan nyata dalam penyusunan portofolio. Saya juga dapat menjelaskan kondisi awal serta bantuan yang diperlukan.</td>
+<td>Tujuan penggunaan AI jelas, yaitu membantu penyusunan portofolio dan pengembangan analisis proyek. Saya juga dapat menjelaskan konteks awal dan kebutuhan yang ingin dibantu.</td>
 </tr>
 <tr class="odd">
 <td><strong>3. Repertoire, Language &amp; AI</strong></td>
 <td style="text-align: right;">3/4</td>
-<td>Saya menggunakan AI untuk menyusun struktur, merapikan bahasa, dan mengembangkan analisis. Namun, pemeriksaan output masih berfokus pada konteks dan konsistensi informasi; belum ada dokumentasi sistematis untuk memverifikasi setiap klaim menggunakan sumber independen.</td>
+<td>Saya menggunakan AI untuk menyusun struktur, memperjelas bahasa, dan mengembangkan analisis. Namun, pemeriksaan output belum didukung dokumentasi verifikasi independen yang sistematis untuk setiap klaim.</td>
 </tr>
 <tr class="even">
 <td><strong>4. Response &amp; Adaptation</strong></td>
-<td style="text-align: right;">4/4</td>
-<td>Saya memperjelas instruksi dan menyesuaikan arah jawaban agar lebih kontekstual, membedakan tindakan dari rencana, serta mempertimbangkan keterbatasan bukti.</td>
+<td style="text-align: right;">3/4</td>
+<td>Saya memperjelas instruksi dan menyesuaikan output berdasarkan konteks serta keterbatasan bukti. Namun, belum ada feedback eksternal yang cukup untuk menilai efektivitas komunikasi secara lebih luas.</td>
 </tr>
 <tr class="odd">
 <td><strong>5. Agreement, Action &amp; Relationship</strong></td>
-<td style="text-align: right;">3/4</td>
-<td>Saya dapat menjelaskan tindakan konkret berupa draft dan analisis serta menjaga batas kewenangan. Namun, belum ada feedback eksternal atau bukti perubahan hubungan dengan stakeholder.</td>
+<td style="text-align: right;">2/4</td>
+<td>Sudah terdapat komunikasi dan tanggapan lisan penjual terhadap konsep fitur. Namun, belum ada konfirmasi tertulis, kesepakatan implementasi, tindakan bersama, atau bukti perubahan hubungan dengan stakeholder.</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Total self-assessment: 18/20</strong></p>
-<p>Skor ini merupakan penilaian diri berdasarkan proses penggunaan AI yang dijelaskan di atas. Saya belum memberikan skor penuh pada seluruh aspek karena verifikasi independen, feedback eksternal, dan dampak hubungan belum didukung bukti yang memadai.</p>
+<p><strong>Total self-assessment: 16/20</strong></p>
+<p>Skor tersebut merupakan penilaian diri berdasarkan kegiatan dan bukti yang tersedia. Saya belum memberikan skor lebih tinggi pada aspek <em>Response &amp; Adaptation</em> serta <em>Agreement, Action &amp; Relationship</em> karena validasi eksternal dan tindak lanjut bersama stakeholder masih perlu dilakukan.</p>
+</section>
+<section id="penilaian-dan-tindak-lanjut-evaluasi" class="level2">
+<h2 class="anchored" data-anchor-id="penilaian-dan-tindak-lanjut-evaluasi">10. Penilaian dan Tindak Lanjut Evaluasi</h2>
+<section id="hasil-evaluasi-llm-tiket-989" class="level3">
+<h3 class="anchored" data-anchor-id="hasil-evaluasi-llm-tiket-989">Hasil evaluasi LLM tiket 989</h3>
+<ul>
+<li><strong>Minggu:</strong> W14</li>
+<li><strong>Status:</strong> TERCAPAI</li>
+<li><strong>Skor:</strong> 3 — Revisi</li>
+<li><strong>Total rubrik:</strong> 14</li>
+</ul>
+<p><strong>Ringkasan evaluasi:</strong></p>
+<p>Saya telah menunjukkan pemahaman yang kuat mengenai pembagian peran manusia dan AI, batas kewenangan, serta pentingnya pemeriksaan kebenaran oleh manusia (<em>human review</em>). Namun, bukti eksternal dan perubahan hubungan nyata dengan stakeholder masih belum cukup untuk memvalidasi dampak komunikasi.</p>
+<p><strong>Prioritas perbaikan:</strong></p>
+<p>Prioritas utama adalah memperoleh bukti interaksi nyata dengan stakeholder. Tindak lanjut yang perlu dilakukan adalah meminta konfirmasi dari penjual atau pengguna kantin mengenai solusi yang diusulkan, mencatat respons mereka, serta mengidentifikasi bentuk tindakan lanjutan yang memungkinkan.</p>
+<p><strong>Bukti yang perlu dilengkapi setelah tindakan dilakukan:</strong></p>
+<ul>
+<li>Catatan komunikasi atau konfirmasi tertulis dari stakeholder.</li>
+<li>Tanggapan mengenai relevansi dan kelayakan fitur.</li>
+<li>Kesepakatan atau perbedaan pendapat yang benar-benar disampaikan.</li>
+<li>Bukti tindakan lanjutan apabila terdapat kesediaan untuk bekerja sama.</li>
+<li>Refleksi mengenai perubahan pemahaman atau hubungan setelah komunikasi tersebut.</li>
+</ul>
+<p>Dengan melengkapi bukti tersebut, saya dapat menunjukkan bahwa penggunaan AI tidak hanya membantu menghasilkan portofolio yang lebih terstruktur, tetapi juga mendukung proses komunikasi yang tetap melibatkan manusia dan stakeholder secara langsung.</p>
+<hr>
+</section>
 </section>
 <section id="penilaian-dosen" class="level2">
-<h2 class="anchored" data-anchor-id="penilaian-dosen">9. Penilaian Dosen</h2>
+<h2 class="anchored" data-anchor-id="penilaian-dosen">11. Penilaian Dosen</h2>
 <p><em>Bagian ini diisi oleh dosen atau penilai.</em></p>
 <ul>
 <li><strong>Assessor score:</strong></li>
